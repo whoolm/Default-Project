@@ -295,13 +295,19 @@ Rantai kritis: FR-01 → FR-02 → FR-04 → FR-06 → FR-07 → FR-08 → FR-09
 | OQ-09 | Judul final makalah (opsi bermakna sama) — pilih yang mana? | C1-msg191, C6-msg43 |
 | OQ-10 | Target angka NFR (NFR-01–NFR-07) — nilai resmi? | §6 kolom Target |
 
-## 19. Out of Scope (USULAN — perlu validasi manusia, FASE 3)
+## 19. Out of Scope
 
-| ID | Usulan batas | Alasan (dari chat) |
-|----|--------------|--------------------|
-| OS-01 | Pembangunan aplikasi web Makalah Ceritas (RISE 1–6) di luar fase ini | Eksplisit ditunda (NG-01) |
-| OS-02 | Riset primer/survei baru — hanya literatur + data sekunder yang ada | Korpus = literatur 2015–2026 + survei existing |
-| OS-03 | Perbaikan isi 92 lampiran (DOCX/PDF isi) di luar repo ini | Isi file tak tersedia di share (PD-01) |
-| OS-04 | Thinking blocks 733K char di luar ringkasan kecuali diminta | Butuh keputusan PD-02 |
-| OS-05 | Bypass login-wall/paywall otomatis di luar skope (manual ber-akun saja) | Etika NFR-06 |
-| OS-06 | Desain cover programatik TikZ di luar skope jika image diputuskan final | PD-08 |
+> Status: FINAL (divalidasi 2026-09-13, Gap 7). Sebelumnya "USULAN — perlu validasi manusia, FASE 3".
+
+Fitur/pekerjaan berikut eksplisit TIDAK termasuk dalam scope PRD v1.0:
+
+1. **Data lampiran eksternal** (PD-01) — 92 file DOCX/PDF/TXT/CSV/TEX tidak bisa diakses via share API; hanya tersedia di device pemilik chat (OS-03).
+2. **Thinking blocks** (PD-02) — 188 blok (~733K char) = proses internal AI, bukan keputusan produk (OS-04).
+3. **Cabang pruned** (PD-03) — 29 pesan kosong + cabang eksperimen = duplikat, di luar ringkasan.
+4. **Implementasi konkret RISE 1–6** — roadmap ada, tapi development belum dimulai; pembangunan aplikasi web Makalah Ceritas eksplisit ditunda (NG-01, OS-01).
+5. **Multi-user collaboration** — single-user authoring tool untuk v1.0.
+6. **Auto-translate** — tidak direncanakan untuk v1.0.
+7. **Custom template builder** — user hanya bisa pakai template yang tersedia (IEEE, Elsevier).
+8. **Riset primer/survei baru** — hanya literatur + data sekunder yang ada (korpus 2015–2026 + survei existing) (OS-02).
+9. **Bypass login-wall/paywall otomatis** — manual ber-akun saja, di luar skope (OS-05, etika NFR-06).
+10. **Desain cover programatik TikZ** — di luar skope karena cover image diputuskan final (PD-08, OS-06; NG-03).
