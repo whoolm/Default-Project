@@ -21,3 +21,15 @@
   verifikasi manual sebelum disitasi.
 - Portal pencarian: https://sunnah.com — https://shamela.ws — https://dorar.net
 - Hasil raw kitab primer: catat di `referensi/raw/kitab-primer.md`.
+
+| Kitab | Penulis | Wafat | sunnah.com | shamela.ws |
+|---|---|---|---|---|
+| Sahih al-Bukhari | Imam al-Bukhari | 256 H | https://sunnah.com/bukhari | cari: https://shamela.ws/search?q=صحيح+البخاري |
+| Sahih Muslim | Imam Muslim | 261 H | https://sunnah.com/muslim | cari: https://shamela.ws/search?q=صحيح+مسلم |
+| Sunan Abu Dawud | Imam Abu Dawud | 275 H | https://sunnah.com/abudawud | cari: https://shamela.ws/search?q=سنن+أبي+داود |
+| Sunan at-Tirmidzi | Imam at-Tirmidzi | 279 H | https://sunnah.com/tirmidhi | cari: https://shamela.ws/search?q=سنن+الترمذي |
+| Sunan an-Nasa'i | Imam an-Nasa'i | 303 H | https://sunnah.com/nasai | cari: https://shamela.ws/search?q=سنن+النسائي |
+| Sunan Ibn Majah | Imam Ibn Majah | 273 H | https://sunnah.com/ibnmajah | cari: https://shamela.ws/search?q=سنن+ابن+ماجه |
+| Musnad Ahmad | Imam Ahmad | 241 H | https://sunnah.com/ahmad | cari: https://shamela.ws/search?q=مسند+أحمد |
+| Muwatta' Malik | Imam Malik | 179 H | https://sunnah.com/malik | cari: https://shamela.ws/search?q=موطأ+مالك |
+| Sunan ad-Darimi | Imam ad-Darimi | 255 H | https://sunnah.com/darimi | cari: https://shamela.ws/search?q=سنن+الدارمي |

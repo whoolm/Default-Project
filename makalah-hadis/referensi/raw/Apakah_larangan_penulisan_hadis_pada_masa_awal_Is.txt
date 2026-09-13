@@ -1,0 +1,437 @@
+Larangan Penulisan Hadis Bersifat Kontekstual, Bukan Mutlak
+
+1. Introduction
+
+Perdebatan mengenai apakah larangan penulisan hadis pada masa awal Islam bersifat mutlak atau kontekstual
+merupakan salah satu isu paling sentral dalam kajian sejarah hadis. Larangan ini, yang biasanya dikaitkan dengan
+sabda Nabi Muhammad SAW—"Janganlah kalian menulis apa yang datang dariku; barangsiapa menulis dariku
+selain al-Qur'an hendaklah ia menghapusnya"—telah ditafsirkan secara beragam oleh para ulama klasik dan
+kontemporer (Kanus, 2022; Iskandar, 2020). Sebagian orientalis seperti Ignaz Goldziher dan Joseph Schacht
+berargumen bahwa hadis tidak ditulis pada masa Nabi dan baru muncul sebagai teks pada abad ketiga Hijriah,
+sehingga meragukan otentisitas hadis secara keseluruhan (Misbakhudin, 2017; Watukila, 2024). Namun, sejumlah
+sarjana Muslim seperti Mustafa Azami dan 'Ajaj al-Khatib membuktikan bahwa penulisan hadis telah berlangsung
+sejak masa Nabi masih hidup, dengan ditemukannya sahifah-sahifah milik para sahabat (Harun et al., 2021;
+Lutfianto et al., 2024). Pemahaman terhadap larangan ini memerlukan pendekatan historis-kontekstual yang
+mempertimbangkan kondisi sosial, politik, dan intelektual umat Islam pada masa itu (Muslim et al., 2026; Sattar et
+al., 2026).
+
+Korpus 50 makalah dalam tinjauan ini menunjukkan konsensus mayoritas bahwa larangan tersebut bersifat
+kontekstual—didasarkan pada kekhawatiran tercampurnya hadis dengan al-Qur'an pada masa turunnya wahyu—
+dan kemudian dicabut ketika kondisi yang melatarbelakanginya tidak lagi ada (Harun et al., 2021; Wahyudi, 2023;
+Anwar, 2020). Beberapa karya penting yang menjadi tulang punggung literatur ini meliputi karya Michael Cook
+tentang oposisi penulisan hadis (Cook, 1997), Gregor Schoeler tentang transmisi lisan dan tulisan (Schoeler, 2006),
+serta Talya Fishman tentang penjagaan transmisi lisan (Fishman, 2010).
+
+Apakah larangan penulisan hadis pada masa awal Islam bersifat kontekstual?
+Requires at least 5 papers that directly answer your question. Try adjusting your query to find more papers.
+
+
+
+FIGURE 1 Konsensus penelitian tentang sifat larangan penulisan hadis
+
+
+2. Methods
+
+Pencarian dilakukan terhadap lebih dari 220 juta makalah penelitian dalam basis data Consensus, yang mencakup
+Semantic Scholar, PubMed, dan sumber-sumber lainnya. Melalui strategi pencarian mendalam dengan enam
+kelompok riset—mencakup konteks fondasional, terminologi alternatif, perbandingan pandangan akademis,
+konteks hukum-historis, topik terkait, dan kritik awal—dilakukan 18 pencarian terpisah yang menghasilkan jutaan
+makalah. Setelah penyaringan relevansi berbasis machine learning terhadap 180 makalah, 102 makalah lolos
+ambang batas relevansi, dan 50 makalah teratas dipilih berdasarkan peringkat relevansi untuk dimasukkan ke dalam
+tinjauan ini.
+
+
+
+
+                                                                1 / 8
+Search Strategy
+
+
+
+  90.4M                                           102                                          50
+  Retrieved                                       Eligible                                     Included
+
+
+
+     19 searches                               Papers meeting relevance and quality         Top papers selected to be included in the
+                                               criteria, after deduplication                final analysis
+All papers retrieved from 19 searches.
+
+
+
+FIGURE 2 Diagram strategi pencarian dan penyaringan makalah
+
+
+Pencarian menggabungkan istilah dalam bahasa Inggris dan Indonesia tentang larangan, pembolehan, dan
+kodifikasi hadis pada masa awal Islam.
+
+
+3. Results
+
+3.1 Key Papers
+
+Korpus ini dibangun di atas beberapa karya fundamental yang membentuk kerangka perdebatan. Karya Michael
+Cook (1997) dengan 124 sitasi menganalisis oposisi terhadap penulisan hadis dalam fase Basra dan fase umum,
+sementara Gregor Schoeler (2006) dengan 84 sitasi meneliti interaksi antara transmisi lisan dan tulisan dalam Islam
+awal (Cook, 1997; Schoeler, 2006). Karya Harun et al. (2021) dengan 18 sitasi mengkritisi pandangan Harun
+Nasution yang dipengaruhi orientalis, dan menunjukkan bukti sejarah penulisan hadis sejak masa Nabi (Harun et al.,
+2021).
+
+Paper                           Summary
+
+
+(Cook, 1997)                    Menganalisis oposisi penulisan hadis di Basra dan Kufa (Cook, 1997)
+
+
+(Schoeler, 2006)                Meneliti transmisi lisan vs. tulisan dalam Islam awal (Schoeler, 2006)
+
+
+(Harun et al., 2021)            Mengkritisi pandangan orientalis tentang penulisan hadis (Harun et al., 2021)
+
+
+FIGURE 3 Makalah kunci dalam korpus kajian larangan penulisan hadis
+
+
+3.2 Dalil Larangan dan Pembolehan
+
+Korpus menunjukkan bahwa terdapat dua kategori hadis yang tampak saling kontradiktif: satu melarang dan satu
+membolehkan penulisan hadis. Hadis larangan yang paling sahih diriwayatkan dari Abu Sa'id al-Khudri, di mana
+Nabi bersabda: "Janganlah kalian menulis dariku; barangsiapa menulis dariku selain al-Qur'an hendaklah ia
+menghapusnya" (Harun et al., 2021; Iskandar, 2020). Sementara itu, hadis pembolehan diriwayatkan dari Abdullah
+ibn Amr ibn al-Ash, di mana Nabi secara eksplisit mengizinkannya menulis hadis dengan bersabda: "Tulislah! Demi
+jiwaku yang ada di tangan-Nya, tidak keluar darinya kecuali yang hak" (Anwar, 2020; Harun et al., 2021). Para ulama
+klasik seperti al-Khatib al-Baghdadi memasukkan kedua jenis riwayat dalam kitabnya Taqyid al-'Ilm dan
+menyimpulkan bahwa hadis larangan hanya satu yang sahih, sementara riwayat pembolehan lebih banyak
+jumlahnya (Harun et al., 2021).
+
+
+
+
+                                                                  2 / 8
+3.3 Faktor Kontekstual Larangan
+
+Faktor                         Deskripsi                                                          Sumber
+
+
+Takut campur dengan            Ayat-ayat awal pendek dan sulit dibedakan dengan hadis jika        Wahyu masih
+al-Qur'an                      ditulis bersama (Wahyudi, 2023)                                    turun
+
+
+Prioritas hafalan al-          Sahabat disibukkan menghafal wahyu, bukan mencatat hadis           Masa tanzil
+Qur'an                         (Kanus, 2022; Anwar, 2020)
+
+
+Lembaran sama                  Dilarang menulis hadis dan al-Qur'an dalam satu sahifah yang       Praktik penulisan
+                               sama (Wahyudi, 2023)                                               awal
+
+
+Tradisi lisan Arab             Kekuatan hafalan bangsa Arab mendukung transmisi lisan             Budaya pra-Islam
+                               (Pakpahan & Jinan, 2024)
+
+
+Sedikit yang melek             Hanya segelintir sahabat pandai menulis (Anwar, 2020; Al-          Konteks sosial
+huruf                          Maududi et al., 2025)
+
+
+FIGURE 4 Faktor kontekstual yang melatarbelakangi larangan penulisan hadis
+
+
+Perbedaan utama antara larangan dan pembolehan terletak pada kronologi dan kondisi: larangan berlaku pada
+masa awal wahyu ketika al-Qur'an masih turun berangsur-angsur, sementara pembolehan diberikan pada periode
+akhir kerasulan ketika sebagian besar wahyu telah turun dan umat mayoritas telah menghafal al-Qur'an (Kanus,
+2022; Anwar, 2020).
+
+3.4 Penegasan Kontekstualitas oleh Para Ulama
+
+Mayoritas ulama klasik dan kontemporer sepakat bahwa larangan tidak bersifat mutlak. Shubhi Shalih menegaskan
+bahwa hadis larangan wurûd pada masa awal turunnya wahyu, dan Nabi melarang penulisan karena takut
+bercampur ucapan dan sirah beliau dengan al-Qur'an (Wahyudi, 2023). Prinsip ushul fiqh yang diterapkan adalah:
+"Jika 'illat (alasan) larangan tidak lagi ada, maka larangan otomatis gugur" (Harun et al., 2021). Larangan bersifat
+mujmal (umum) dan ditujukan untuk sahabat secara umum, sementara Nabi memberikan izin spesifik kepada
+sahabat tertentu seperti Abdullah ibn Amr yang hafalannya kuat dan terlibat dalam pengumpulan al-Qur'an (Kanus,
+2022; Harun et al., 2021). Setelah al-Qur'an terpelihara dengan maksimal dan tidak ada lagi kecemasan
+melupakannya, ijma' ulama membolehkan penulisan dan kodifikasi hadis (Kanus, 2022).
+
+
+
+
+                                                               3 / 8
+Results Timeline
+
+
+
+
+                                                                                                  10                               15        7
+                                                                                                                      14
+ 11                                     12             13                       20    3      17
+                                                                                                        5       9
+                                                                                                                               6            16
+                                                                                                    2       1        19
+                                                                                             18                            4            8
+
+
+
+
+       1998   2000   2002    2004    2006    2008    2010    2012   2014    2016      2018   2020       2022        2024           2026
+
+FIGURE 5 Kronologi perkembangan penulisan hadis sejak masa Nabi hingga kodifikasi
+
+
+Top Contributors
+
+Berdasarkan 50 makalah dalam korpus ini, Gregor Schoeler, Michael Cook, dan Daud Rasyid Harun muncul
+sebagai kontributor paling sitasi dalam kajian larangan penulisan hadis, dengan Arabica dan Al-Jami'ah: Journal of
+Islamic Studies sebagai jurnal terkemuka.
+
+Type          Name                                  Papers
+
+
+Author        G. Schoeler                           [104f6271428159069eb83405cb7017c3]
+                                                    [32eeeac018d75f918ab2dc0af2fd89d6]
+
+
+Author        Michael Cook                          [0de569c5bddc5a6db7847f3012d9597f]
+
+
+Author        Daud Rasyid Harun                     [b664a18bd92e5b949c7d0cc3625346a8]
+
+
+Journal       Arabica                               [0de569c5bddc5a6db7847f3012d9597f]
+
+
+Journal       Al-Jami'ah: Journal of Islamic        [b664a18bd92e5b949c7d0cc3625346a8]
+              Studies
+
+
+Journal       Studia Islamica                       [e096e7f3cf2e54aba70fcb2b2307e787]
+
+
+FIGURE 6 Penulis dan jurnal yang paling sering muncul dalam makalah yang disertakan
+
+
+
+
+                                                               4 / 8
+4. Discussion
+
+Kualitas bukti dalam korpus ini bervariasi. Bukti sejarah tentang keberadaan sahifah-sahifah sahabat—seperti
+sahifah Ali bin Abi Thalib, Jaber bin Abdullah, dan Abdullah ibn Amr—didukung oleh multiple sumber independen
+dan diakui baik oleh sarjana Muslim maupun beberapa orientalis yang lebih moderat (Harun et al., 2021; Anwar,
+2020; Tanjung & Fadhlurrahman, 2025). Namun, rekonstruksi kronologi pasti kapan larangan dicabut masih bersifat
+spekulatif, karena sumber-sumber primer tidak memberikan tanggal eksplisit (Iskandar, 2020). Karya Cook (1997)
+dan Schoeler (2006) memberikan kerangka analitis yang kuat tetapi cenderung berfokus pada oposisi yang
+bertahan di Basra dan Kufa hingga abad kesembilan, yang menunjukkan bahwa resistensi terhadap penulisan tidak
+sepenuhnya hilang meskipun larangan telah dicabut (Fishman, 2010; Anshori, 2019).
+
+Fishman (2010) menambahkan dimensi politik dengan hipotesis bahwa oposisi penulisan hadis di Iraq pada abad
+kesembilan berfungsi sebagai kritik terhadap legitimasi dinasti Umayyah yang telah mengizinkan inskripsi hadis
+(Fishman, 2010). Perspektif ini memperkaya pemahaman bahwa larangan dan oposisi tidak hanya didorong oleh
+kekhawatiran teologis tetapi juga oleh faktor politik. Sementara itu, karya-karya yang mengkritisi pandangan
+orientalis seperti Harun et al. (2021) dan Misbakhudin (2017) menunjukkan bahwa kekeliruan memahami konteks
+larangan telah menyebabkan kesimpulan yang menyesatkan tentang otentisitas hadis (Harun et al., 2021;
+Misbakhudin, 2017). Keterbatasan utama korpus ini adalah sebagian besar makalah menggunakan metode library
+research dan pendekatan deskriptif-historis, sehingga bergantung pada sumber sekunder dan interpretasi teks
+klasik (Wahyudi, 2023; Lutfianto et al., 2024).
+
+                           Evidence
+Claim                      Strength               Reasoning                           Papers
+
+
+Larangan penulisan                                Didukung oleh konsensus             (Wahyudi, 2023; Anwar,
+hadis bersifat                                    mayoritas ulama klasik dan          2020; Muslim et al., 2026)
+                           Strong
+kontekstual, bukan                                kontemporer dengan bukti hadis
+mutlak                                            sahih pembolehan yang
+                                                  menasakh larangan
+
+
+Alasan utama                                      Dinyatakan secara eksplisit         (Wahyudi, 2023; Iskandar,
+larangan adalah takut                             dalam multiple riwayat dan          2020; Tanjung &
+                           Strong
+bercampur hadis                                   diakui oleh ulama lintas mazhab     Fadhlurrahman, 2025)
+dengan al-Qur'an
+
+
+Hadis telah ditulis                               Bukti sahifah sahabat dan riwayat   (Harun et al., 2021; Anwar,
+sejak masa Nabi oleh                              izin penulisan kepada Abdullah      2020; Tanjung &
+                           Strong
+beberapa sahabat                                  ibn Amr didukung multiple           Fadhlurrahman, 2025)
+                                                  sumber
+
+
+Oposisi penulisan                                 Bukti dari Cook dan Schoeler        (Fishman, 2010; Anshori,
+hadis berlanjut hingga                            menunjukkan resistensi yang         2019)
+                           Moderate
+abad ke-3 H di Basra                              bertahan, mungkin didorong
+dan Kufa                                          faktor politik
+
+
+Larangan Umar bin                                 Bukti menunjukkan Umar sendiri      (Kanus, 2022;
+Khattab terhadap                                  mencatat dan menyarankan            Alishahighalehjoughi et al.,
+                           Weak
+
+
+
+
+                                                           5 / 8
+                             Evidence
+Claim                        Strength              Reasoning                                Papers
+
+periwayatan hadis                                  penulisan di lain kesempatan;            2019; Pakpahan & Jinan,
+bersifat absolut                                   klaim absolut bersifat kontested         2024)
+
+
+FIGURE 7 Klaim kunci dan kekuatan bukti dalam makalah yang disertakan
+
+
+5. Conclusion
+Berdasarkan sintesis 50 makalah, larangan penulisan hadis pada masa awal Islam secara mayoritas mutlak
+ditafsirkan sebagai bersifat kontekstual. Larangan didasarkan pada kekhawatiran spesifik—terutama tercampurnya
+hadis dengan al-Qur'an pada masa turunnya wahyu—dan dicabut ketika kondisi tersebut tidak lagi berlaku. Bukti
+sejarah menunjukkan bahwa beberapa sahabat menulis hadis sejak masa Nabi dengan izin langsung beliau, dan
+kodifikasi resmi berlangsung pada akhir abad pertama Hijriah di bawah Umar bin Abdul Aziz. Perdebatan antara
+orientalis dan sarjana Muslim tentang otentisitas hadis sebagian besar berakar pada pemahaman yang keliru
+terhadap konteks larangan ini.
+
+
+Research Gaps
+
+Korpus ini menunjukkan beberapa celah penelitian yang belum terisi secara memadai.
+
+                                                                                      Konteks
+                                  Bukti            Bukti                Analisis      sosial-          Perbandingan
+                                  tekstual         arkeologis           isnad         politis          mazhab
+
+
+Larangan masa Nabi                GAP              GAP                  GAP           GAP              GAP
+
+
+Kebijakan Khulafa al-             GAP              GAP                  GAP           GAP              GAP
+Rasyidin
+
+
+Kodifikasi Umar bin Abdul         GAP              GAP                  GAP           GAP              GAP
+Aziz
+
+
+Oposisi Basra-Kufa                GAP              GAP                  GAP           GAP              GAP
+
+
+Pengaruh politik Umayyah-         GAP              GAP                  GAP           GAP              GAP
+Abbasid
+
+
+FIGURE 8 Matriks celah
+penelitian dalam kajian
+larangan penulisan hadis
+
+
+
+
+Gap paling mencolok adalah minimnya bukti arkeologis atau manuskrip asli dari abad pertama Hijriah yang dapat
+memverifikasi keberadaan sahifah-sahifah sahabat secara independen (Kanus, 2022). Selain itu, analisis
+perbandingan antar-mazhab tentang interpretasi larangan masih terbatas, dengan sebagian besar korpus berasal
+dari perspektif Sunni (Tanjung & Fadhlurrahman, 2025).
+
+
+
+
+                                                              6 / 8
+Open Research Questions
+
+Question                                                  Why
+
+
+Bagaimana bukti arkeologis atau manuskrip abad            Verifikasi independen akan memperkuat atau menyangkal
+pertama Hijriah dapat memverifikasi keberadaan            klaim penulisan hadis sejak masa Nabi yang selama ini
+sahifah-sahifah sahabat?                                  bergantung pada sumber tekstual sekunder.
+
+
+Sejauh mana perbedaan interpretasi larangan               Pemetaan perbedaan ini akan mengungkap apakah
+antara mazhab Sunni dan Syi'ah mencerminkan               oposisi penulisan didorong oleh faktor doktrinal atau
+perbedaan teologis versus politis?                        dinamika kekuasaan pasca-Nabi.
+
+
+Apakah hipotesis Fishman-Schoeler tentang                 Pengujian hipotesis ini akan mengklarifikasi apakah
+oposisi Basra-Kufa sebagai kritik politik Umayyah         resistensi terhadap penulisan hadis benar-benar berakar
+dapat diuji dengan bukti tekstual abad ke-3 H?            pada kekhawatiran teologis atau strategi politik Abbasid.
+
+
+FIGURE 9 Pertanyaan riset terbuka untuk kajian lanjutan
+
+
+Larangan penulisan hadis pada masa awal Islam, sebagaimana dibuktikan oleh korpus ini, merupakan produk dari
+kehati-hatian kontekstual yang ketat—bukan pelarangan permanen—dan pemahaman ini
+
+These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at
+https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires
+copyright holders’ consent.
+
+
+References
+Al-Maududi, A., Prasetyo, B., & Arisy, H. (2025). Historiography of Hadith Writing during the Era of the Companions
+and the Tabi'in. el-Sunnah: Jurnal Kajian Hadis dan Integrasi Ilmu. https://doi.org/10.19109/elsunnah.v6i1.26508
+
+Alishahighalehjoughi, A., Hosseini, B. Z., & Najafi, M. (2019). Rereading the Motivations Behind the Prohibition of
+Narrating and Recording Traditions and Their Historical Implications. Journal of Shi'a Islamic Studies, 10, 313 - 341.
+https://doi.org/10.1353/isl.2017.0017
+
+Anshori, M. (2019). OPOSISI PENULISAN HADIS DI BASRAH PADA ABAD KEDUA HIJRIAH.
+https://doi.org/10.30762/universum.v13i2.1910
+
+Anwar, L. (2020). Penulisan Hadis Pada Masa Rasulullah SAW.. 131-156. https://doi.org/10.35132/albayan.v4i2.88
+
+Cook, M. (1997). The Opponents of the Writing of Tradition in Early Islam. Arabica, 44, 437-530.
+https://doi.org/10.1163/1570058972582317
+
+Fishman, T. (2010). Guarding Oral Transmission: Within and Between Cultures. Oral Tradition, 25, -.
+https://doi.org/10.1353/ort.2010.a402423
+
+Harun, D. R., Rasyid, A. D., Lubis, A., Balwi, M. A. W. F. B. M., & Rasyid, B. (2021). The Writing of Hadith in the Era of
+Prophet Muhammad: A Critique on Harun Nasution’s Thought. Al-Jami'ah: Journal of Islamic Studies.
+https://doi.org/10.14421/ajis.2021.591.191-220
+
+Iskandar, M. (2020). Periodesasi Penulisan Hadis Nabi Saw. DIRAYAH : Jurnal Ilmu Hadis.
+https://doi.org/10.62359/dirayah.v1i01.21
+
+
+
+
+                                                          7 / 8
+Kanus, O. (2022). Pembatasan dalam Periwayatan Hadis (Taqlil ar-Riwayah). Jurnal Kawakib.
+https://doi.org/10.24036/kwkib.v3i1.34
+
+Lutfianto, M., Abdurrahman, A., & Takwallo, T. (2024). HISTORY OF HADITH WRITING IN THE PRE-
+CODIFICATION PERIOD IN THE PROSPECTIVE OF 'AJJAJ AL-KHATIB. Al-Thiqah : Jurnal Ilmu Keislaman.
+https://doi.org/10.56594/althiqah.v7i2.263
+
+Misbakhudin, M. (2017). ‫الرد على شبهات واعتراضات المستشرقين على حجية السنة (دراسة تحليلية وصفية‬
+)‫على األحاديث الواردة فى كتابة الحديث‬. Religia, 12. https://doi.org/10.28918/religia.v12i1.202
+
+Muslim, A. A., Munawar, S. A. H. A., Mansurnoor, I., & Asmawi, A. (2026). Religious Authority in Islam: Between
+Classical Fiqh and Hadith Traditions in Contemporary Epistemological Discourse. Tasfiyah: Jurnal Pemikiran Islam.
+https://doi.org/10.21111/tasfiyah.v10i1.32
+
+Pakpahan, A. W., & Jinan, M. (2024). Jejak-Jejak Tertulis: Sejarah Pembukuan Hadis Dalam Islam. Tanjak: Sejarah
+dan Peradaban Islam. https://doi.org/10.19109/tanjak.v4i3.24487
+
+Sattar, A., Fahmi, M., Hamid, A., Azhar, K., Nor, M., S., & Fahmi, A. (2026). Event Contextualization in Hadith
+Interpretation: A Framework for Reassessing Problematic Hadith Narratives. Jurnal Studi Ilmu-ilmu Al-Qur'an dan
+Hadis. https://doi.org/10.14421/qh.v27i1.6418
+
+Schoeler, G. (2006). The oral and the written in early Islam. https://doi.org/10.4324/9780203965313
+
+Tanjung, T. N. S., & Fadhlurrahman, Z. (2025). The Role of Tadwīn Hadith in the Development of Islamic
+Historiography. ISTIFHAM: Journal Of Islamic Studies. https://doi.org/10.71039/istifham.v3i3.123
+
+Wahyudi, R. (2023). Studi terhadap Polemik antara Larangan dan Pembolehan Penulisan Hadis. El-Sunan: Journal of
+Hadith and Religious Studies. https://doi.org/10.22373/el-sunan.v1i1.3455
+
+Watukila, S. (2024). HISTORIOGRAFI HADIS DI MASA MUTAQADDIMIN DALAM PANDANGAN MUSTAFA
+AZAMI. Amsal Al-Qur’an: Jurnal Al-Qur’an dan Hadis. https://doi.org/10.63424/amsal.v1i3.126
+
+
+
+
+                                                       8 / 8
+

@@ -1,0 +1,310 @@
+@Academic "Cari 15 artikel ilmiah terbaru (2015-
+2026) tentang penghafalan dan penghimpunan hadis
+— tradisi hafalan, penulisan hadis masa Nabi,
+penghimpunan masa sahabat, kodifikasi resmi
+(tadwin). Fokus pada: (1) metode, (2) kriteria
+verifikasi, (3) institusi. Berikan DOI."
+Saya menemukan 15 artikel ilmiah terbit 2015–2026 yang relevan. Namun, kualitas dan
+kedekatan topiknya tidak seragam: beberapa membahas langsung sejarah hafalan, penulisan,
+tadwin, dan kritik hadis; sebagian lain membahas institusi transmisi, digitalisasi, atau metode
+verifikasi modern yang masih berguna sebagai pelengkap.
+
+Daftar artikel
+                                                          Metode, verifikasi,
+  No.       Artikel dan tahun       Fokus utama                                                   DOI
+                                                            atau institusi
+
+        “Tadwin Hadis dan                               Metode historis-
+        Kontribusinya dalam       Sejarah               komparatif; kritik
+   1    Perkembangan              penghimpunan          sumber; kontribusi       10.18592/jiu.v12i1.125 [1]
+        Historiografi Islam” —    dan tadwin hadis      tradisi Sunni, Syiah,
+        2016                                            dan Khawarij
+
+                                                        Analisis gabungan
+        “Analisis Isnad Cum
+                                  Verifikasi historis   sanad dan matan;
+   2    Matn: Mengukur Kritik                                                    10.22373/substantia.v18i2.3009 [2]
+                                  hadis                 membandingkan
+        Hadis Muslim…” — 2016
+                                                        varian riwayat
+
+        “Erken Dönem Hadis
+                                  Kritik matan          Analisis contoh kritik
+        Münekkitlerinin Metin
+   3                              pada periode          matan oleh kritikus      10.56361/usul.309997 [3]
+        Tenkidi Yaptığını Nasıl
+                                  awal                  Sunni abad ke-3–4 H
+        Biliyoruz…” — 2016
+
+        “Historis Periodesasi                           Perkembangan
+        Perkembangan Hadis        Periodisasi           hafalan, penulisan,
+   4                                                                             10.32505/at.v14i2.3431 [4]
+        dari Masa ke Masa…” —     transmisi hadis       kritik sanad, dan
+        2021                                            kodifikasi
+
+        “Writing Down of                                Perubahan dari
+                                  Penulisan dan
+        Hadiths in the VII–VIII                         catatan awal menuju      DOI tidak tercantum pada hasil
+   5                              penghimpunan
+        Centuries: Approaches                           koleksi hadis abad ke-   penelusuran [5]
+                                  hadis
+        and Methods” — 2021                             9
+                                                        Metode, verifikasi,
+No.       Artikel dan tahun       Fokus utama                                                     DOI
+                                                          atau institusi
+      “Contents and Methods
+      of al-Hadith                                    Survei terhadap 210
+                                Metode
+      Memorization:                                   guru; tasmi‘, hafalan
+ 6                              penghafalan                                      10.21111/educan.v5i2.6582 [6]
+      Perceptions of                                  sanad dan matan;
+                                hadis
+      Religious Teachers…” —                          institusi sekolah tahfiz
+      2021
+
+      “The Hadith
+                                                      Wawancara,
+      Digitization in
+                                                      observasi,                 DOI tidak teridentifikasi secara
+      Millennial Era: A Study   Institusi dan
+ 7                                                    dokumentasi; peran         meyakinkan pada hasil penelusuran
+      at Center for Hadith      digitalisasi hadis                               [7]
+                                                      Pusat Studi Hadis di
+      Studies, Indonesia” —
+                                                      Jakarta
+      2019
+
+      “Hadith Authentication                          Isnad-cum-matn;
+      Method: Concept,                                common link;
+                                Kriteria verifikasi
+ 8    Application and                                 perbandingan varian        10.28918/religia.v26i1.863 [8]
+                                hadis
+      Critique of Orientalist                         historis; kritik
+      Skepticism” — 2023                              terhadap teori skeptis
+
+      “Kontribusi Kitab Al-
+      Mu’jam Al-Mufahras        Institusi dan         Takhrij, indeks hadis,
+      Karya Arent Jan           perangkat             dan kontribusi sarjana     DOI tidak tercantum secara jelas
+ 9
+      Wensinck terhadap         verifikasi            orientalis terhadap        pada hasil penelusuran [9]
+      Ilmu Takhrijul Hadis”     modern                penelitian hadis
+      — 2023
+
+      “Dəlil Kitābat al-Nuṣūṣ                         Pedoman penulisan,
+      al-Ḥadīthiyyah wa-        Institusi             penerbitan, dan
+10    Ṭibā‘atihā fī Lajnat      verifikasi dan        pemeriksaan hadis          10.33102/johs.v8i2.267 [10]
+      Taḥqīq al-Ḥadīth” —       penerbitan hadis      oleh komite resmi
+      2023                                            Malaysia
+
+                                                      Catatan sahabat,
+      “Kodifikasi Sunah:
+                                                      proyek kodifikasi
+      Telaah Historis Mulai     Kodifikasi                                       10.36701/jawamiulkalim.v2i1.1736
+11                                                    Umar bin Abdul Aziz,       [11]
+      Abad I sampai Abad III    resmi/tadwin
+                                                      dan penyusunan
+      H” — 2024
+                                                      tematik
+
+                                                      Kritik sanad dan
+      “Metodologi Kritikan                            matan dalam
+                                Verifikasi sanad                                 DOI tidak tampak pada hasil
+12    Sanad Riwayat Sirah…”                           penelitian riwayat
+                                dan matan                                        penelusuran [12]
+      — 2024                                          sirah; pendekatan
+                                                      Akram Ḍiyā’ al-‘Umarī
+
+      “Shalahuddin                                    Kesesuaian hadis
+      al-‘Aḍlabī:                                     dengan rasio,
+                                Kriteria kritik                                  DOI tidak tampak pada hasil
+13    Methodological                                  pengalaman inderawi,
+                                matan                                            penelusuran [13]
+      Analysis of Critique on                         sejarah, bahasa, dan
+      Hadith Texts…” — 2024                           konteks
+                                                    Metode, verifikasi,
+ No.       Artikel dan tahun      Fokus utama                                               DOI
+                                                      atau institusi
+       “Dedikasi Ulama Hadis
+       Abad Pertama
+                                                  Hafalan, pencatatan,
+       Hijriyah: Upaya
+                                Peran sahabat     verifikasi, transmisi,
+  14   Kodifikasi dan                                                      10.58578/ajisd.v2i4.3277 [14]
+                                dan tabi‘in       dan pembentukan
+       Penyebaran oleh
+                                                  metodologi tadwin
+       Sahabat dan Tabi‘in” —
+       2024
+
+                                                  Hafalan dari dada dan
+       “Narrators Memorized
+                                                  tulisan; perbandingan
+       Thousands of Hadiths:    Tradisi hafalan
+  15                                              jalur sanad untuk        10.59759/jjis.v21i2.426 [15]
+       Analytical Critical      hadis
+                                                  membedakan sahih
+       Study” — 2025
+                                                  dan lemah
+
+
+Artikel tambahan yang sangat relevan
+Jika rentang 2015–2026 dimaksudkan mencakup publikasi sampai 13 September 2026, beberapa
+artikel 2026 berikut juga layak dimasukkan:
+   “Perkembangan Hadits Nabawi pada Masa Sahabat dan Tabi’in” — membahas hafalan,
+   dokumentasi terbatas, sanad, dan kritik perawi. DOI: 10.23969/jp.v11i01.40894. [16]
+   “Rekonstruksi Historis Pertumbuhan Hadis: Masa Nabi, Sahabat, dan Tabi‘in” —
+   membahas prinsip al-tsabt, pencarian saksi, rihlah, verifikasi sanad, dan awal tadwin. DOI:
+   10.59024/simpati.v4i3.2252. [17]
+   “The Preservation and Transmission of Hadith Through Modern Technology” —
+   membahas digitalisasi, basis data, AI, dan batas peran teknologi terhadap verifikasi ilmiah.
+   DOI: 10.33102/johs.v11i1.443. [18]
+   “Applying Hadith Verification Method as a Critical Framework…” — menghubungkan kritik
+   hadis dengan verifikasi informasi digital melalui sanad, jarḥ wa ta‘dīl, kritik matan, dan
+   takhrij. DOI: 10.14421/livinghadis.2026.7053. [19]
+   “Harald Motzki’s Isnad Cum Matan Method in the Study of Hadith Authenticity” —
+   membahas rekonstruksi sejarah transmisi melalui integrasi sanad dan matan. DOI:
+   10.58363/alafkar.v2i2.1396. [20]
+
+Sintesis berdasarkan fokus penelitian
+
+1. Metode penghafalan dan transmisi
+Literatur tersebut menunjukkan bahwa transmisi hadis awal menggunakan kombinasi:
+   ḥifẓ, yaitu hafalan lisan dan mental.
+   Kitābah, yaitu pencatatan pribadi atau lembaran hadis.
+   Tasmi‘, yaitu penyetoran hafalan kepada guru atau penguji.
+   Muqāranah dan mu‘āraḍah, yaitu membandingkan riwayat, jalur sanad, dan redaksi.
+    Riḥlah fī ṭalab al-ḥadīth, yaitu perjalanan untuk memperoleh atau memeriksa hadis dari
+    sumber yang lebih otoritatif.
+Studi tentang para perawi yang menghafal ribuan hadis menekankan bahwa “jumlah hadis”
+sering dihitung berdasarkan perbedaan jalur sanad, bukan semata-mata jumlah matan yang
+sepenuhnya berbeda. Karena itu, kemampuan hafalan harus dipahami bersama praktik
+perbandingan riwayat dan pemeriksaan tertulis. [15]
+
+2. Kriteria verifikasi
+Kriteria verifikasi yang paling konsisten dalam artikel-artikel tersebut adalah:
+    Ittiṣāl al-sanad: kesinambungan sanad.
+    ‘Adālah: integritas moral perawi.
+    Ḍabṭ: ketelitian dan daya ingat atau ketepatan dokumentasi perawi.
+    Jarḥ wa ta‘dīl: evaluasi reputasi dan reliabilitas perawi.
+    Kritik matan: pemeriksaan bahasa, sejarah, rasio, konteks, kesesuaian dengan Al-Qur’an,
+    dan perbandingan dengan riwayat yang lebih kuat.
+    Takhrij: pelacakan sumber hadis dalam koleksi primer.
+    Isnad-cum-matn: analisis terpadu antara pola sanad dan variasi matan untuk
+    merekonstruksi sejarah transmisi.
+Artikel tentang metode Isnad-cum-Matn secara khusus menolak penilaian yang hanya berfokus
+pada sanad atau hanya pada isi teks. Validasi dilakukan dengan membaca hubungan antara
+penyebaran sanad, variasi redaksi, dan konteks historis. [8]
+
+3. Institusi penghimpunan dan kodifikasi
+Institusi atau aktor utama yang muncul dalam literatur adalah:
+    Nabi dan majelis pengajaran, sebagai sumber primer dan pusat transmisi langsung.
+    Sahabat, melalui hafalan, catatan pribadi, penyampaian lisan, dan pemeriksaan silang.
+    Tabi‘in, yang memperluas jaringan transmisi dan mulai menekankan verifikasi sanad
+    secara lebih sistematis.
+    Khalifah Umar bin Abdul Aziz, yang sering diposisikan sebagai penggerak kodifikasi resmi
+    pada akhir abad pertama dan awal abad kedua Hijriah.
+    Muhaddisun abad kedua–ketiga Hijriah, yang menyusun koleksi tematik dan sistematis.
+    Komite resmi negara atau lembaga akademik modern, seperti komite pemeriksaan hadis
+    Malaysia dan Pusat Studi Hadis Indonesia.
+    Basis data dan institusi digital, yang membantu pencarian serta pemetaan sanad, tetapi
+    tidak menggantikan penilaian ahli hadis.
+Studi tentang kodifikasi Sunah membedakan secara penting antara pencatatan hadis sejak
+masa Nabi dan sahabat dengan kodifikasi resmi berskala institusional. Dengan demikian,
+ketiadaan “kodifikasi kitab resmi” pada masa awal tidak berarti tidak ada penulisan hadis sama
+sekali. [11]
+
+Catatan kualitas sumber
+     Artikel dengan DOI yang jelas dan laman jurnal yang dapat diverifikasi lebih aman
+     dijadikan sumber utama.
+     Beberapa hasil penelusuran berasal dari jurnal lokal, prosiding, atau publikasi yang
+     metadata indeksasinya belum dapat dipastikan dari hasil pencarian.
+     Artikel tahun 2026 perlu diperiksa kembali status terbit finalnya karena sebagian memiliki
+     tanggal publikasi setelah tanggal pencarian atau berasal dari laman jurnal yang baru
+     diperbarui.
+     Untuk tinjauan pustaka akademik, artikel yang paling langsung relevan dengan tiga fokus
+     Anda adalah nomor 1, 2, 3, 6, 8, 10, 11, 14, dan 15, ditambah artikel 2026 tentang
+     perkembangan hadis masa sahabat–tabi‘in.
+                                                                ⁂
+
+
+  1. https://jurnal.uin-antasari.ac.id/index.php/ushuluddin/article/view/125
+  2. https://jurnal.ar-raniry.ac.id/index.php/substantia/article/view/3009
+  3. https://dergipark.org.tr/en/pub/usul/article/309997
+  4. https://dev-journal.iainlangsa.ac.id/index.php/at/article/download/3431/1797
+  5. http://psychologyandeducation.net/pae/index.php/pae/article/download/1950/1701
+  6. https://ejournal.unida.gontor.ac.id/index.php/educan/article/view/6582
+  7. https://journal.iainkudus.ac.id/index.php/QIJIS/article/download/4900/pdf
+  8. https://e-journal.uingusdur.ac.id/Religia/article/view/863
+  9. https://ejurnal.staiha.ac.id/index.php/cendekia/article/download/218/193
+ 10. https://journalofhadith.usim.edu.my/index.php/johs/article/view/267
+ 11. https://journal.stiba.ac.id/index.php/jawamiulkalim/article/view/1736
+ 12. https://journalofhadith.usim.edu.my/index.php/johs/article/download/289/155
+ 13. https://journal.iainlangsa.ac.id/index.php/bukhari/article/view/8476
+ 14. https://ejournal.yasin-alsys.org/AJISD/article/view/3277
+ 15. https://jjis.aabu.edu.jo/index.php/jjis/article/view/426
+ 16. https://journal.unpas.ac.id/index.php/pendas/article/view/40894
+ 17. https://jurnal.alimspublishing.co.id/index.php/simpati/article/download/2252/1480/8627
+ 18. https://journalofhadith.usim.edu.my/index.php/johs/article/view/443
+ 19. https://ejournal.uin-suka.ac.id/ushuluddin/Living/article/view/7053
+ 20. https://jurnal.stiq.assyifa.ac.id/alafkar/article/view/1396
+ 21. https://joecy.org/index.php/joecy/article/download/8740/6999/25410
+ 22. http://ejournal.radenintan.ac.id/index.php/al-dzikra/article/download/5635/4809
+23. https://ejournal.stiqwalisongo.ac.id/index.php/Risalah/article/download/1080/267
+24. https://joecy.org/index.php/joecy/article/download/7773/6222
+25. https://jurnal.uinbanten.ac.id/index.php/holistic/article/download/6517/4452
+26. https://jurnal.faiunwir.ac.id/index.php/Jurnal_Risalah/article/download/15/10
+27. https://jurnal.uinbanten.ac.id/index.php/holistic/article/download/8368/4462
+28. https://ejurnal.stmik-budidarma.ac.id/index.php/mib/article/download/951/770
+29. https://sejurnal.com/pub/index.php/jpmt/article/download/2017/1964/2041
+30. https://ejournal.iainkerinci.ac.id/index.php/takwil/article/download/2475/990
+31. https://jurnal.penerbitdaarulhuda.my.id/index.php/MAJIM/article/download/4380/4630
+32. http://journal.uinjkt.ac.id/index.php/ti/article/download/8623/pdf
+33. https://hamfara.com/kalamizu/article/download/198/204/1387
+34. https://journalofhadith.usim.edu.my/index.php/johs/article/download/248/127
+35. https://journal.ppmi.web.id/index.php/joire/article/download/2464/1643
+36. https://journal.iainkudus.ac.id/index.php/riwayah/article/view/28704
+37. http://journal.umuslim.ac.id/index.php/ilka/article/download/1894/1419
+38. https://pmc.ncbi.nlm.nih.gov/articles/PMC11096860/
+39. https://pmc.ncbi.nlm.nih.gov/articles/PMC9508338/
+40. https://www.atlantis-press.com/proceedings/icope-19/125937546
+41. https://e-journal.uingusdur.ac.id/Religia/article/download/863/623
+42. https://journal.iainkudus.ac.id/index.php/riwayah/article/view/18832
+43. https://ejournal.uin-suka.ac.id/ushuluddin/Living/article/view/4611
+44. https://socj.telkomuniversity.ac.id/ojs/index.php/ijoict/article/download/573/324
+45. https://zenodo.org/records/15582362
+46. https://journalofhadith.usim.edu.my/index.php/johs/article/download/243/123
+47. https://jerkin.org/index.php/jerkin/article/view/3273
+48. https://al-qanatir.com/aq/article/view/1475
+49. https://journal.uin-alauddin.ac.id/index.php/tahdis/article/view/56371
+50. https://journal.stiba.ac.id/index.php/jawamiulkalim/article/view/2843
+51. https://nazhruna.uacmjk.ac.id/index.php/nzh/article/view/9
+52. https://ejurnal.stmik-budidarma.ac.id/index.php/mib/article/download/3787/2633
+53. https://ejournal.uinfasbengkulu.ac.id/index.php/elafkar/article/view/7908
+54. https://bircu-journal.com/index.php/birle/article/download/1238/pdf
+55. https://hrmars.com/papers_submitted/20617/methods-of-takhrij-al-hadith-teaching-and-learning-in-public-higher-ed
+    ucation-institution.pdf
+56. https://al-afkar.com/index.php/Afkar_Journal/article/view/2940
+57. https://ojs.indopublishing.or.id/index.php/sujud/article/view/998
+58. https://hadis.kuis.edu.my/index.php/inhad/article/download/168/91
+59. https://haddatsana.com/index.php/jsimahadaly/article/view/122
+60. https://brill.com/display/book/9789004386938/BP000008.xml
+61. https://www.tandfonline.com/doi/full/10.1080/13602004.2018.1502406
+62. https://www.tandfonline.com/doi/full/10.1093/ohr/ohu067
+63. https://journalofhadith.usim.edu.my/index.php/johs
+64. https://journalofhadith.usim.edu.my/index.php/johs/article/view/296
+65. https://journalofhadith.usim.edu.my/index.php/johs/issue/view/18
+66. http://jurnal.staiserdanglubukpakam.ac.id/index.php/alfikru/article/view/177
+67. https://journalofhadith.usim.edu.my/index.php/johs/article/view/348
+68. https://journalofhadith.usim.edu.my/index.php/johs/issue/view/15
+69. https://journalofhadith.usim.edu.my/index.php/johs/issue/view/13
+70. https://journalofhadith.usim.edu.my/index.php/johs/issue/view/17
+71. https://genius.uinkhas.ac.id/index.php/gns/article/view/113
+72. https://jurnal.alimspublishing.co.id/index.php/simpati/article/view/2252
+73. https://amrjss.com/index.php/Al-Meezan/article/view/27
+74. https://journal.iaisambas.ac.id/index.php/SAMBAS/article/view/5008
+75. https://ejournal.unsuda.ac.id/index.php/MPI/article/download/462/502
+76. https://ejournal.unsuda.ac.id/index.php/Darajatuna/article/view/1671
+77. https://journalofhadith.usim.edu.my/index.php/johs/article/view/344
+78. http://journalofhadith.usim.edu.my/index.php/johs/article/view/269
+79. https://journalofhadith.usim.edu.my/index.php/johs/issue/view/20
+

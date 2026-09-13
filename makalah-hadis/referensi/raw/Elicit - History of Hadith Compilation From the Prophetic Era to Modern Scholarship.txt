@@ -1,0 +1,193 @@
+History of Hadith Compilation: From the Prophetic Era to Modern Scholarship
+Scope and framing
+This synthesis focuses primarily on the Sunni hadith tradition because the best-developed evidence retrieved here
+concerns the formation of the Sunni corpus and the canonization of al-Bukhari and Muslim. “Compilation” should
+be separated into three processes: kitabah (individual writing or recording), tadwin (systematic collection), and later
+tasnif/canonization (arranging collections by subject, transmitter, or authenticity and establishing their authority).
+A recent historical overview likewise defines codification as collecting reports from notes and memorization, testing
+both isnad and matn, and assembling them in books[1].
+
+Periodized extraction
+1. Prophetic era (c. 610–632 CE / 13 BH–11 AH)
+Methodology. Hadith circulated primarily through hearing, memorization, performance, and direct questioning, but
+the evidence does not support a simple “oral versus written” binary. Some reports were written during the Prophet’s
+lifetime, while the permissibility and scope of writing remained debated[1]. Early Muslims also distinguished the
+Qur’an as revelation from reports transmitted by human tradents; this distinction shaped different modes of trans-
+mission[2].
+Key figures. Muhammad as the originating authority; companions who heard, observed, memorized, taught, and
+sometimes recorded his statements and practice[1]. The retrieved sources do not justify reducing this activity to one
+official compiler.
+Main finding. Writing existed, but there was not yet a single, standardized hadith book; the period supplied dispersed
+memories, practices, and notes for later collection and evaluation[1].
+
+2. Companion generation (632–c. 700 CE / 11–80 AH)
+Methodology. Transmission combined memorization, teaching circles, travel, comparison of reports, and selective
+writing. The growth of political and sectarian conflict after the death of Uthman in 35 AH is presented in the retrieved
+literature as a major context for fabrication claims and for stricter scrutiny of transmitters[1].
+Key figures. The companions formed the first transmitting generation, with their preservation and selection practices
+providing the background for later isnad sciences[1]. The present search did not retrieve source-level evidence
+sufficient to quantify individual written output.
+Main finding. The decisive development was not “compilation” in the later book sense but the emergence of habits
+of verification: asking who transmitted a report, comparing versions, and scrutinizing discrepancies. These practices
+became the background for isnad criticism[1].
+
+3. Successors and early regional transmission (c. 700–750 CE / 80–130 AH)
+Methodology. Reports moved through regional scholarly networks, while oral transmission and writing operated
+together rather than as cleanly successive stages[2][1].
+Key figures. The tabi'un and early transmitters were central; Ibn Shihab al-Zuhri is associated in the retrieved
+historiography with early collection, but the evidence here does not justify treating him as the sole or universally
+accepted “first compiler”[3].
+Main finding. The corpus expanded through regional transmission and legal-theological debate, increasing the
+importance of transmitter evaluation and comparison of variants[1].
+
+4. Early written compilations and musannaf literature (c. 750–850 CE / 130–235 AH)
+Methodology. Compilers began organizing material in written works, often by legal or thematic chapters. The
+Muwatta' and musannaf genres did not simply preserve isolated prophetic sayings: they placed prophetic reports
+alongside companion statements, successor opinions, and established practice. A recent study of Malik’s Muwatta',
+
+
+
+                                                                                                                      1
+Abd al-Razzaq’s Musannaf, and Ibn Abi Shayba’s Musannaf finds a movement from authority grounded in inherited
+Medinan practice toward more text-centered, transregional recording and stronger privileging of the first three
+generations[4].
+Key figures and works. Malik ibn Anas (d. 179/795), Abd al-Razzaq al-San'ani (d. 211/827), and Ibn Abi Shayba (d.
+235/849) are central examples in the retrieved scholarship[4].
+Main finding. “Hadith” was not yet a fixed category with one uniform meaning. In early usage it could include
+non-prophetic reports, while prophetic reports increasingly acquired a distinct and authoritative status[4].
+
+5. Classical collections and formalization of hadith criticism (c. 850–950 CE / 235–340 AH)
+Methodology. The major methods included isnad criticism, transmitter biographies and reliability judgments, con-
+tinuity of transmission, comparison of variant chains and texts, and matn criticism[5]. Collections were arranged in
+different ways, and a compiler’s inclusion did not always mean that every report met the same level of reliability[6].
+Key figures and works. Muhammad ibn Isma'il al-Bukhari (d. 256/870), Muslim ibn al-Hajjaj (d. 261/875), Abu
+Dawud, al-Tirmidhi, al-Nasa'i, and Ibn Majah are associated with the Sunni “canonical six,” while al-Bukhari’s Sahih
+and Muslim’s Sahih became the core of the later Sunni authenticity canon. Brown’s study follows the origins, devel-
+opment, and functions of this core from the authors’ time through the modern period[7].
+Main finding. The third/ninth century was a period of intensive selection and classification, not the moment when
+all hadith material suddenly came into existence. The concept of an “authentic hadith” and the canonical literature
+developed together across the first several generations of Muslim scholarship[8].
+
+6. Canonization and post-classical authority (c. 950–1800 CE / 340–1200 AH)
+Methodology. Later scholars commented on, abridged, compared, taught, and challenged earlier collections. Can-
+onization was therefore a social and scholarly process: authority was reinforced through scholarly networks, com-
+mentary, curricula, public recitation, and repeated use, not merely by the original act of compilation. Brown’s canon
+study explicitly treats the formation and function of the Bukhari–Muslim core through the modern period[7].
+Key figures. Commentators and critics such as al-Daraqutni and al-Hakim are important to the history of how the
+Sahihayn were evaluated and received; the retrieved evidence supports their role in canon debates but does not
+provide enough detail here for a full institutional history[9][10].
+Main finding. “Canonical” did not mean universally uncontested: Bukhari and Muslim’s status was consolidated
+through scholarly reception, while later criticism and adjustment remained possible[7][9][10].
+
+7. Modern and contemporary scholarship (19th century–present)
+Methodology. Modern research adds historical criticism, source criticism, isnad-cum-matn analysis, manuscript
+and textual comparison, redaction analysis, and study of the social uses of hadith. Historical criticism distinguishes
+external criticism—whether a document or transmission can be authenticated—from internal criticism of meaning
+and content[11].
+Key figures. In Western scholarship, Ignaz Goldziher, Joseph Schacht, G. H. A. Juynboll, and Harald Motzki represent
+important, though substantially different, approaches. Schacht’s theories included backward projection and the
+common-link problem; Motzki challenged a uniformly late-dating model through isnad-cum-matn analysis[12][13].
+Contemporary Muslim scholars discussed in the retrieved literature include Mustafa al-A'zami, Nur al-Din 'Itr, al-
+Idlibi, al-Siba'i, and al-Jawabi[5].
+Main finding. Contemporary scholarship is not divided simply into “Muslim defenders” and “Western skeptics.” The
+field has moved from strongly skeptical models that treated much hadith as a later socio-political construction toward
+more differentiated approaches that date individual traditions, distinguish layers of transmission, and combine isnad
+with matn analysis[11][13]. This does not restore every report as historical fact; it makes authenticity a report-by-
+report and method-by-method question.
+
+
+
+
+                                                                                                                    2
+Contemporary critiques
+Critiques of classical Muslim methods
+Modern critics argue that classical authentication placed too much weight on the isnad and not enough on the
+content, historical context, variant wording, and possible ideological functions of reports. A recent assessment of
+Schacht’s critics makes this objection directly, arguing that an isnad-heavy approach can neglect matn analysis and
+reduce the complexity of Islamic intellectual history[12]. Other contemporary discussions question the subjective
+nature of transmitter evaluation and emphasize stronger matn criticism[5].
+These criticisms identify a real methodological pressure point, but they should not imply that classical scholars
+ignored content altogether. Contemporary Muslim scholars argue that both isnad and matn criticism were practiced
+early, even though their technical frameworks were systematized later[5].
+
+Critiques of early Western skepticism
+Goldziher and Schacht’s models made the late appearance of large written collections a central reason for doubting
+early attribution. The strongest contemporary objection is that the date of a surviving compilation is not identical
+to the date of every report inside it: earlier oral, written, regional, and teaching materials may have been incorpo-
+rated into later books. Motzki’s isnad-cum-matn method tests this possibility by examining bundles of transmission
+alongside textual correspondences and transmitter histories[13].
+The critique of skeptical models is not conclusive proof of wholesale authenticity. It shows instead that blanket
+dating rules—such as assigning most reports to the period of the common link or final compiler—can be too coarse.
+Recent scholarship is better characterized as a spectrum from skepticism to cautious reconstruction, with a stated
+shift toward more contextualized analysis[11].
+
+Critiques of contemporary apologetic responses
+Some Muslim responses treat evidence of early writing or early transmission as if it settles the authenticity of the
+later corpus. That inference is too strong: early notes establish the possibility of preservation and transmission,
+not the accuracy of every later wording or chain. Conversely, claims that hadith was written only centuries later
+overlook evidence for early writing and the diversity of pre-canonical transmission practices[1][2].
+
+Overall assessment
+The most defensible historical picture is cumulative rather than binary. Hadith began as remembered and enacted
+prophetic teaching, included some early writing, expanded through companion and successor networks, entered
+regional and thematic compilations, and was increasingly classified through isnad and matn criticism. The large
+canonical books of the third/ninth century represent a major stage of selection and organization, not necessarily the
+first moment of transmission. Canonization continued through later scholarly reception, and modern scholarship
+now debates individual dating, textual layers, and authority rather than relying on one universal verdict[4][8][7].
+The central unresolved issue is therefore not whether hadith was “oral” or “written,” but how particular reports moved
+through mixed oral-written networks, how much their wording changed, and which interests shaped their circula-
+tion[2][5]. The retrieved literature is heavily weighted toward Sunni and general Western-hadith debates; a fuller
+comparative history would need dedicated treatment of Shi'i compilation traditions, Ibadi collections, manuscript
+evidence, and modern regional movements.
+
+
+References
+1.     Iskandar M (2020) Periodesasi Penulisan Hadis Nabi Saw. DIRAYAH : Jurnal Ilmu Hadis. https://doi.org/10.6
+       2359/dirayah.v1i01.21
+
+2.     Fishman T (2010) Guarding Oral Transmission: Within and Between Cultures. Oral Tradition. https://doi.or
+       g/10.1353/ort.2010.a402423
+
+
+
+
+                                                                                                                    3
+3.    Salim I (2007) Hadis dan Orientalisme. https://doi.org/10.32678/ALQALAM.V24I2.1634
+
+4.    Musadad A (2026) Articulating the Prophetic Authority: Some Notes on the Nature of Hadīth Collection in
+      al-Muwatta and Musannaf Literature. Jurnal Studi Ilmu-ilmu Al-Qur an dan Hadis. https://doi.org/10.14421
+      /qh.v27i1.7472
+
+5.    Andaluzi F, Prameswari DG (2025) THE AUTHORITY OF HADITH IN CONTEMPORARY DISCOURSE. UNI-
+      VERSUM. https://doi.org/10.30762/universum.v19i1.3353
+
+6.    El-Ali L (2021) Hadith Corpus. Sustainable Development Goals Series. https://doi.org/10.1007/978-3-030-
+      83582-8_2
+
+7.    Brown JAC (2007) The Canonization of al-Bukhari and Muslim. https://doi.org/10.1163/ej.9789004158399.i-
+      431
+
+8.    Duderija A (2009) Evolution in the Canonical Sunni Hadith Body of Literature and the Concept of an Authen-
+      tic Hadith During the Formative Period of Islamic ought as Based on Recent Western Scholarship. Arab Law
+      Quarterly. https://doi.org/10.1163/157302509X467371
+
+9.    Brown JAC (2004) Criticism of the Proto-Hadith Canon: Al-daraqutni’s Adjustment of the Sahihayn. Journal
+      of Islamic Studies. https://doi.org/10.1093/JIS/15.1.1
+
+10.   Brown AC (2007) Chapter Five. Canon and community: Al-Ḥākim Al-Naysābūrī and the canonization of
+      theṢaḥīḥayn. https://doi.org/10.1163/EJ.9789004158399.I-431.43
+
+11.   Haggag M (2023) The Development of the Historical Criticism Approach in ”Contemporary Western Studies”.
+      .    https://doi.org/10.21608/herms.2023.371294
+
+12.   Azam SA, Azmi A, Yusoff MFM (2025) Analisis Kritikal Pemikiran Schacht Terhadap Autentisiti Hadis. Jour-
+      nal of Hadith Studies. https://doi.org/10.33102/johs.v10i1.363
+
+13.   Ramdhani I (2020) The Archaeology of Motzki’s Studies on Hadith: Study of The Origin of Isnad Cum Matn
+      Method. https://doi.org/10.18326/MLT.V5I2.%P
+
+
+
+
+                                                                                                              4
+

@@ -92,3 +92,29 @@
 - **Buku klasik abad pertengahan** (Ibn al-Jauzi, dll) — banyak tidak terindex di Crossref
 - **Hadis spesifik** — butuh takhrij manual, AI tidak bisa memverifikasi sanad
 - **Kredibilitas tool** — Consensus ≤20 artikel; bukan meta-analisis
+
+QUERY_LIBRARY.md
+├── Sub-Tema 1 — Periodisasi Sejarah Hadis
+│   ├── Perplexity        ← query untuk Perplexity
+│   ├── LeapSpace P1      ← query untuk LeapSpace (Deep Research)
+│   ├── LeapSpace P2      ← query untuk LeapSpace (Copilot)
+│   ├── Consensus         ← query untuk Consensus
+│   ├── Elicit            ← query EN untuk Elicit
+│   └── Gemini Deep Research
+├── Sub-Tema 2 — Penghafalan & Penghimpunan
+│   ├── Perplexity
+│   ├── LeapSpace P1
+│   ├── LeapSpace P2
+│   ├── Consensus
+│   └── Elicit
+├── Sub-Tema 3 — Pemalsuan Hadis
+│   ├── Perplexity
+│   ├── LeapSpace P1
+│   ├── LeapSpace P2
+│   ├── Consensus
+│   ├── Elicit
+│   └── Gemini Deep Research
+└── Sub-Tema 4 — Relevansi Kontemporer
+    ├── Perplexity
+    ├── LeapSpace P1
+    └── Consensus

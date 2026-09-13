@@ -1,0 +1,480 @@
+Tidak, isnad analysis saja belum cukup; kritik matan juga diperlukan untuk
+mendeteksi hadis palsu dengan lebih andal.
+
+1. Introduction
+
+Literatur yang tersedia hampir bulat menyimpulkan bahwa autentikasi hadis tidak sebaiknya berhenti pada isnad
+saja. Banyak artikel metodologis menegaskan bahwa sanad dan matan adalah dua pilar yang saling melengkapi:
+sanad menilai kesinambungan dan kredibilitas jalur transmisi, sedangkan matan menilai koherensi isi, keselarasan
+dengan Al-Qur’an, hadis yang lebih kuat, rasionalitas, fakta sejarah, dan indikasi syādhdh atau ‘illah tersembunyi
+(Hamid et al., 2026; Nuraini, 2024; R & Ali, 2025; Maihula & Abdulkadir, 2022; Luthfi et al., 2022).
+
+Sejumlah paper juga menyatakan secara eksplisit bahwa sanad yang sahih tidak otomatis menjamin matan sahih.
+Riwayat bisa tampak kuat dari sisi perawi, tetapi tetap bermasalah karena syādhdh, ‘illah, kontradiksi makna, atau
+distorsi redaksi; karena itu penelitian hadis yang memadai harus menguji keduanya secara simultan (Mutammimah
+et al., 2023; Hamid et al., 2026; Muttaqin et al., 2023; Maihula & Abdulkadir, 2022; Dozan & Zuliyadain, 2022).
+
+Di saat yang sama, korpus ini juga menunjukkan bahwa isnad tetap sangat penting. Beberapa studi—termasuk studi
+komputasional—menemukan bahwa fitur sanad sering sangat informatif untuk klasifikasi otomatis, dan sebagian
+penulis bahkan menyebut isnad sebagai fondasi utama verifikasi hadis (Alghamdi et al., 2025; Tarmom et al., 2022;
+Sumaila & Isnayanti, 2025; Rahman, 2025; Azhar, 2024). Namun, bahkan ketika isnad sangat kuat, mayoritas paper
+di korpus ini tetap memosisikan kritik matan sebagai pemeriksaan tambahan yang diperlukan, bukan opsional (R &
+Ali, 2025; Taufiqurrohman et al., 2026; Pandika & Efendi, 2026; Alit et al., 2026; Nahri, 2026).
+
+Is isnad analysis alone sufficient to detect fabricated hadith?
+Requires at least 5 papers that directly answer your question. Try adjusting your query to find more papers.
+
+
+
+FIGURE 1 Consensus on isnad-only hadith authentication
+
+
+2. Methods
+Pencarian dijalankan di atas lebih dari 220 juta paper dalam indeks Consensus yang menghimpun Semantic
+Scholar, PubMed, dan sumber akademik lain. Jejak pencarian menunjukkan 87 paper lolos relevansi setelah
+penyaringan mesin dari 180 paper yang disaring, lalu 50 paper teratas dipilih untuk sintesis akhir.
+
+Sintesis ini memprioritaskan paper yang langsung membahas kecukupan isnad, hubungan sanad–matan, isnad-
+cum-matn, studi kasus hadis palsu, dan validasi digital hadis. Klaim disusun hanya dari kalimat yang benar-benar
+dinyatakan dalam korpus, dengan penekanan pada konsensus lintas paper dan pada perbedaan antara argumen
+normatif, studi kasus, dan studi komputasional.
+
+
+
+
+                                                           1 / 9
+Search Strategy
+
+
+
+  100.2M                                          87                                         50
+  Retrieved                                       Eligible                                   Included
+
+
+
+     19 searches                               Papers meeting relevance and quality       Top papers selected to be included in the
+                                               criteria, after deduplication              final analysis
+All papers retrieved from 19 searches.
+
+
+
+FIGURE 2 Search and screening flow for included papers
+
+
+Strategi menggabungkan pencarian konseptual, komparatif, historis, dan komputasional untuk menangkap
+argumen klasik maupun digital.
+
+
+3. Results
+
+3.1 Key Papers
+
+Paper jangkar korpus ini terutama membangun satu pesan: autentikasi hadis paling kuat muncul dari integrasi sanad
+dan matan, sementara isnad-cum-matn menjadi model sintesis paling sering dirujuk untuk menanggapi skeptisisme
+dan membaca sejarah transmisi (Mutammimah et al., 2023; Sumbulah et al., 2022; Little, 2026).
+
+Paper                                Summary
+
+
+(Mutammimah et al.,                  Menegaskan isnad cum matn untuk autentikasi lebih akurat (Mutammimah et al.,
+2023)                                2023)
+
+
+(Maihula & Abdulkadir,               Sanad sahih tidak cukup sendiri tanpa uji matan (Maihula & Abdulkadir, 2022)
+2022)
+
+
+(Pandika & Efendi, 2026)             Model integratif menggabungkan transmisi, substansi, sejarah, dan digital (Pandika &
+                                     Efendi, 2026)
+
+
+FIGURE 3 Key papers anchoring the literature review
+
+
+3.2 Integrasi Sanad dan Matan
+
+Mayoritas paper normatif menyatakan bahwa penelitian hadis harus memeriksa sanad dan matan bersama-sama,
+karena keduanya menjawab pertanyaan yang berbeda: sanad tentang asal dan jalur transmisi, matan tentang
+kelayakan isi dan koherensi makna (Nuraini, 2024; R & Ali, 2025; Miftahul et al., 2022; Novera & A'yun, 2024;
+Wadjedy & Ali, 2025).
+
+Beberapa paper bahkan menempatkan keduanya sebagai kesatuan epistemologis, bukan dua metode terpisah.
+Formulasi ini muncul dalam studi metodologis kontemporer, bibliometrik, dan digital yang sama-sama mendorong
+kerangka hibrid atau integratif, bukan model isnad-only (Hamid et al., 2026; Cahya & Askar, 2025; Alit et al., 2026;
+Maulana et al., 2026; Ahmad & Ghafar, 2025).
+
+
+
+
+                                                                  2 / 9
+3.3 Keterbatasan Isnad Saja
+
+Perbandingan posisi utama dalam korpus ini
+
+                                                    Integrated Isnad-
+Dimension               Isnad-Only                  Matan                    Citations
+
+
+Fokus utama             Jalur perawi                Jalur dan isi            (Nuraini, 2024; Sumbulah et al., 2022)
+
+
+Kekuatan                Cek kontinuitas dan         Tambah uji koherensi     (R & Ali, 2025)
+                        rawi                        teks
+
+
+Risiko                  Loloskan matan              Kurangi salah-terima     (Mutammimah et al., 2023; Maihula &
+                        bermasalah                  riwayat                  Abdulkadir, 2022)
+
+
+Deteksi distorsi        Terbatas                    Lebih baik via varian    (Sumbulah et al., 2022; Ozgur, 2026)
+redaksi                                             teks
+
+
+Sikap korpus            Minoritas kuat              Mayoritas                (Rahman, 2025; Pandika & Efendi,
+                                                    mendukung                2026)
+
+
+FIGURE 4 Comparison of isnad-only and integrated approaches
+
+
+Sebagian kecil paper memang memberi klaim kuat untuk isnad sebagai jalan utama, bahkan ada yang mengatakan
+tidak ada cara lain selain isnad untuk membedakan hadis autentik dan palsu (Rahman, 2025). Namun posisi ini
+tampak minoritas dalam korpus, dan berlawanan dengan banyak paper lain yang menegaskan bahwa sanad yang
+tampak autentik masih dapat menyisakan masalah pada matan (Hamid et al., 2026; Muttaqin et al., 2023; Maihula
+& Abdulkadir, 2022).
+
+3.4 Bukti Dari Studi Kasus dan Komputasional
+
+Studi kasus menunjukkan manfaat nyata kritik matan. Hadis-hadis populer di kalangan da’i dinilai dha‘if atau
+     ḍ
+maw ū‘ bukan hanya karena cacat sanad, tetapi juga karena inkonsistensi isi dan konflik dengan Qur’an atau
+riwayat yang lebih sahih (Evalinda et al., 2025). Hadis kopi yang dinisbahkan melalui mimpi juga ditolak karena
+                   ṭ
+sanadnya munqa i‘ dan matannya bertentangan dengan akal, indera, sejarah, dan gaya sabda kenabian (Dewi &
+Mustafa, 2024).
+
+Di sisi komputasional, hasilnya lebih bernuansa. Beberapa model matan-only cukup efektif sebagai alat bantu,
+dengan akurasi sekitar 85–94% atau F1 sekitar 92% pada tugas tertentu (Tarmom et al., 2022; Gaanoun &
+Alsuhaibani, 2022; Qarout et al., 2026). Tetapi studi lain menunjukkan bahwa memasukkan isnad meningkatkan
+performa klasifikasi secara signifikan, sehingga bukti digital juga cenderung mendukung pendekatan gabungan,
+bukan salah satu unsur saja (Alghamdi et al., 2025; Shaaban et al., 2026).
+
+
+Results Timeline
+
+Perkembangan riset bergerak dari kritik klasik sanad–matan menuju integrasi historis dan komputasional.
+
+
+
+
+                                                              3 / 9
+  5                                                                   2                                                             1
+                     20                                                                                                   16
+                               18      6     7                                          12        3        9     11            17
+          4      8                                                                                                                      1
+                                                                          13                                              19
+  10                                                                                                                           14
+
+
+
+
+              Jul 2022      Jan 2023       Jul 2023       Jan 2024        Jul 2024   Jan 2025   Jul 2025       Jan 2026
+
+FIGURE 5 Timeline of hadith authentication research; larger markers indicate more citations
+
+
+Top Contributors
+
+Type          Name                                    Papers
+
+
+Author        H. Motzki                               [d9393034625f5e8cbbb8568ff2683d41]
+
+
+Author        Wely Dozan                              [064e7ff99b7b585ba17fbea76f8a6033]
+                                                      [339acc8b92ba5aceb9340d3c4b2f5fe6]
+
+
+Author        Muhammad Ali                            [79ff20a1aedb578e9ea81aeccf625b3c]
+                                                      [30c28d5f5f6d56b29d4d1f493f0139b7]
+                                                      [8d149af7c1da5020b087c144f8ca1887]
+
+
+Journal       DIRAYAH : Jurnal Ilmu                   [904154b8e1335062b1d99894523c35c3]
+              Hadis                                   [37e7eba9cd0e5378a07b4b0d924ae7e3]
+                                                      [d3749d3fc78d5598a11992924bace097]
+
+
+Journal       MAHAD ALY JOURNAL                       [79ff20a1aedb578e9ea81aeccf625b3c]
+              OF ISLAMIC STUDIES                      [30c28d5f5f6d56b29d4d1f493f0139b7]
+                                                      [8d149af7c1da5020b087c144f8ca1887]
+
+
+Journal       AL ISNAD: Journal of                    [2593fbcdd8c65607bd768e5689653740]
+              Indonesian Hadith                       [13dc9171400d51baad41599a70a1548c]
+              Studies
+
+
+FIGURE 6 Authors and journals most frequent in this corpus
+
+
+
+
+                                                                     4 / 9
+4. Discussion
+
+Kualitas bukti untuk pertanyaan ini tergolong cukup kuat pada level konsensus metodologis, tetapi tidak seragam
+pada level operasional. Kuat karena banyak paper dari berbagai tipe—ulumul hadis, studi orientalis, studi kasus,
+bibliometrik, dan AI—mengulang klaim yang sama: autentikasi hadis paling dapat diandalkan ketika sanad dan
+matan diperiksa bersama (R & Ali, 2025; Maihula & Abdulkadir, 2022; Pandika & Efendi, 2026; Maulana et al.,
+2026). Tidak seragam karena masih ada perbedaan tentang urutan kerja, bobot relatif sanad versus matan, dan
+seberapa jauh matan boleh dinilai dengan rasionalitas, sejarah, atau ilmu modern (Miftahul et al., 2022; Budiman et
+al., 2022; Pandika & Efendi, 2026).
+
+Korpus ini juga menunjukkan dua caveat penting. Pertama, kritik matan dipandang perlu, tetapi harus dibatasi
+kaidah agar tidak berubah menjadi seleksi berdasarkan selera pribadi (Pandika & Efendi, 2026). Kedua, studi
+komputasional sering mengukur kinerja prediksi, bukan validitas ilmiah-hadis secara penuh; karena itu model
+matan-only atau isnad-only berguna sebagai sinyal bantu, bukan pengganti verifikasi ulama yang komprehensif
+(Shaaban et al., 2026; Maulana et al., 2026).
+
+                                   Evidence
+Claim                              Strength         Reasoning                     Papers
+
+
+Autentikasi hadis sebaiknya                         Didukung luas oleh            (Mutammimah et al., 2023;
+menggabungkan sanad dan                             paper metodologis lintas      Hamid et al., 2026; R & Ali,
+                                   Strong
+matan                                               pendekatan                    2025; Pandika & Efendi, 2026)
+
+
+Sanad sahih tidak otomatis                          Diulang dalam banyak          (Mutammimah et al., 2023;
+menjamin matan sahih                                paper sebagai batas           Hamid et al., 2026; Maihula &
+                                   Strong
+                                                    dasar isnad-only              Abdulkadir, 2022; Dozan &
+                                                                                  Zuliyadain, 2022)
+
+
+Isnad tetap komponen                                Bukti cukup konsisten,        (Alghamdi et al., 2025; Tarmom
+sangat informatif, termasuk                         terutama studi                et al., 2022; Sumaila & Isnayanti,
+                                   Moderate
+secara digital                                      komputasional                 2025)
+
+
+Kritik matan membantu                               Didukung studi kasus          (Hamid et al., 2026; Dewi &
+menangkap distorsi isi,                             dan kerangka kriteria         Mustafa, 2024; Cahya & Askar,
+                                   Moderate
+redaksi, dan kontradiksi                            matan                         2025; Ahmad & Ghafar, 2025)
+
+
+Isnad saja sudah cukup                              Ada dukungan terbatas         (Rahman, 2025; Haque et al.,
+untuk semua kasus                                   dan berlawanan dengan         2020)
+                                   Weak
+                                                    mayoritas korpus
+
+
+FIGURE 7 Key claims and evidence in the corpus
+
+
+5. Conclusion
+
+Jawaban singkatnya: isnad analysis saja tidak cukup; kritik matan juga perlu. Konsensus korpus ini adalah bahwa
+sanad sangat penting untuk menilai jalur transmisi, tetapi deteksi hadis palsu menjadi lebih andal ketika isi hadis
+juga diuji terhadap koherensi tekstual, varian redaksi, Qur’an, riwayat yang lebih kuat, rasionalitas, dan konteks
+sejarah (Hamid et al., 2026; Pandika & Efendi, 2026; Maulana et al., 2026).
+
+
+
+
+                                                        5 / 9
+Research Gaps
+
+Literatur ini cukup kaya pada pembelaan metodologis umum, tetapi masih lebih tipis pada validasi komparatif
+langsung antara pendekatan isnad-only, matan-only, dan model gabungan dalam dataset serta studi kasus yang
+sama (Alit et al., 2026; Shaaban et al., 2026).
+
+                      Classical        Text               Historical            Benchmark             Digital
+                      Rules            Variants           Context               Data                  Validation
+
+
+Isnad Only            GAP              GAP                GAP                   GAP                   GAP
+
+
+Matan Only            GAP              GAP                GAP                   GAP                   GAP
+
+
+Isnad-Cum-            GAP              GAP                GAP                   GAP                   GAP
+Matn
+
+
+Case Studies          GAP              GAP                GAP                   GAP                   GAP
+
+
+AI Models             GAP              GAP                GAP                   GAP                   GAP
+
+
+
+Open Research Questions
+
+Pertanyaan terbuka utamanya menyangkut standardisasi, validasi lintas metode, dan batas epistemik kritik matan
+dalam konteks modern.
+
+Question                                                        Why
+
+
+How much does adding matn criticism improve                     Banyak studi digital memisahkan fitur sanad dan
+fabricated hadith detection over isnad-only analysis on         matan, sehingga manfaat tambahan model gabungan
+shared benchmark datasets?                                      belum terukur seragam.
+
+
+Which matn criteria are most reliable across classical,         Korpus ini menyepakati perlunya kritik matan, tetapi
+historical, and computational hadith authentication             kriteria operasional dan validasinya masih berbeda-
+frameworks?                                                     beda.
+
+
+Can standardized hadith corpora support fair head-to-           Beberapa paper menekankan bahwa perbandingan
+head comparison of isnad-only, matn-only, and                   performa kini terhambat oleh dataset dan
+integrative models?                                             preprocessing yang tidak seragam.
+
+
+Jadi, untuk pertanyaan apakah isnad analysis cukup mendeteksi hadis palsu, jawaban literaturnya adalah tidak:
+kritik matan juga diperlukan.
+
+These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at
+https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires
+copyright holders’ consent.
+
+
+
+
+                                                          6 / 9
+References
+                                                                       Ḥ
+Ahmad, H., & Ghafar, N. A. (2025). Stylistic Markers Of Authenticity In adīth Texts: An Integrative Framework
+         ʿ     Ḥ
+Bridging ilm Al- adīth And Literary Stylistics. Journal of Hadith Studies. https://doi.org/10.33102/johs.v10i2.391
+
+Alghamdi, J., Albukhari, A., & Al-Dala’in, T. (2025). Pretrained Models Against Traditional Machine Learning for
+Detecting Fake Hadith. Electronics. https://doi.org/10.3390/electronics14173484
+
+Alit, N. A., Ahmad, A. D., Bahrudin, M., & Azmi, M. H. A. M. (2026). Exploring Trends and Themes of Hadith
+Authentication Research: a Bibliometric Analysis and Future Agenda. Al-Bayan: Journal of Qur'an and Hadith
+Studies. https://doi.org/10.1163/22321969-12342317
+
+Azhar, T. (2024). Hadith Isnad Study In The Discovery Of Islamic Law (Critique of the Thoughts of Goldziher and
+Schacht). Eduvest - Journal of Universal Studies. https://doi.org/10.59188/eduvest.v4i5.1292
+
+Budiman, A., Mu'in, F., & A’yun, Q. (2022). Dating of Hadith About Riba; The Reflection Theory of Isnad Cum Matn
+Analyzed by Harald Motzki. Takwil: Journal of Quran and Hadith Studies. https://doi.org/10.32939/twl.v1i1.1236
+
+Cahya, O., & Askar, R. (2025). Kajian Kualitas Hadits tentang Risywah dalam Perspektif Ulumul Hadits : Analisis
+Sanad dan Matan. Al-Tarbiyah : Jurnal Ilmu Pendidikan Islam. https://doi.org/10.59059/al-tarbiyah.v3i2.2247
+
+Dewi, R. S., & Mustafa, I. (2024). ANALISIS HADIS KOPI. DIRAYAH : Jurnal Ilmu Hadis.
+https://doi.org/10.62359/dirayah.v4i2.265
+
+Dozan, W., & Zuliyadain, Z. (2022). MATAN HADIS CRITICISM METHODOLOGY Comparative Analysis between
+                                    ḥ
+Muhammad Syuhudi Ismail and Mu ammad Al-Gazāliy. HUNAFA: Jurnal Studia Islamika.
+https://doi.org/10.24239/jsi.v19i1.656.120-140
+
+Evalinda, E., Marwan, A., Wulansari, I., & Nurani, D. (2025). KRITIK SANAD DAN MATAN HADITS-HADITS
+MASYHUR DI KALANGAN PARA DA’I: Hadits Rajab Bulan Allah, Rasulullah Saw Terlahir Sudah Dikhitan, dan
+Menuntut Ilmu ke Negeri China. Moderation | Journal of Islamic Studies Review.
+https://doi.org/10.63195/moderation.v5i1.128
+
+Gaanoun, K., & Alsuhaibani, M. (2022). Fabricated Hadith Detection: A Novel Matn-Based Approach With
+Transformer Language Models. IEEE Access, 10, 113330-113342. https://doi.org/10.1109/access.2022.3217457
+
+Hamid, A. F., Yahya, M., & Sakka, A. (2026). Dialektika Metodologis antara Otoritas Rawi dan Validitas Teks dalam
+Bingkai Naqd Al-Hadis. AL ISNAD: Journal of Indonesian Hadith Studies.
+https://doi.org/10.51875/alisnad.v7i1.1064
+
+Haque, F., Orthy, A. H., & Siddique, S. (2020). Hadith Authenticity Prediction using Sentiment Analysis and Machine
+Learning. 2020 IEEE 14th International Conference on Application of Information and Communication Technologies
+(AICT), 1-6. https://doi.org/10.1109/aict50176.2020.9368569
+
+Little, J. J. (2026). Beyond the Common Link. Comparative Islamic Studies. https://doi.org/10.1558/cis.28969
+
+Luthfi, E. T., Yusoh, Z. I. M., & Aboobaider, B. (2022). BERT based Named Entity Recognition for Automated Hadith
+Narrator Identification. International Journal of Advanced Computer Science and Applications.
+https://doi.org/10.14569/ijacsa.2022.0130173
+
+Maihula, J., & Abdulkadir, M. M. (2022). In-depth Analysis on the Methodology of Sanad and MatanCriticisms: The
+Perspective of Hadith Scholars. IAR Journal of Humanities and Social Science.
+https://doi.org/10.47310/iarjhss.2022.v03i01.008
+
+
+
+
+                                                       7 / 9
+Maulana, I., Hamdani, M. F., Syahnan, M., & A. (2026). Otentikasi Digital Hadis: Penerapan Kecerdasan Buatan
+dalam Analisis Isnād dan Matn Serta Penerapannya dalam Hukum Islam.. Riwayat: Educational Journal of History
+and Humanities. https://doi.org/10.24815/riwayat.v9i1.257
+
+Miftahul, S., Lumajang, M., & No, J. M. (2022). Authority And Hadith Research Methodology. Journal of Basic
+Education. https://doi.org/10.66171/2a4ctx81
+
+Mutammimah, B., Husni, M., & Sumbulah, U. (2023). Hadith Authentication Method: Concept, Application and
+Critique of Orientalist Skepticism. Religia. https://doi.org/10.28918/religia.v26i1.863
+
+Muttaqin, N., Budianto, L., Najmi, N., Sari, E. D., Handoyo, E., & Mughni, A. S. (2023). SANAD AND MATAN
+CRITICISM IN THE FRAMEWORK OF HADITH STUDIES. JIEBAR : Journal of Islamic Education: Basic and Applied
+Research. https://doi.org/10.33853/jiebar.v4i1.531
+
+Nahri, F. M. (2026). Analisis Pemikiran Harald Motzki Tentang Hadis – Hadis Hukum: Metodologi Isnad Cum Matn
+dan Implikasinya Pada Studi Otorisitas Hadis. JAWAMI'UL KALIM: Jurnal Kajian Hadis.
+https://doi.org/10.36701/jawamiulkalim.v4i1.2843
+
+Novera, M., & A'yun, V. Q. (2024). KRITIK SANAD DAN MATAN. DIRAYAH : Jurnal Ilmu Hadis.
+https://doi.org/10.62359/dirayah.v4i2.266
+
+Nuraini, N. (2024). Analyzing Hadith Sanad Validity: Steps to Assess Acceptance and Authenticity. El-Sunan:
+Journal of Hadith and Religious Studies. https://doi.org/10.22373/el-sunan.v2i1.5463
+
+Ozgur, A. M. (2026). Using Isnād-cum-Matn Analysis to Verify the Authenticity of the Transmission Process of
+Single Strands. Comparative Islamic Studies. https://doi.org/10.1558/cis.28933
+
+Pandika, Y., & Efendi, N. (2026). PROBLEM AUTENTISITAS HADIS DALAM KAJIAN KONTEMPORER. DIRAYAH :
+Jurnal Ilmu Hadis. https://doi.org/10.62359/dirayah.v6i02.1346
+
+Qarout, R., Al-Alawi, R. S. K., & Himdi, H. T. (2026). Automated Detection of Prophetic Hadith: Analyzing the
+Textual Content. 2026 International Conference on AI Innovations and Industry (ICAIII), 1-8.
+https://doi.org/10.1109/icaiii69475.2026.11521844
+
+R, R. N., & Ali, M. (2025). METODE KRITIK SANAD DAN MATAN HADIS. MAHAD ALY JOURNAL OF ISLAMIC
+STUDIES. https://doi.org/10.63398/pj6gjx91
+
+Rahman, D. (2025). The Importance of Al-Isnad in Hadith: An Overview. The Faculty Journal of Arts Rajshahi
+University. https://doi.org/10.64487/fjaru.v39a10
+
+Shaaban, M., Elshenawy, A., & El-Din, S. (2026). Prophetic Authorial Style Modeling for Detecting Fabricated
+Hadiths Using AraBERT. Journal of Computing & Biomedical Informatics.
+https://doi.org/10.56979/1002/2026/1315
+
+Sumaila, M., & I. (2025). KAIDAH SANAD HADIS. El-Mizzi : Jurnal Ilmu Hadis.
+https://doi.org/10.30603/em.v4i2.3388
+
+Sumbulah, U., Zarwaki, Z., & Huda, M. M. (2022). ISNAD CUM MATAN ANALYSIS SEBAGAI METODE
+OTENTIFIKASI HADIS NABI (ANALISIS PEMIKIRAN HADIS HARALD MOTZKI). Jurnal Studi Hadis Nusantara.
+https://doi.org/10.24235/jshn.v4i2.12990
+
+Tarmom, T., Atwell, E., & Alsalka, M. (2022). Deep Learning vs Compression-Based vs Traditional Machine Learning
+Classifiers to Detect Hadith Authenticity. 206-222. https://doi.org/10.1007/978-3-031-04447-2_14
+
+
+
+
+                                                       8 / 9
+                                                                             Ḍʿ            ḍʿ
+Taufiqurrohman, T., Palahudin, P., & Romlah, A. (2026). Methods of Critiquing aīf and Maw ū Hadith: Concepts,
+Methodology, and Its Application in Qur’anic Exegesis. Jurnal Semiotika-Q: Kajian Ilmu al-Quran dan Tafsir.
+https://doi.org/10.19109/jsq.v6i1.35040
+
+Wadjedy, M. F., & Ali, M. (2025). TAKHRIJ AL HADIS. MAHAD ALY JOURNAL OF ISLAMIC STUDIES.
+https://doi.org/10.63398/4x7kyv50
+
+
+
+
+                                                      9 / 9
+

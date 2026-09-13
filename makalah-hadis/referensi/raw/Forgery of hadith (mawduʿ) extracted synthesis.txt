@@ -1,0 +1,115 @@
+ 1   ## Forgery of hadith (mawduʿ): extracted synthesis
+ 2
+ 3   ### 1. Historical context
+ 4
+ 5   Hadith occupies a central position beside the Qur’an as a source of religious guidance
+     and law, so attribution to the Prophet carried legal, theological, and social authority
+     [^1]. The chronology of forgery is disputed. One line of scholarship argues that
+     deceptive attribution existed on a limited scale during the Prophet’s lifetime; another
+     places its emergence after the death of ʿUthman, when political conflict and sectarian
+     division intensified [^2]. The more specific early-history account links the major
+     expansion of fabrication to the conflict between ʿAli and Muʿawiyah and its continuation
+     through Umayyad and Abbasid political struggles [^2].
+ 6
+ 7   The early transmission environment was primarily oral, supported by personal notes rather
+      than an official, centralized written corpus. Formal state-sponsored collection is
+     described as beginning under ʿUmar ibn ʿAbd al-ʿAziz, roughly a century after the
+     Prophet’s death; the intervening gap created opportunities for both inaccurate
+     transmission and deliberate invention [^2]. As Islam expanded geographically, the need to
+      record transmitters, compare regional reports, and distinguish Prophetic teaching from
+     local or politically motivated material increased [^3].
+ 8
+ 9   ### 2. Causes
+10
+11   The literature identifies several overlapping motives:
+12
+13   - **Political legitimation:** competing factions used attributed reports to support
+     claims to authority, the caliphate, or the Imamate, and to discredit rivals [^4].
+14   - **Sectarian and theological conflict:** political disputes developed into rival Sunni,
+     Shiʿi, Kharijite, and other positions, creating incentives to attach doctrinal claims to
+     the Prophet [^2].
+15   - **Personal and material interests:** some fabricators used the Prophet’s name for
+     worldly gain or personal advantage [^5].
+16   - **“Constructive” religious zeal:** some reports were invented to encourage worship,
+     virtues, or moral conduct, even when the authors regarded the invention as beneficial;
+     others were intended to obscure or damage Islamic teaching [^2].
+17   - **Weak transmission conditions:** reliance on memory, limited early writing, long
+     chains, regional movement, and unknown or unreliable transmitters created opportunities
+     for distortion and later fabrication [^2][^6].
+18
+19   ### 3. Identification method
+20
+21   Classical hadith criticism uses a layered assessment rather than one decisive test. The
+     two core dimensions are:
+22
+23   1. **Sanad/isnad criticism:** scholars examine continuity of transmission, narrator
+     identity, reliability, truthfulness, memory, integrity, and biographical status. A
+     confession of fabrication is treated as especially strong evidence; other indicators
+     include a narrator known as a liar or fabricator, a contradictory claim of direct
+     transmission, a disconnected chain, or an unknown narrator [^6][^3].
+24   2. **Matn criticism:** scholars assess wording, meaning, coherence, compatibility with
+     established Qur’anic and hadith evidence, reason, history, and core religious principles.
+      Warning signs include bizarre or incoherent wording, implausible meaning, contradiction
+     with stronger evidence, indecent or sectarian content, absence from recognized source
+     collections, and disproportionate rewards or punishments for minor acts [^6].
+25
+26   Historical context is an additional safeguard. A case study in forged-hadith literature
+     argues that sanad and matn alone may not be sufficient: the circumstances in which a
+     report supposedly arose—its *sabab wurud*—must also be tested [^7]. The method therefore
+     combines **chain criticism, narrator criticism, textual criticism, corroboration, and
+     historical-context analysis** . This also explains why a report can be classified
+     differently by different critics: Ibn al-Jawzi’s method, for example, was influential but
+      has been characterized as comparatively strict and not fully consistent in all sampled
+     cases [^8].
+27
+28   ### 4. Key findings and preservation efforts
+29
+30   The central finding is that fabrication was treated as a serious threat precisely because
+      hadith could shape law, doctrine, and communal practice. Muslim scholars responded by
+     developing systematic controls over transmission and content rather than relying on
+     reputation or popularity alone [^3]. Preservation efforts included oral memorization,
+     written recording, collection and compilation, narrator biographies, comparison of
+     chains, classification into accepted and rejected categories, and dedicated books on
+     fabricated reports. The literature identifies works such as Ibn al-Jawzi’s *al-Mawduʿat*,
+      al-Suyuti’s *al-Laʾali al-Masnuʿah*, Ibn ʿIraq’s *Tanzih al-Shariʿah*, al-Shawkani’s
+     *al-Fawaʾid al-Majmuʿah*, and al-Albani’s *Silsilat al-Ahadith al-Daʿifah wa al-Mawduʿah*
+      as examples of this preservation tradition [^6].
+31
+32   Modern preservation extends these practices through critical editions, searchable digital
+      corpora, interdisciplinary historical analysis, and collaborative scholarship. Digital
+     access improves comparison and traceability, but it also accelerates circulation of
+     unverified quotations, so contemporary work still depends on the traditional evaluation
+     of isnad and matn [^3]. Overall, the strongest synthesis is that **mawduʿ identification
+     is cumulative and contextual** : a weak chain alone may establish a report as weak, but a
+     confident judgment of fabrication is strengthened by explicit confession, a demonstrably
+     fraudulent narrator, impossible transmission, textual contradiction, and lack of
+     historical or source support. The precise date when forgery began remains contested,
+     while the later expansion of politically and sectarianly motivated fabrication is widely
+     emphasized in the retrieved literature [^2].
+33
+34   [^1]: Muhammad, 2008. FABRICATION OF HADITH AND ITS CAUSES: AN APPRAISAL. ABU Law
+     Journal.
+35
+36   [^2]: Rozi, 2025. Embryonic Hadith Forgery at the Time of the Prophet. Al Qalam: Jurnal
+     Ilmiah Keagamaan dan Kemasyarakatan.
+37
+38   [^3]: Abdulrahman, 2024. Cultural and Social Influences on Hadith Classification: An
+     Analytical Study of Historical Transformations. Journal of Ecohumanism.
+39
+40   [^4]: Allaham & Yusupov, 2026. Political trends in the early Islamic period and their
+     impact on hadith fabrication. Minbar Islamic Studies.
+41
+42   [^5]: Ariffin & Ahmad, 2016. Fabricated Hadith: Unraveling Contradiction between Society
+     and Scholar towards Mutual Agreement.
+43
+44   [^6]: Kirin et al., 2022. [The Criteria of Hadith Mawdu’ in the Book of Silsilah
+     al-Ahadith al-Da’ifah wa al-Mawdu’ah by al-Albani] Kriteria Hadith Mawdu’ dalam Kitab
+     Silsilah al-Ahadith al-Da’ifah wa al-Mawdu’ah oleh al-Albani. Jurnal Islam dan Masyarakat
+      Kontemporari.
+45
+46   [^7]: Hamdan, 2015. Hadith-Kritik am Beispiel der mawḍūʿāt-Literatur.
+47
+48   [^8]: Fadlilah, 2015. HADITS MAUDHU’ PERSPEKTIF IBN AL-JAWZI (510-597 H./1116-1200 M) (
+     STUDI ANALISIS TERHADAP MANHAJ IBN AL-JAWZI DALAM MENETAPKAN KEPALSUAN HADITS PADA KITAB
+     AL-MAUDHU’AT).
+

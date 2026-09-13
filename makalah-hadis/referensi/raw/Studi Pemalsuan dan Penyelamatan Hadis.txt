@@ -1,0 +1,577 @@
+Laporan Riset Mendalam: Dinamika
+Pemalsuan Hadis, Motif Historis, dan
+Metodologi Penyelamatan dari Era Klasik
+hingga Era Digital
+Pendahuluan
+Hadis, yang secara etimologis bermakna berita atau perkataan, merujuk pada seluruh tradisi
+lisan dan tulisan yang berisi perkataan (qawl), perbuatan (fi'l), serta persetujuan diam-diam
+(taqrir) dari Nabi Muhammad SAW. Dalam arsitektur epistemologi Islam, hadis menempati
+posisi sentral sebagai sumber otoritas hukum, teologi, dan etika kedua setelah Al-Qur'an1.
+Signifikansi hadis tidak hanya terletak pada fungsinya sebagai penjelas (bayan) bagi ayat-ayat
+Al-Qur'an yang bersifat global, melainkan juga sebagai landasan independen dalam
+menetapkan jurisprudensi (fikih) dan panduan moral umat Islam4. Mengingat perannya yang
+sangat krusial, otentisitas setiap riwayat yang disandarkan kepada Nabi Muhammad SAW
+senantiasa menjadi subjek pengawasan dan kritik yang amat ketat oleh para sarjana Islam sejak
+abad-abad awal pembentukan kalender Hijriah.
+Struktur sebuah hadis secara fundamental ditopang oleh dua komponen utama yang tidak
+terpisahkan: rantai transmisi para periwayat atau sanad (isnad), dan teks inti atau konten dari
+pesan tersebut yang disebut matan (matn)2. Terkadang, frasa pembuka dari matan juga
+diklasifikasikan secara spesifik sebagai taraf7. Validitas atau kesahihan sebuah hadis
+sepenuhnya bergantung pada reliabilitas komponen-komponen ini, khususnya integritas dan
+daya ingat para narator yang membentuk mata rantai transmisi, serta ketiadaan cacat
+tersembunyi ('illat) pada matannya6.
+Namun, bentangan ruang dan waktu antara masa kehidupan Rasulullah SAW dan era kodifikasi
+hadis secara sistematis pada abad kedua dan ketiga Hijriah telah menciptakan celah kerawanan
+yang dieksploitasi oleh berbagai pihak. Dinamika sosiopolitik yang penuh gejolak melahirkan
+fenomena pemalsuan hadis, yang menghasilkan apa yang dalam terminologi teknis disebut
+sebagai hadis maudu'11. Hadis maudu' secara definitif adalah riwayat palsu yang direkayasa,
+diciptakan dari ketiadaan, dan secara dusta disandarkan kepada Nabi Muhammad SAW,
+padahal beliau tidak pernah memformulasikan ucapan atau melakukan tindakan sebagaimana
+yang diklaim oleh para fabrikator tersebut3.
+Kemunculan hadis palsu ini diidentifikasi oleh para ulama klasik dan akademisi modern bukan
+sekadar sebagai anomali literatur marginal, melainkan sebagai krisis teologis berskala masif
+yang mengancam untuk mendistorsi kemurnian ajaran Islam dari dalam1. Seluruh konsensus
+ulama (ijma') menetapkan fatwa pengharaman yang mutlak terhadap tindakan meriwayatkan
+atau mentransmisikan hadis maudu' tanpa disertai penjelasan eksplisit mengenai status
+kepalsuannya kepada audiens12. Merespons krisis ini, sejarah intelektual Islam menyaksikan
+evolusi panjang metodologi purifikasi yang sangat canggih. Dimulai dari perumusan ilmu jarh
+wa ta'dil (kritik biografi perawi) dan takhrij (penelusuran sumber genetik hadis) di era klasik,
+berlanjut pada pendekatan isnād-cum-matn analysis (ICMA) di era modern, hingga adopsi
+masif teknologi komputasi, Machine Learning, dan arsitektur Large Language Models (LLMs)
+untuk mengotomatisasi deteksi kepalsuan di era digital17.
+Laporan riset analitis ini menguraikan secara mendalam dan sistematis lima pilar utama
+diskursus pemalsuan hadis: genealogi sejarah fabrikasi dari era kenabian hingga kritik modern,
+taksonomi motif struktural yang mendasari pemalsuan, evolusi kriteria identifikasi maudu'
+menurut ulama klasik dan modern, arsitektur metodologi penyelamatan (takhrij dan jarh wa
+ta'dil), serta disrupsi dan inovasi algoritmik dalam menangani krisis misinformasi religius di era
+digital.
+1. Genealogi dan Sejarah Pemalsuan Hadis: Dari Era
+Kenabian hingga Era Modern
+Sejarah kemunculan hadis maudu' merupakan subjek historiografi yang memicu perdebatan
+dialektis yang sangat intens di kalangan sejarawan, muhaddithin (ahli hadis), dan orientalis.
+Perdebatan utama bermuara pada upaya menetapkan titik nol kronologis (ground zero) dari
+dimulainya fenomena fabrikasi riwayat-riwayat kenabian.
+Perdebatan mengenai masa hidup Nabi Muhammad SAW sebagai titik awal pemalsuan
+didasarkan pada interpretasi atas beberapa riwayat historis. Terdapat kelompok kecil yang
+meyakini bahwa pemalsuan telah terjadi secara insidental ketika Rasulullah SAW masih hidup.
+Argumentasi ini bersandar pada keberadaan peringatan keras dari Nabi sendiri yang terekam
+dalam hadis mutawatir: "Barang siapa berdusta atas namaku dengan sengaja, maka hendaklah
+ia menyiapkan tempat duduknya di neraka"3. Sejumlah pemikir dan akademisi, seperti Ahmad
+Amin dan Salah al-Din al-Adlabi, berpendapat bahwa rumusan ancaman seberat itu secara
+sosiologis mencerminkan respons reaktif terhadap sebuah kejahatan pemalsuan bermotif
+keduniawian yang secara empiris telah terjadi atau setidaknya tengah diupayakan pada masa
+tersebut11.
+Meskipun demikian, pandangan tersebut secara metodologis ditolak oleh mayoritas besar
+ulama (jumhur). Analisis filologis dan historis yang lebih ketat menunjukkan bahwa
+riwayat-riwayat spesifik yang mengisahkan terjadinya pemalsuan pada masa Nabi—seperti
+kisah seseorang yang mengklaim diutus Nabi untuk mengambil keputusan di suatu
+kabilah—memiliki kelemahan sanad yang fatal dan identitas pelakunya tidak jelas11. Jumhur
+ulama menegaskan bahwa ekosistem transmisi informasi pada era Nabi, dan berlanjut hingga
+kepemimpinan Abu Bakar serta awal kekhalifahan Umar bin Khattab, sangatlah steril dari
+fabrikasi masif. Hal ini dijamin oleh kedekatan kronologis para sahabat dengan sumber wahyu,
+tingginya pengawasan internal komunitas, serta integritas moral absolut para sahabat yang
+diyakini akan secara kolektif membongkar dan mengecam sekecil apa pun upaya distorsi atas
+nama otoritas tertinggi mereka11.
+Titik demarkasi atau batas pemisah struktural antara era kemurnian transmisi hadis dan era
+fabrikasi terstruktur adalah tragedi sosiopolitik yang dikenal sebagai Al-Fitnah Al-Kubra (Fitnah
+Besar). Peristiwa ini mencapai puncaknya dengan pembunuhan Khalifah Utsman bin Affan, yang
+serta-merta mengakhiri konsolidasi umat dan melahirkan perang saudara antara faksi Ali bin
+Abi Thalib dan faksi Muawiyah bin Abi Sufyan11. Vakum kekuasaan dan krisis legitimasi ini
+memicu kristalisasi faksi-faksi politik-teologis radikal, terutama embrio kaum Syiah yang fanatik
+terhadap garis keturunan Ali, serta kaum Khawarij yang menentang kedua belah pihak11.
+Ketika faksi-faksi dominan ini berupaya mencari dasar teologis untuk membenarkan narasi
+politik dan agenda militer mereka, sering kali mereka tidak menemukan dukungan tekstual yang
+eksplisit dari Al-Qur'an maupun hadis sahih yang telah ada. Frustrasi doktrinal ini mendorong
+faksi-faksi tersebut untuk merekayasa atau mensintesis hadis-hadis palsu secara sengaja demi
+menjustifikasi posisi mereka dan meruntuhkan legitimasi lawan11. Dalam konstelasi ini, Irak
+(khususnya pusat-pusat intelektual dan politik seperti Kufah dan Basrah) bertransformasi
+menjadi basis produksi hadis palsu terbesar di dunia Islam pada abad pertama. Keparahan
+situasi di Irak sedemikian rupa sehingga otoritas hukum seperti Imam Malik bin Anas di Madinah
+menetapkan kaidah kewaspadaan ekstrem; beliau menyarankan agar umat memperlakukan
+riwayat-riwayat dari Irak analog dengan riwayat kaum Ahl al-Kitab—tidak boleh langsung
+dibenarkan namun juga tidak patut langsung didustakan tanpa proses verifikasi independen
+yang berlapis11. Kesadaran akan meluasnya infiltrasi informasi ini juga mendorong Khalifah Ali
+bin Abi Thalib di medan Perang Siffin untuk memperingatkan pasukannya akan keberadaan
+kelompok yang secara sengaja mencederai integritas sabda Nabi12.
+Memasuki abad kedua dan ketiga Hijriah—bertepatan dengan konsolidasi Dinasti Umayyah dan
+transisi menuju Dinasti Abbasiyah—fenomena pemalsuan tidak lagi terbatas pada urusan
+politik, melainkan meluas menjadi industri fabrikasi yang termotivasi oleh penyebaran sekte
+teologis (seperti Murji'ah, Qadariyah, Jabariyah) serta perebutan supremasi di antara
+mazhab-mazhab fikih12. Skala produksi hadis palsu semakin tidak terkendali dengan munculnya
+fenomena penceramah jalanan atau pendongeng (qussas). Para pendongeng ini
+mengapitalisasi kerinduan massa terhadap kisah-kisah eskatologis yang bombastis dengan
+memproduksi hadis-hadis dramatis demi mendulang popularitas dan dukungan finansial12.
+Sebagai respons imunitas terhadap pandemi kepalsuan ini, generasi mutaqaddimin (ulama
+klasik awal) mengkristalkan metode pengawasan ketat dengan mewajibkan setiap perawi untuk
+mendeklarasikan jaringan sanad mereka. Tradisi kodifikasi massal dimulai, metode kritik perawi
+distandarisasi secara rigor, dan kompendium-kompendium awal yang khusus membongkar
+koleksi hadis palsu mulai dipublikasikan secara meluas2.
+Di ranah keilmuan era modern, historiografi pemalsuan hadis mendapatkan tantangan
+dekonstruktif yang masif dari gerakan orientalisme Barat. Tokoh-tokoh seperti Ignaz Goldziher,
+David Samuel Margoliouth, dan Joseph Schacht merumuskan hipotesis yang meragukan secara
+fundamental keaslian seluruh korpus hadis hukum Islam21. Schacht, melalui magnum opusnya,
+mengembangkan dua teori yang sangat berpengaruh: Projecting Back (Proyeksi ke Belakang)
+dan Common Link (Tautan Umum). Menurut kerangka analitik Schacht, hampir tidak ada
+satupun hadis hukum yang secara otentik bersumber dari Nabi. Ia berargumen bahwa
+hadis-hadis tersebut sesungguhnya adalah produk tradisi lokal, preseden regional, dan
+yurisprudensi para ulama Tabi'in di abad kedua Hijriah, yang demi mendapatkan legitimasi
+ilahiah, "diproyeksikan kembali" ke masa lalu dengan menyambungkan sanad palsu hingga ke
+sahabat dan Nabi21. Menurut kaum orientalis periode ini, melimpahnya variasi sanad dan matan
+hadis justru merupakan manifestasi empiris dari tingginya tingkat pemalsuan dan manipulasi
+oleh tokoh-tokoh awal Islam, dan bukan bukti dari pelestarian teks21.
+Namun, hipotesis orientalis radikal ini menuai bantahan metodologis yang sangat kuat, baik dari
+kalangan ulama tradisional maupun pakar studi Islam Barat moderat. Nabia Abbott, misalnya,
+memberikan sanggahan melalui analisis kuantitatif pertumbuhan geometrik; ia menunjukkan
+bahwa keberadaan puluhan ribu riwayat pada abad ketiga adalah hasil alami dari fenomena di
+mana satu hadis yang dicatat secara tertulis di era sahabat diajarkan kepada berbagai Tabi'in
+yang menyebar ke seluruh wilayah kekhalifahan Islam21. Multiplikasi sanad karenanya
+membuktikan stabilitas transmisi, bukan fabrikasi21. Di era yang lebih kontemporer, sarjana
+seperti Harald Motzki menginisiasi pendekatan isnad-cum-matn analysis (ICMA). Metodologi ini
+berhasil membuktikan bahwa rekonstruksi jalur-jalur transmisi silang dari berbagai geografi
+yang berbeda sering kali mengarah pada satu sumber primer di abad pertama Hijriah, jauh
+sebelum masa yang dituduhkan oleh Schacht sebagai era fabrikasi massal17. Keberhasilan
+metode historis modern ini secara efektif mementahkan asumsi orientalis bahwa sunah Nabi
+merupakan rekayasa belaka.
+2. Anatomi Motif di Balik Pemalsuan Hadis
+Kehadiran puluhan ribu hadis palsu dalam perbendaharaan literatur klasik membuktikan bahwa
+fabrikasi ini tidak lahir dari insiden terisolasi, melainkan merupakan instrumen sosial-politik yang
+dimanfaatkan secara sistematis. Berdasarkan literatur takhrij dan sejarah, dorongan yang
+melatarbelakangi pemalsuan ini sangat kompleks dan bervariasi, berkisar dari konspirasi tingkat
+tinggi hingga kenaifan religius yang sesat12. Terdapat lima konstelasi motif utama yang
+membentuk anatomi pemalsuan hadis:
+Pertama adalah motif politik sektarian dan konflik kekuasaan, yang merupakan pemicu sejarah
+yang paling destruktif13. Setelah terpecahnya umat Islam, faksi-faksi menggunakan hadis
+sebagai senjata propaganda untuk menciptakan legitimasi ilahiah atas kekuasaan mereka.
+Kelompok ekstrem Syi'ah dan Rafidhah sering dicatat sebagai pionir dalam pembuatan ribuan
+hadis yang mengkultuskan sosok Ali bin Abi Thalib dan merendahkan sahabat-sahabat lain12.
+Salah satu arsitek fabrikasi ini, Abdullah bin Saba', diklaim merekayasa hadis yang
+mendoktrinkan bahwa setiap Nabi harus memiliki penerima wasiat eksklusif, dan penerima
+wasiat tersebut adalah Ali12. Sebagai reaksi balasan, faksi pro-Umayyah menciptakan
+riwayat-riwayat yang memuji keutamaan dan kesucian tanah Syam (pusat kekuasaan Umayyah)
+beserta para pemimpinnya16. Bahkan, friksi antaretnis pasca penaklukan wilayah (Futuhat)
+melahirkan sentimen kebangsaan di mana kelompok Arab, Persia, dan Romawi saling
+merendahkan silsilah genetik lawan menggunakan hadis yang disandarkan pada Nabi16.
+Kedua adalah sentimen fanatisme teologis dan pertarungan mazhab fikih. Seiring bergulirnya
+waktu, perdebatan beralih dari ranah kepemimpinan politik menuju ranah pemikiran kalam dan
+perincian hukum peribadatan12. Pengikut ekstrem dari teologi tertentu atau suatu mazhab tidak
+ragu untuk merangkai sabda-sabda palsu guna memenangkan debat epistemologis melawan
+kubu lain atau sekadar menguatkan hasil ijtihad imam mereka13. Sentimen fanatisme buta
+(scholastic fanaticism) ini menghasilkan hadis-hadis palsu yang sangat preskriptif, seperti
+kutukan spesifik terhadap tata cara ibadah mazhab lain. Sebagai contoh, beredar hadis palsu
+yang menyatakan bahwa ibadah salat menjadi batal jika seseorang mengangkat
+tangannya—sebuah rekayasa yang jelas ditujukan untuk menyerang mazhab yang
+mempraktikkan gerakan tersebut13.
+Ketiga adalah motif yang paling bersifat paradoksal: niat baik yang diimplementasikan secara
+manipulatif (Targhib wa Tarhib)3. Sebagian besar dari para pemalsu hadis justru merupakan
+kalangan ahli ibadah, kaum zuhud, dan pendakwah yang khawatir melihat umat Islam mulai
+terbuai oleh materialisme dan menjauhi Al-Qur'an. Dengan maksud mulia, mereka mengarang
+hadis-hadis targhib yang memberikan iming-iming pahala yang sangat tidak proporsional untuk
+ibadah ringan, serta hadis tarhib yang berisi ancaman siksa eskatologis yang mencekam untuk
+pelanggaran sepele13. Para fabrikator ini merasionalisasi pelanggaran mereka dengan logika
+teologis yang cacat: mereka berpendapat bahwa mereka memalsukan hadis "untuk kebaikan
+Nabi dan umat", bukan berdusta "terhadap" atau untuk merugikan Nabi13. Hadis-hadis dari
+golongan ini dianggap yang paling persisten dan berbahaya, karena penampilan saleh para
+pemalsunya membuat masyarakat awam menelan riwayat mereka secara mentah-mentah3.
+Contoh fenomenalnya adalah fabrikasi keutamaan eksesif untuk setiap surat Al-Qur'an, seperti
+hadis maudu' tentang pahala membaca Surah Yasin yang diklaim setara dengan membaca
+seluruh Al-Qur'an sepuluh kali lipat13.
+Keempat adalah motif pragmatisme keduniawian, upaya mencari muka di hadapan penguasa,
+dan kepentingan ekonomi komersial11. Beberapa oportunis menyusun hadis palsu secara
+spontan demi mendapatkan perlindungan, hadiah, atau posisi dari elite pemerintah. Fragmen
+sejarah yang terkenal mencatat kisah Ghiyats bin Ibrahim, yang ketika menghadap Khalifah
+Al-Mahdi yang sedang asyik bermain adu merpati, secara instan menyisipkan kata "merpati" ke
+dalam teks hadis sahih tentang perlombaan yang dibolehkan syariat. Meskipun sang khalifah
+awalnya merasa tersanjung, ia segera menyadari kepalsuan tersebut, mengecam Ghiyats, dan
+memerintahkan agar merpati-merpatinya disembelih karena telah memicu kebohongan atas
+nama agama11. Dari perspektif ekonomi, para penceramah menggunakan narasi-narasi
+dramatis buatan untuk memukau massa dan menghimpun sedekah, sementara sebagian
+pedagang menggunakan hadis sebagai materi iklan (endorsement). Misalnya, Muhammad bin
+al-Hajjaj al-Lakhmi memalsukan hadis bahwa "mengonsumsi kue kering dapat menguatkan
+tulang punggung" murni untuk meningkatkan penjualan kue komersialnya14.
+Motif kelima, dan yang paling subversif, adalah infiltrasi destruktif oleh kaum Zindiq (heretik)
+dan hipokrit12. Kelompok ini mendapati bahwa mereka tidak dapat mengalahkan dominasi
+peradaban Islam melalui konfrontasi militer konvensional, sehingga mereka melancarkan
+perang asimetris dari dalam. Dengan berpura-pura memeluk Islam, mereka menciptakan ribuan
+hadis yang membingungkan logika, merusak doktrin akidah, dan menghalalkan perkara yang
+diharamkan secara absolut12. Seorang agen zindiq terkemuka, Abdul Karim al-Auja, sesaat
+sebelum dieksekusi mati oleh otoritas Islam, mengaku dengan bangga bahwa ia telah sukses
+mendistribusikan 4.000 hadis palsu ke dalam perbendaharaan literatur masyarakat12.
+Untuk memvisualisasikan kompleksitas motif ini secara lebih terstruktur, tabel berikut
+mensintesis kategorisasi motif pemalsuan beserta manifestasinya:
+ Kategori Motif Utama            Karakteristik dan Tujuan        Basis Eksekusi & Contoh
+                                 Pemalsuan                       Historis
+
+
+ Politik & Sektarian             Legitimasi kekuasaan,           Dikembangkan oleh faksi
+                                 peninggian figur pemimpin       Syiah ekstrem (Ibn Saba')
+                                 sekte, dan perendahan           dan pendukung Umayyah.
+                                 lawan politik atau rasial.      Berpusat pada
+                                                                 pengkultusan individu atau
+                                                                 wilayah politik12.
+
+ Fanatisme                       Menjustifikasi pendapat         Rekayasa hukum tata cara
+ Mazhab/Teologi                  fikih atau pandangan            peribadatan (contoh: haram
+                                 teologis suatu kelompok         mengangkat tangan saat
+                                 untuk memenangkan debat         salat) untuk menyerang
+                                 akademik.                       ajaran mazhab lawan13.
+
+ Targhib wa Tarhib (Zuhud)       Upaya menakut-nakuti            Dilakukan kaum zuhud.
+                                 umat dari dosa dan              Mengklaim pahala
+                                 memotivasi ibadah massal        membaca Surah Yasin
+                                 melalui janji pahala tak        setara dengan
+                                 rasional.                       mengkhatamkan Al-Qur'an
+                                                                 10 kali13.
+
+ Oportunisme                     Usaha mencari muka              Kasus Ghiyats bin Ibrahim
+ Ekonomi/Sosial                  (penjilat penguasa), validasi   (merpati khalifah) dan
+                                 produk komersial, atau          pedagang kue al-Lakhmi
+                                 memukau massa demi              yang memalsukan hadis
+                                 sumbangan.                      demi larisnya dagangan11.
+
+ Subversi Ideologis              Menghancurkan pilar             Eksploitasi 4.000 hadis
+ (Zindiq)                        akidah Islam dari dalam         maudu' oleh Abdul Karim
+                                 melalui penanaman doktrin       al-Auja untuk
+                                 rasional yang merusak           memutarbalikkan
+                                 (heresi).                       parameter halal dan
+                                                                 haram12.
+
+3. Epistemologi Identifikasi: Kriteria Hadis Maudu'
+Menurut Ulama Klasik dan Sarjana Modern
+Mengidentifikasi sebuah riwayat palsu yang telah berbaur dengan tradisi asli selama
+berabad-abad membutuhkan perumusan seperangkat kriteria investigasi yang presisi.
+Sepanjang evolusinya, kriteria ini telah disempurnakan melalui konvergensi pendekatan klasik
+yang berbasis kritik transmisi historis dan pendekatan modern yang mengintegrasikan
+penalaran multidisipliner2.
+Ulama klasik merancang arsitektur kritik menjadi dua parameter utama: evaluasi eksternal
+terhadap jaringan periwayat (Kritik Sanad) dan evaluasi internal terhadap semantik dan logika
+dari klaim pesan tersebut (Kritik Matan)2. Dalam parameter kritik sanad, sebuah hadis secara
+otomatis divonis maudu' apabila setidaknya salah satu perawi di dalam silsilah sanadnya
+memiliki rekam jejak sebagai pendusta (kadhdhab) akut, atau ketika perawi tersebut secara
+sukarela mengakui di akhir hayatnya bahwa ia telah memalsukan hadis-hadis tertentu3. Kriteria
+lain yang sangat menentukan di bidang sanad adalah anakronisme historis; misalnya, jika
+seorang perawi mengklaim telah mendengar langsung dari seorang guru di sebuah kota,
+namun data biografis (tanggal wafat, kronologi perpindahan geografis) membuktikan bahwa
+keduanya hidup pada rentang zaman yang berbeda atau mustahil saling bersinggungan secara
+fisik, maka riwayat tersebut gugur3. Gejala keterasingan (tafarrud) juga menjadi pertanda
+bahaya, di mana sebuah isu syariat yang seharusnya masif dan diketahui publik luas secara
+tiba-tiba diklaim bersumber dari riwayat satu-satunya perawi yang integritasnya meragukan14.
+Secara bersamaan, di bidang kritik matan, kepalsuan diidentifikasi berdasarkan parameter
+substansi. Jika kandungan teks bertabrakan secara diametral dengan pilar mutlak ajaran
+Islam—seperti bertentangan nyata dengan nas Al-Qur'an, Hadis Mutawatir (hadis yang secara
+absolut tidak mungkin salah), atau konsensus ulama (Ijma')—tanpa ada ruang kompromi
+teologis, teks tersebut ditolak1. Ketidakcocokan rasional juga diterapkan; ulama klasik secara
+konsisten menolak hadis yang melanggar logika akal sehat paling mendasar atau data
+pancaindera yang terbukti (kecuali terkait hal-hal eskatologis murni)1. Lebih lanjut, redaksi yang
+mengandung promosi berlebihan terhadap suku, ras, kota tertentu, janji pahala ganjil yang tidak
+proporsional, atau memuat cacat linguistik dan tata bahasa Arab yang sangat buruk (rakkah
+al-lafz)—yang sangat tidak mencerminkan kefasihan agung Rasulullah SAW—dianggap sebagai
+indikator utama dari campur tangan fabrikator1.
+Di era modern dan kontemporer, kriteria identifikasi klasik tetap diakui sebagai landasan
+operasional yang paling andal24. Namun, para pakar studi hadis modern berupaya memperluas
+horison analitik tersebut dengan memasukkan paradigma intertekstual yang lebih
+komprehensif. Sebagaimana dicatat oleh intelektual seperti Nasr Hamid Abu Zayd, pendekatan
+sejarah modern dapat berjalan selaras dengan metodologi ulama tradisional asalkan dilakukan
+dengan objektivitas ilmiah yang tidak bias3. Di samping analisis sanad dan matan yang sempit,
+sarjana kontemporer memanfaatkan temuan-temuan lintas disiplin—termasuk validasi
+berdasarkan ilmu sosiologi, sejarah peradaban, antropologi, dan sains modern—untuk
+mengungkap motivasi sosiopolitik struktural di balik penemuan teks di abad pertama dan
+kedua Hijriah6. Integrasi ini mengubah deteksi hadis maudu' dari yang awalnya semata-mata
+bersifat validasi dokumenter linier menjadi pembongkaran rekonstruktif atas konteks lahirnya
+narasi agama25.
+
+
+ Dimensi Pendekatan               Fokus Indikator Kepalsuan        Metodologi Evaluasi
+ Kritik Sanad (Eksternal)        Pengakuan pemalsuan,             Memanfaatkan ilmu Rijal
+                                 cacat moral narator              al-Hadis dan penanggalan
+                                 (kadhdhab), anakronisme          biografis untuk
+                                 tanggal wafat/pertemuan,         menverifikasi integritas
+                                 dan kejanggalan rute             transmisi3.
+                                 geografis (tafarrud).
+
+
+ Kritik Matan (Internal)         Kontradiksi dengan               Analisis komparatif
+                                 Al-Qur'an/logika, tata           linguistik dan pencocokan
+                                 bahasa rancu (rakkah             silang nas-nas absolut
+                                 al-lafz), ganjaran               tanpa ruang kompromi
+                                 berlebihan, dan promosi          (ta'wil)1.
+                                 partisan sempit.
+
+
+ Kritik Multi-Disiplin           Ketidakcocokan teks              Pendekatan konstruktivis
+ (Modern)                        dengan fakta empiris             sosiologis, analisis
+                                 medis, sosiologis, dan           intertekstual menggunakan
+                                 antropologi politik periode      kerangka ilmu sains
+                                 umayyah/abbasiyah awal.          kontemporer3.
+
+
+4. Arsitektur Metodologi Penyelamatan Tradisional:
+Takhrij dan Jarh wa Ta'dil
+Untuk mengeksekusi kriteria-kriteria di atas dalam praksis historisnya, peradaban keilmuan
+Islam membangun dua cabang metodologi yang amat teknis dan presisi: Takhrij al-Hadis dan
+Jarh wa Ta'dil. Metodologi perlindungan epistemologis ini sering dinilai sebagai pionir dalam
+disiplin metode penelitian historis yang melampaui kerangka keilmuan di masanya2.
+Metodologi pertama, Takhrij al-Hadis, berakar pada upaya ekstraksi asal-usul sumber. Secara
+definitif, takhrij adalah sebuah protokol penelusuran sistematis untuk mengidentifikasi
+keberadaan suatu hadis, mengembalikannya pada sumber primer atau literatur-literatur asal
+(seperti Kutub al-Sittah, Musnad Ahmad, dan ratusan kompilasi awal lainnya), memaparkan
+seluruh ragam rantai sanadnya yang komprehensif dari berbagai penjuru, dan diakhiri dengan
+penetapan status validitasnya6. Fungsi sentral takhrij adalah mencegah pencaplokan sepihak
+atau pemotongan narasi6. Tanpa takhrij, sebuah hadis mungkin terlihat memiliki rujukan matan
+yang tunggal dan meyakinkan, tetapi melalui pemetaan jalur transmisi (turuq) yang luas, peneliti
+dapat mengungkap mutasi, tambahan kata fiktif (idraj), atau kelalaian struktural dalam
+perpindahan informasi di lintas wilayah geografis yang berbeda6.
+Pilar metodologi yang kedua adalah ilmu Al-Jarh wa Al-Ta'dil (Kritik Perawi). Pada dasarnya, ini
+adalah sistem pelaporan investigatif yang memeriksa kelayakan individu yang mengangkut
+pesan ilahiah. Terminologi al-Jarh merepresentasikan kritik negatif (pencelaan atau penolakan
+integritas), sedangkan al-Ta'dil adalah rekomendasi positif atau pujian yang mevalidasi keadilan
+perawi2. Pelaksanaan kritik ini sama sekali tidak didorong oleh sentimen pembunuhan karakter
+atau niat meninggikan status keluarga klan tertentu, melainkan semata-mata difungsikan
+sebagai sistem imunitas epistemologis untuk melindungi kesucian wahyu Islam dari infiltrasi
+manipulasi14.
+Untuk memastikan validitas perawi, parameter Jarh wa Ta'dil menetapkan dua syarat uji
+kualifikasi yang luar biasa ketat. Pertama adalah 'adalah (integritas moral dan ortodoksi agama).
+Perawi harus memiliki rekam jejak publik sebagai figur yang bersih dari kefasikan, menjauhi
+dosa-dosa besar, dan menjaga muruah kehormatan sosial (tidak berkelakuan amoral yang
+menjatuhkan kredibilitas saksi)2. Kedua adalah uji dabt (akurasi hafalan dan presisi
+dokumentasi). Kealiman seorang tokoh tidak dengan sendirinya membuat hadisnya diterima
+jika ia menderita kemerosotan daya ingat (su' al-hifz), sering meriwayatkan teks secara keliru,
+atau ceroboh dalam menyimpan catatan aslinya dari potensi sabotase muridnya. Kekurangan
+mendasar dalam elemen dabt atau 'adalah akan memicu penurunan derajat hadis secara
+drastis, berisiko menjadikannya riwayat matruk (ditinggalkan) hingga maudu'2.
+Sebagai upaya harmonisasi antara rigoritas pendekatan klasik dan tuntutan diskursus akademi
+modern, metode keilmuan mutakhir merangkul apa yang disebut analisis Isnād-cum-Matn
+(ICMA). Metodologi hibrida ini dirumuskan dan diterapkan secara masif oleh cendekiawan Barat
+kontemporer seperti Harald Motzki17. Alih-alih mengevaluasi sanad dan matan sebagai dua
+entitas yang terisolasi, ICMA menyilangkan analisis varian filologis pada matan dengan rute
+distribusi geografis pada jaringan sanad. Metodologi ini berhasil membuktikan bahwa
+rekonstruksi jalur silang berbagai manuskrip sering kali bertemu secara konvergen pada tokoh
+kunci (Tautan Umum) di awal abad pertama Hijriah17. Keberhasilan ICMA menunjukkan bahwa
+arsitektur transmisi awal sungguh-sungguh terjaga secara organik, membuktikan stabilitas
+transmisi hadis sebelum terjadinya fabrikasi massal di abad berikutnya.
+5. Transformasi Era Digital: Krisis Media Sosial dan
+Intervensi Arsitektur Komputasional
+Lanskap sirkulasi hadis dan wacana teologi Islam mengalami disrupsi paling dramatis dalam
+rentang waktu sepuluh tahun terakhir (2015-2026). Migrasi pola komunikasi dari perpustakaan
+dan institusi akademik menuju ekosistem digital partisipatif telah menghancurkan mekanisme
+"penjaga gerbang" (gatekeeping) otoritas fatwa. Kecepatan transmisi tanpa kontrol ini telah
+menciptakan gelombang replikasi hadis palsu baru, dengan dampak struktural yang menyaingi
+epos fabrikasi abad pertama Hijriah1.
+Di media sosial (seperti X/Twitter, WhatsApp, dan Facebook), masyarakat secara massal
+membagikan teks-teks keagamaan yang memuat hadis maudu' tanpa referensi sanad yang
+transparan1. Penyebaran organik ini seringkali bukan digerakkan oleh niat buruk, melainkan oleh
+literasi keagamaan yang sempit, pencarian identitas, dan sentimen fanatisme (targhib)1. Riset
+psikososial terhadap sirkulator misinformasi religius di ruang digital menemukan paradoks yang
+menarik: penyebar berita bohong kerap kali merupakan individu yang merasa sedang berjuang
+menegakkan agama1. Hal ini menuntut adanya penerapan kode etik digital Islami (Fiqh of
+Information); sebuah keharusan tabayyun yang mewajibkan penundaan sharing, validasi
+sumber sebelum melakukan copy-paste, serta keberanian etis untuk memublikasikan klarifikasi
+jika terlanjur mendistribusikan hadis yang cacat otentisitasnya1.
+Di sisi lain, ledakan volume data korpus ini telah mendorong adopsi teknologi Artificial
+Intelligence (AI) dan Machine Learning (ML) untuk membongkar misinformasi secara
+komputasional. Kolaborasi lintas disiplin antara ilmuwan data dan pakar keagamaan secara
+agresif mempublikasikan literatur teknis yang membuktikan keberhasilan pengklasifikasian
+hadis secara otomatis (2018-2026)17.
+Perkembangan metode autentikasi digital ini berevolusi melalui tiga tahap arsitektur utama:
+   1.​ Model Prediktif Berbasis NLP Klasik: Pendekatan awal memanfaatkan teknik ekstraksi
+        Term Frequency-Inverse Document Frequency (TF-IDF) yang diaplikasikan baik pada teks
+        matan maupun nama-nama pada rantai isnad. Kata atau nama dalam struktur hadis
+        diposisikan layaknya fitur analitik dalam sentimen data. Model tradisional seperti Support
+        Vector Machine (SVM), Decision Trees, dan Naive Bayes digunakan untuk menghitung
+        probabilitas matematis dari kesahihan riwayat, dan terbukti mampu mendeteksi pola
+        anomali dengan akurasi klasifikasi berkisar antara 86% hingga 94%7.
+   2.​ Pemodelan Jaringan dengan Graph Neural Networks (GNN): Mengingat sanad pada
+        dasarnya adalah topologi relasi antar manusia lintas waktu dan ruang, ilmuwan data mulai
+        memodelkannya menggunakan arsitektur jaringan grafis kompleks. Setiap narator
+        divisualisasikan sebagai titik node dan transmisi sebagai edge. Analisis sentralitas pada
+        GNN mampu mengidentifikasi keterputusan relasional historis, pertemuan anomali antar
+        narator yang mustahil bersinggungan, hingga melokalisasi episentrum pemalsu dalam
+        miliaran kombinasi transmisi hadis7.
+   3.​ Era Transformasi Deep Learning dan Model Bahasa Besar (LLM): Puncak revolusi
+        digitalisasi studi hadis ditandai dengan integrasi arsitektur jaringan saraf Transformer
+        yang menyokong model pemrosesan pra-latih (seperti BERT, AraBERT, mBERT, QARiBERT,
+        dan CAMeLBERT)8. Keunggulan absolut Transformer adalah kemampuannya membaca
+        teks bahasa Arab tidak secara sekuensial (kata demi kata), melainkan memproses
+        kedalaman konteks semantik maknanya secara komprehensif, layaknya membaca
+        kefasihan teks klasik19.
+Untuk melatih model komputasional level tertinggi ini agar tidak terdistorsi, insinyur AI dan
+sarjana hadis merilis kompendium benchmark datasets spesifik. Terobosan terbesar adalah
+peluncuran MAHADDAT (sebuah dataset beranotasi yang dirancang eksklusif mengekstraksi
+struktur puluhan ribu matan hadis mawdu') dan AHCD (Authentication Hadith Classification
+Dataset) yang mencakup anotasi lengkap 10.000 matan dan sanad klasik8. Berbekal dataset
+MAHADDAT dan AHCD yang representatif, eksperimen algoritma AraBERT menunjukkan
+performa luar biasa; sistem ini mampu menghasilkan akurasi (F1-Score) melampaui 92% (hingga
+mencapai titik 99% ketika bobot kontekstual sanad diintegrasikan) dalam memprediksi
+kepalsuan teks baru8. Hal ini membuktikan bahwa persilangan antara konteks sanad dan model
+NLP termutakhir mampu secara algoritmik mereplikasi rigoritas ilmu takhrij tradisional dalam
+hitungan fraksi detik8.
+Namun, dominasi arsitektur digital memicu bahaya epistemologis tingkat lanjut, khususnya
+dengan komersialisasi Generative AI (seperti platform berlabel IslamGPT dan AI Chatbots)18.
+Algoritma LLM sangat rentan terhadap hallucination (halusinasi artifisial), di mana mesin dapat
+merakit susunan kalimat bahasa Arab yang sangat puitis dan mengarang rantai isnad buatan
+(deepfakes teks religius), seolah-olah itu adalah teks orisinal18. Situasi ini melahirkan fenomena
+yang digambarkan sarjana komputasi sebagai ancaman epistemic violence (kekerasan
+epistemik)—sebuah asimetri kuasa di mana otoritas pembuatan fatwa, takhrij, dan validasi
+syariat diambil alih secara diam-diam oleh perusahaan teknologi sekuler yang tuna akan
+pilar-pilar teologi dan maqasid al-shari'ah18.
+Dalam merespons krisis otorisasi ini, organisasi keislaman strategis merumuskan strategi
+pertahanan hibrida. Pendekatan ini menyeimbangkan otomasi dengan intervensi kemanusiaan
+yang ketat, misalnya konsep "Isnad Digital" yang menitikberatkan validasi algoritmik kepada
+kealiman figur manusia, serta konsep "Fikih Informasi" (Information Fiqh) yang mengorkestrasi
+sistem verifikasi secara sistemik32. Penelitian di bidang etika AI secara fundamental
+menggarisbawahi peringatan penting: secanggih apa pun keakuratan prediksi model deteksi
+kepalsuan berbasis BERT atau GNN, sistem AI harus diposisikan semata-mata sebagai
+instrumen heuristik asisten komputasional untuk memfasilitasi riset awal. Mesin tidak akan
+pernah sah secara teologis untuk menggantikan mekanisme validasi institusional, dewan fatwa,
+dan peran seorang mujtahid manusia; karena produksi hukum dan deteksi kepalsuan wahyu
+mempersyaratkan bukan sekadar validitas statistik, melainkan nalar teologis, kredibilitas moral
+historis, dan ketaatan spiritual yang mutlak33.
+
+Kesimpulan
+Diskursus mengenai genealogi pemalsuan hadis menghadirkan salah satu potret fragmentasi
+historis dan metodologis paling rumit dalam arsitektur peradaban Islam. Dimulai dari
+perpecahan teopolitik pasca terbunuhnya Khalifah Utsman bin Affan yang memicu fabrikasi
+informasi secara massal, hingga meluas pada dorongan pragmatisme teologis sekte, fanatisme
+mazhab buta, hingga motif targhib dari kaum zuhud yang berakibat fatal. Sirkulasi masif ribuan
+hadis maudu' menekan komunitas keilmuan Islam untuk berevolusi. Tekanan defensif inilah yang
+sukses melahirkan arsitektur perlindungan epistemologis paling kokoh pada era pra-modern:
+perumusan rigoritas ilmu Takhrij al-Hadis dan metode Jarh wa Ta'dil (kritik perawi), yang
+belakangan diakomodasi ke dalam metodologi hibrida historis filologis isnād-cum-matn
+analysis (ICMA) oleh ilmuwan kontemporer untuk merekonstruksi dan meruntuhkan keraguan
+kaum orientalis radikal.
+Pada dekade kontemporer (2015-2026), tantangan identifikasi maudu' tidak lagi berwujud
+manipulasi dokumen manuskrip fisik, melainkan sirkulasi disinformasi viral lintas benua di ruang
+ekosistem digital partisipatif dan fabrikasi mesin halusinasi. Kendati demikian, kemajuan
+teknologi informasi juga menyodorkan instrumen filtrasi yang revolusioner. Melalui konvergensi
+ilmu Machine Learning, pemodelan Graph Neural Networks, adopsi arsitektur Deep Learning
+Transformer (AraBERT/mBERT), serta tersedianya ribuan pustaka dataset beranotasi canggih
+seperti MAHADDAT dan AHCD, validasi komputasional atas sanad dan matan kini mampu
+meraih akurasi klasifikasi prediktif hingga nyaris absolut. Masa depan perlindungan tradisi teks
+kenabian tidak terletak pada antipati terhadap otomasi teknologi, melainkan pada kematangan
+sinergi integratif—sebuah titik temu di mana inovasi algoritmik tunduk sepenuhnya pada
+bingkai etik Maqasid al-Shari'ah dan otoritas epistemologis ulama, demi memastikan kemurnian
+pilar warisan spiritual di tengah pusaran ketidakterbatasan informasi digital.
+
+Karya yang dikutip
+
+  1.​ (PDF) THE FABRICATED HADITH: ISLAMIC ETHICS AND,
+       https://www.researchgate.net/publication/328340598_THE_FABRICATED_HADITH
+       _ISLAMIC_ETHICS_AND_GUIDELINES_OF_HADITH_DISPERSION_IN_SOCIAL_MED
+       IA
+  2.​ dalam A Textbook of Hadith Studies - Jurnal UIN Antasari,
+       https://jurnal.uin-antasari.ac.id/index.php/ushuluddin/article/view/7160/3393
+  3.​ HADITS MAUDHU' (PALSU): STUDI SEJARAH, CIRI, DAN UPAYA,
+       https://sihojurnal.com/index.php/identik/article/download/712/498
+  4.​ https://id.wikipedia.org/wiki/Hadis
+  5.​ An Exhaustive Literature Review of Hadith Text Mining,
+       https://www.researchgate.net/publication/369325543_An_Exhaustive_Literature_R
+       eview_of_Hadith_Text_Mining
+  6.​ JOURNAL OF QUR'ĀN AND HADĪTH STUDIES,
+       https://journal.uinjkt.ac.id/index.php/journal-of-quran-and-hadith/article/downloa
+       d/13399/pdf/38237
+  7.​ Hadith data mining and classification: a comparative analysis,
+       https://www.researchgate.net/publication/290222515_Hadith_data_mining_and_cl
+       assification_a_comparative_analysis
+  8.​ Hadith degree classification for Shahih Hadith identification web,
+       https://www.researchgate.net/publication/320743005_Hadith_degree_classificati
+       on_for_Shahih_Hadith_identification_web_based
+  9.​ Frameworks for a Computational Isnad Authentication and,
+       https://www.researchgate.net/publication/312485747_Frameworks_for_a_Comput
+       ational_Isnad_Authentication_and_Mechanism_Development
+  10.​(PDF) Hadith Authenticity Prediction using Sentiment Analysis and,
+       https://www.researchgate.net/publication/349936135_Hadith_Authenticity_Predic
+       tion_using_Sentiment_Analysis_and_Machine_Learning
+  11.​ Sejarah dan Faktor Pemalsuan Hadis | PDF - Scribd,
+       https://id.scribd.com/document/555323827/makalah-pemalsuan-hadis
+  12.​Jurnal Ilmu Hadis PERMASALAHAN SEPUTAR HADIS MAUDHU,
+       https://e-jurnal.stiqarrahman.ac.id/index.php/dirayah/article/download/74/47/391
+  13.​AL-DAKHĪL DALAM TAFSIR AL-QUR'AN MELALUI HADIS MAWḌŪ',
+       https://jurnal.mediaakademik.com/index.php/jma/article/download/3837/2967
+  14.​(PDF) The Fabricated Hadith: Revisited - ResearchGate,
+       https://www.researchgate.net/publication/366759057_The_Fabricated_Hadith_Re
+       visited
+  15.​The History of the Emergence of Fabricated Hadith: A Historical and,
+       http://eprints.umsida.ac.id/16978/1/AJRCAS_The%2BHistory%2Bof%2Bthe%2BEm
+       ergence.pdf
+  16.​Jurnal Holistic al-hadis, Vol. 4, No. 1 (Januari,
+       https://jurnal.uinbanten.ac.id/index.php/holistic/article/download/1927/1728
+17.​Digital hadith authentication: A literature review and analysis,
+    https://www.researchgate.net/publication/327252782_Digital_hadith_authenticati
+    on_A_literature_review_and_analysis
+18.​Digital Humanities, Ethical Challenges, and Knowledge Production,
+    https://qishoh.staiku.ac.id/index.php/st/article/download/21/21/168
+19.​Hadith computational science in the age of large language models,
+    https://arxiv.org/html/2608.20364v1
+20.​Analisis Pemikiran Harald Motzki Tentang Hadis – Hadis Hukum,
+    https://www.researchgate.net/publication/404939012_Analisis_Pemikiran_Harald_
+    Motzki_Tentang_Hadis_-_Hadis_Hukum_Metodologi_Isnad_Cum_Matn_dan_Impli
+    kasinya_Pada_Studi_Otorisitas_Hadis_Analysis_of_Harald_Motzki's_Thoughts_on_
+    Legal_Hadiths_Isnad_Cum_Matn
+21.​Menyoal Kritik Sanad Joseph Schahct,
+    https://repository.uingusdur.ac.id/766/1/document.pdf
+22.​Setyaki - JURNAL KALIMASADA,
+    https://jurnal.kalimasadagroup.com/index.php/setyaki/article/download/1538/742
+23.​Fabricated Hadith as an Epistemic Threat: A Literature Review on Its,
+    https://journal.uinsuna.ac.id/index.php/AlMabhats/article/view/7381
+24.​Sejarah Pertumbuhan dan Perkembangan Hadis: Masa Nabi SAW,
+    https://jurnal.intekom.id/index.php/njms/article/view/1428
+25.​STUDY HADIS TEMATIK DENGAN PENDEKATAN KLASIK DAN,
+    https://journaledutech.com/index.php/great/article/download/299/279/630
+26.​Metode Pendidikan Anak Usia Dini: Analisis Hadits Tarbawi,
+    https://journal.uinjkt.ac.id/index.php/journal-of-quran-and-hadith/article/view/422
+    09
+27.​Eksplorasi Nilai Pendidikan Islam: Kajian Komparatif Hadis Tarbawi,
+    https://journal.uinjkt.ac.id/index.php/journal-of-quran-and-hadith/article/view/379
+    77
+28.​Tracing Truth : A Critical Study on the Authenticity of the Hadiths in,
+    https://journal.uinjkt.ac.id/index.php/journal-of-quran-and-hadith/article/downloa
+    d/46554/17983
+29.​HISTORI PEMALSUAN HADIS: ANALISIS FAKTOR DAN RESPONS,
+    https://albaayaninstitute.org/index.php/alkalimantan/article/view/287
+30.​Penyalahgunaan Hadits di Media Sosial : Verivikasi Melalui Metode,
+    https://joecy.org/index.php/joecy/article/view/11892
+31.​A Systematic Review on Hadith Authentication and Classification,
+    https://www.researchgate.net/publication/351252055_A_Systematic_Review_on_
+    Hadith_Authentication_and_Classification_Methods
+32.​IslamGPT's Answer to What Is Islam | Download Scientific Diagram,
+    https://www.researchgate.net/figure/slamGPTs-Answer-to-What-Is-Islam_fig1_38
+    6749056
+33.​(PDF) Ethical challenges for using artificial intelligence in,
+    https://www.researchgate.net/publication/389846404_Ethical_challenges_for_usi
+    ng_artificial_intelligence_in_understanding_Islamic_ jurisprudence
+34.​Hadith Text Classification Based on Topic Using Convolutional,
+    https://ojs.unimal.ac.id/jreece/article/view/20354
+35.​A Systematic Review on Hadith Authentication and Classification,
+    https://www.semanticscholar.org/paper/A-Systematic-Review-on-Hadith-Authent
+    ication-and-Binbeshr-Kamsin/99c3ed3d3e014244f21718df3c633c181e4eb0c0
+36.​Artificial Intelligence in Hadis Studies: A Systematic Review on The,
+    https://proceedings.ums.ac.id/iseth/article/download/7021/6368/13388
+37.​Exploring Trends and Themes of Hadith Authentication Research,
+    https://www.researchgate.net/publication/403483174_Exploring_Trends_and_The
+    mes_of_Hadith_Authentication_Research_a_Bibliometric_Analysis_and_Future_A
+    genda
+38.​(PDF) Hadith Classification using Machine Learning Techniques,
+    https://www.researchgate.net/publication/338684579_Hadith_Classification_using
+    _Machine_Learning_Techniques_According_to_its_Reliability
+39.​Multi-IsnadSet MIS for Sahih Muslim Hadith with chain of narrators,
+    https://www.researchgate.net/publication/380007041_Multi-IsnadSet_MIS_for_Sa
+    hih_Muslim_Hadith_with_chain_of_Narrators_based_on_multiple_ISNAD
+40.​Methodology of the dataset creation and experiments. - ResearchGate,
+    https://www.researchgate.net/figure/Methodology-of-the-dataset-creation-and-
+    experiments_fig2_373119959
+41.​Fabricated Hadith Detection: A Novel Matn-Based Approach With,
+    https://www.researchgate.net/publication/365102024_Fabricated_Hadith_Detecti
+    on_A_Novel_Matn-Based_Approach_With_Transformer_Language_Models
+42.​Corpus creation process. | Download Scientific Diagram,
+    https://www.researchgate.net/figure/Corpus-creation-process_fig1_365102024
+43.​Detecting Hadith Authenticity Using a Deep-learning Approach,
+    https://www.researchgate.net/publication/359970641_Detecting_Hadith_Authenti
+    city_Using_a_Deep-learning_Approach
+44.​Classification of Al-Hadith Al-Shareef using data mining algorithm,
+    https://www.researchgate.net/publication/293100587_Classification_of_Al-Hadith
+    _Al-Shareef_using_data_mining_algorithm
+45.​(PDF) Does Artificial Intelligence Go beyond the Limits of Religious,
+    https://www.researchgate.net/publication/386749056_Does_Artificial_Intelligence
+    _Go_beyond_the_Limits_of_Religious_Authority_An_Ethical_Review_on_IslamGPT
+46.​EPISTEMOLOGICAL SHIFTS IN DIGITAL HADITH AUTHENTICATION,
+    https://research.adra.ac.id/index.php/ijonis/article/view/3466
+

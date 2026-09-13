@@ -1,0 +1,427 @@
+Ya, mayoritas sarjana Muslim tampak sepakat kodifikasi resmi hadis dimulai pada
+masa Umar bin Abdul Aziz.
+
+1. Introduction
+
+Dalam korpus ini, jawaban singkatnya adalah ya: mayoritas karya yang benar-benar membahas kronologi kodifikasi
+menyatakan bahwa pembukuan atau kodifikasi hadis secara resmi dimulai pada masa Khalifah Umar bin Abdul
+Aziz, biasanya dengan menekankan surat perintahnya kepada Abu Bakr ibn Hazm dan/atau al-Zuhri (Saidjalolov,
+2026; Fatimah, 2020; Anwar, 2020; Al., 2021).
+
+Namun, “sepakat” di sini perlu dibatasi dengan cermat. Banyak sarjana dalam korpus yang sekaligus menegaskan
+bahwa penulisan hadis sudah ada sejak masa Nabi, sahabat, dan tabi'in, hanya saja belum berbentuk proyek
+negara yang resmi, sistematis, dan transregional seperti pada masa Umar bin Abdul Aziz (Watukila, 2024; Anwar,
+2020; Harun et al., 2021; Tanjung & Fadhlurrahman, 2025).
+
+Jadi, konsensus mayoritasnya bukan bahwa hadis pertama kali ditulis pada masa Umar bin Abdul Aziz, melainkan
+bahwa kodifikasi resmi yang diperintahkan otoritas politik biasanya ditempatkan pada masa beliau (Watukila,
+2024; Dalal, 2018; Maulana, 2023; Tanjung & Fadhlurrahman, 2025).
+
+Apakah mayoritas sarjana Muslim sepakat bahwa pembukuan hadis resmi dimulai pada masa Umar bin Abdul
+Aziz?
+Requires at least 5 papers that directly answer your question. Try adjusting your query to find more papers.
+
+
+
+FIGURE 1 Tingkat konsensus riset tentang awal kodifikasi resmi hadis
+
+
+2. Methods
+Pencarian dijalankan di lebih dari 220 juta paper dalam Consensus yang mengindeks Semantic Scholar, PubMed,
+dan sumber lain. Strategi deep search ini menargetkan kronologi kodifikasi hadis, istilah alternatif seperti tadwin
+dan formal documentation, karya yang mendukung maupun menantang klaim tentang Umar bin Abdul Aziz, serta
+studi latar tentang transmisi hadis dan historiografi Islam awal.
+
+Sebanyak 76 paper lolos relevansi setelah penyaringan mesin dari 150 paper yang ditelaah, dan 50 paper peringkat
+teratas dimasukkan ke sintesis akhir. Penilaian difokuskan pada apakah paper benar-benar menyatakan bahwa
+kodifikasi resmi dimulai pada masa Umar bin Abdul Aziz, sambil dibedakan dari klaim lain tentang penulisan hadis
+yang lebih awal.
+
+
+
+Search Strategy
+
+
+
+  41.4M                                           76                                       50
+  Retrieved                                       Eligible                                 Included
+
+
+
+     16 searches                               Papers meeting relevance and quality     Top papers selected to be included in the
+                                               criteria, after deduplication            final analysis
+All papers retrieved from 16 searches.
+
+
+
+FIGURE 2 Alur penyaringan literatur dalam deep search ini
+
+
+
+
+                                                                  1 / 7
+Pencarian menggabungkan kueri kronologi, konsensus, sanggahan, dan historiografi awal Islam untuk memisahkan
+penulisan pribadi dari kodifikasi resmi.
+
+
+3. Results
+
+3.1 Key Papers
+
+Paper paling sentral di korpus ini berfungsi sebagai jangkar karena secara eksplisit membedakan penulisan awal
+dari kodifikasi resmi, lalu menempatkan kodifikasi resmi itu pada masa Umar bin Abdul Aziz (Watukila, 2024; Harun
+et al., 2021; Al., 2021). Beberapa paper lain penting karena justru memperumit narasi mayoritas dengan
+menunjukkan adanya upaya pra-Umar atau perdebatan tentang siapa pelaksana formal pertama (Al., 2021; Dalal,
+2018; Musadad, 2026).
+
+Paper                      Summary
+
+
+(Watukila, 2024)           Membedakan tulisan awal dari kodifikasi resmi era Umar (Watukila, 2024)
+
+
+(Al., 2021)                Menyebut Umar sebagai pejabat pertama yang memerintahkan kompilasi resmi (Al., 2021)
+
+
+(Harun et al., 2021)       Menegaskan kodifikasi resmi awal abad kedua H (Harun et al., 2021)
+
+
+FIGURE 3 Paper jangkar tentang kronologi kodifikasi hadis
+
+
+3.2 Mayority View
+
+Sebagian besar paper yang langsung membahas tema ini menyatakan bahwa masa Umar bin Abdul Aziz adalah titik
+awal tadwin resmi atau pembukuan resmi hadis (Junaid & A, 2024; Maulana, 2016; Rosyid, 2019; Hasibuan et al.,
+2025). Banyak di antaranya memakai formula yang hampir identik: penulisan hadis sudah berlangsung lebih awal,
+tetapi proyek resmi, sistematis, dan diperintahkan penguasa dimulai pada era ini (Watukila, 2024; Fatimah, 2020;
+Tanjung & Fadhlurrahman, 2025).
+
+Peran Umar bin Abdul Aziz biasanya dijelaskan secara administratif. Ia dikatakan mengirim surat atau instruksi
+kepada pejabat dan ulama seperti Abu Bakr ibn Hazm dan al-Zuhri untuk mengumpulkan dan menuliskan hadis, lalu
+menyebarkannya lebih luas (Rachmah et al., 2025; Fatimah, 2020; Al., 2021; Abdurahim et al., 2024).
+
+
+3.3 Distinction Table
+
+                       Sebelum Umar bin             Masa Umar bin Abdul
+Dimension              Abdul Aziz                   Aziz                        Citations
+
+
+Bentuk                 Catatan pribadi,             Perintah negara,            (Dalal, 2018; Fatimah, 2020)
+penulisan              sahifah                      terorganisir
+
+
+Status                 Sporadis, individual         Resmi, publik,              (Harun et al., 2021; Fatimah, 2020;
+kegiatan                                            transregional               Rachmah et al., 2025)
+
+
+
+
+                                                               2 / 7
+                         Sebelum Umar bin                      Masa Umar bin Abdul
+Dimension                Abdul Aziz                            Aziz                                  Citations
+
+
+Aktor utama              Sahabat dan tabi'in                   Abu Bakr ibn Hazm, al-                (Anwar, 2020; Al., 2021; Maulana,
+                                                               Zuhri                                 2023)
+
+
+Dorongan                 Hafalan dan                           Cegah hilangnya ilmu dan              (Fatimah, 2020; Maulana, 2016;
+utama                    preservasi terbatas                   hadis palsu                           Harun et al., 2021)
+
+
+Tahap sejarah            Kitabah awal                          Tadwin resmi                          (Musadad, 2026)
+
+
+FIGURE 4 Perbedaan penulisan awal dan kodifikasi resmi hadis
+
+
+Perbedaan ini menjelaskan mengapa tampak ada konsensus sekaligus perdebatan: banyak sarjana setuju soal
+resmi, tetapi tidak setuju jika klaimnya diubah menjadi pertama kali ditulis.
+
+3.4 Dissent And Caveats
+
+Ada keberatan nyata di korpus, tetapi keberatan itu biasanya tidak menolak peran Umar bin Abdul Aziz secara total.
+Satu studi menyebut pandangan yang tersebar luas adalah al-Zuhri menulis atas instruksi Umar, lalu mengoreksinya
+dengan argumen bahwa al-Zuhri justru diperintah oleh Hisham, sementara Umar memerintahkan Abu Bakr ibn
+Hazm (Dalal, 2018). Itu merevisi siapa pelaksana awalnya, bukan menolak bahwa masa Umar bin Abdul Aziz adalah
+fase penting formalisasi.
+
+Sejumlah paper lain juga menekankan bahwa sudah ada upaya resmi sebelum Umar, misalnya dari Umar ibn al-
+Khattab, Abdul Aziz ibn Marwan, atau Marwan ibn Hakam, meski upaya itu digambarkan terbatas, tidak berlanjut,
+atau belum menjadi gerakan kodifikasi resmi yang mapan (Anwar, 2020; Al., 2021). Studi lain bahkan menyebut
+signifikansi “era official tadwin” Umayyah kadang dibesar-besarkan, dan lebih menekankan catatan personal lalu
+fase tasnif kemudian (Musadad, 2026).
+
+Results Timeline
+
+
+
+
+                                                                3
+                                                                           6                              17    19                7
+                                        8
+          13                                   14                                             10
+                                                                                                          12
+                                                                                                                   15        16        1
+
+                                        9                  2
+                                                                      4                                        5
+                                                                                                                        18        11       20
+
+
+
+
+        2016      2017        2018      2019        2020            2021        2022   2023        2024        2025           2026          2027
+
+FIGURE 5 Linimasa studi kodifikasi hadis; marker besar berarti lebih banyak sitasi
+
+
+
+
+                                                                               3 / 7
+Top Contributors
+
+Type          Name                                  Papers
+
+
+Author        Ehssan Dalal                          [08b95573eec25467af27c166522cc46c]
+                                                    [14f48977c58156979eacbfd7152e402e]
+
+
+Author        Muhammad Thoriqul Islam               [2dbdb11e69b25ae4972e4cf39e8e9d80]
+                                                    [ecdf4d24d57f5b09aeed16db4aed7f45]
+
+
+Author        Umar bin Abdul Aziz                   [b9dba3580ae455c79783de094088b517]
+                                                    [d66e2caad6235d31b96726b1c69bc9c2]
+                                                    [0b63fa9d2a295c9f82e44c6c31a02115]
+
+
+Journal       Al-Thiqah : Jurnal Ilmu               [7602a77ce8be575984445be9e015aa72]
+              Keislaman                             [9bf30e932db55a35afa9851d91fd13e2]
+
+
+Journal       Journal Of Islamic Studies            [a46bb8a12fab5641a9e56531d07523e6]
+                                                    [a0889e0a7c975bae9da1423fecd6c720]
+
+
+Journal       Electronic Journal of                 [2dbdb11e69b25ae4972e4cf39e8e9d80]
+              Education, Social Economics
+              and Technology
+
+
+FIGURE 6 Penulis dan jurnal yang paling sering muncul
+
+
+4. Discussion
+Korpus ini mendukung jawaban “ya” dengan tingkat keyakinan moderat-kuat, bukan absolut. Alasannya, banyak
+paper dari beragam tahun, bahasa, dan jurnal mengulang proposisi yang sama: kodifikasi resmi hadis dimulai pada
+masa Umar bin Abdul Aziz (Dutsinma, 2025; Rachmah et al., 2025; Saidjalolov, 2026; Tanjung & Fadhlurrahman,
+2025). Selain itu, beberapa paper eksplisit menyatakan bahwa pandangan tersebut “umum” atau “widespread”
+dalam penelitian lama dan kontemporer (Dalal, 2018; Lutfianto et al., 2024).
+
+Tetapi kualitas evidensinya tidak setinggi konsensus ilmiah yang ditopang sumber primer baru atau studi kritis
+komparatif besar. Banyak paper di sini adalah studi pustaka deskriptif yang mengulang narasi historiografi mapan,
+dan beberapa hanya menyatakan posisi itu dalam abstrak tanpa pembahasan rinci sumber primer (Rachmah et al.,
+2025; Watukila, 2024; Jariah & Yahya, 2026; Anisa et al., 2025). Korpus juga menunjukkan bahwa istilah kitabah,
+tadwin, dan tasnif sering dibedakan, dan kebingungan atas istilah inilah yang menghasilkan banyak salah paham
+tentang “awal” kodifikasi (Dalal, 2018; Musadad, 2026).
+
+Keberatan yang paling penting bukan bahwa Umar bin Abdul Aziz tidak berperan, melainkan bahwa sejarahnya
+lebih gradual. Penulisan sudah ada sejak Nabi dan sahabat, ada upaya lebih dini yang belum matang, lalu masa
+Umar bin Abdul Aziz menjadi fase formalisasi administratif yang menonjol, dan abad ketiga Hijriah menjadi puncak
+penyusunan kitab-kitab kanonik (Harun et al., 2021; Anwar, 2020; Al., 2021; Tanjung & Fadhlurrahman, 2025; Anisa
+et al., 2025).
+
+
+
+
+                                                             4 / 7
+                                      Evidence
+Claim                                 Strength         Reasoning                    Papers
+
+
+Mayoritas sarjana Muslim dalam                         Banyak paper langsung        (Watukila, 2024; Fatimah,
+korpus ini menempatkan                                 menyatakan hal sama          2020; Maulana, 2016;
+                                      Strong
+kodifikasi resmi pada masa                             dengan sedikit               Hasibuan et al., 2025; Al.,
+Umar bin Abdul Aziz                                    sanggahan inti               2021)
+
+
+Penulisan hadis sudah ada                              Didukung luas lintas         (Watukila, 2024; Anwar,
+sebelum masa Umar bin Abdul                            paper tentang masa           2020; Harun et al., 2021;
+                                      Strong
+Aziz                                                   Nabi dan sahabat             Tanjung & Fadhlurrahman,
+                                                                                    2025)
+
+
+Yang dimulai pada masa Umar                            Ini titik temu paling        (Dalal, 2018; Anwar, 2020;
+adalah proyek resmi-negara,                            stabil antara paper          Harun et al., 2021; Tanjung &
+                                      Strong
+bukan tulisan pertama                                  pendukung dan                Fadhlurrahman, 2025)
+                                                       pengkritik
+
+
+Ada perbedaan tentang siapa                            Ada perdebatan               (Dalal, 2018; Al., 2021;
+pelaksana formal pertama: al-                          terbatas namun jelas         Maulana, 2023)
+                                      Moderate
+Zuhri atau Ibn Hazm                                    pada level pelaksana
+
+
+Signifikansi “official tadwin” era                     Klaim ini hadir, tetapi      (Musadad, 2026)
+Umayyah kadang dibesar-                                hanya pada sedikit studi
+                                      Weak
+besarkan                                               kritis
+
+
+FIGURE 7 Klaim utama dan kekuatan evidensinya
+
+
+5. Conclusion
+
+Secara keseluruhan, mayoritas sarjana Muslim dalam korpus ini memang sepakat bahwa pembukuan hadis resmi
+dimulai pada masa Umar bin Abdul Aziz. Tetapi konsensus itu harus dibaca dengan presisi: yang dimaksud adalah
+inisiasi resmi dan terlembaga, bukan kemunculan pertama penulisan hadis sama sekali.
+
+
+Research Gaps
+
+Korpus ini paling padat pada kronologi umum, tetapi lebih tipis pada verifikasi sumber primer, perbandingan istilah,
+dan pemetaan rinci pelaksana awal.
+
+                           Resmi          Pribadi      Istilah          Pelaksana           Sumber Primer
+
+
+Tulisan Nabi               GAP            GAP          GAP              GAP                 GAP
+
+
+Sahabat                    GAP            GAP          GAP              GAP                 GAP
+
+
+Umar II                    GAP            GAP          GAP              GAP                 GAP
+
+
+
+
+                                                       5 / 7
+                          Resmi           Pribadi          Istilah           Pelaksana             Sumber Primer
+
+
+Al-Zuhri                  GAP             GAP              GAP               GAP                   GAP
+
+
+Kitab Kanonik             GAP             GAP              GAP               GAP                   GAP
+
+
+
+Open Research Questions
+
+Masih ada beberapa pertanyaan yang layak dikejar untuk memperjelas apa tepatnya yang dimaksud “awal
+kodifikasi resmi” dalam historiografi hadis.
+
+Question                                                       Why
+
+
+Bagaimana sumber primer paling awal membedakan                 Perbedaan istilah tampak menjadi sumber utama
+kitabah, tadwin, dan tasnif dalam sejarah hadis?               kebingungan antara tulisan pribadi, kompilasi resmi, dan
+                                                               penyusunan kitab tematik.
+
+
+Apakah Abu Bakr ibn Hazm atau al-Zuhri lebih layak             Korpus berulang kali menyebut keduanya, tetapi hanya
+disebut pelaksana formal pertama perintah Umar                 sedikit studi yang menguji klaim itu secara filologis dan
+bin Abdul Aziz?                                                kronologis.
+
+
+Seberapa kuat bukti tentang upaya resmi pra-Umar               Beberapa paper menyebut percobaan lebih awal, namun
+dalam penulisan hadis?                                         status, cakupan, dan kontinuitas upaya itu masih belum
+                                                               jelas.
+
+
+Jadi, untuk pertanyaan yang diajukan: ya, mayoritas sarjana Muslim tampak sepakat, dengan caveat penting bahwa
+yang dimulai pada masa Umar bin Abdul Aziz adalah kodifikasi resmi, bukan penulisan hadis pertama.
+
+These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at
+https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires
+copyright holders’ consent.
+
+
+References
+Abdurahim, M., Mujoko, B., Azzami, A., Kosasih, E., & Mighwar, M. A. (2024). Dedikasi Ulama Hadis Abad Pertama
+Hijriyah: Upaya Kodifikasi dan Penyebaran oleh Sahabat dan Tabi'in. Asian Journal of Islamic Studies and Da'wah.
+https://doi.org/10.58578/ajisd.v2i4.3277
+
+Al., Z. I. E. (2021). “WRITING DOWN OF HADITHS IN THE VII-VIII CENTURIES: APPROACHES AND METHODS”.
+5536-5545. https://doi.org/10.17762/pae.v58i1.1950
+
+Anisa, Q., Tamam, M. M. S., M., Sastra, H. M., & Azizah, I. A. (2025). Historiography of the Golden Age of Hadith
+Codification from the Third to Fifth Century Hijri(A Historical and Methodological Analysis of Hadith Codification
+from a Sunni Perspective). Al-Dzikra: Jurnal Studi Ilmu al-Qur'an dan al-Hadits. https://doi.org/10.24042/al-
+dzikra.v19i2.25588
+
+Anwar, L. (2020). Penulisan Hadis Pada Masa Rasulullah SAW.. 131-156. https://doi.org/10.35132/albayan.v4i2.88
+
+Dalal, E. (2018). Hadis Tedvininde İlk Faaliyetler. 163-177.
+
+
+
+
+                                                           6 / 7
+Dalal, E. (2018). 177-163 .‫األَّولية في تدوين الحديث النبوي‬.
+
+Dutsinma, A. M. (2025). The Codification of Hadith during the Era of Umar bin Abdul Aziz: Methodological
+Transformation and Its Impact on the Development of Hadith Studies. Demak Universal Journal of Islam and Sharia.
+https://doi.org/10.61455/deujis.v3i01.275
+
+Fatimah, F. (2020). Hadis dari Masa ke Masa (Kodifikasi Era Mutaqaddimin). 57-67.
+https://doi.org/10.30983/it.v4i1.2627
+
+Harun, D. R., Rasyid, A. D., Lubis, A., Balwi, M. A. W. F. B. M., & Rasyid, B. (2021). The Writing of Hadith in the Era of
+Prophet Muhammad: A Critique on Harun Nasution’s Thought. Al-Jami'ah: Journal of Islamic Studies.
+https://doi.org/10.14421/ajis.2021.591.191-220
+
+Hasibuan, M. H., Syahriza, R., & Faza, A. M. (2025). History of the Codification of Hadith and Its Development into
+the Era of Digitalization. Kasyafa: Jurnal Pendidikan Agama Islam. https://doi.org/10.61166/kasyafa.v2i1.71
+
+Jariah, A., & Yahya, M. (2026). HISTORISITAS PERIWAYATAN DAN KODIFIKASI HADIS: DINAMIKA TRANSMISI,
+OTORITAS, DAN KANONISASI SUNNAH DALAM ISLAM AWAL. Raqib: Jurnal Studi Islam.
+https://doi.org/10.56872/5pe6v513
+
+Junaid, J. B., & A, M. N. (2024). HISTORITAS PERKEMBANGAN HADIS (DARI PERIODE KLASIK HINGGA
+KONTEMPORER). CARITA: Jurnal Sejarah dan Budaya. https://doi.org/10.35905/carita.v2i2.7135
+
+Lutfianto, M., Abdurrahman, A., & Takwallo, T. (2024). HISTORY OF HADITH WRITING IN THE PRE-
+CODIFICATION PERIOD IN THE PROSPECTIVE OF 'AJJAJ AL-KHATIB. Al-Thiqah : Jurnal Ilmu Keislaman.
+https://doi.org/10.56594/althiqah.v7i2.263
+
+Maulana, R. (2023). Historiografi Kodifikasi Hadis. Al-Thiqah : Jurnal Ilmu Keislaman.
+https://doi.org/10.56594/althiqah.v6i1.86
+
+Maulana, L. (2016). Periodesasi Perkembangan Studi Hadits (Dari Tradisi Lisan/Tulisan Hingga berbasis Digital). 111-
+123. https://doi.org/10.14421/esensia.v17i1.1282
+
+Musadad, A. (2026). Articulating the Prophetic Authority: Some Notes on the Nature of Hadīth Collection in al-
+Muwatta and Musannaf Literature. Jurnal Studi Ilmu-ilmu Al-Qur'an dan Hadis.
+https://doi.org/10.14421/qh.v27i1.7472
+
+Rachmah, N., Setyaningsih, C., Imawan, D. H., Hadis, K., Islam, H., & Umayyah, D. (2025). Kodifikasi Hadis Sebagai
+Fondasi Hukum Islam Pada Era Umar Bin Abdul Aziz Daulah Umayyah di Damaskus 717-720 M. Batuthah: Jurnal
+Sejarah Padaban Islam. https://doi.org/10.38073/batuthah.v4i2.3331
+
+Rosyid, A. A. (2019). MASA DEPAN HADIS DAN ILMU HADIS. https://doi.org/10.31219/osf.io/395ba
+
+Saidjalolov, S. (2026). THE ROLE OF UMAR IBN ABDULAZIZ IN THE DEVELOPMENT OF ISLAMIC LAW. The
+Journal of Interdisciplinary Human Studies. https://doi.org/10.57033/mijournals-2026-7-0132
+
+Tanjung, T. N. S., & Fadhlurrahman, Z. (2025). The Role of Tadwīn Hadith in the Development of Islamic
+Historiography. ISTIFHAM: Journal Of Islamic Studies. https://doi.org/10.71039/istifham.v3i3.123
+
+Watukila, S. (2024). HISTORIOGRAFI HADIS DI MASA MUTAQADDIMIN DALAM PANDANGAN MUSTAFA
+AZAMI. Amsal Al-Qur’an: Jurnal Al-Qur’an dan Hadis. https://doi.org/10.63424/amsal.v1i3.126
+
+
+
+
+                                                          7 / 7
+

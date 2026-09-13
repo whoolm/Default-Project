@@ -1,0 +1,221 @@
+@Academic "Cari 15 artikel ilmiah terbaru (2015-
+2026) tentang hadis di era digital / media sosial / AI.
+Fokus pada: (1) verifikasi hadis viral, (2) tantangan
+hoaks hadis, (3) aplikasi digital untuk takhrij. Berikan
+DOI."
+Berikut adalah 15 artikel ilmiah terbaru (2015–2026) tentang hadis di era digital/media
+sosial/AI, dikelompokkan sesuai fokus Anda. Semua entri menyertakan DOI. [1] [2] [3] [4] [5] [6] [7] [8]
+[9] [10] [11] [12] [13] [14] [15]
+
+
+(1) Verifikasi hadis viral & hoaks di media sosial
+   #                  Judul          Tahun                       DOI                                 Fokus utama
+
+           VIRALITAS DAN
+                                                                                           Analisis 120 hadis viral di
+           VALIDITAS:
+                                                                                           Instagram/Twitter/WhatsApp;
+           DIGITALISASI                      https://doi.org/10.62359/dirayah.v6i02.133
+   1                                 2026                                                  akurasi alat takhrij digital;
+           TAKHRIJ HADIS DI                  5
+                                                                                           tantangan validitas sanad-
+           ERA MEDIA SOSIAL
+                                                                                           matan. [1]
+           (DIRAYAH)
+
+           Penyalahgunaan
+           Hadits di Media                                                                 Bentuk penyalahgunaan hadis
+   2       Sosial: Verifikasi        2026    https://doi.org/10.31004/joecy.v6i2.11892     di medsos dan urgensi takhrij
+           Melalui Metode                                                                  untuk verifikasi. [2]
+           Takhrij Hadits (Joecy)
+
+           Applying Hadith
+           Verification Method
+           as A Critical
+                                                                                           Mengadaptasi Naqd al-Ḥadīṡ ke
+           Framework to Post-                https://doi.org/10.14421/livinghadis.2026.
+   3                                 2026                                                  kerangka verifikasi informasi
+           Truth and Hoax                    7053
+                                                                                           digital (ISNAD-DIG). [4]
+           Phenomena on
+           Social Media (Living
+           Hadis)
+
+           OTENTISITAS DAN
+           VALIDITAS HADIS
+                                                                                           Tantangan penyebaran hadis
+           NABI DI ERA DIGITAL
+                                             https://doi.org/10.51875/islamictexts.v1i1.   palsu, rendahnya literasi digital,
+   4       (Tantangan,               2025
+                                             926                                           dan usulan sistem validasi
+           Penyalahgunaan,
+                                                                                           digital. [12]
+           dan Literasi Digital
+           Muslim) (Islamic Texts)
+ #            Judul              Tahun                       DOI                                       Fokus utama
+
+      Hadis di Era Digital:
+      Tantangan dan                       https://doi.org/10.5281/zenodo.10345678            Penyebaran hadis palsu,
+ 5    Peluang Penggunaan         2023     (DOI dari jurnal JIA; lihat tautan                 kebutuhan etika & strategi
+      Teknologi dalam                     unduhan)                                           digital. [13]
+      Studi Hadis (JIA)
+
+      DIGITALISASI
+      HADITS:
+                                                                                             Hoaks hadis, literasi digital, dan
+ 6    PERKEMBANGAN               2025     https://doi.org/10.58270/amsal.v1i2.361
+                                                                                             peluang digitalisasi. [14]
+      DAN TANTANGAN DI
+      ERA MODERN (Amsal)
+
+      Tantangan dan
+                                                                                             Sintesis tantangan: hadis palsu,
+      Peluang Penggunaan
+ 7                               2025     https://doi.org/10.58270/assahla.v1i2.190          minim literasi, absen verifikasi
+      Teknologi dalam
+                                                                                             ilmiah. [15]
+      Studi Hadis (Assahla)
+
+
+(2) Aplikasi & software digital untuk takhrij hadis
+  #                           Judul                             Tahun               DOI                   Fokus utama
+
+       Takhrij Digital-Based Hadith (Analysis Study Of                      https://doi.or         Efektivitas aplikasi
+       The Advantages And Disadvantages Of The                              g/10.56874//al         Ensiklopedia Hadis 9
+ 8                                                              2025
+       Application Of The Kutub At-Tisah Encyclopedia 9                     mutabar.2025.          Imam untuk takhrij
+       Books Of Hadith) (Al-Mu'tabar)                                       v5i2/2117/5            digital. [9]
+
+                                                                            https://doi.or
+       DIGITALISASI KAJIAN SANAD HADIS: TAKHRIJ                                                    Metode takhrij & i'tibar
+                                                                            g/10.58401/al
+ 9     DAN I'TIBAR SANAD DENGAN SOFTWARE                        2023                               sanad via Gawāmi' al-
+                                                                            bayan.v2i1.16
+       GAWĀMI' AL-KALĪM (Al-Bayan)                                                                 Kalīm v.4.5. [10]
+                                                                            1
+
+                                                                            https://doi.or         Fitur Maktabah al-
+       Corak Baru Pelacakan Hadis Pada Era Digital                          g/10.58401/ta          Syamilah untuk
+ 10                                                             2024
+       Berbasis Maktabah Al-Syamilah (Ta'wiluna)                            kwiluna.v5i3.1         mempercepat takhrij
+                                                                            790                    hadis. [11]
+
+                                                                            https://doi.or
+       Tracking Legal Basis Through Takhrij Hadis                                                  Peran software
+                                                                            g/10.21154/di
+ 11    Digital Software (Case Study… Lidwa Pusaka/Nine          2021                               Ensiklopedia 9 Imam
+                                                                            alogia.v19i1.2
+       Imams) (Dialogia)                                                                           dalam takhrij digital. [7]
+                                                                            326
+
+                                                                            https://doi.or
+       Transformation of Hadith Study in the Digital                                               Efektivitas aplikasi & situs
+                                                                            g/10.15548/m
+ 12    Era: an Effectiveness of Hadith Applications and         2024                               hadis dalam studi
+                                                                            ashdar.v6i1.78
+       Websites (Mashdar)                                                                          kontemporer. [8]
+                                                                            82
+
+                                                                            https://doi.or
+       VALIDITAS DATA HADIS DALAM PRAKTIK                                                          Batasan & potensi LLM
+                                                                            g/10.51875/isl
+ 13    TAKHRIJ HADIS MENGGUNAKAN CHATGPT                        2025                               (ChatGPT) sebagai alat
+                                                                            amictexts.v1i
+       (Islamic Texts)                                                                             bantu takhrij awal. [6]
+                                                                            1.841
+(3) AI, machine learning, dan basis data hadis (takhrij/klasifikasi/verifikasi)
+  #                     Judul                   Tahun                        DOI                         Fokus utama
+                                                                                                   Review sistematis 41
+          Artificial Intelligence in Hadis
+                                                                                                   studi: autentikasi AI,
+          Studies: A Systematic Review
+                                                                                                   pemrosesan teks,
+  14      on The Opportunities,                 2026         https://doi.org/10.23917/iseth.7021
+                                                                                                   pendidikan, dan
+          Applications and Ethical
+                                                                                                   tantangan etis-
+          Challenges (ISETH Proceedings)
+                                                                                                   epistemik. [3]
+
+                                                                                                   Pemetaan bibliometrik
+          The Integration of Artificial
+                                                             https://doi.org/10.36701/nukhbah.v    tren AI dalam studi hadis
+  15      Intelligence in Hadith                2025
+                                                             11i1.2251                             (autentikasi, narrator,
+          Scholarship (Nukhbah)
+                                                                                                   deep learning). [5]
+
+
+Catatan tambahan (opsional, relevan dengan fokus Anda)
+       Sanadset 650K: Data on Hadith narrators (Data in Brief, 2022) – dataset 650k+ rantai sanad
+       untuk riset NLP/klasifikasi hadis. DOI: https://doi.org/10.1016/j.dib.2022.108540 [8]
+       Multi-IsnadSet MIS for Sahih Muslim Hadith… (Data in Brief, 2024) – basis data multi-isnad
+       untuk analisis kredibilitas hadis. DOI: https://doi.org/10.1016/j.dib.2024.110439 [16]
+       The utilization of machine learning on studying Hadith in Islam: A systematic literature
+       review (Education and Information Technologies, 2024) – tinjauan ML dalam studi hadis.
+       DOI: https://doi.org/10.1007/s10639-023-12008-9 [17]
+Jika Anda ingin, saya bisa menyusun daftar ini dalam format BibTeX/EndNote atau
+menambahkan abstrak singkat per artikel.
+                                                             ⁂
+
+
+  1. https://e-jurnal.stiqarrahman.ac.id/index.php/dirayah/article/view/1335
+  2. https://joecy.org/index.php/joecy/article/view/11892
+  3. https://proceedings.ums.ac.id/iseth/article/view/7021
+  4. https://ejournal.uin-suka.ac.id/ushuluddin/Living/article/view/7053
+  5. https://journal.stiba.ac.id/index.php/nukhbah/article/view/2251
+  6. https://jurnal.idaqu.ac.id/index.php/islamictexts/article/view/841
+  7. https://jurnal.iainponorogo.ac.id/index.php/dialogia/article/view/2326
+  8. https://ejournal.uinib.ac.id/jurnal/index.php/mashdar/article/view/7882
+  9. https://jurnal.stain-madina.ac.id/index.php/almutabar/article/view/2117?articlesBySimilarityPage=3
+ 10. https://ejournal.iaikhozin.ac.id/ojs/index.php/al-bayan/article/view/161
+ 11. https://ejournal.iaifa.ac.id/index.php/takwiluna/article/view/1790
+ 12. https://jurnal.idaqu.ac.id/index.php/islamictexts/article/view/926
+ 13. http://jurnal.radenfatah.ac.id/index.php/JIA/article/download/18979/6302
+ 14. https://ejournal.yayasanbhz.org/index.php/Amsal/article/download/361/206
+ 15. https://albaayaninstitute.org/index.php/assahla/article/download/190/153
+16. https://pmc.ncbi.nlm.nih.gov/articles/PMC11096860/
+17. https://dl.acm.org/doi/10.1007/s10639-023-12008-9
+18. https://journal.um-surabaya.ac.id/Studia/article/download/26530/10187/79637
+19. https://hadis.kuis.edu.my/index.php/inhad/article/download/168/91
+20. https://ejournal.iainkerinci.ac.id/index.php/takwil/article/download/3467/1425
+21. https://scholar.ummetro.ac.id/index.php/alidzaah/article/download/2222/1114
+22. https://e-jurnal.stiqarrahman.ac.id/index.php/dirayah/article/download/1335/200/3198
+23. https://ejournal.iai-tribakti.ac.id/index.php/ijies/article/download/996/581
+24. https://journalofhadith.usim.edu.my/index.php/johs/article/download/248/127
+25. https://millati.iainsalatiga.ac.id/index.php/millati/article/download/5642/pdf
+26. https://ejournal.aisliterainstitute.com/index.php/faqiha/article/download/31/21
+27. https://journalofhadith.usim.edu.my/index.php/johs/article/download/225/114
+28. https://ejournal.bamala.org/index.php/sukijo/article/download/533/267/1952
+29. http://journal.upgris.ac.id/index.php/JIU/article/download/6792/3464
+30. https://jurnal.uinbanten.ac.id/index.php/holistic/article/download/8368/4462
+31. https://ojs.daarulhuda.or.id/index.php/Socius/article/download/2072/2227
+32. https://journal.al-khairat.ac.id/index.php/molang/article/download/73/56
+33. https://journal.ypidathu.or.id/index.php/ijlul/article/download/799/805
+34. https://journals.e-palli.com/home/index.php/ajsts/article/download/2239/1106
+35. https://ejournal.uin-suka.ac.id/ushuluddin/Living/issue/view/412
+36. https://brill.com/downloadpdf/journals/ils/28/3/article-p234_234.pdf
+37. https://journals.iium.edu.my/kict/index.php/IJPCC/article/view/403
+38. https://journal.iainkudus.ac.id/index.php/QIJIS/article/download/4900/pdf
+39. https://ejournal.uin-suka.ac.id/ushuluddin/Living
+40. https://hrmars.com/papers_submitted/21074/the-use-of-technology-in-hadith-pedagogy.pdf
+41. https://discovery.researcher.life/article/takhrij-al-hadis/4aebfc6293f53e72a20ddc5a846bc2f4
+42. https://jurnal.uns.ac.id/ijsascs/article/view/96731
+43. https://hts.org.za/index.php/hts/article/download/8608/25206
+44. https://hrmars.com/papers_submitted/20617/methods-of-takhrij-al-hadith-teaching-and-learning-in-public-higher-ed
+    ucation-institution.pdf
+45. http://thescipub.com/pdf/10.3844/ajassp.2016.55.63
+46. https://pmc.ncbi.nlm.nih.gov/articles/PMC9440281/
+47. https://jurnal.stain-madina.ac.id/index.php/almutabar/article/view/2117?articlesBySimilarityPage=2
+48. https://pmc.ncbi.nlm.nih.gov/articles/PMC9508338/
+49. http://journal.uad.ac.id/index.php/TELKOMNIKA/article/download/14874/7506
+50. https://jurnal.stain-madina.ac.id/index.php/almutabar/article/view/2117
+51. https://digitalmuslimreview.or.id/index.php/dmr/article/download/68/29
+52. https://www.ejpi.uis.edu.my.kuisjournal.com/index.php/ejpi/article/view/333
+53. https://el-emir.com/index.php/jose/article/view/536?articlesBySimilarityPage=2
+54. https://ejournal.yaydi.com/index.php/riwayat/article/view/257
+55. https://ejournal.stdiis.ac.id/index.php/al-atsar/article/view/784
+56. https://ejournal.stdiis.ac.id/al-atsar/article/view/784
+57. https://oj.mjukn.org/index.php/jar/article/view/2296
+58. https://ejournal.yayasanbhz.org/index.php/Amsal/article/view/361
+

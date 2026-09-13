@@ -1,0 +1,479 @@
+Digital hadith applications partially improve verification accuracy for non-experts,
+but significant limitations persist.
+
+1. Introduction
+
+The digitization of hadith scholarship has accelerated rapidly, with mobile applications, websites, and AI-powered
+tools now serving as primary access points for millions of Muslims seeking to engage with prophetic traditions (
+Pascasarjana & Parepare, 2024;       Najiyah & Putriani, 2024; Hakak et al., 2020). This digital transformation raises a
+critical question: do these tools actually improve the accuracy of hadith verification among non-experts, or do they
+merely democratize access while introducing new epistemological risks? The literature in this corpus reveals a
+nuanced picture in which digital applications enhance speed, accessibility, and certain structured verification tasks,
+yet simultaneously expose users to fabricated or weak hadiths due to inadequate scholarly oversight, low hadith
+literacy, and the absence of standardized validation mechanisms ( Pascasarjana & Parepare, 2024; Abdullah et al.,
+2026; Adelia et al., 2025).
+
+Several foundational studies anchor this field. Hakak et al. provide a comprehensive survey of hadith authentication
+techniques, identifying both the promise and the open challenges of computational approaches (Hakak et al.,
+2020). Supriyadi et al. conducted an action research study with 398 students demonstrating measurable literacy
+improvements through the EHK9I application ( Supriyadi et al., 2020). Abdullah et al. empirically tested digital
+takhrij tools against 120 viral hadith posts, finding high tool accuracy but significant accessibility barriers for
+ordinary users (Abdullah et al., 2026). More recently, AI-powered models have demonstrated near-human accuracy
+in structured tasks like chain–text separation, while general-purpose LLMs such as ChatGPT have shown
+alarmingly low accuracy in hadith verification (Asgari-Bidhendi et al., 2025; Abd et al., 2026).
+
+Do digital hadith applications improve the accuracy of hadith verification among non-experts?            N = 12
+
+
+
+                              3                        2                                                              7
+
+
+   Yes 25% ·         Possibly 0% ·         Mixed 17% ·          No 58%
+
+
+
+FIGURE 1 Research consensus on digital hadith verification accuracy
+
+
+2. Methods
+The search ran over 220 million research papers indexed in Consensus, drawing from Semantic Scholar, PubMed,
+and additional academic databases. The initial query and six research groups targeting foundational context, digital
+application impact, alternative terminology, contrasting perspectives, adjacent technologies, and user experience
+focus yielded approximately 190 papers after machine-learned relevance filtering. Following deduplication and final
+relevance ranking, 50 papers were included in this synthesis. The corpus spans qualitative descriptive studies,
+systematic literature reviews, action research, computational experiments, and mixed-methods evaluations
+published between 2017 and 2026.
+
+
+
+
+                                                                1 / 9
+Search Strategy
+
+
+
+    65.2M                                         100                                           50
+    Retrieved                                     Eligible                                      Included
+
+
+
+      20 searches                               Papers meeting relevance and quality         Top papers selected to be included in the
+                                                criteria, after deduplication                final analysis
+All papers retrieved from 20 searches.
+
+
+
+FIGURE 2 Search strategy and paper selection flow
+
+
+The search combined terms for hadith authentication, digital tools, non-expert users, and Islamic informatics across
+six targeted research groups.
+
+
+3. Results
+
+3.1 Key Papers
+
+The corpus is anchored by several pivotal contributions. Supriyadi et al. provide the strongest empirical evidence
+for literacy improvement through digital applications, with a large-scale action research design involving 398
+participants ( Supriyadi et al., 2020). Abdullah et al. offer the most direct test of digital takhrij accuracy against
+real-world viral hadith content, analyzing 120 social media posts (Abdullah et al., 2026). Hakak et al. deliver a
+foundational survey of authentication techniques that frames the field's open challenges (Hakak et al., 2020).
+
+Paper                                Summary
+
+
+(    Supriyadi et al., 2020)         Action research showing literacy gains via EHK9I app (       Supriyadi et al., 2020)
+
+
+(Abdullah et al., 2026)              Tests digital takhrij accuracy on 120 viral hadith posts (Abdullah et al., 2026)
+
+
+(Hakak et al., 2020)                 Surveys all proposed hadith authentication techniques (Hakak et al., 2020)
+
+
+FIGURE 3 Key papers anchoring the digital hadith verification corpus
+
+
+3.2 Accuracy of Digital Takhrij Tools
+
+Digital takhrij tools demonstrate high source-identification accuracy when used by trained researchers. Maktabah
+Syamilah achieved 91.4% accuracy in identifying hadith sources from viral social media content (Abdullah et al.,
+2026), and was the most-used digital tool among researchers at 79% adoption, though with only moderate
+accuracy compared to printed sources (            Abd et al., 2026). The Hadith Encyclopedia and Hadith Collection
+applications provide continuously improving verification features including source text, hadith rankings, sanad, and
+narrator biographies (, 2023; Zulkipli et al., 2017). A Telegram-based chatbot using LangChain Retriever and GPT-4
+achieved a 0.97 scoring evaluator score and 90% accuracy rating from five hadith experts (                    Herwanza et al.,
+2024). However, these tools' effectiveness depends heavily on user competence: 68.3% of viral hadith posts lacked
+adequate sanad information, and accessibility barriers prevented social media users from fully utilizing the tools
+(Abdullah et al., 2026).
+
+
+
+
+                                                                   2 / 9
+3.3 AI and Machine Learning Performance
+
+                      Traditional          Deep Learning /
+Dimension             ML                   PLMs                      AI Chatbots          Citations
+
+
+Isnad-based           84–94%               93–99.94%                 8%                   (Tarmom et al., 2022; Alghamdi
+accuracy                                                             (ChatGPT)            et al., 2025;   Abd et al., 2026)
+
+
+Matn-based            55–85%               Up to 85%                 Not reported         (Tarmom et al., 2022)
+accuracy
+
+
+Best model            Fuzzy logic          AraBERT                   N/A                  (Tarmom et al., 2022; Alghamdi
+                      (94%)                (99.94% F1)                                    et al., 2025)
+
+
+Key limitation        Missing data         Limited                   Very low             (Tarmom et al., 2022; Azwar &
+                      values               explainability            accuracy             Usman, 2025;     Abd et al.,
+                                                                                          2026)
+
+
+FIGURE 4 AI model performance comparison for hadith authentication
+
+
+Pre-trained language models including AraBERT achieve near-perfect classification when isnad data is included,
+but performance drops significantly for matn-only analysis (Alghamdi et al., 2025; Tarmom et al., 2022). General-
+purpose AI tools perform poorly: ChatGPT achieved only 8% accuracy in hadith verification, and awareness of
+Gemini was limited (       Abd et al., 2026). Islamic-specific AI tools significantly outperform general LLMs, with al-
+Shamela AI scoring 8.1 versus GPT-4 at 4.5 on Shariah-aligned tasks (                 ʿ
+                                                                                 IsmaĪl et al., 2026).
+
+3.4 Non-Expert User Outcomes and Limitations
+
+Action research with 398 students demonstrated that integrating the EHK9I application with structured learning
+improved data literacy by 54.33%, technological literacy by 63.07%, and hadith narration literacy by 93.59% (
+Supriyadi et al., 2020). Students reported that digital hadith applications made finding references easier, increased
+understanding, and enabled access anytime and anywhere (Hidayah et al., 2025). However, many applications
+feature hadiths without adequate scientific verification, exposing users to weak or fabricated narrations (
+Pascasarjana & Parepare, 2024). Low hadith literacy among the general public means users often rely solely on
+search features without understanding sanad, context, or authenticity degrees ( Pascasarjana & Parepare, 2024).
+Several applications lack transparency in presenting original sources, displaying only matan excerpts without sanad
+or references (    Pascasarjana & Parepare, 2024). The shift from teacher-based learning to digital platforms erodes
+traditional scholarly authority and the sanad system (        Najiyah & Putriani, 2024; Syukur et al., 2026).
+
+
+
+
+                                                             3 / 9
+Results Timeline
+
+
+
+
+                                                   6                                                18     16        7
+                                                                                                                              17
+
+                                                                                              11                                   15
+                    10                 20                         12               9                            13       14
+                                                                                                     1
+                                                                                                                                   4
+                                                   3                                           2
+                                                                                                           19        5
+                                                                                                                              8
+
+
+
+
+          2017       2018       2019        2020       2021     2022        2023       2024         2025             2026               2027
+
+
+FIGURE 5 Timeline of digital hadith verification research; larger markers indicate more citations
+
+
+The literature has progressed from early digitization and app evaluation studies (2017–2020) through empirical
+accuracy testing and AI integration (2020–2024) to critical epistemological frameworks and large-scale AI corpus
+development (2025–2026).
+
+
+Top Contributors
+
+Type             Name                                          Papers
+
+
+Author           T. Supriyadi                                  [81c14daf9316507f8d98a0cf65e2d512]
+
+
+Author           S. Hakak                                      [e0a140019ba750e9872750fa4cc5ce3d]
+
+
+Author           M. Kabir                                      [7e2d370143bb57a48282c3926a31333e]
+
+
+Journal          International Journal of Academic             [44b1476690f85cae965333e5bbfe572e]
+                 Research in Business and Social               [3e17b08a31d05f59b7da8ecaf0e03cf7]
+                 Sciences                                      [048e241c14d55f31958a8910fcefdfde]
+
+
+Journal          Transactions on Emerging                      [e0a140019ba750e9872750fa4cc5ce3d]
+                 Telecommunications Technologies
+
+
+Journal          International Journal of Learning             [81c14daf9316507f8d98a0cf65e2d512]
+                 Teaching and Educational Research
+
+
+FIGURE 6 Authors and journals that appeared most frequently in the included papers
+
+
+
+
+                                                                   4 / 9
+4. Discussion
+
+The corpus reveals a fundamental tension: digital hadith tools enhance verification speed and accessibility but do
+not uniformly improve accuracy among non-experts. The strongest evidence comes from Supriyadi et al.'s action
+research, which demonstrated that structured integration of the EHK9I application with pedagogical support
+produced measurable literacy gains across three dimensions (         Supriyadi et al., 2020). This finding suggests that
+applications improve accuracy primarily when paired with educational scaffolding, not as standalone tools. The
+high accuracy of digital takhrij tools like Maktabah Syamilah (91.4%) is encouraging, but Abdullah et al. found that
+accessibility barriers prevent ordinary social media users from leveraging these tools effectively (Abdullah et al.,
+2026).
+
+AI-based approaches show a sharp divergence: specialized models trained on isnad data achieve 84–99.94%
+accuracy (Azwar & Usman, 2025; Alghamdi et al., 2025), while general-purpose LLMs like ChatGPT perform at only
+8% accuracy ( Abd et al., 2026). This gap underscores that domain-specific training is essential, and that non-
+experts relying on general AI chatbots for hadith verification face substantial inaccuracy risk. The Rezwan corpus
+development demonstrates that AI can achieve near-human accuracy in structured tasks like chain–text separation
+(9.33/10) while struggling with semantic similarity detection (Asgari-Bidhendi et al., 2025), highlighting that even
+advanced AI remains a complementary rather than autonomous tool.
+
+Several limitations recur across the corpus. Many applications lack standardized validation methods, raising risks of
+misinformation (    Hamid, 2024; Bahrudin et al., 2025). The absence of authentication methods developed for
+specific user groups, particularly non-experts, remains a identified gap (Bahrudin et al., 2025). Digital information is
+easily edited, making originality and accuracy questionable (       Istianah & Wahyuningsih, 2019), and the shift toward
+digital learning erodes traditional teacher–sanad authority (Syukur et al., 2026). Scholars emphasize that AI must
+function as a supportive tool under human oversight rather than as an autonomous authority (          Susanti et al.,
+2025;          ʿ
+         IsmaĪl et al., 2026).
+
+                                 Evidence
+Claim                            Strength             Reasoning                          Papers
+
+
+Digital apps with                                     Single large action research       (   Supriyadi et al., 2020)
+educational scaffolding                               study (N=398) with
+                                 Moderate
+improve non-expert hadith                             measured outcomes; no
+literacy                                              replication
+
+
+Specialized AI models                                 Multiple studies converging        (Alghamdi et al., 2025;
+achieve high isnad-based                              on 84–99.94% accuracy              Tarmom et al., 2022; Azwar
+                                 Strong
+authentication accuracy                               across different datasets          & Usman, 2025; Tarmom et
+                                                      and algorithms                     al., 2022)
+
+
+General-purpose LLMs                                  One survey study reporting         (   Abd et al., 2026)
+perform poorly on hadith                              8% ChatGPT accuracy;
+                                 Moderate
+verification                                          limited independent
+                                                      replication
+
+
+
+
+                                                         5 / 9
+                                      Evidence
+Claim                                 Strength                 Reasoning                      Papers
+
+
+Many digital hadith apps                                       Multiple qualitative studies   (    Pascasarjana &
+lack adequate verification                                     and content analyses           Parepare, 2024; Adelia et
+                                      Moderate
+mechanisms                                                     consistently report this       al., 2025;  Nikmatullah,
+                                                               finding                        2024)
+
+
+Digital tools alone, without                                   Strong consensus across        (    Susanti et al., 2025;
+scholarly oversight, are                                       survey, conceptual, and        Abdullah et al., 2026;
+                                      Strong
+insufficient for accurate                                      empirical studies              Biodun, 2026;            ʿ
+                                                                                                                 IsmaĪl et
+verification                                                                                  al., 2026)
+
+
+FIGURE 7 Key claims and supporting evidence identified in these papers
+
+
+5. Conclusion
+The literature indicates that digital hadith applications partially improve verification accuracy for non-experts, but
+only when paired with educational scaffolding, domain-specific training, and scholarly oversight. Specialized AI
+models and well-designed takhrij tools achieve high accuracy in structured authentication tasks, yet general-
+purpose chatbots perform poorly, and many commercial applications lack adequate verification mechanisms. The
+evidence consistently shows that technology functions best as a complementary tool within classical hadith
+scholarship rather than as a replacement for expert judgment.
+
+Research Gaps
+
+The corpus reveals several underexplored intersections where future research is needed.
+
+                                  Empirical                User             Longitudinal          Standardized
+                                  testing                  study            data                  benchmarks
+
+
+Non-expert user                   GAP                      GAP              GAP                   GAP
+accuracy
+
+
+AI chatbot verification           GAP                      GAP              GAP                   GAP
+
+
+Social media hadith               GAP                      GAP              GAP                   GAP
+
+
+Multilingual interfaces           GAP                      GAP              GAP                   GAP
+
+
+Educational integration           GAP                      GAP              GAP                   GAP
+
+
+FIGURE 8 Research gap matrix for digital hadith verification studies
+
+
+
+
+                                                                   6 / 9
+The most striking gap is the near-absence of empirical studies directly measuring non-expert verification accuracy
+using digital tools, as opposed to measuring tool accuracy in isolation (Bahrudin et al., 2025). Most studies evaluate
+applications from a developer or scholar perspective, leaving user-side performance largely untested. Longitudinal
+data on whether digital literacy gains persist over time is also absent.
+
+
+Open Research Questions
+
+Question                                                            Why
+
+
+What is the actual verification accuracy of non-                    No study directly measures end-to-end non-expert
+expert users when using digital hadith applications                 accuracy; existing evidence is indirect and conflates tool
+without expert supervision?                                         accuracy with user accuracy.
+
+
+How do multilingual interfaces affect verification                  Most tools operate in Arabic, creating accessibility
+accuracy among non-Arabic-speaking users?                           barriers; the impact of translation quality on verification
+                                                                    outcomes is unmeasured.
+
+
+Can hybrid human-AI verification systems                            Conceptual frameworks propose integration but no
+outperform either component alone for non-expert                    empirical trial has tested a hybrid system with layperson
+users?                                                              participants.
+
+
+FIGURE 9 Open research questions for digital hadith verification
+
+
+Bridging the gap between tool-level accuracy and user-level outcomes remains the most critical next step for
+ensuring digital hadith applications genuinely serve non-expert communities.
+
+These search results were found and analyzed using Consensus, an AI-powered search engine for research. Try it at
+https://consensus.app. © 2026 Consensus NLP, Inc. Personal, non-commercial use only; redistribution requires
+copyright holders’ consent.
+
+
+References
+(2023). The Concept of Hadith, Meaning, and Position of Hadith, Implementation and Comparison in Hadith
+Learning Application: Hadith Encyclopedia and Hadith Collection. Jurnal of Middle East and Islamic Studies.
+https://doi.org/10.7454/meis.v10i1.160
+
+Abd, A. A. A., Stori, S. M., Ahmed, S., & Abbas, I. B. M. (2026). Using traditional methods of hadith verification,
+modern computer programs, and artificial intelligence in verifying prophetic hadiths - a survey study -. ‫مجلة‬
+‫جامعة األنبار للعلوم اإلسالمیة‬. https://doi.org/10.34278/aujis.2026.191549
+Abdullah, Z., Shafira, N., Ibrahim, I., & Rosdiana, R. (2026). VIRALITAS DAN VALIDITAS: DIGITALISASI TAKHRIJ
+HADIS DI ERA MEDIA SOSIAL. DIRAYAH : Jurnal Ilmu Hadis. https://doi.org/10.62359/dirayah.v6i02.1335
+
+Adelia, N., Wahid, A., Alif, M., & Andaluzi, F. (2025). Digital Takhrij Hadith as Islamic Digital Humanities. Digital
+Muslim Review. https://doi.org/10.32678/dmr.v3i1.68
+
+Alghamdi, J., Albukhari, A., & Al-Dala’in, T. (2025). Pretrained Models Against Traditional Machine Learning for
+Detecting Fake Hadith. Electronics. https://doi.org/10.3390/electronics14173484
+
+
+
+
+                                                                   7 / 9
+Asgari-Bidhendi, M., Ghaseminia, M. A., Shahbazi, A., Hossayni, S.-A., Torabian, N., & Minaei-Bidgoli, B. (2025).
+Rezwan: Leveraging Large Language Models for Comprehensive Hadith Text Processing: A 1.2M Corpus
+Development. ArXiv, abs/2510.03781. https://doi.org/10.48550/arxiv.2510.03781
+
+Azwar, A., & Usman, A. H. (2025). Reimagining Hadith Scholarship in the Age of Artificial Intelligence: Insights from
+a PRISMA-Based Systematic Literature Review. e-Jurnal Penyelidikan dan Inovasi.
+https://doi.org/10.53840/ejpi.v12i6.333
+
+Bahrudin, M. K., Suliaman, I., & Adnan, M. A. M. (2025). ADVANCEMENTS IN HADITH AUTHENTICATION
+METHODS: A SYSTEMATIC LITERATURE REVIEW. Hamdard Islamicus. https://doi.org/10.57144/hi.v48i2.544
+
+                                                                            ʿ
+Biodun, Q.-B. S. (2026). Assessing ChatGPT in Detecting al-Hadith al-Muallal: An Applied Study. Zamfara
+International Journal Of Humanities. https://doi.org/10.36349/zamijoh.2026.v04i02.010
+
+Hakak, S., Kamsin, A., Khan, W. Z., Zakari, A., Imran, M., Ahmad, K., & Gilkar, G. (2020). Digital Hadith
+authentication: Recent advances, open challenges, and future directions. Transactions on Emerging
+Telecommunications Technologies, 33. https://doi.org/10.1002/ett.3977
+
+Hamid, A. (2024). Peran Website dalam Penyebaran Hadis di Era Digital. El Nubuwwah: Jurnal Studi Hadis.
+https://doi.org/10.19105/elnubuwwah.v2i2.15407
+
+Herwanza, N. A. M., Harahap, N. S., Yanto, F., & Insani, F. (2024). Penerapan Langchain Retriever dengan Model
+Chat Openai dalam Pengembangan Sistem Chatbot Hadis Berbasis Telegram. JTIM : Jurnal Teknologi Informasi
+dan Multimedia. https://doi.org/10.35746/jtim.v6i1.514
+
+Hidayah, I., Nurlaeli, P., Romadhony, N., Ihksan, A., & Arifin, A. (2025). Formulasi Pembelajaran Hadis Digital. Jurnal
+Penelitian Ilmu Ushuluddin. https://doi.org/10.15575/jpiu.43148
+
+    ʿ
+IsmaĪl, S., Murtala, M. M., & Taura, M. H. (2026). The Role of Artificial Intelligence in Developing Contemporary
+Fatwas and Analyzing Jurisprudential Texts: Empirical Evidence and the S.A.F.E.-Fiqh Framework. Global Journal of
+Artificial Intelligence and Technology Development. https://doi.org/10.46654/nms14h35
+
+Istianah, I., & Wahyuningsih, S. (2019). THE HADITH DIGITIZATION IN MILLENNIAL ERA: A Study At Center For
+Hadith Studies, Indonesia. QIJIS (Qudus International Journal of Islamic Studies).
+https://doi.org/10.21043/qijis.v7i1.4900
+
+Najiyah, N. L. N. N., & Putriani, R. (2024). Transformation of Hadith Study in the Digital Era: an Effectiveness of
+Hadith Applications and Websites. Mashdar: Jurnal Studi Al-Qur'an dan Hadis.
+https://doi.org/10.15548/mashdar.v6i1.7882
+
+Nikmatullah, N. (2024). Online Hadith in Cyber Media: Benefit, Challenging, and Solution. Diroyah : Jurnal Studi
+Ilmu Hadis. https://doi.org/10.15575/diroyah.v8i2.33796
+
+Pascasarjana, R. U., & Parepare, I. (2024). The Digital Era of Hadith: Challenges of Authenticity and Opportunities
+for Innovation. Al-Iftah: Journal of Islamic studies and society. https://doi.org/10.35905/aliftah.v5i2.12647
+
+Supriyadi, T., Julia, J., Aeni, A. N., & Sumarna, E. (2020). Action Research in Hadith Literacy: A Reflection of Hadith
+Learning in the Digital Age. International Journal of Learning, Teaching and Educational Research.
+https://doi.org/10.26803/ijlter.19.5.6
+
+Susanti, R., Nurdiansyah, F., Charles, C., & Gucandra, Y. (2025). Digitalizing the Quran and Hadith: Epistemological
+Reconstruction and Challenges of Religious Authority in the Digital Age. El-Rusyd.
+https://doi.org/10.58485/elrusyd.v10i2.485
+
+
+
+
+                                                         8 / 9
+Syukur, H., Nasrulloh, N., & Fachmuroji, I. (2026). Living Hadith in the Age of Artificial Intelligence: A
+Phenomenological Study of the Use of ChatGPT as a Source for Studying Hadith among College Students. Asian
+Journal of Islamic Studies and Da'wah. https://doi.org/10.58578/ajisd.v4i3.10228
+
+Tarmom, T., Atwell, E., & Alsalka, M. (2022). Deep Learning vs Compression-Based vs Traditional Machine Learning
+Classifiers to Detect Hadith Authenticity. 206-222. https://doi.org/10.1007/978-3-031-04447-2_14
+
+Zulkipli, S. N., Yaacob, Z., Anas, N., Noor, M., Abidin, M. Z. H. Z., Ahmat, A. C., & Yakob, M. A. (2017). Takhrij al-
+Hadith via Mobile Apps: Study of 9 Imam Encyclopedia, Kutub Tisâah and Mawsuâah al-Hadith al-Nabawi al-Syarif.
+The International Journal of Academic Research in Business and Social Sciences, 7.
+https://doi.org/10.6007/ijarbss/v7-i6/3351
+
+
+
+
+                                                          9 / 9
+

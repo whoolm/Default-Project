@@ -1,0 +1,82 @@
+ 1   The literature presents hadith preservation as a **layered, gradual process**, not a
+     single act of book production. The strongest recurring pattern is a progression from
+     direct oral teaching and memorization, through Companion-era verification, to more
+     systematic recording and compilation among the Tabiʿin; the isnad then provided the
+     central framework for tracing and evaluating transmission [^1].
+ 2
+ 3   1. **Methodology**
+ 4      - **Historical-period analysis:** scholarship commonly separates the formative stages
+        into the Prophet’s era, the Companions, and the Tabiʿin, then tracks changes in
+        transmission practice across them [^1].
+ 5      - **Isnad criticism:** reports were assessed through the continuity of the chain (
+        **al-ittishal**) and verification or corroboration (**al-tsabt**), including checking
+        transmitters and, where necessary, seeking witnesses [^1].
+ 6      - **Textual and biographical checking:** later scholarly practice combined hadith
+        terminology, grading, narrator biographies, direct comparison of texts, and classical
+        reference works; modern databases were treated as aids rather than substitutes for
+        checking the source text [^2].
+ 7      - **Transmission through practice:** the Prophetic model was conveyed not only
+        verbally and in writing but also through observed performance of ritual practice such
+        as prayer, ablution, and pilgrimage [^1].
+ 8
+ 9   2. **Preservation mechanisms**
+10      - **Memorization and oral circulation:** these were foundational in the Prophetic
+        period, supported by direct contact between the Prophet and Companions and by strong
+        memorization practices [^1].
+11      - **Selective written recording:** the cited account describes dictation and early
+        written notebooks or *sahifah*, followed by more structured *tadwin*—the collection
+        and writing of reports—during the Tabiʿin period [^1].
+12      - **Chain verification:** requiring an unbroken chain and corroborating reports was
+        intended to limit fabricated or weakly transmitted material [^1].
+13      - **Scholarly travel (*rihlah*):** travel to major learning centers allowed
+        transmitters to locate reports and verify chains directly [^1].
+14      - **Manuscript stewardship:** institutional libraries collected manuscripts,
+        catalogued textual collections, preserved damaged works, and used official copying and
+         authentication practices to reduce scribal alteration [^2].
+15
+16   3. **Key institutions and centers**
+17      - **Mosques:** early mosque-centered libraries served as major settings for collecting
+         hadith and compiling hadith books [^2].
+18      - **Madrasahs and universities:** these supported teaching, specialist personnel,
+        cataloguing, and the growth of Islamic literary collections [^2].
+19      - **State-sanctioned *khizanat al-hadith*:** from around the second Islamic century,
+        these institutional repositories gathered, copied, catalogued, and made hadith
+        materials accessible to scholars [^2].
+20      - **Regional learning centers:** Medina, Mecca, Kufa, Basra, and Syria are identified
+        as important centers visited by Tabiʿin scholars; Medina is presented as the earliest
+        focal point because of its connection with the Prophet’s community [^1].
+21      - **Specialized libraries, including Dar al-Hadith al-Hassaniyyah:** the institutional
+         literature treats such repositories as later centers for preservation, verification,
+        classification, and dissemination [^2].
+22
+23   4. **Main findings**
+24      - Preservation was **cumulative and intergenerational** : oral transmission,
+        memorization, writing, isnad verification, travel, and institutional copying
+        reinforced one another [^1][^2].
+25      - The historical sequence is best characterized as a **shift in emphasis**, not an
+        oral-to-written replacement: memorization dominated early transmission; verification
+        became especially prominent among the Companions; and structured recording expanded
+        among the Tabiʿin [^1].
+26      - The isnad was central to the scholarly concept of authenticity because it identified
+         the transmitters and made a report’s transmission history examinable [^3].
+27      - Libraries and educational institutions transformed preservation from an individual
+        or local activity into a more durable system of collection, classification, copying,
+        access, and scholarly checking [^2].
+28      - The evidence also supports a methodological caution: modern bibliographic and
+        digital tools improve discovery and access but can contain indexing errors or omit
+        relevant contextual detail, so direct consultation of classical texts and traditional
+        verification methods remains necessary [^2].
+29
+30   This extraction reflects the sources retrieved here; it is strongest on the traditional
+     Muslim historiographical account and institutional preservation, and should not be read
+     as a full adjudication of modern Western debates over the dating and historicity of
+     individual hadith reports.
+31
+32   [^1]: Najiyyah, 2026. Rekonstruksi Historis Pertumbuhan Hadis: Masa Nabi, Sahabat, dan
+     Tabi'in. Simpati.
+33
+34   [^2]: Karimov et al., 2025. The Impact of Islamic Libraries on the Compilation and
+     Dissemination of Hadith. Indian Journal of Information Sources and Services.
+35
+36   [^3]: Shah, 2009. The Hadith: Critical Concepts in Islamic Studies.
+
