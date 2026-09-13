@@ -104,6 +104,21 @@ _[Lihat tabel lengkap di Lampiran A — sudah terisi otomatis]_
 
 **Ringkasan top-5 keyword (dari grep):**
 - PRISMA (86 hit), research (83), pustaka (70), SINTA (64), scopus (58)
+
+**Top-10 keyword (dari Lampiran A):**
+
+| Rank | Keyword | Hit | Chat |
+|---|---|---|---|
+| 1 | PRISMA | 86 | C1–C6 |
+| 2 | research | 83 | C1, C2, C6 |
+| 3 | pustaka | 70 | C1–C6 |
+| 4 | SINTA | 64 | C1–C6 |
+| 5 | scopus | 58 | C1–C6 |
+| 6 | literatur | 58 | C1–C6 |
+| 7 | LeapSpace | 48 | C1 |
+| 8 | Consensus | 48 | C1 |
+| 9 | Perplexity | 38 | C1 |
+| 10 | Gemini | 28 | C1 |
 **Top-10 keyword paling sering muncul (dari Lampiran A):**
 
 | Rank | Keyword | Hit | Chat |
@@ -20634,6 +20649,8 @@ bibtex makalah_pancasila_ieee
 lualatex makal
 ...[dipotong]
 ```
+
+
 
 
 
