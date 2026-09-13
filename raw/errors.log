@@ -1,0 +1,3 @@
+[2026-09-13T00:23:54.263601+00:00] INFO: 6/6 URL berhasil diambil via API internal /api/v0/share/content (HTTP 200).
+[2026-09-13T00:23:54.263601+00:00] NOTE: Fetch HTML langsung (curl -L) ke chat.deepseek.com/share/<id> mengembalikan HTTP 202 + header x-amzn-waf-action: challenge dengan body kosong (proteksi WAF/bot). Solusi: pakai endpoint JSON internal yang sama dengan yang dipakai halaman share. Stub penjelasan disimpan di raw/C*.html.
+[2026-09-13T00:23:54.263601+00:00] INFO: Tidak ada URL yang gagal total; tidak ada transkrip manual yang dibutuhkan.

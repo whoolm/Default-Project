@@ -1,0 +1,3 @@
+# Exclude lokal & rahasia
+raw/*.html
+.env
