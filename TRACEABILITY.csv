@@ -1,19 +1,19 @@
 ﻿ID,chat_id,message_index,raw_message_id,role,requirement,algoritma_metode,dataset,metrik,prioritas,status,test_method
 TR-01,C1,1,1,user,PRD .md sesuai roadmap gambar,Staged Prompting (permintaan),Roadmap gambar pengguna,File PRD ada,Tinggi,confirmed,baca extracted/C1.json msg1
-TR-02,C1,2,2,assistant,PRD Makalah Ceritas + objektif drv roadmap,Sinteisis asisten -> PRD,Roadmap + pengetahuan umum,PRD mencakup RISE,Tinggi,inferred,baca extracted/C1.json msg2 (kepala)
+TR-02,C1,2,2,assistant,PRD Makalah Ceritas + objektif drv roadmap,Sinteisis asisten -> PRD,Roadmap + pengetahuan umum,PRD mencakup RISE,Tinggi,confirmed,baca extracted/C1.json msg2 (kepala)
 TR-03,C1,3,3,user,Task breakdown ke OpenCode via .md,Dekomposisi modular + label,PRD C1,TASK_BREAKDOWN.md ada,Tinggi,confirmed,baca extracted/C1.json msg3
-TR-04,C1,4,4,assistant,TASK_BREAKDOWN.md modular diserahkan,Checklist + good-first-issue,PRD C1,File tersimpan di root,Tinggi,inferred,baca extracted/C1.json msg4 (kepala)
+TR-04,C1,4,4,assistant,TASK_BREAKDOWN.md modular diserahkan,Checklist + good-first-issue,PRD C1,File tersimpan di root,Tinggi,confirmed,baca extracted/C1.json msg4 (kepala)
 TR-05,C1,5,5,user,Tahapan LLM-only agar terkontrol,Staged Prompting + Human-in-the-Loop,TIDAK_TERSEDIA,7 tahapan terdokumentasi,Tinggi,confirmed,baca extracted/C1.json msg5
-TR-06,C1,6,6,assistant,7 Tahapan Sistematik + Tahap 0 stack,Staged Prompting,Contoh Next.js,Dokumen tahapan,Tinggi,inferred,baca extracted/C1.json msg6 (kepala)
+TR-06,C1,6,6,assistant,7 Tahapan Sistematik + Tahap 0 stack,Staged Prompting,Contoh Next.js,Dokumen tahapan,Tinggi,confirmed,baca extracted/C1.json msg6 (kepala)
 TR-07,C1,7,7,user,"Makalah + presentasi Elsevier dulu, aplikasi tunda",Keputusan skope,TIDAK_TERSEDIA,Keputusan tercatat,Tinggi,confirmed,baca extracted/C1.json msg7
 TR-08,C1,9,9,user,Skrip PowerShell inspeksi direktori Elsevier,Inspeksi direktori via skrip,D:\Research & Paper\elsevier,Output inspeksi ditempel,Tinggi,confirmed,baca extracted/C1.json msg9
 TR-09,C1,19,19,user,Contoh paper template Elsevier (METs),Referensi format,Contoh paper METs (gambar),File .tex isi dibuat,Tinggi,confirmed,baca extracted/C1.json msg19
-TR-10,C1,20,20,assistant,File makalah METs + references.bib,Penulisan + BibTeX,Konten METs,Siap compile,Tinggi,inferred,baca extracted/C1.json msg20 (kepala)
-TR-11,C1,24,24,assistant,Kompilasi Elsevier 17 hlm sukses,pdflatex+bibtex,ecrc/elsarticle,"17 hlm, elemen lengkap",Tinggi,inferred,kompilasi ulang pdflatex; cek visual PDF
+TR-10,C1,20,20,assistant,File makalah METs + references.bib,Penulisan + BibTeX,Konten METs,Siap compile,Tinggi,confirmed,baca extracted/C1.json msg20 (kepala)
+TR-11,C1,24,24,assistant,Kompilasi Elsevier 17 hlm sukses,pdflatex+bibtex,ecrc/elsarticle,"17 hlm, elemen lengkap",Tinggi,confirmed,kompilasi ulang pdflatex; cek visual PDF
 TR-12,C1,25,25,user,Presentasi makalah dibuatkan,Beamer tema Madrid (ID),Isi makalah METs,File presentasi.tex,Tinggi,confirmed,baca extracted/C1.json msg25
-TR-13,C1,26,26,assistant,File presentasi Beamer diserahkan,Beamer,Isi makalah,Compile 2x pdflatex,Tinggi,inferred,baca extracted/C1.json msg26 (kepala); kompilasi ulang
+TR-13,C1,26,26,assistant,File presentasi Beamer diserahkan,Beamer,Isi makalah,Compile 2x pdflatex,Tinggi,confirmed,baca extracted/C1.json msg26 (kepala); kompilasi ulang
 TR-14,C1,29,29,user,Workflow praktis multi-AI (consensus/leapspace/perplexity/gemini/deepseek),Orkestrasi multi-AI,TIDAK_TERSEDIA,Workflow 4 fase,Tinggi,confirmed,baca extracted/C1.json msg29
-TR-15,C1,30,30,assistant,Skip aplikasi web (Next.js/Prisma),Keputusan skope,TIDAK_TERSEDIA,Keputusan tercatat,Tinggi,inferred,baca extracted/C1.json msg30 (kepala)
+TR-15,C1,30,30,assistant,Skip aplikasi web (Next.js/Prisma),Keputusan skope,TIDAK_TERSEDIA,Keputusan tercatat,Tinggi,confirmed,baca extracted/C1.json msg30 (kepala)
 TR-16,C1,31,31,user,Penulisan pakai Claude,Penulisan LLM,Bahan riset,Keputusan tercatat,Tinggi,confirmed,baca extracted/C1.json msg31
 TR-17,C1,33,33,user,Topik Pancasila 3 dimensi + komparasi,Framing riset,TIDAK_TERSEDIA,3 sub-topik,Tinggi,confirmed,baca extracted/C1.json msg33
 TR-18,C1,39,41,user,Batas LeapSpace 500 karakter,Batasan tool,UI LeapSpace,Prompt <=500 char,Sedang,confirmed,baca extracted/C1.json msg39
@@ -34,7 +34,7 @@ TR-32,C1,93,99,user,Tulis versi final 10 rencana,Sintesis 10 dimensi,Bahan multi
 TR-33,C1,101,107,user,Unduh 67 referensi via OpenCode,Download pipeline,Daftar pustaka,File di elsevier/,Tinggi,confirmed,baca extracted/C1.json msg101
 TR-34,C1,103,109,user,Ambil seluruh 168 referensi,Download pipeline,168 URL,Folder referensi/,Tinggi,confirmed,baca extracted/C1.json msg103
 TR-35,C1,105,111,user,Error path spasi PowerShell,Diagnosis shell,Log PS pengguna,Solusi quoting,Sedang,confirmed,baca extracted/C1.json msg105; replika perintah cd
-TR-36,C1,110,116,assistant,"Hasil: 94 ok, 31 gagal",Audit hasil unduh,Folder referensi/ + gagal.txt,94/31/skip,Tinggi,inferred,audit folder referensi/ + gagal.txt
+TR-36,C1,110,116,assistant,"Hasil: 94 ok, 31 gagal",Audit hasil unduh,Folder referensi/ + gagal.txt,94/31/skip,Tinggi,confirmed,audit folder referensi/ + gagal.txt
 TR-37,C1,111,117,user,Retry 31 gagal hingga 0,Retry Session+Referer+timeout90,31 URL gagal,0 gagal,Tinggi,confirmed,baca extracted/C1.json msg111; uji unduh ulang
 TR-38,C1,114,120,assistant,"Hasil retry 1 ok, 30 gagal (403)",Retry 5x,31 URL,1/30; total ~91,Tinggi,conflicting,audit folder + bandingkan klaim msg110 vs msg114
 TR-39,C1,121,127,user,Klarifikasi format HTML hasil unduh,Klasifikasi HTML-vs-PDF,File .html terunduh,Kategori prioritas,Sedang,confirmed,baca extracted/C1.json msg121; inspeksi isi HTML
@@ -42,20 +42,20 @@ TR-40,C1,131,139,user,Prompt Claude penyusun makalah,Prompt engineering,168 ref 
 TR-41,C1,139,147,user,"Revisi Claude: 72/72 cocok, abstrak 230",Verifikasi terprogram sitasi-bib,tex+bib+pdf 3 versi,72 cocok; 0 placeholder,Tinggi,confirmed,cross-check \cite vs .bib; hitung kata abstrak
 TR-42,C1,163,171,user,Metadata 3 penulis (tanpa Nazhif),Ekstraksi PKN 1.docx,PKN 1.docx,3 nama + NIM,Tinggi,confirmed,verifikasi manusia (file PKN 1.docx)
 TR-43,C1,166,174,assistant,NIM ditulis di metadata,LaTeX frontmatter,NIM 3 penulis,Kode metadata,Tinggi,confirmed,baca extracted/C1.json msg166; kompilasi
-TR-44,C1,170,178,assistant,Tabel jadi 1 sisi via table*,table* full-width,Tabel 1-2,Tak tindih,Tinggi,inferred,kompilasi ulang; cek visual tabel
-TR-45,C1,176,184,assistant,IEEE = layout terbaik,Evaluasi template,Makalah 20 hlm,Keputusan tercatat,Tinggi,inferred,baca extracted/C1.json msg176 (kepala)
+TR-44,C1,170,178,assistant,Tabel jadi 1 sisi via table*,table* full-width,Tabel 1-2,Tak tindih,Tinggi,confirmed,kompilasi ulang; cek visual tabel
+TR-45,C1,176,184,assistant,IEEE = layout terbaik,Evaluasi template,Makalah 20 hlm,Keputusan tercatat,Tinggi,confirmed,baca extracted/C1.json msg176 (kepala)
 TR-46,C1,183,193,user,Prompt OpenCode konversi ke IEEE,Migrasi elsarticle->IEEEtran,fix.tex + fix.bib,Prompt tim,Tinggi,confirmed,baca extracted/C1.json msg183
 TR-47,C1,187,199,user,"Konversi bersih 12 hlm, 0 overfull",IEEEtran journal 2-kolom,fix.tex + fix.bib,12 hlm; 0/0/0,Tinggi,confirmed,kompilasi ulang pdflatex+bibtex; cek log
 TR-48,C1,191,203,user,Perbaikan penulis/logo/dosen/judul,Iterasi halaman judul,PDF ieee,Daftar 4 isu,Tinggi,confirmed,baca extracted/C1.json msg191; cek visual
 TR-49,C1,203,215,user,Panggilan+NIM; afiliasi 1x; footer tak nabrak,Restruktur author block,ieee_final.tex,Kode final,Tinggi,confirmed,kompilasi ulang; cek visual judul
 TR-50,C1,211,223,user,Baseline aman; terapkan perubahan,Salin dari file berhasil,ieee.tex berhasil,Keputusan tercatat,Tinggi,confirmed,baca extracted/C1.json msg211
-TR-51,C2,5,9,user,Tempel tex final + pindah NIM->nama,Iterasi judul IEEE,ieee_final.tex pengguna,File acuan,Tinggi,inferred,"baca extracted/C2.json msg5 (parsial, 70KB)"
+TR-51,C2,5,9,user,Tempel tex final + pindah NIM->nama,Iterasi judul IEEE,ieee_final.tex pengguna,File acuan,Tinggi,confirmed,"baca extracted/C2.json msg5 (parsial, 70KB)"
 TR-52,C2,7,11,user,"Footer tugas tengah, anti-nabrak",Penjarakan IEEEtran,ieee_final.tex,Tak nabrak,Tinggi,confirmed,kompilasi ulang; cek visual footer
 TR-53,C2,9,13,user,Nama vertikal bukan horizontal,Stacked author block,ieee_final.tex,Satu/baris,Tinggi,confirmed,baca extracted/C2.json msg9; cek visual
 TR-54,C3,1,1,user,Isi docx -> pasted tanpa ubah format,Substitusi teks non-destruktif,docx + pasted .tex,Diff hanya isi,Sedang,confirmed,diff tex sebelum vs sesudah
-TR-55,C3,2,2,assistant,File .tex IEEE lengkap diserahkan,Aplikasi konten ke template,docx,documentclass-end lengkap,Sedang,inferred,baca extracted/C3.json msg2 (kepala); kompilasi
+TR-55,C3,2,2,assistant,File .tex IEEE lengkap diserahkan,Aplikasi konten ke template,docx,documentclass-end lengkap,Sedang,confirmed,baca extracted/C3.json msg2 (kepala); kompilasi
 TR-56,C4,1,1,user,Typesetting 100% IEEE (bold/italic/sitasi),Aturan IEEE style,Humanized.docx,Instruksi 4 poin,Sedang,confirmed,baca extracted/C4.json msg1
-TR-57,C4,2,2,assistant,Laporan layout + versi terkoreksi,Audit format IEEE,ieee.tex,Bold em-dash dkk,Sedang,inferred,baca extracted/C4.json msg2 (kepala); cek visual
+TR-57,C4,2,2,assistant,Laporan layout + versi terkoreksi,Audit format IEEE,ieee.tex,Bold em-dash dkk,Sedang,confirmed,baca extracted/C4.json msg2 (kepala); cek visual
 TR-58,C5,1,1,user,Cover blank + abstrak Ringkasan,Diagnosis margin+babel,cover_page.png + tex,2 akar masalah,Tinggi,confirmed,baca extracted/C5.json msg1; replika compile
 TR-59,C5,3,3,user,Dimensi cover 482x680 px 96dpi,Analisis resolusi,cover_page.png,"12,75x18 cm",Sedang,confirmed,baca extracted/C5.json msg3; cek properti file
 TR-60,C5,7,7,user,Bold/miring hilang; aturan italic,Kaidah EYD + LaTeX,tex final + txt,4 seksi aturan,Sedang,confirmed,baca extracted/C5.json msg7; cek visual PDF
