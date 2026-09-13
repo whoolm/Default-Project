@@ -1,0 +1,21 @@
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+# Baseline regresi: PDF hasil smoke test ikut di-track
+!template_ieee.pdf
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

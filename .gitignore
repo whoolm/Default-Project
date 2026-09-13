@@ -50,6 +50,7 @@ arsip/
 raw/*.html
 .env
 
-# --- PDF: track hanya final IEEE ---
+# --- PDF: track hanya final IEEE + baseline regresi ---
 *.pdf
 !makalah_pancasila_ieee.pdf
+!tests/**/*.pdf

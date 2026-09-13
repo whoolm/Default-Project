@@ -18,7 +18,8 @@ Default Project/
 ├── cover_page.png                 → cover original (5.66 MB, 2487×3508)
 ├── cover_page_opt.jpg             → cover optimized 518 KB (dipakai PDF)
 ├── template-ieee/                 → template reusable (nested git repo)
-└── arsip/                         → 43 file iterasi lama
+├── arsip/                         → 43 file iterasi lama
+└── tests/                         → regression baseline (smoke test NFR-05, 2026-09-13)
 ```
 
 Dokumen pendukung: `MANIFEST.md`, `README.md`, `ROADMAP.md`, `PENDING_DECISIONS.md`, `TRACEABILITY.md/.csv`, `METODOLOGI_RESEARCH.md`, `PDF_OPTIMIZATION.md`, `AUDIT_REPORT.md`, `CHANGELOG.md`, `CONTRIBUTING.md`. Data mentah: `raw/` → `extracted/` → `memory/`.

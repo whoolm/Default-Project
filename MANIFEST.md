@@ -41,3 +41,4 @@
 | `raw/errors.log` | Log fetch (6/6 sukses, NOTE WAF) | ✅ |
 | `template-ieee/` | Nested repo template IEEE (tag `template-v2.0`; di-ignore parent) | ✅ nested |
 | `template-elsevier/` | Nested repo template Elsevier konversi dari IEEE (tag `elsevier-v1.1`; di-ignore parent) | ✅ nested |
+| `tests/regression-2026-09-13/` | Smoke test baseline template-ieee v2.0 (NFR-05 PASS; .tex/.bib/.pdf + SMOKE_REPORT/DURATION/START/END) | ✅ 2026-09-13 |

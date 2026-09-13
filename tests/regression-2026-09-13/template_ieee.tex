@@ -1,0 +1,182 @@
+%% ============================================================
+%% SMOKE TEST — PAPER DUMMY PENGISIAN TEMPLATE IEEE
+%% Template: template-ieee (template-v2.0), tidak dimodifikasi strukturnya,
+%% hanya placeholder <<...>> yang diisi konten dummy.
+%% ============================================================
+
+\documentclass[journal]{IEEEtran}
+
+% --- PACKAGE DASAR ---
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\usepackage{cite}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage[english,indonesian]{babel}
+\usepackage{ragged2e}
+\usepackage{stfloats}
+\usepackage{geometry}
+\usepackage{microtype}
+\usepackage{csquotes}
+
+% ============================================================
+% ABSTRAK TETAP "Abstract"
+% ============================================================
+\addto\captionsindonesian{\renewcommand{\abstractname}{Abstract}}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    citecolor=blue,
+    urlcolor=blue
+}
+
+% ============================================================
+% HEADER SETIAP HALAMAN
+% ============================================================
+\markboth
+{SMOKE TEST TEMPLATE IEEE}
+{Uji Coba Template IEEE: Verifikasi End-to-End}
+
+\begin{document}
+
+% ============================================================
+% COVER PAGE — FULL HALAMAN GAMBAR cover_page.png
+% ============================================================
+\begin{titlepage}
+    \newgeometry{left=0cm,right=0cm,top=0cm,bottom=0cm}
+    \thispagestyle{empty}
+    \noindent
+    \makebox[\linewidth][c]{%
+    \IfFileExists{cover_page.png}{%
+        \includegraphics[
+            width=\paperwidth,
+            height=\paperheight,
+            keepaspectratio=false
+        ]{cover_page.png}%
+    }{%
+        \color{red}\Huge\bfseries
+        ERROR: File cover\_page.png TIDAK DITEMUKAN!\\[0.5cm]
+        \Large Pastikan file ada di folder yang sama dengan file .tex ini.
+    }%
+    }
+    \restoregeometry
+\end{titlepage}
+
+% ============================================================
+% HALAMAN 1 — JUDUL + PENULIS + ABSTRAK
+% ============================================================
+\setcounter{page}{1}
+
+\title{
+Uji Coba Template IEEE: Verifikasi End-to-End
+}
+
+\author{
+\IEEEauthorblockN{
+Budi Santoso (2301010001), \\
+Siti Aminah (2301010002) \\[0.15cm]
+}
+\IEEEauthorblockA{
+Program Studi Informatika \\
+Fakultas Sains dan Teknologi \\
+Universitas Islam Negeri Walisongo, Semarang, Indonesia \\[0.15cm]
+}
+\IEEEauthorblockN{\textit{Dosen Pengampu:}}
+\IEEEauthorblockA{
+Dr.~Contoh Dosen, M.Kom. \\[0.1cm]
+}
+\IEEEauthorblockA{
+\footnotesize \textit{Disusun untuk memenuhi tugas mata kuliah Metodologi Penelitian.}
+}
+}
+
+\maketitle
+
+% ============================================================
+% ABSTRAK
+% ============================================================
+\begin{abstract}
+Dokumen ini merupakan naskah dummy yang disusun untuk menguji keterisian \textit{template} artikel IEEEtran versi 2.0 dalam kondisi penggunaan riil. Pengujian mencakup pengisian judul, penulis, abstrak, kata kunci, lima bagian isi, dua sitasi pustaka, satu tabel \textit{booktabs} tiga kolom, serta satu gambar. Seluruh konten bersifat fiktif dan hanya berfungsi memverifikasi bahwa alur kerja \textit{template} menuju draf — mulai dari penyalinan berkas, pengisian \textit{placeholder}, hingga kompilasi empat tahap \textit{pdflatex} dan \textit{bibtex} — dapat diselesaikan dalam batas waktu yang ditetapkan pada NFR-05, yaitu maksimal dua jam. Hasil pengujian diharapkan menjadi bukti empiris bahwa \textit{template} siap dipakai untuk penulisan naskah sesungguhnya tanpa kesalahan kompilasi, tanpa sitasi tak terdefinisi, serta tanpa luapan tabel.
+\end{abstract}
+
+% ============================================================
+% KATA KUNCI / INDEX TERMS
+% ============================================================
+\begin{IEEEkeywords}
+Pengujian asap, \textit{template} IEEE, verifikasi \textit{end-to-end}, NFR-05, kompilasi \textit{pdflatex}.
+\end{IEEEkeywords}
+
+% ============================================================
+% ISI PAPER
+% ============================================================
+
+\section{Pendahuluan}
+
+Dokumen ini ditulis sebagai uji coba pengisian \textit{template} artikel IEEEtran yang dipakai di lingkungan akademik. Tujuannya sederhana: memastikan bahwa seseorang yang menerima \textit{template} kosong dapat menghasilkan draf naskah yang terkompilasi bersih tanpa harus memahami seluruh detail internal \textit{template}. Pengujian ini sekaligus mengukur waktu yang dibutuhkan dari penyalinan \textit{template} hingga diperoleh berkas PDF final, sebagai validasi empiris atas kebutuhan non-fungsional NFR-05.
+
+Ruang lingkup pengujian dibatasi pada elemen-elemen yang paling sering dipakai dalam naskah sesungguhnya. Elemen tersebut meliputi judul dan identitas penulis, abstrak beserta kata kunci, lima bagian isi dengan panjang satu hingga dua paragraf, dua sitasi pustaka dengan gaya penomoran IEEE, satu tabel tiga kolom memakai paket \textit{booktabs}, serta satu gambar yang dimuat melalui perintah \textit{includegraphics}. Format sitasi numerik mengikuti konvensi IEEE, misalnya sitasi pertama \cite{contoh_artikel_jurnal} dan sitasi kedua \cite{contoh_buku}.
+
+\section{Metode Pengujian}
+
+Langkah pertama adalah menyalin direktori \textit{template} ke lokasi kerja baru dan menghapus riwayat versinya agar pengujian berjalan dari kondisi bersih. Seluruh \textit{placeholder} berformat HYPHEN kemudian diganti dengan konten dummy sebagaimana dirinci dalam penugasan. Tidak ada perubahan struktur yang dilakukan terhadap berkas \textit{template}: tidak ada paket yang ditambah, tidak ada definisi baru, dan tidak ada pengubahan tata letak.
+
+Langkah kedua adalah kompilasi memakai alur empat tahap, yaitu \textit{pdflatex}, \textit{bibtex}, \textit{pdflatex}, dan \textit{pdflatex}. Alur ini memastikan bahwa seluruh referensi silang, nomor sitasi, serta daftar pustaka terselesaikan dengan benar. Setiap tahap dijalankan dengan opsi \textit{nonstopmode} sehingga kesalahan, bila ada, tercatat dalam berkas log tanpa menghentikan proses secara interaktif.
+
+\section{Hasil Kompilasi}
+
+Kompilasi dinyatakan berhasil apabila berkas PDF terbentuk dengan jumlah halaman sesuai target, tidak terdapat baris kesalahan dalam berkas log, tidak ada peringatan sitasi tak terdefinisi, tabel tidak meluap keluar kolom, halaman sampul tampil penuh, serta kedua nomor sitasi ter-\textit{render} sebagai angka dalam kurung siku. Pemeriksaan dilakukan dengan membaca berkas log, memeriksa peringatan \textit{undefined citation}, serta membuka PDF hasil kompilasi secara visual.
+
+Tabel~\ref{tab:smoke} menunjukkan ringkasan kriteria penerimaan yang diperiksa pada uji ini. Tabel ini sendiri berfungsi ganda: selain menyajikan kriteria, ia juga membuktikan bahwa lingkungan tabel tiga kolom dengan garis \textit{booktabs} ter-\textit{render} dengan benar di dalam tata letak dua kolom melalui lingkungan \textit{table} standar.
+
+\begin{table}[htbp]
+\centering
+\caption{Kriteria penerimaan smoke test.}
+\label{tab:smoke}
+\begin{tabular}{@{}lll@{}}
+\toprule
+Kriteria & Target & Status \\
+\midrule
+Berkas PDF & Terbentuk & Diperiksa \\
+Kesalahan kompilasi & Nol & Diperiksa \\
+Sitasi tak terdefinisi & Nol & Diperiksa \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Pembahasan}
+
+Hasil pengujian ini memberi keyakinan bahwa \textit{template} dapat diisi oleh penulis awam dalam waktu yang jauh di bawah batas NFR-05. Karena seluruh \textit{placeholder} memakai format HYPHEN yang mudah dicari, penulis cukup melakukan pencarian dan penggantian berurutan tanpa risiko melewatkan satu pun \textit{placeholder}. Struktur lima bagian yang disediakan sudah mencukupi untuk naskah pendek dua halaman, dan dapat digandakan polanya bila naskah sesungguhnya membutuhkan lebih banyak bagian.
+
+Gambar~\ref{fig:sampul} menampilkan ulang gambar sampul sebagai bukti bahwa perintah \textit{includegraphics} berfungsi terhadap berkas gambar yang tersedia di direktori kerja. Pada naskah sesungguhnya, gambar ini diganti dengan diagram, grafik hasil, atau tangkapan layar yang relevan dengan isi pembahasan. Mekanisme pemuatan gambar tidak memerlukan konfigurasi tambahan selama berkas gambar berada dalam satu direktori dengan berkas \textit{tex} atau pada jalur yang dikenali.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.8\linewidth]{cover_page.png}
+\caption{Contoh gambar uji yang dimuat dari berkas gambar yang tersedia.}
+\label{fig:sampul}
+\end{figure}
+
+\section{Kesimpulan}
+
+Uji coba ini menunjukkan bahwa \textit{template} IEEEtran versi 2.0 dapat diisi dan dikompilasi menjadi draf PDF tanpa kesalahan. Seluruh elemen yang diuji — judul, penulis, abstrak, kata kunci, lima bagian isi, dua sitasi \cite{contoh_artikel_jurnal,contoh_buku}, satu tabel, dan satu gambar — ter-\textit{render} sebagaimana mestinya. Waktu total yang tercatat menjadi bukti pemenuhan NFR-05 dan dicatat dalam berkas durasi pendamping.
+
+Sebagai tindak lanjut, disarankan agar panduan pengisian singkat tetap dipertahankan di dalam berkas \textit{template} agar penulis baru tidak perlu membuka dokumen terpisah. Apabila pada pengujian lanjutan ditemukan kebutuhan elemen baru, seperti algoritma atau notasi matematika yang lebih kompleks, penambahan tersebut sebaiknya dilakukan sebagai lampiran contoh opsional agar \textit{template} inti tetap ramping dan mudah diisi.
+
+% ============================================================
+% UCAPAN TERIMA KASIH (opsional)
+% ============================================================
+\section*{Ucapan Terima Kasih}
+
+Penulis mengucapkan terima kasih kepada pengelola \textit{template} atas penyediaan kerangka naskah yang diuji dalam dokumen dummy ini.
+
+% ============================================================
+% DAFTAR PUSTAKA
+% ============================================================
+\bibliographystyle{IEEEtran}
+\bibliography{referensi_template}
+
+\end{document}
