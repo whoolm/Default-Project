@@ -54,3 +54,6 @@ raw/*.html
 *.pdf
 !makalah_pancasila_ieee.pdf
 !tests/**/*.pdf
+opencode.db.bak_*
+opencode-session-archive/
+obsidian-skills-git-archive/
