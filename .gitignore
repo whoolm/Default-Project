@@ -1,3 +1,55 @@
-# Exclude lokal & rahasia
+# ============================================================
+# PARENT .gitignore — Default Project
+# ============================================================
+
+# Template (nested repo independen)
+template-ieee/
+template-elsevier/
+
+# --- LaTeX build artifacts ---
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.spl
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.lof
+*.lot
+*.toc
+*.nav
+*.snm
+*.vrb
+texput.log
+
+# --- Python / vector DB ---
+chroma_db/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Obsidian ---
+.obsidian/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Editor ---
+.vscode/
+.idea/
+*.swp
+
+# --- Arsip iterasi ---
+arsip/
+
+# --- Exclude lokal & rahasia (bawaan) ---
 raw/*.html
 .env
+
+# --- PDF: track hanya final IEEE ---
+*.pdf
+!makalah_pancasila_ieee.pdf
