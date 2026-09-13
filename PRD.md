@@ -100,15 +100,15 @@ Status akhir menurut chat: makalah versi IEEE terkompilasi bersih (**0 error, 0 
 
 ## 6. Kebutuhan Non-Fungsional
 
-| ID | Kategori | Requirement | Target (W AJIB diisi manusia — JANGAN diisi OpenCode) | Sumber |
+| ID | Kategori | Requirement | Target (diputuskan manusia 13 Sep 2026 — lihat DECISIONS.md PD-13) | Sumber |
 |----|----------|-------------|------------------------------------------------------|--------|
-| NFR-01 | Format | Template akhir IEEE Transactions/Journal dua kolom; abstrak ala Elsevier; margin ketat; tanpa teks "nyebrang" | [PERLU TARGET ANGKA: mis. maks overfull box, toleransi margin] | C1-msg173–180 |
-| NFR-02 | Kualitas kompilasi | 0 error fatal; 0 sitasi undefined; 0 overfull box; PDF 12 hlm (IEEE) / 20 hlm (Elsevier) | [PERLU TARGET ANGKA: mis. maks warning, waktu compile] | C1-msg187/188 |
-| NFR-03 | Integritas data | 72/72 sitasi↔bib cocok; tanpa broken citation/orphan reference; `%TODO` eksplisit untuk data hilang | [PERLU TARGET ANGKA: mis. % sitasi cocok, maks TODO] | C1-msg139 |
-| NFR-04 | Gaya selingkung | Abstrak 150–250 kata; 5–7 kata kunci; istilah asing italic; bold hanya heading; sitasi `[n]` | [PERLU TARGET ANGKA: rentang sudah ada di chat; validasi manusia] | C1-msg139, C4 |
-| NFR-05 | Kompatibilitas toolchain | TeX Live 2026; `pdflatex` (cover image) / `xelatex`/`lualatex` (cover programatik); tanpa TikZ/fontspec untuk jalur pdflatex; `tlmgr` tanpa `sudo` di Windows | [PERLU TARGET ANGKA: mis. versi minimum, matriks engine×OS] | C5, C6-msg71, C6-msg133–135 |
-| NFR-06 | Etika & legalitas | Hormati login-wall/paywall (ResearchGate, Academia.edu, Taylor & Francis); unduh manual dengan akun; cantumkan status in-press/online-first untuk ref 2026 | [PERLU TARGET ANGKA: mis. % sumber berlisensi jelas] | C1-msg112–118, C1-msg139 |
-| NFR-07 | Keterbatasan AI | Batas LeapSpace 500 char/prompt; Gemini dapat penuh; Claude tanpa akses direktori (via unggah/OpenCode) | [PERLU TARGET ANGKA: mis. batas kuota/hari, SLA fallback] | C1-msg39, C1-msg57, C1-msg133–136 |
+| NFR-01 | Format | Template akhir IEEE Transactions/Journal dua kolom; abstrak ala Elsevier; margin ketat; tanpa teks "nyebrang" | Teks isi vektor; cover ≥ 150 dpi; 0 overfull box | C1-msg173–180 |
+| NFR-02 | Kualitas kompilasi | 0 error fatal; 0 sitasi undefined; 0 overfull box; PDF 12 hlm (IEEE) / 20 hlm (Elsevier) | Compile errors = 0; compile time ≤ 30 detik; PDF size ≤ 3 MB | C1-msg187/188 |
+| NFR-03 | Integritas data | 72/72 sitasi↔bib cocok; tanpa broken citation/orphan reference; `%TODO` eksplisit untuk data hilang | Cross-check sitasi = 100%; 0 orphan/yatim | C1-msg139 |
+| NFR-04 | Gaya selingkung | Abstrak 150–250 kata; 5–7 kata kunci; istilah asing italic; bold hanya heading; sitasi `[n]` | Abstrak 150–250 kata; 5–7 kata kunci (validasi manusia 13 Sep 2026) | C1-msg139, C4 |
+| NFR-05 | Kompatibilitas toolchain | TeX Live 2026; `pdflatex` (cover image) / `xelatex`/`lualatex` (cover programatik); tanpa TikZ/fontspec untuk jalur pdflatex; `tlmgr` tanpa `sudo` di Windows | Engine final = `pdflatex` (K-07, 13 Sep 2026); TeX Live 2026 | C5, C6-msg71, C6-msg133–135 |
+| NFR-06 | Etika & legalitas | Hormati login-wall/paywall (ResearchGate, Academia.edu, Taylor & Francis); unduh manual dengan akun; cantumkan status in-press/online-first untuk ref 2026 | 100% sumber berlisensi jelas / manual ber-akun; tanpa bypass otomatis | C1-msg112–118, C1-msg139 |
+| NFR-07 | Keterbatasan AI | Batas LeapSpace 500 char/prompt; Gemini dapat penuh; Claude tanpa akses direktori (via unggah/OpenCode) | Waktu template→draft ≤ 2 jam; batas LeapSpace 500 char/prompt | C1-msg39, C1-msg57, C1-msg133–136 |
 
 ## 7. Alur Sistem
 

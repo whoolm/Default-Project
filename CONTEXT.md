@@ -46,16 +46,10 @@ Dokumen pendukung: `MANIFEST.md`, `README.md`, `ROADMAP.md`, `PENDING_DECISIONS.
 
 ## 5. Yang Masih Terbuka
 
-- **K-01 / PD-06**: acuan `.bib` = `fix` (72/72 cocok, didukung C1) vs `final` (klaim memori C6) — wajib cross-check sebelum compile
-- **K-02 s/d K-04 / PD-07**: format nama (lengkap vs panggilan+NIM vertikal), penempatan NIM & dosen — versi terakhir: panggilan+NIM vertikal, dosen di halaman judul
-- **K-05 / PD-08**: cover kode TikZ vs image — keputusan tercatat = image (pengguna menolak TikZ), butuh konfirmasi final
-- **K-06 / PD-09**: gaya abstrak bawaan IEEE vs ala Elsevier — keputusan tercatat = ala Elsevier bold+em-dash
-- **K-07**: engine pdflatex (simpel, final) vs xelatex/lualatex (font/cover programatik)
-- **K-08 / PD-05**: angka unduhan "94 berhasil" vs "91+1 retry" — FR-05 (±30 gagal login-wall) belum tertutup
-- **K-09**: judul final (10 opsi Claude, makna sama)
-- **K-10–K-13 RIWAYAT** (jangan dibuka ulang): 168 ref, cover tak dihitung hal.1, "Abstract", `table*`
-- **PD-01–PD-04**: isi 92 lampiran, 188 thinking blocks, pesan kosong/cabang pruned, 21 image.png (RISE 1–6) — butuh file asli manusia
-- **PD-10–PD-13**: asumsi OpenCode (M-01–M-08 bukan FR, message_id=kronologi, inferred cukup, NFR tanpa angka) menunggu validasi
+> Semua K/PD diputuskan 13 Sep 2026 — lihat `DECISIONS.md` (tag `decisions-v1.0`).
+
+- **Keputusan final (DECIDED):** K-01=`pancasila_referensi_fix.bib`; K-02=panggilan+NIM vertikal; K-03=NIM samping nama; K-04=dosen di halaman judul; K-05=cover image full-page; K-06=abstrak ala Elsevier; K-07=`pdflatex`; K-08=rentang 91–94 (metrik pakai 91); K-09=judul existing di `makalah_pancasila_ieee.tex`; K-10–K-13 RIWAYAT (jangan dibuka ulang); PD-01–PD-03 diabaikan; PD-04 minta file (opsional); PD-05 rentang 91–94; PD-06–PD-09 konsisten; PD-10–PD-12 validasi/terima; PD-13 = 6 NFR terukur
+- **NFR terukur (PD-13):** compile ≤30 dtk; PDF ≤3 MB; visual vektor + cover ≥150 dpi; 0 error; template→draft ≤2 jam; cross-check sitasi 100%
 - **Optimasi PDF DITUNDA (2026-09-13)**: belum commit/rollback; `.bak` masih ada — putuskan (a) COMMIT (b) ROLLBACK (c) TERIMA+S5
 
 ## 6. File Kunci
