@@ -1,0 +1,103 @@
+\documentclass[12pt,a4paper]{article}
+
+% === PACKAGES ===
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english,indonesian]{babel}
+\usepackage{times}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{ragged2e}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tocloft}
+\usepackage{fancyhdr}
+
+% === LAYOUT ===
+\geometry{
+    left=4cm,
+    top=4cm,
+    right=3cm,
+    bottom=3cm
+}
+\onehalfspacing
+\setlength{\parindent}{1.27cm}
+\setlength{\parskip}{0pt}
+\RaggedRight
+
+% === HYPERLINK ===
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    urlcolor=blue
+}
+
+% === HEADING STYLE ===
+\titleformat{\section}{\centering\bfseries\large}{}{0pt}{}
+\titleformat{\subsection}{\bfseries\normalsize}{}{0pt}{}
+\titleformat{\subsubsection}{\bfseries\normalsize}{}{0pt}{}
+
+% === HEADER/FOOTER ===
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+
+% === CUSTOM COMMANDS ===
+\newcommand{\arabicterm}[1]{\textit{#1}}
+
+\begin{document}
+
+% === COVER PAGE ===
+\begin{titlepage}
+    \thispagestyle{empty}
+    \newgeometry{margin=0cm}
+    \noindent
+    \IfFileExists{cover.png}{%
+        \includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio=false]{cover.png}%
+    }{%
+        \centering
+        \vspace*{5cm}
+        {\Huge\bfseries MAKALAH}\\[1cm]
+        {\Large Judul}\\[2cm]
+        {\large Oleh: ...}\\[2cm]
+        {\large \today}
+    }
+    \restoregeometry
+\end{titlepage}
+
+% === KATA PENGANTAR ===
+\newpage
+\section*{KATA PENGANTAR}
+\addcontentsline{toc}{section}{KATA PENGANTAR}
+\input{kp.tex}
+
+% === DAFTAR ISI ===
+\newpage
+\renewcommand{\contentsname}{DAFTAR ISI}
+\tableofcontents
+\addcontentsline{toc}{section}{DAFTAR ISI}
+
+% === ISI MAKALAH ===
+\newpage
+\input{bab1.tex}
+
+\newpage
+\input{bab2.tex}
+
+\newpage
+\input{bab3.tex}
+
+% === DAFTAR PUSTAKA ===
+\newpage
+\section*{DAFTAR PUSTAKA}
+\addcontentsline{toc}{section}{DAFTAR PUSTAKA}
+\input{pustaka.tex}
+
+\end{document}
