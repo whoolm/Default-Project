@@ -1,0 +1,96 @@
+﻿{
+    "best_oa_location":  {
+                             "endpoint_id":  null,
+                             "evidence":  "deprecated",
+                             "host_type":  "publisher",
+                             "is_best":  true,
+                             "license":  "cc-by-nc",
+                             "oa_date":  "2024-11-20",
+                             "pmh_id":  null,
+                             "repository_institution":  null,
+                             "updated":  "deprecated",
+                             "url":  "https://doi.org/10.56594/althiqah.v7i2.263",
+                             "url_for_landing_page":  "https://doi.org/10.56594/althiqah.v7i2.263",
+                             "url_for_pdf":  null,
+                             "version":  "publishedVersion"
+                         },
+    "data_standard":  2,
+    "doi":  "10.56594/althiqah.v7i2.263",
+    "doi_url":  "https://doi.org/10.56594/althiqah.v7i2.263",
+    "first_oa_location":  {
+                              "endpoint_id":  null,
+                              "evidence":  "deprecated",
+                              "host_type":  "publisher",
+                              "is_best":  true,
+                              "license":  "cc-by-nc",
+                              "oa_date":  "2024-11-20",
+                              "pmh_id":  null,
+                              "repository_institution":  null,
+                              "updated":  "deprecated",
+                              "url":  "https://doi.org/10.56594/althiqah.v7i2.263",
+                              "url_for_landing_page":  "https://doi.org/10.56594/althiqah.v7i2.263",
+                              "url_for_pdf":  null,
+                              "version":  "publishedVersion"
+                          },
+    "genre":  "journal-article",
+    "has_repository_copy":  false,
+    "is_oa":  true,
+    "is_paratext":  false,
+    "journal_is_in_doaj":  false,
+    "journal_is_oa":  false,
+    "journal_issn_l":  "2685-7529",
+    "journal_issns":  "2685-7529,2685-9467",
+    "journal_name":  "Al-Thiqah Jurnal Ilmu Keislaman",
+    "oa_locations":  [
+                         {
+                             "endpoint_id":  null,
+                             "evidence":  "deprecated",
+                             "host_type":  "publisher",
+                             "is_best":  true,
+                             "license":  "cc-by-nc",
+                             "oa_date":  "2024-11-20",
+                             "pmh_id":  null,
+                             "repository_institution":  null,
+                             "updated":  "deprecated",
+                             "url":  "https://doi.org/10.56594/althiqah.v7i2.263",
+                             "url_for_landing_page":  "https://doi.org/10.56594/althiqah.v7i2.263",
+                             "url_for_pdf":  null,
+                             "version":  "publishedVersion"
+                         }
+                     ],
+    "oa_locations_embargoed":  [
+
+                               ],
+    "oa_status":  "hybrid",
+    "published_date":  "2024-11-20",
+    "publisher":  "Sekolah Tinggi Ilmu Ushuluddin Darussalam Bangkalan",
+    "title":  "HISTORY OF HADITH WRITING IN THE PRE-CODIFICATION PERIOD IN THE PROSPECTIVE OF \u0027AJJAJ AL-KHATIB",
+    "updated":  "2026-09-09T13:38:15Z",
+    "year":  2024,
+    "z_authors":  [
+                      {
+                          "author_position":  "first",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+
+                                                      ],
+                          "raw_author_name":  "Mohammad Lutfianto"
+                      },
+                      {
+                          "author_position":  "middle",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+
+                                                      ],
+                          "raw_author_name":  "Abdurrahman Abdurrahman"
+                      },
+                      {
+                          "author_position":  "last",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+
+                                                      ],
+                          "raw_author_name":  "Takwallo Takwallo"
+                      }
+                  ]
+}

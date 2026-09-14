@@ -1,0 +1,182 @@
+﻿{
+    "indexed":  {
+                    "date-parts":  [
+                                       [
+                                           2026,
+                                           7,
+                                           8
+                                       ]
+                                   ],
+                    "date-time":  "2026-07-08T18:52:14Z",
+                    "timestamp":  1783536734396,
+                    "version":  "3.55.0"
+                },
+    "reference-count":  0,
+    "publisher":  "Creative Publishing House",
+    "issue":  "8",
+    "license":  [
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2024 11 27"
+                                                     ],
+                                      "date-time":  "2024-11-27T00:00:00Z",
+                                      "timestamp":  1732665600000
+                                  },
+                        "content-version":  "unspecified",
+                        "delay-in-days":  0,
+                        "URL":  "https://creativecommons.org/licenses/by-nc-nd/4.0"
+                    }
+                ],
+    "content-domain":  {
+                           "domain":  [
+
+                                      ],
+                           "crossmark-restriction":  false
+                       },
+    "short-container-title":  [
+                                  "JoE"
+                              ],
+    "abstract":  "\u003cjats:p\u003eIn this study that we have conducted, which is concerned with the digital progress in the study of Hadith science, which is related to Islamic studies, with a focus on the social and religious opportunities and challenges that this shift from ancient studies to a new type of studies in Hadith science brings, we begin our study by providing an overview of the religious and historical importance as well as the scientific importance of one of the most important Islamic sciences, which is Hadith science in Islamic studies. This study indicates the potential of digital technology in reshaping the traditional methodology of Hadith science. In this research paper, we will discuss the benefits that digital technology offers, especially in preserving ancient manuscripts that contain Prophetic hadiths and facilitating access to comprehensive databases, i.e. facilitating the researcher’s access to a huge number of hadiths and using artificial intelligence to analyze the complex networks of narrators and classifying hadiths according to their sources. This research also addresses the challenges facing the development of Hadith science between the past and the present, i.e. between the digitization of Hadith science and the old methods used in transferring and studying Hadith science, such as preserving the accuracy of texts when converting them from the paper system to the digital system, as well as the potential challenges in designing algorithms and ethical issues related to digital interpretations of modern texts or Hadith texts. This research paper also emphasizes the need to develop standards that include guarantees for trust, authenticity and honesty, and it addresses the social impacts resulting from the spread of hadiths via social media over the Internet, which may lead to misuse of these tools or misinterpretations of hadiths or by publishing unverified hadiths. In the future vision of this research paper, we envision this study as an integration between the traditional style in the science of hadith and modern technology and digital tools used in the science of Islamic hadith. It also contributes to establishing research networks and enhancing cooperation between hadith scholars and scholars in the digital technology system. At the end of the research paper, we analyzed a comparison between traditional and digital styles, focusing on the weaknesses and strengths of each of these two approaches. In the end, the study shows the potential of digital innovation in developing the science of hadith, provided that this modern system is used with respect for scientific accuracy and ethical standards to avoid using it in unethical and unscientific ways.\u003c/jats:p\u003e",
+    "DOI":  "10.62754/joe.v3i8.4927",
+    "type":  "journal-article",
+    "created":  {
+                    "date-parts":  [
+                                       [
+                                           2024,
+                                           11,
+                                           27
+                                       ]
+                                   ],
+                    "date-time":  "2024-11-27T17:12:39Z",
+                    "timestamp":  1732727559000
+                },
+    "source":  "Crossref",
+    "is-referenced-by-count":  5,
+    "title":  [
+                  "The Future of Hadith Studies in the Digital Age: Opportunities and Challenges"
+              ],
+    "prefix":  "10.62754",
+    "volume":  "3",
+    "author":  [
+                   {
+                       "given":  "Mohammed Adnan",
+                       "family":  "Abdulrahman",
+                       "sequence":  "first",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   }
+               ],
+    "member":  "49349",
+    "published-online":  {
+                             "date-parts":  [
+                                                [
+                                                    2024,
+                                                    11,
+                                                    27
+                                                ]
+                                            ]
+                         },
+    "container-title":  [
+                            "Journal of Ecohumanism"
+                        ],
+    "original-title":  [
+
+                       ],
+    "link":  [
+                 {
+                     "URL":  "https://ecohumanism.co.uk/joe/ecohumanism/article/download/4927/4531",
+                     "content-type":  "application/pdf",
+                     "content-version":  "vor",
+                     "intended-application":  "text-mining"
+                 },
+                 {
+                     "URL":  "https://ecohumanism.co.uk/joe/ecohumanism/article/download/4927/4531",
+                     "content-type":  "unspecified",
+                     "content-version":  "vor",
+                     "intended-application":  "similarity-checking"
+                 }
+             ],
+    "deposited":  {
+                      "date-parts":  [
+                                         [
+                                             2024,
+                                             11,
+                                             27
+                                         ]
+                                     ],
+                      "date-time":  "2024-11-27T17:13:05Z",
+                      "timestamp":  1732727585000
+                  },
+    "score":  1,
+    "resource":  {
+                     "primary":  {
+                                     "URL":  "https://ecohumanism.co.uk/joe/ecohumanism/article/view/4927"
+                                 }
+                 },
+    "subtitle":  [
+
+                 ],
+    "short-title":  [
+
+                    ],
+    "issued":  {
+                   "date-parts":  [
+                                      [
+                                          2024,
+                                          11,
+                                          27
+                                      ]
+                                  ]
+               },
+    "references-count":  0,
+    "journal-issue":  {
+                          "issue":  "8",
+                          "published-online":  {
+                                                   "date-parts":  [
+                                                                      [
+                                                                          2024,
+                                                                          11,
+                                                                          10
+                                                                      ]
+                                                                  ]
+                                               }
+                      },
+    "URL":  "https://doi.org/10.62754/joe.v3i8.4927",
+    "relation":  {
+
+                 },
+    "ISSN":  [
+                 "2752-6801",
+                 "2752-6798"
+             ],
+    "issn-type":  [
+                      {
+                          "value":  "2752-6801",
+                          "type":  "electronic"
+                      },
+                      {
+                          "value":  "2752-6798",
+                          "type":  "print"
+                      }
+                  ],
+    "subject":  [
+
+                ],
+    "published":  {
+                      "date-parts":  [
+                                         [
+                                             2024,
+                                             11,
+                                             27
+                                         ]
+                                     ]
+                  }
+}

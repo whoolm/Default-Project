@@ -1,0 +1,54 @@
+﻿{
+    "best_oa_location":  null,
+    "data_standard":  2,
+    "doi":  "10.1016/j.websem.2023.100797",
+    "doi_url":  "https://doi.org/10.1016/j.websem.2023.100797",
+    "first_oa_location":  null,
+    "genre":  "journal-article",
+    "has_repository_copy":  false,
+    "is_oa":  false,
+    "is_paratext":  false,
+    "journal_is_in_doaj":  true,
+    "journal_is_oa":  false,
+    "journal_issn_l":  "1570-8268",
+    "journal_issns":  "1570-8268,1873-7749",
+    "journal_name":  "Journal of Web Semantics",
+    "oa_locations":  [
+
+                     ],
+    "oa_locations_embargoed":  [
+
+                               ],
+    "oa_status":  "closed",
+    "published_date":  "2023-06-28",
+    "publisher":  "Elsevier BV",
+    "title":  "SemanticHadith: An ontology-driven knowledge graph for the hadith corpus",
+    "updated":  "2025-10-28T20:11:18Z",
+    "year":  2023,
+    "z_authors":  [
+                      {
+                          "author_position":  "first",
+                          "is_corresponding":  true,
+                          "raw_affiliation_strings":  [
+                                                          "FAST National University of Computer and Emerging Sciences, Department of Computer Sciences, AK Brohi Road, H-11/4 Islamabad, Pakistan"
+                                                      ],
+                          "raw_author_name":  "Amna Binte Kamran"
+                      },
+                      {
+                          "author_position":  "middle",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+                                                          "FAST National University of Computer and Emerging Sciences, Department of Computer Sciences, AK Brohi Road, H-11/4 Islamabad, Pakistan"
+                                                      ],
+                          "raw_author_name":  "Bushra Abro"
+                      },
+                      {
+                          "author_position":  "last",
+                          "is_corresponding":  true,
+                          "raw_affiliation_strings":  [
+                                                          "FAST National University of Computer and Emerging Sciences, Department of Computer Sciences, AK Brohi Road, H-11/4 Islamabad, Pakistan"
+                                                      ],
+                          "raw_author_name":  "Amna Basharat"
+                      }
+                  ]
+}

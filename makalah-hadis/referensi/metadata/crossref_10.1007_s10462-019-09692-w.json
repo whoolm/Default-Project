@@ -1,0 +1,1272 @@
+﻿{
+    "indexed":  {
+                    "date-parts":  [
+                                       [
+                                           2026,
+                                           8,
+                                           28
+                                       ]
+                                   ],
+                    "date-time":  "2026-08-28T07:14:32Z",
+                    "timestamp":  1787901272139,
+                    "version":  "build-2784847793"
+                },
+    "reference-count":  128,
+    "publisher":  "Springer Science and Business Media LLC",
+    "issue":  "2",
+    "license":  [
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2019 3 18"
+                                                     ],
+                                      "date-time":  "2019-03-18T00:00:00Z",
+                                      "timestamp":  1552867200000
+                                  },
+                        "content-version":  "tdm",
+                        "delay-in-days":  0,
+                        "URL":  "http://www.springer.com/tdm"
+                    }
+                ],
+    "funder":  [
+                   {
+                       "DOI":  "10.13039/501100011665",
+                       "name":  "Deanship of Scientific Research, King Saud University",
+                       "doi-asserted-by":  "publisher",
+                       "award":  [
+                                     "Graduate Students Research Support"
+                                 ],
+                       "award-info":  [
+                                          {
+                                              "award-number":  "Graduate Students Research Support"
+                                          }
+                                      ],
+                       "id":  [
+                                  {
+                                      "id":  "10.13039/501100011665",
+                                      "id-type":  "DOI",
+                                      "asserted-by":  "publisher"
+                                  }
+                              ]
+                   },
+                   {
+                       "DOI":  "10.13039/501100000266",
+                       "name":  "UK Engineering and Physical Sciences Research Council",
+                       "doi-asserted-by":  "crossref",
+                       "award":  [
+                                     "EP/M026981/1"
+                                 ],
+                       "award-info":  [
+                                          {
+                                              "award-number":  "EP/M026981/1"
+                                          }
+                                      ],
+                       "id":  [
+                                  {
+                                      "id":  "10.13039/501100000266",
+                                      "id-type":  "DOI",
+                                      "asserted-by":  "crossref"
+                                  }
+                              ]
+                   }
+               ],
+    "content-domain":  {
+                           "domain":  [
+                                          "link.springer.com"
+                                      ],
+                           "crossmark-restriction":  false
+                       },
+    "short-container-title":  [
+                                  "Artif Intell Rev"
+                              ],
+    "published-print":  {
+                            "date-parts":  [
+                                               [
+                                                   2019,
+                                                   8
+                                               ]
+                                           ]
+                        },
+    "DOI":  "10.1007/s10462-019-09692-w",
+    "type":  "journal-article",
+    "created":  {
+                    "date-parts":  [
+                                       [
+                                           2019,
+                                           3,
+                                           18
+                                       ]
+                                   ],
+                    "date-time":  "2019-03-18T16:03:53Z",
+                    "timestamp":  1552925033000
+                },
+    "page":  "1369-1414",
+    "update-policy":  "https://doi.org/10.1007/springer_crossmark_policy",
+    "source":  "Crossref",
+    "is-referenced-by-count":  44,
+    "title":  [
+                  "Computational and natural language processing based studies of hadith literature: a survey"
+              ],
+    "prefix":  "10.1007",
+    "volume":  "52",
+    "author":  [
+                   {
+                       "ORCID":  "https://orcid.org/0000-0002-0983-2861",
+                       "authenticated-orcid":  false,
+                       "given":  "Aqil M.",
+                       "family":  "Azmi",
+                       "sequence":  "first",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Abdulaziz O.",
+                       "family":  "Al-Qabbany",
+                       "sequence":  "additional",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Amir",
+                       "family":  "Hussain",
+                       "sequence":  "additional",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   }
+               ],
+    "member":  "297",
+    "published-online":  {
+                             "date-parts":  [
+                                                [
+                                                    2019,
+                                                    3,
+                                                    18
+                                                ]
+                                            ]
+                         },
+    "reference":  [
+                      {
+                          "key":  "9692_CR1",
+                          "unstructured":  "3arabic (2012) Classical Arabic vs. (modern) standard Arabic. https://arabicloom.wordpress.com/ . Accessed 24 Aug 2017"
+                      },
+                      {
+                          "key":  "9692_CR2",
+                          "volume-title":  "Studies in Arabic Literary Papyri: II Qur’anic commentary and tradition",
+                          "author":  "N Abbott",
+                          "year":  "1967",
+                          "unstructured":  "Abbott N (1967) Studies in Arabic Literary Papyri: II Qur’anic commentary and tradition. University of Chicago Press, Chicago"
+                      },
+                      {
+                          "key":  "9692_CR3",
+                          "first-page":  "1404",
+                          "volume":  "3",
+                          "author":  "N Abd Rahman",
+                          "year":  "2010",
+                          "unstructured":  "Abd Rahman N, Abu Bakar Z, Sembok TMT (2010) Query expansion using thesaurus in improving Malay Hadith retrieval system. IEEE Int Symp Inf Technol 3:1404–1409",
+                          "journal-title":  "IEEE Int Symp Inf Technol"
+                      },
+                      {
+                          "key":  "9692_CR4",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Abd Rahman N, Alias N, Ismail NK, bin Mohamed Nor Z, b Alias MN (2015a) An identification of authentic narrator’s name features in Malay hadith texts. In: IEEE conference on open systems (ICOS), pp 79–84",
+                          "DOI":  "10.1109/ICOS.2015.7377282"
+                      },
+                      {
+                          "key":  "9692_CR5",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Abd Rahman N, Mabni Z, Omar N, Hanum HFM, Rahim NNATM (2015b) A parallel latent semantic indexing (LSI) algorithm for Malay hadith translated document retrieval. In: International conference on soft computing in data science. Springer, pp 154–163",
+                          "DOI":  "10.1007/978-981-287-936-3_15"
+                      },
+                      {
+                          "key":  "9692_CR6",
+                          "unstructured":  "Al-Arfaj A (2016) A framework for constructing ontology from traditional Arabic texts based on Al-Hadith Al-Shareef. Ph.D. thesis, King Saud University"
+                      },
+                      {
+                          "key":  "9692_CR7",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Al-Arfaj A, Al-Salman A (2014) Towards ontology construction from Arabic texts—a proposed framework. In: IEEE international conference on computer and information technology (CIT), Xi’an, China, pp 737–742",
+                          "DOI":  "10.1109/CIT.2014.89"
+                      },
+                      {
+                          "key":  "9692_CR8",
+                          "volume-title":  "Studies in Hadith methodology and literature",
+                          "author":  "MM Al-Azami",
+                          "year":  "1977",
+                          "unstructured":  "Al-Azami MM (1977) Studies in Hadith methodology and literature. American Trust Publication, Indianapolis"
+                      },
+                      {
+                          "key":  "9692_CR9",
+                          "volume-title":  "Studies in early Hadith literature",
+                          "author":  "MM Al-Azami",
+                          "year":  "1978",
+                          "unstructured":  "Al-Azami MM (1978) Studies in early Hadith literature. American Trust Publication, Indianapolis"
+                      },
+                      {
+                          "key":  "9692_CR10",
+                          "volume-title":  "Sunan Ibn Majah with computer generated indices (4 volumes in Arabic)",
+                          "author":  "MM Al-Azami",
+                          "year":  "1984",
+                          "unstructured":  "Al-Azami MM (1984) Sunan Ibn Majah with computer generated indices (4 volumes in Arabic), 2nd edn. Saudi Arabian Printing Company, Riyadh",
+                          "edition":  "2"
+                      },
+                      {
+                          "issue":  "1",
+                          "key":  "9692_CR11",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "86",
+                          "DOI":  "10.1093/jis/2.1.86",
+                          "volume":  "2",
+                          "author":  "MM Al-Azami",
+                          "year":  "1991",
+                          "unstructured":  "Al-Azami MM (1991) A note on work in progress on computerization of hadith. J Islam Stud 2(1):86–91",
+                          "journal-title":  "J Islam Stud"
+                      },
+                      {
+                          "key":  "9692_CR12",
+                          "unstructured":  "Al-Azami MM (1992) A project to serve the sunna (in Arabic). In: Proceeding of 1990 usage of computers in Islamic sciences, Islamic Development Bank and Islamic Fiqh Council, Jeddah, pp 255–272. http://iefpedia.com/arab/wp-content/uploads/2013/02/141-%D8%A7%D8%B3%D8%AA% D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88% D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D8%A7% D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9.pdf . Accessed 29 Aug 2017"
+                      },
+                      {
+                          "key":  "9692_CR13",
+                          "volume-title":  "The history of the Qur’anic text: from revelation to compilation",
+                          "author":  "MM Al-Azami",
+                          "year":  "2011",
+                          "unstructured":  "Al-Azami MM (2011) The history of the Qur’anic text: from revelation to compilation, 2nd edn. Al-Qalam Publishing, Sherwoord Park",
+                          "edition":  "2"
+                      },
+                      {
+                          "key":  "9692_CR14",
+                          "unstructured":  "Al-Azami MM, Azmi AM (1990) Computerization of hadith: hadith library on a compact-laserdisc. In: Second Cambridge conference—bilingual computing in Arabic and English. Cambridge University Press"
+                      },
+                      {
+                          "key":  "9692_CR15",
+                          "unstructured":  "Al-Ghimlas N (2016) Alleged contradiction in medicine related hadiths. Ph.D. thesis, King Saud University"
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "9692_CR16",
+                          "first-page":  "13",
+                          "volume":  "4",
+                          "author":  "MN Al-Kabi",
+                          "year":  "2007",
+                          "unstructured":  "Al-Kabi MN, Al-Sinjilawi SI (2007) A comparative study of the efficiency of different measures to classify Arabic text. Univ Sharjah J Pure Appl Sci 4(2):13–26",
+                          "journal-title":  "Univ Sharjah J Pure Appl Sci"
+                      },
+                      {
+                          "key":  "9692_CR17",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "584",
+                          "DOI":  "10.3923/jas.2005.584.587",
+                          "volume":  "5",
+                          "author":  "MN Al-Kabi",
+                          "year":  "2005",
+                          "unstructured":  "Al-Kabi MN, Kanaan G, Al-Shalabi R, Al-Sinjilawi SI, Al-Mustafa RS (2005) Al-hadith text classifier. J Appl Sci 5:584–587",
+                          "journal-title":  "J Appl Sci"
+                      },
+                      {
+                          "key":  "9692_CR18",
+                          "unstructured":  "Al-Kabi MN, Wahsheh HA, Alsmadi IM (2014) A topical classification of hadith Arabic text. In: The second international conference on Islamic applications in computer science and technology. Amman, Jordan"
+                      },
+                      {
+                          "issue":  "3",
+                          "key":  "9692_CR19",
+                          "first-page":  "13",
+                          "volume":  "3",
+                          "author":  "MN Al-Kabi",
+                          "year":  "2015",
+                          "unstructured":  "Al-Kabi MN, Wahsheh HA, Alsmadi IM, Al-Akhras AMA (2015) Extended topical classification of hadith Arabic text. Int J Islam Appl Comput Sci Technol 3(3):13–23",
+                          "journal-title":  "Int J Islam Appl Comput Sci Technol"
+                      },
+                      {
+                          "key":  "9692_CR20",
+                          "unstructured":  "Al-Masri MG (2015) An ontology based approach to enhance information retrieval from Al-Shamelah Digital Library. Master’s thesis, Islamic University of Gaza"
+                      },
+                      {
+                          "key":  "9692_CR21",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "138",
+                          "DOI":  "10.1016/j.procs.2016.04.021",
+                          "volume":  "82",
+                          "author":  "A Al-Rumkhani",
+                          "year":  "2016",
+                          "unstructured":  "Al-Rumkhani A, Al-Razgan M, Al-Faris A (2016) TibbOnto: knowledge representation of prophet medicine (Tibb Al-Nabawi). Procedia Comput Sci 82:138–142",
+                          "journal-title":  "Procedia Comput Sci"
+                      },
+                      {
+                          "key":  "9692_CR22",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Aldhlan KA, Zeki AM, Zeki AM (2010) Datamining and Islamic knowledge extraction: alhadith as a knowledge resource. In: IEEE international conference on information and communication technology for the Muslim world (ICT4M ’10), pp 11–21",
+                          "DOI":  "10.1109/ICT4M.2010.5971934"
+                      },
+                      {
+                          "key":  "9692_CR23",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Aldhaln K, Zeki A, Zeki A, Alreshidi H (2012a) Improving knowledge extraction of hadith classifier using decision tree algorithm. In: International conference on information retrieval and knowledge management (CAMP ’12), pp 148–152",
+                          "DOI":  "10.1109/InfRKM.2012.6205024"
+                      },
+                      {
+                          "key":  "9692_CR24",
+                          "unstructured":  "Aldhaln KA, Zeki AM, Zeki AM (2012b) Knowledge extraction in hadith using data mining technique. In: Proceedings of 2nd international conference on e-learning and knowledge management technologies (ICEKMT ’12)"
+                      },
+                      {
+                          "key":  "9692_CR25",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Aldhaln KA, Zeki AM, Zeki AM, Alreshidi HA (2012c) Novel mechanism to improve Hadith classifier performance. In: International conference on advanced computer science applications and technologies (ACSAT ’12), pp 512–517",
+                          "DOI":  "10.1109/ACSAT.2012.93"
+                      },
+                      {
+                          "issue":  "8",
+                          "key":  "9692_CR26",
+                          "first-page":  "287",
+                          "volume":  "14",
+                          "author":  "M Alhawarat",
+                          "year":  "2015",
+                          "unstructured":  "Alhawarat M (2015) A domain-based approach to extract Arabic person names using n-grams and simple rules. Asian J Inf Technol 14(8):287–293",
+                          "journal-title":  "Asian J Inf Technol"
+                      },
+                      {
+                          "key":  "9692_CR27",
+                          "unstructured":  "Alias N, Abd Rahman N, Nor ZM, Alias MN (2016) Searching algorithm of authentic chain of narrators’ in Shahih Bukhari book. In: International conference on applied computing, mathematical sciences and engineering (ACME 2016)"
+                      },
+                      {
+                          "key":  "9692_CR28",
+                          "volume-title":  "Tahrir Ulom AlHadith",
+                          "author":  "A Aljudai",
+                          "year":  "2007",
+                          "unstructured":  "Aljudai A (2007) Tahrir Ulom AlHadith. Alrayan Press, Doha"
+                      },
+                      {
+                          "key":  "9692_CR29",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "101",
+                          "DOI":  "10.1016/j.procs.2017.10.098",
+                          "volume":  "117",
+                          "author":  "M Alkhatib",
+                          "year":  "2017",
+                          "unstructured":  "Alkhatib M, Monem AA, Shaalan K (2017) A rich Arabic WordNet resource for Al-Hadith Al-Shareef. Procedia Comput Sci 117:101–110",
+                          "journal-title":  "Procedia Comput Sci"
+                      },
+                      {
+                          "key":  "9692_CR30",
+                          "unstructured":  "Alrazo HM (2004) Computerized framework for the prophetic tradition (in Arabic). In: The 17th National Computer, Madinah, Saudi Arabia, pp 597–611"
+                      },
+                      {
+                          "key":  "9692_CR31",
+                          "unstructured":  "Alrazo HM (2008a) Data mining application on the resources of Islamic knowledge (in Arabic). http://www.alukah.net/culture/0/3123/ . Accessed 8 Jan 2019"
+                      },
+                      {
+                          "key":  "9692_CR32",
+                          "first-page":  "103",
+                          "volume":  "48",
+                          "author":  "HM Alrazo",
+                          "year":  "2008",
+                          "unstructured":  "Alrazo HM (2008) The use of fuzzy logic for exploring the words of the critics of the men of hadith (in Arabic). Islamiyyat Al-Ma’rifa 48:103–132",
+                          "journal-title":  "Islamiyyat Al-Ma’rifa"
+                      },
+                      {
+                          "key":  "9692_CR33",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Ayed R, Bounhas I, Elayeb B, Saoud NBB, Evrard F (2014) Improving Arabic texts morphological disambiguation using a possibilistic classifier. In: International conference on applications of natural language to data bases/information systems, pp 138–147",
+                          "DOI":  "10.1007/978-3-319-07983-7_18"
+                      },
+                      {
+                          "key":  "9692_CR34",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Azmi A, AlBadia N (2012) Mining and visualizing the narration tree of hadiths (prophetic traditions). In: Cross-disciplinary advances in applied natural language processing: issues and approaches, IGI Global, Hershey, Pennsylvania",
+                          "DOI":  "10.4018/978-1-60960-741-8.ch029"
+                      },
+                      {
+                          "key":  "9692_CR35",
+                          "unstructured":  "Azmi AM (2018) Sheikh Al-Azami’s pioneering work on Qur’an and Hadith—bringing them into the digital era. In: International M. Mustafa el-Azami symposium: his life, ideas and contributions, Ibn Haldun University, Başekşhir/Istanbul"
+                      },
+                      {
+                          "issue":  "1",
+                          "key":  "9692_CR36",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "131",
+                          "DOI":  "10.1007/s10209-017-0522-3",
+                          "volume":  "17",
+                          "author":  "AM Azmi",
+                          "year":  "2018",
+                          "unstructured":  "Azmi AM, Aljafari EA (2018) Universal web accessibility and the challenge to integrate informal Arabic users: a case study. Univers Access Inf Soc 17(1):131–145",
+                          "journal-title":  "Univers Access Inf Soc"
+                      },
+                      {
+                          "key":  "9692_CR37",
+                          "unstructured":  "Azmi AM, AlOfaidly AM (2014) A novel method to automatically pass hukm on hadith. The 5th international conference on Arabic language processing (CITALA ’14), Oujda, Morocco. http://www.citala.org/citala2014/papers/paper_38.pdf . Accessed 11 Sep 2017"
+                      },
+                      {
+                          "key":  "9692_CR38",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "177",
+                          "DOI":  "10.1016/j.chb.2014.07.003",
+                          "volume":  "39",
+                          "author":  "AM Azmi",
+                          "year":  "2014",
+                          "unstructured":  "Azmi AM, Alsaiari A (2014) A calligraphic based scheme to justify Arabic text improving readability and comprehension. Comput Hum Behav 39:177–186",
+                          "journal-title":  "Comput Hum Behav"
+                      },
+                      {
+                          "issue":  "2C",
+                          "key":  "9692_CR39",
+                          "first-page":  "51",
+                          "volume":  "35",
+                          "author":  "AM Azmi",
+                          "year":  "2010",
+                          "unstructured":  "Azmi AM, bin Badia N (2010a) An application for creating an ontology of hadiths narration tree semantically and graphically. Arab J Sci Eng 35(2C):51–68",
+                          "journal-title":  "Arab J Sci Eng"
+                      },
+                      {
+                          "key":  "9692_CR40",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Azmi AM, bin Badia N (2010b) iTree—automating the construction of the narration tree of hadiths (prophetic traditions). In: IEEE sixth international conference on natural language processing and knowledge engineering (NLP-KE ’10), pp 1–7",
+                          "DOI":  "10.1109/NLPKE.2010.5587810"
+                      },
+                      {
+                          "key":  "9692_CR41",
+                          "unstructured":  "Azmi AM, Alkhalifah F, Alsaeed A, Barnawi Y (2014) Using non-conventional search schemes to retrieve hadiths. The 5th international conference on Arabic language processing (CITALA ’14), Oujda, Morocco. http://www.citala.org/citala2014/papers/paper_39.pdf . Accessed 11 Sep 2017"
+                      },
+                      {
+                          "issue":  "1",
+                          "key":  "9692_CR42",
+                          "first-page":  "25",
+                          "volume":  "2",
+                          "author":  "YRS Baraka",
+                          "year":  "2014",
+                          "unstructured":  "Baraka YRS, Dalloul Y (2014) Building hadith ontology to support the authenticity of Isnad. Int J Islam Appl Comput Sci Technol 2(1):25–39",
+                          "journal-title":  "Int J Islam Appl Comput Sci Technol"
+                      },
+                      {
+                          "key":  "9692_CR43",
+                          "unstructured":  "Basharat A, Abro B, Arpinar IB, Rasheed K (2016) Semantic hadith: leveraging linked data opportunities for Islamic knowledge. In: Workshop: linked data on the web (LDOW2016), Montreal, Canada"
+                      },
+                      {
+                          "issue":  "3",
+                          "key":  "9692_CR44",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "369",
+                          "DOI":  "10.2307/603860",
+                          "volume":  "108",
+                          "author":  "JA Bellamy",
+                          "year":  "1988",
+                          "unstructured":  "Bellamy JA (1988) Two pre-Islamic Arabic inscriptions revised: Jabal Ramm and Umm Al-Jimal. J Am Orient Soc 108(3):369–378",
+                          "journal-title":  "J Am Orient Soc"
+                      },
+                      {
+                          "key":  "9692_CR45",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Bilal K, Mohsin S (2012) Muhadith: A cloud based distributed expert system for classification of ahadith. In: Tenth international conference on frontiers of information technology (FIT ’12), Islamabad, Pakistan, pp 73–78",
+                          "DOI":  "10.1109/FIT.2012.22"
+                      },
+                      {
+                          "key":  "9692_CR46",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Boella M, Romani FR, Al-Raies A, Solimando C, Lancioni G (2011) The SALAH project: segmentation and linguistic analysis of hadith Arabic texts. In: Proceedings of information retrieval technology—7th Asia information retrieval societies conference (AIRS ’11), Dubai, UAE, pp 538–549",
+                          "DOI":  "10.1007/978-3-642-25631-8_49"
+                      },
+                      {
+                          "issue":  "3",
+                          "key":  "9692_CR47",
+                          "first-page":  "23:1",
+                          "volume":  "18",
+                          "author":  "I Bounhas",
+                          "year":  "2019",
+                          "unstructured":  "Bounhas I (2019) On the usage of a classical Arabic corpus as a language resource: related research and key challenges. ACM Trans Asian Low Resour Lang Inf Process (TALLIP) 18(3):23:1–23:45",
+                          "journal-title":  "ACM Trans Asian Low Resour Lang Inf Process (TALLIP)"
+                      },
+                      {
+                          "issue":  "8",
+                          "key":  "9692_CR48",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "1686",
+                          "DOI":  "10.1002/asi.21356",
+                          "volume":  "61",
+                          "author":  "I Bounhas",
+                          "year":  "2010",
+                          "unstructured":  "Bounhas I, Elayeb B, Evrard F, Slimani Y (2010) Toward a computer study of the reliability of Arabic stories. J Am Soc Inf Sci Technol 61(8):1686–1705",
+                          "journal-title":  "J Am Soc Inf Sci Technol"
+                      },
+                      {
+                          "key":  "9692_CR49",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "143",
+                          "DOI":  "10.1163/156851908X290574",
+                          "volume":  "15",
+                          "author":  "JAC Brown",
+                          "year":  "2008",
+                          "unstructured":  "Brown JAC (2008) How we know early hadith critics did matn criticism and why it’s so hard to find. Islam Law Soc 15:143–184",
+                          "journal-title":  "Islam Law Soc"
+                      },
+                      {
+                          "key":  "9692_CR50",
+                          "unstructured":  "Buckwalter T (2002) Buckwalter Arabic morphological analyzer version 1.0. https://catalog.ldc.upenn.edu/LDC2002L49 . Accessed 24 Aug 2017"
+                      },
+                      {
+                          "key":  "9692_CR51",
+                          "volume-title":  "Digital humanities. Open Access eBook",
+                          "author":  "A Burdick",
+                          "year":  "2012",
+                          "unstructured":  "Burdick A, Drucker J, Lunenfeld P, Presner T, Schnapp J (2012) Digital humanities. Open Access eBook. MIT Press, Cambridge"
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "9692_CR52",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "183",
+                          "DOI":  "10.1007/s12559-015-9325-0",
+                          "volume":  "7",
+                          "author":  "E Cambria",
+                          "year":  "2015",
+                          "unstructured":  "Cambria E, Hussain A (2015a) Sentic computing. Cogn Comput 7(2):183–185",
+                          "journal-title":  "Cogn Comput"
+                      },
+                      {
+                          "key":  "9692_CR53",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.1007/978-3-319-23654-4",
+                          "volume-title":  "Sentic computing: a common-sense-based framework for concept-level sentiment analysis",
+                          "author":  "E Cambria",
+                          "year":  "2015",
+                          "unstructured":  "Cambria E, Hussain A (2015b) Sentic computing: a common-sense-based framework for concept-level sentiment analysis, 1st edn. Springer, Berlin",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "9692_CR54",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "1",
+                          "DOI":  "10.1016/j.knosys.2016.07.025",
+                          "volume":  "108",
+                          "author":  "E Cambria",
+                          "year":  "2016",
+                          "unstructured":  "Cambria E, Schuller B, Xia Y, White B (2016) New avenues in knowledge bases for natural language processing. Knowl Based Syst 108:1–4",
+                          "journal-title":  "Knowl Based Syst"
+                      },
+                      {
+                          "key":  "9692_CR55",
+                          "unstructured":  "Choi FYY (2000) Advances in domain independent linear text segmentation. In: Proceedings of the 1st North American chapter of the association for computational linguistics conference, Association for Computational Linguistics, Stroudsburg, PA, NAACL 2000, pp 26–33"
+                      },
+                      {
+                          "key":  "9692_CR56",
+                          "unstructured":  "Dalloul YM (2013) An ontology-based approach to support the process of judging hadith Isnad. Master’s thesis, Islamic University of Gaza"
+                      },
+                      {
+                          "issue":  "4",
+                          "key":  "9692_CR57",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "757",
+                          "DOI":  "10.1007/s12559-016-9415-7",
+                          "volume":  "8",
+                          "author":  "K Dashtipour",
+                          "year":  "2016",
+                          "unstructured":  "Dashtipour K, Poria S, Hussain A, Cambria E, Hawalah AYA, Gelbukh AF, Zhou Q (2016) Multilingual sentiment analysis: state of the art and independent comparison of techniques. Cogn Comput 8(4):757–771",
+                          "journal-title":  "Cogn Comput"
+                      },
+                      {
+                          "issue":  "3",
+                          "key":  "9692_CR58",
+                          "first-page":  "1",
+                          "volume":  "3",
+                          "author":  "K Faidi",
+                          "year":  "2015",
+                          "unstructured":  "Faidi K, Ayed R, Bounhas I, Elayeb B (2015) Comparing Arabic NLP tools for hadith classification. Int J Islam Appl Comput Sci Technol 3(3):1–12",
+                          "journal-title":  "Int J Islam Appl Comput Sci Technol"
+                      },
+                      {
+                          "issue":  "4",
+                          "key":  "9692_CR59",
+                          "first-page":  "14:1",
+                          "volume":  "8",
+                          "author":  "A Farghaly",
+                          "year":  "2009",
+                          "unstructured":  "Farghaly A, Shaalan K (2009) Arabic natural language processing: challenges and solutions. Trans Asian Lang Inf Process (TALIP) 8(4):14:1–14:22",
+                          "journal-title":  "Trans Asian Lang Inf Process (TALIP)"
+                      },
+                      {
+                          "key":  "9692_CR60",
+                          "unstructured":  "Ghanem M, Mouloudi A, Mourchid M (2015) Creation and populating of an Islamic knowledge ontology using extraction pattern bootstrapping. In: Third national day on engineering, networks and telecommunications (NDENT 2015), Kenitra, Morocco, pp 36–39"
+                      },
+                      {
+                          "issue":  "4",
+                          "key":  "9692_CR61",
+                          "first-page":  "25",
+                          "volume":  "148",
+                          "author":  "M Ghanem",
+                          "year":  "2016",
+                          "unstructured":  "Ghanem M, Mouloudi A, Mourchid M (2016) Classification of hadiths using LVQ based on VSM considering words order. Int J Comput Appl 148(4):25–28",
+                          "journal-title":  "Int J Comput Appl"
+                      },
+                      {
+                          "key":  "9692_CR62",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "354",
+                          "DOI":  "10.1007/978-1-4020-8741-7_64",
+                          "volume-title":  "Advances in computer and information sciences and engineering",
+                          "author":  "M Ghazizadeh",
+                          "year":  "2008",
+                          "unstructured":  "Ghazizadeh M, Zahedi M, Kahani M, Bidgoli BM (2008) Fuzzy expert system in determining hadith validity. In: Sobh T (ed) Advances in computer and information sciences and engineering. Springer, Dordrecht, pp 354–359"
+                      },
+                      {
+                          "key":  "9692_CR63",
+                          "first-page":  "9",
+                          "volume":  "3",
+                          "author":  "H Hamam",
+                          "year":  "2015",
+                          "unstructured":  "Hamam H, Othman MTB, Kilani A, Ben M (2015) Data mining in sciences of the prophet’s tradition in general and in impeachment and amendment in particular. Int J Islam Appl Comput Sci Technol 3:9–16",
+                          "journal-title":  "Int J Islam Appl Comput Sci Technol"
+                      },
+                      {
+                          "key":  "9692_CR64",
+                          "unstructured":  "Hammed H, Tolba H (2000) Automated narrator chain validation for hadith studies: mathematical modeling and artificial intelligence implementation. Egypt Comput Sci J 22(1)"
+                      },
+                      {
+                          "key":  "9692_CR65",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "214",
+                          "DOI":  "10.1016/j.sbspro.2014.01.1122",
+                          "volume":  "121",
+                          "author":  "HM Hanum",
+                          "year":  "2014",
+                          "unstructured":  "Hanum HM, Abu Bakar Z, Abdul Rahman N, Rosli MM, Musa N (2014) Using topic analysis for querying halal information on Malay documents. Procedia Soc Behav Sci 121:214–222",
+                          "journal-title":  "Procedia Soc Behav Sci"
+                      },
+                      {
+                          "key":  "9692_CR66",
+                          "unstructured":  "Harf Information Technology (1997) Maosouat Al-Hadith—Hadith Encyclopedia. www.harf.com . Accessed 8 Jan 2019"
+                      },
+                      {
+                          "key":  "9692_CR67",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "558",
+                          "DOI":  "10.1016/j.chb.2013.06.035",
+                          "volume":  "30",
+                          "author":  "F Harrag",
+                          "year":  "2014",
+                          "unstructured":  "Harrag F (2014) Text mining approach for knowledge extraction in Sahîh al-Bukhari. Comput Hum Behav 30:558–566",
+                          "journal-title":  "Comput Hum Behav"
+                      },
+                      {
+                          "key":  "9692_CR68",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Harrag F, El-Qawasmah E (2009) Neural network for Arabic text classification. In: IEEE second international conference on the applications of digital information and web technologies (ICADIWT ’09), pp 778–783",
+                          "DOI":  "10.1109/ICADIWT.2009.5273841"
+                      },
+                      {
+                          "key":  "9692_CR69",
+                          "unstructured":  "Harrag F, Hamdi-Cherif A (2007) UML modeling of text mining in Arabic language and application to the prophetic traditions “Hadiths”. In: The first international symposium on computers and Arabic language and exhibition (ISCAL-07), pp 11–20"
+                      },
+                      {
+                          "issue":  "6",
+                          "key":  "9692_CR70",
+                          "first-page":  "449",
+                          "volume":  "6",
+                          "author":  "F Harrag",
+                          "year":  "2008",
+                          "unstructured":  "Harrag F, Hamdi-Cherif A, El-Qawasmeh E (2008a) Information retrieval architecture for hadith text mining. J Dig Inf Manag (JDIM) 6(6):449–455",
+                          "journal-title":  "J Dig Inf Manag (JDIM)"
+                      },
+                      {
+                          "key":  "9692_CR71",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Harrag F, Hamdi-Cherif A, El-Qawasmeh E (2008b) Vector space model for Arabic information retrieval—application to hadith indexing. In: IEEE first international conference on the applications of digital information and web technologies (ICADIWT ’08), pp 107–112",
+                          "DOI":  "10.1109/ICADIWT.2008.4664328"
+                      },
+                      {
+                          "key":  "9692_CR72",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Harrag F, El-Qawasmeh E, Pichappan P (2009a) Improving Arabic text categorization using decision trees. In: IEEE first international conference on networked digital technologies, pp 110–115",
+                          "DOI":  "10.1109/NDT.2009.5272214"
+                      },
+                      {
+                          "key":  "9692_CR73",
+                          "unstructured":  "Harrag F, Hamdi-Cherif A, Al-Salman AMS, El-Qawasmeh E (2009b) Experiments in improvement of Arabic information retrieval. In: Third international conference on Arabic language processing (CITALA ’09), Rabat, Morocco, pp 71–81"
+                      },
+                      {
+                          "key":  "9692_CR74",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Harrag F, El-Qawasmah E, Al-Salman AMS (2010) Comparing dimension reduction techniques for Arabic text classification using BPNN algorithm. In: IEEE first international conference on integrated intelligent computing (ICIIC ’10), pp 6–11",
+                          "DOI":  "10.1109/ICIIC.2010.23"
+                      },
+                      {
+                          "key":  "9692_CR75",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Harrag F, El-Qawasmeh E, Al-Salman AMS (2011) Extracting named entities from prophetic narration texts (Hadith). In: International conference on software engineering and computer systems. Springer, pp 289–297",
+                          "DOI":  "10.1007/978-3-642-22191-0_26"
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "9692_CR76",
+                          "first-page":  "48",
+                          "volume":  "1",
+                          "author":  "F Harrag",
+                          "year":  "2013",
+                          "unstructured":  "Harrag F, Alothaim A, Abanmy A, Alomaigan F, Alsalehi S (2013) Ontology extraction approach for prophetic narration (hadith) using association rules. Int J Islam Appl Comput Sci Technol 1(2):48–57",
+                          "journal-title":  "Int J Islam Appl Comput Sci Technol"
+                      },
+                      {
+                          "issue":  "4",
+                          "key":  "9692_CR77",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "1326",
+                          "DOI":  "10.21275/v5i4.NOV162788",
+                          "volume":  "5",
+                          "author":  "SMO Hassan",
+                          "year":  "2016",
+                          "unstructured":  "Hassan SMO, Atwell E (2016a) Concept search tool for multilingual hadith corpus. Int J Sci Res (IJSR) 5(4):1326–1328",
+                          "journal-title":  "Int J Sci Res (IJSR)"
+                      },
+                      {
+                          "issue":  "4",
+                          "key":  "9692_CR78",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "494",
+                          "DOI":  "10.21275/v5i4.NOV162618",
+                          "volume":  "5",
+                          "author":  "SMO Hassan",
+                          "year":  "2016",
+                          "unstructured":  "Hassan SMO, Atwell E (2016b) Design requirements for multilingual hadith corpus. Int J Sci Res (IJSR) 5(4):494–498",
+                          "journal-title":  "Int J Sci Res (IJSR)"
+                      },
+                      {
+                          "issue":  "1",
+                          "key":  "9692_CR79",
+                          "first-page":  "33",
+                          "volume":  "23",
+                          "author":  "MA Hearst",
+                          "year":  "1997",
+                          "unstructured":  "Hearst MA (1997) Texttiling: segmenting text into multi-paragraph subtopic passages. Comput Linguist 23(1):33–64",
+                          "journal-title":  "Comput Linguist"
+                      },
+                      {
+                          "key":  "9692_CR80",
+                          "unstructured":  "Helmy T, Daud A (2010) Intelligent agent for information extraction from Arabic text without machine translation. In: Proceedings of first international workshop on cross-cultural and cross-lingual aspects of the semantic web (C3LSW-2010), Shanghai, China"
+                      },
+                      {
+                          "key":  "9692_CR81",
+                          "first-page":  "3",
+                          "volume-title":  "The history of humanities computing",
+                          "author":  "S Hockey",
+                          "year":  "2004",
+                          "unstructured":  "Hockey S (2004) The history of humanities computing. Blackwell Publishers, Oxford, pp 3–19"
+                      },
+                      {
+                          "key":  "9692_CR82",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "1662",
+                          "DOI":  "10.1016/j.neucom.2017.10.010",
+                          "volume":  "275",
+                          "author":  "A Hussain",
+                          "year":  "2018",
+                          "unstructured":  "Hussain A, Cambria E (2018) Semi-supervised learning for big social data analysis. Neurocomputing 275:1662–1673",
+                          "journal-title":  "Neurocomputing"
+                      },
+                      {
+                          "key":  "9692_CR83",
+                          "first-page":  "14",
+                          "volume":  "19",
+                          "author":  "SI Hyder",
+                          "year":  "2008",
+                          "unstructured":  "Hyder SI, Ghazanfer S (2008) Towards a database oriented hadith research using relational, algorithmic and data-warehousing techniques. Islam Cult Q J Shaikh Zayed Islam Center Islam Arab Stud 19:14",
+                          "journal-title":  "Islam Cult Q J Shaikh Zayed Islam Center Islam Arab Stud"
+                      },
+                      {
+                          "key":  "9692_CR84",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Ismail NK, Saad NHM, Omar SBS, Sembok TMT (2013) 2D visualization of terms and documents in Malay language. In: The 5th international conference on information and communication technology for the Muslim world (ICT4M ’13), Rabat, Morocco, pp 1–6",
+                          "DOI":  "10.1109/ICT4M.2013.6518919"
+                      },
+                      {
+                          "issue":  "3",
+                          "key":  "9692_CR85",
+                          "first-page":  "348",
+                          "volume":  "84",
+                          "author":  "MJ Jaber",
+                          "year":  "2016",
+                          "unstructured":  "Jaber MJ, Saad S (2016) NER in English translation of hadith documents using classifiers combination. J Theor Appl Inf Technol 84(3):348",
+                          "journal-title":  "J Theor Appl Inf Technol"
+                      },
+                      {
+                          "issue":  "11",
+                          "key":  "9692_CR86",
+                          "first-page":  "409",
+                          "volume":  "6",
+                          "author":  "K Jbara",
+                          "year":  "2010",
+                          "unstructured":  "Jbara K (2010) Knowledge discovery in Al-Hadith using text classification algorithm. J Am Sci 6(11):409–419",
+                          "journal-title":  "J Am Sci"
+                      },
+                      {
+                          "key":  "9692_CR87",
+                          "unstructured":  "Khoja S, Garside R (1999) Stemming Arabic text. Technical report, Lancaster University"
+                      },
+                      {
+                          "key":  "9692_CR88",
+                          "volume-title":  "Self-organizing maps",
+                          "year":  "1997",
+                          "unstructured":  "Kohonen T (ed) (1997) Self-organizing maps. Springer, Berlin"
+                      },
+                      {
+                          "key":  "9692_CR89",
+                          "volume-title":  "An introduction to formal language and automata",
+                          "author":  "P Linz",
+                          "year":  "2006",
+                          "unstructured":  "Linz P (2006) An introduction to formal language and automata. Jones and Bartlett Publishers Inc, Sudbury"
+                      },
+                      {
+                          "key":  "9692_CR90",
+                          "unstructured":  "Liu B, Hsu W, Ma Y (1998) Integrating classification and association rule mining. In: Proceedings of the fourth international conference on knowledge discovery and data mining, KDD’98. AAAI Press, pp 80–86"
+                      },
+                      {
+                          "issue":  "4",
+                          "key":  "9692_CR91",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "639",
+                          "DOI":  "10.1007/s12559-018-9549-x",
+                          "volume":  "10",
+                          "author":  "Y Ma",
+                          "year":  "2018",
+                          "unstructured":  "Ma Y, Peng H, Khan T, Cambria E, Hussain A (2018) Sentic LSTM: a hybrid network for targeted aspect-based sentiment analysis. Cogn Comput 10(4):639–650",
+                          "journal-title":  "Cogn Comput"
+                      },
+                      {
+                          "issue":  "6",
+                          "key":  "9692_CR92",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "2063",
+                          "DOI":  "10.1109/TNNLS.2018.2790388",
+                          "volume":  "29",
+                          "author":  "M Mahmud",
+                          "year":  "2018",
+                          "unstructured":  "Mahmud M, Kaiser MS, Hussain A, Vassanelli S (2018) Applications of deep learning and reinforcement learning to biological data. IEEE Trans Neural Netw Learn Syst 29(6):2063–2079",
+                          "journal-title":  "IEEE Trans Neural Netw Learn Syst"
+                      },
+                      {
+                          "key":  "9692_CR93",
+                          "unstructured":  "Makhlouta J, Harkous H (2010) AUBSarf: compositional nondeterministic finite-state automata for Arabic morphological analysis. https://www.researchgate.net/publication/50996104_AUBSarf_Compositional_Non-deterministic_Finite-state_Automata_for_Arabic_Morphological_Analysis . Accessed 8 Jan 2019"
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "9692_CR94",
+                          "first-page":  "1336",
+                          "volume":  "6",
+                          "author":  "M Najeeb",
+                          "year":  "2015",
+                          "unstructured":  "Najeeb M, Abdelkader A, Al-Zghoul M, Osman A (2015) A lexicon for hadith science based on a corpus. Int J Comput Sci Inf Technol 6(2):1336–1340",
+                          "journal-title":  "Int J Comput Sci Inf Technol"
+                      },
+                      {
+                          "issue":  "6",
+                          "key":  "9692_CR95",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "257",
+                          "DOI":  "10.14445/22312803/IJCTT-V18P154",
+                          "volume":  "18",
+                          "author":  "MM Najeeb",
+                          "year":  "2014",
+                          "unstructured":  "Najeeb MM (2014) Towards innovative system for hadith Isnad processing. Int J Comput Trends Technol 18(6):257–259",
+                          "journal-title":  "Int J Comput Trends Technol"
+                      },
+                      {
+                          "issue":  "9",
+                          "key":  "9692_CR96",
+                          "first-page":  "153",
+                          "volume":  "9",
+                          "author":  "MM Najeeb",
+                          "year":  "2015",
+                          "unstructured":  "Najeeb MM (2015) Multi-agent system for hadith processing. Int J Softw Eng Appl 9(9):153–166",
+                          "journal-title":  "Int J Softw Eng Appl"
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "9692_CR97",
+                          "first-page":  "50",
+                          "volume":  "6",
+                          "author":  "MMA Najeeb",
+                          "year":  "2016",
+                          "unstructured":  "Najeeb MMA (2016a) Processing of “Hadith Isnad” based on hidden Markov model. Int J Eng Technol (IJET) 6(2):50–55",
+                          "journal-title":  "Int J Eng Technol (IJET)"
+                      },
+                      {
+                          "issue":  "1",
+                          "key":  "9692_CR98",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "55",
+                          "DOI":  "10.3844/ajassp.2016.55.63",
+                          "volume":  "13",
+                          "author":  "MMA Najeeb",
+                          "year":  "2016",
+                          "unstructured":  "Najeeb MMA (2016b) XML database for hadith and narrators. Am J Appl Sci 13(1):55–63",
+                          "journal-title":  "Am J Appl Sci"
+                      },
+                      {
+                          "key":  "9692_CR99",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Najib SRM, Abd Rahman N, Ismail NK, Alias N, Nor ZM, Alias MN (2017) Comparative study of machine learning approach on Malay translated hadith text classification based on Sanad. In: Eighth international conference on mechanical and manufacturing engineering (ICME’17), vol 135, Langkawi, Malaysia",
+                          "DOI":  "10.1051/matecconf/201713500066"
+                      },
+                      {
+                          "issue":  "7",
+                          "key":  "9692_CR100",
+                          "first-page":  "1510",
+                          "volume":  "95",
+                          "author":  "N Neamah",
+                          "year":  "2017",
+                          "unstructured":  "Neamah N, Saad S (2017) Question answering system supporting vector machine method for hadith domain. J Theor Appl Inf Technol 95(7):1510–1524",
+                          "journal-title":  "J Theor Appl Inf Technol"
+                      },
+                      {
+                          "issue":  "3",
+                          "key":  "9692_CR101",
+                          "first-page":  "11",
+                          "volume":  "4",
+                          "author":  "PNE Nohuddin",
+                          "year":  "2016",
+                          "unstructured":  "Nohuddin PNE, Zainol Z, Chao KF, Nordin AI, James MTAH (2016) Keyword based clustering technique for collections of hadith chapters. Int J Islam Appl Comput Sci Technol 4(3):11–18",
+                          "journal-title":  "Int J Islam Appl Comput Sci Technol"
+                      },
+                      {
+                          "key":  "9692_CR102",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Ouamour S, Khennouf S, Bourib S, Hadjadj H, Sayoud H (2016) Effect of the text size on stylometry—application on Arabic religious texts. In: Advanced computational methods for knowledge engineering—proceedings of the 4th international conference on computer science, applied mathematics and applications, ICCSAMA ’16, Vienna, Austria, pp 215–228",
+                          "DOI":  "10.1007/978-3-319-38884-7_16"
+                      },
+                      {
+                          "key":  "9692_CR103",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "167",
+                          "DOI":  "10.1016/j.knosys.2018.02.034",
+                          "volume":  "148",
+                          "author":  "H Peng",
+                          "year":  "2018",
+                          "unstructured":  "Peng H, Ma Y, Li Y, Cambria E (2018) Learning multi-grained aspect target sequence for Chinese sentiment analysis. Knowl Based Syst 148:167–176",
+                          "journal-title":  "Knowl Based Syst"
+                      },
+                      {
+                          "key":  "9692_CR104",
+                          "volume-title":  "Head-driven phrase structure grammar",
+                          "author":  "C Pollard",
+                          "year":  "1994",
+                          "unstructured":  "Pollard C, Sag IA (1994) Head-driven phrase structure grammar. The University of Chicago Press, Chicago"
+                      },
+                      {
+                          "issue":  "4",
+                          "key":  "9692_CR105",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "26",
+                          "DOI":  "10.1109/MCI.2015.2471215",
+                          "volume":  "10",
+                          "author":  "S Poria",
+                          "year":  "2015",
+                          "unstructured":  "Poria S, Cambria E, Gelbukh A, Bisio F, Hussain A (2015) Sentiment data flow analysis by means of dynamic linguistic patterns. IEEE Comput Intell Mag 10(4):26–36",
+                          "journal-title":  "IEEE Comput Intell Mag"
+                      },
+                      {
+                          "key":  "9692_CR106",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "98",
+                          "DOI":  "10.1016/j.inffus.2017.02.003",
+                          "volume":  "37",
+                          "author":  "S Poria",
+                          "year":  "2017",
+                          "unstructured":  "Poria S, Cambria E, Bajpai R, Hussain A (2017) A review of affective computing: from unimodal analysis to multimodal fusion. Inf Fus 37:98–125",
+                          "journal-title":  "Inf Fus"
+                      },
+                      {
+                          "key":  "9692_CR107",
+                          "series-title":  "Socio-affective computing",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.1007/978-3-319-95020-4",
+                          "volume-title":  "Multimodal sentiment analysis",
+                          "author":  "S Poria",
+                          "year":  "2018",
+                          "unstructured":  "Poria S, Cambria E, Hussain A (2018) Multimodal sentiment analysis, vol 8. Socio-affective computing. Springer, Berlin"
+                      },
+                      {
+                          "key":  "9692_CR108",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Rasyidi I, Romadhony A, Wibowo AT (2013) Indonesian hadith retrieval system using thesaurus. In: International conference on computer, control, informatics and its applications (IC3INA ’13), pp 285–288",
+                          "DOI":  "10.1109/IC3INA.2013.6819189"
+                      },
+                      {
+                          "key":  "9692_CR109",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Saad S, Salim N, Zainal H (2009) Islamic knowledge ontology creation. In: International conference for internet technology and secured transactions (ICITST 2009), pp 1–6",
+                          "DOI":  "10.1109/ICITST.2009.5402635"
+                      },
+                      {
+                          "key":  "9692_CR110",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Saad S, Salim N, Ismail Z, Zainal H (2010) A framework for Islamic knowledge via ontology representation. In: Proceeding of international conference on information retrieval and knowledge management (CAMP ’10), pp 1–6",
+                          "DOI":  "10.1109/INFRKM.2010.5466897"
+                      },
+                      {
+                          "key":  "9692_CR111",
+                          "unstructured":  "Saeed AR, Jaffry SW (2013) Information mining from Muslim scriptures. In: International joint conference on natural language processing, the 4th workshop on south and southeast Asian NLP (WSSANLP), Nagoya, Japan, pp 66–71"
+                      },
+                      {
+                          "issue":  "1",
+                          "key":  "9692_CR112",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "113",
+                          "DOI":  "10.1007/s10462-016-9458-x",
+                          "volume":  "46",
+                          "author":  "MA Saloot",
+                          "year":  "2016",
+                          "unstructured":  "Saloot MA, Idris N, Mahmud R, Ja’afar S, Thorleuchter D, Gani A (2016) Hadith data mining and classification: a comparative analysis. Artif Intell Rev 46(1):113–128",
+                          "journal-title":  "Artif Intell Rev"
+                      },
+                      {
+                          "issue":  "4",
+                          "key":  "9692_CR113",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "427",
+                          "DOI":  "10.1093/llc/fqs014",
+                          "volume":  "27",
+                          "author":  "H Sayoud",
+                          "year":  "2012",
+                          "unstructured":  "Sayoud H (2012) Author discrimination between the Holy Quran and Prophet’s statements. Lit Linguist Comput 27(4):427–444",
+                          "journal-title":  "Lit Linguist Comput"
+                      },
+                      {
+                          "key":  "9692_CR114",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Sayoud H (2014) Automatic authorship classification of two ancient books: Quran and Hadith. In: IEEE/ACS 11th international conference on computer systems and applications (AICCSA’14), pp 666–671",
+                          "DOI":  "10.1109/AICCSA.2014.7073263"
+                      },
+                      {
+                          "key":  "9692_CR115",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.1002/9780470999875",
+                          "volume-title":  "A companion to digital humanities",
+                          "author":  "S Schreibman",
+                          "year":  "2004",
+                          "unstructured":  "Schreibman S, Siemens R, Unsworth JE (2004) A companion to digital humanities. Blackwell Publishers, Oxford"
+                      },
+                      {
+                          "key":  "9692_CR116",
+                          "unstructured":  "Senturk R (1995) Anatomy of the Hadith transmission network of Prophet Muhammed (610–1505 AD). In: Sociology and large networks—proceedings of international conference on social networks, London, UK, pp 37–46"
+                      },
+                      {
+                          "key":  "9692_CR117",
+                          "volume-title":  "Narrative social structure: anatomy of the hadith transmission network 610–1505",
+                          "author":  "R Senturk",
+                          "year":  "2005",
+                          "unstructured":  "Senturk R (2005) Narrative social structure: anatomy of the hadith transmission network 610–1505. Stanford University Press, Stanford"
+                      },
+                      {
+                          "issue":  "8",
+                          "key":  "9692_CR118",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "1652",
+                          "DOI":  "10.1002/asi.21090",
+                          "volume":  "60",
+                          "author":  "K Shaalan",
+                          "year":  "2009",
+                          "unstructured":  "Shaalan K, Raza H (2009) NERA: named entity recognition for Arabic. J Am Soc Inf Sci Technol 60(8):1652–1663",
+                          "journal-title":  "J Am Soc Inf Sci Technol"
+                      },
+                      {
+                          "key":  "9692_CR119",
+                          "unstructured":  "Shatnawi MQ, Abuein QQ, Darwish O (2011) Verification hadith correctness in Islamic web pages using information retrieval techniques. In: Proceedings of international conference on information and communication systems, Irbid, Jordan"
+                      },
+                      {
+                          "key":  "9692_CR120",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Shukur Z, Fabil N, Salim J, Noah SA (2011) Visualization of the hadith chain of narrators. In: International visual informatics conference. Springer, pp 340–347",
+                          "DOI":  "10.1007/978-3-642-25200-6_32"
+                      },
+                      {
+                          "issue":  "1",
+                          "key":  "9692_CR121",
+                          "first-page":  "14",
+                          "volume":  "5",
+                          "author":  "MA Siddiqui",
+                          "year":  "2014",
+                          "unstructured":  "Siddiqui MA, Saleh M, Bagais AA (2014) Extraction and visualization of the chain of narrators from hadiths using named entity recognition and classification. Int J Comput Linguist Res 5(1):14–25",
+                          "journal-title":  "Int J Comput Linguist Res"
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "9692_CR122",
+                          "first-page":  "253",
+                          "volume":  "35",
+                          "author":  "AA Siddiquie",
+                          "year":  "2016",
+                          "unstructured":  "Siddiquie AA, Shaikh ZA, Aqeelur-Rehman (2016) A survey of semantic computing: general and Islamic domain applications. Mehran Univ Res J Eng Technol 35(2):253–264",
+                          "journal-title":  "Mehran Univ Res J Eng Technol"
+                      },
+                      {
+                          "key":  "9692_CR123",
+                          "first-page":  "655",
+                          "volume-title":  "Toward an Arabic ontology for Arabic word sense disambiguation based on normalized dictionaries",
+                          "author":  "N Soudani",
+                          "year":  "2014",
+                          "unstructured":  "Soudani N, Bounhas I, ElAyeb B, Slimani Y (2014) Toward an Arabic ontology for Arabic word sense disambiguation based on normalized dictionaries. Springer, Berlin, pp 655–658"
+                      },
+                      {
+                          "key":  "9692_CR124",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Vilares D, Peng H, Satapathy R, Cambria E (2018) BabelSenticNet: a commonsense reasoning framework for multilingual sentiment analysis. In: IEEE symposium series on computational intelligence (IEEE-SSCI 2018), Bengaluru, India",
+                          "DOI":  "10.1109/SSCI.2018.8628718"
+                      },
+                      {
+                          "issue":  "6",
+                          "key":  "9692_CR125",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "6",
+                          "DOI":  "10.3844/jcssp.2010.613.618",
+                          "volume":  "6",
+                          "author":  "Y Yusoff",
+                          "year":  "2010",
+                          "unstructured":  "Yusoff Y, Ismail R, Hassan Z (2010) Adopting hadith verification techniques in to digital evidence authentication. J Comput Sci 6(6):6–13",
+                          "journal-title":  "J Comput Sci"
+                      },
+                      {
+                          "key":  "9692_CR126",
+                          "unstructured":  "Zainudin MKAB, Rias RM (2012) M-Hadith: retrieving Malay hadith text in a mobile application. In: IEEE symposium on computer applications and industrial electronics (ISCAIE ’12), Kota Kinabalu, Malaysia, pp 60–63"
+                      },
+                      {
+                          "key":  "9692_CR127",
+                          "unstructured":  "Zaraket F, Makhlouta J (2012) Arabic cross-document NLP for the hadith and biography literature. In: Proceedings 25th international Florida artificial intelligence research society conference (FLAIRS), Marco Island, Florida"
+                      },
+                      {
+                          "key":  "9692_CR128",
+                          "unstructured":  "Zulkefli NSS, Abdul Rahman N, Abu Bakar Z (2016) Analyzing search retrieval results on Malay translated hadith text documents. In: International conference on applied computing, mathematical sciences and engineering (ACME 2016)"
+                      }
+                  ],
+    "container-title":  [
+                            "Artificial Intelligence Review"
+                        ],
+    "original-title":  [
+
+                       ],
+    "language":  "en",
+    "link":  [
+                 {
+                     "URL":  "http://link.springer.com/content/pdf/10.1007/s10462-019-09692-w.pdf",
+                     "content-type":  "application/pdf",
+                     "content-version":  "vor",
+                     "intended-application":  "text-mining"
+                 },
+                 {
+                     "URL":  "http://link.springer.com/article/10.1007/s10462-019-09692-w/fulltext.html",
+                     "content-type":  "text/html",
+                     "content-version":  "vor",
+                     "intended-application":  "text-mining"
+                 },
+                 {
+                     "URL":  "http://link.springer.com/content/pdf/10.1007/s10462-019-09692-w.pdf",
+                     "content-type":  "application/pdf",
+                     "content-version":  "vor",
+                     "intended-application":  "similarity-checking"
+                 }
+             ],
+    "deposited":  {
+                      "date-parts":  [
+                                         [
+                                             2024,
+                                             7,
+                                             15
+                                         ]
+                                     ],
+                      "date-time":  "2024-07-15T21:58:26Z",
+                      "timestamp":  1721080706000
+                  },
+    "score":  1,
+    "resource":  {
+                     "primary":  {
+                                     "URL":  "http://link.springer.com/10.1007/s10462-019-09692-w"
+                                 }
+                 },
+    "subtitle":  [
+
+                 ],
+    "short-title":  [
+
+                    ],
+    "issued":  {
+                   "date-parts":  [
+                                      [
+                                          2019,
+                                          3,
+                                          18
+                                      ]
+                                  ]
+               },
+    "references-count":  128,
+    "journal-issue":  {
+                          "issue":  "2",
+                          "published-print":  {
+                                                  "date-parts":  [
+                                                                     [
+                                                                         2019,
+                                                                         8
+                                                                     ]
+                                                                 ]
+                                              }
+                      },
+    "alternative-id":  [
+                           "9692"
+                       ],
+    "URL":  "https://doi.org/10.1007/s10462-019-09692-w",
+    "relation":  {
+
+                 },
+    "ISSN":  [
+                 "0269-2821",
+                 "1573-7462"
+             ],
+    "issn-type":  [
+                      {
+                          "value":  "0269-2821",
+                          "type":  "print"
+                      },
+                      {
+                          "value":  "1573-7462",
+                          "type":  "electronic"
+                      }
+                  ],
+    "subject":  [
+
+                ],
+    "published":  {
+                      "date-parts":  [
+                                         [
+                                             2019,
+                                             3,
+                                             18
+                                         ]
+                                     ]
+                  },
+    "assertion":  [
+                      {
+                          "value":  "18 March 2019",
+                          "order":  1,
+                          "name":  "first_online",
+                          "label":  "First Online",
+                          "group":  {
+                                        "name":  "ArticleHistory",
+                                        "label":  "Article History"
+                                    }
+                      }
+                  ]
+}

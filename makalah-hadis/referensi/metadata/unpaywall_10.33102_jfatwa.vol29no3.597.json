@@ -1,0 +1,88 @@
+﻿{
+    "best_oa_location":  {
+                             "endpoint_id":  null,
+                             "evidence":  "deprecated",
+                             "host_type":  "publisher",
+                             "is_best":  true,
+                             "license":  "cc-by",
+                             "oa_date":  "2024-09-30",
+                             "pmh_id":  null,
+                             "repository_institution":  null,
+                             "updated":  "deprecated",
+                             "url":  "https://jfatwa.usim.edu.my/index.php/jfatwa/article/download/597/539",
+                             "url_for_landing_page":  "https://doi.org/10.33102/jfatwa.vol29no3.597",
+                             "url_for_pdf":  "https://jfatwa.usim.edu.my/index.php/jfatwa/article/download/597/539",
+                             "version":  "publishedVersion"
+                         },
+    "data_standard":  2,
+    "doi":  "10.33102/jfatwa.vol29no3.597",
+    "doi_url":  "https://doi.org/10.33102/jfatwa.vol29no3.597",
+    "first_oa_location":  {
+                              "endpoint_id":  null,
+                              "evidence":  "deprecated",
+                              "host_type":  "publisher",
+                              "is_best":  true,
+                              "license":  "cc-by",
+                              "oa_date":  "2024-09-30",
+                              "pmh_id":  null,
+                              "repository_institution":  null,
+                              "updated":  "deprecated",
+                              "url":  "https://jfatwa.usim.edu.my/index.php/jfatwa/article/download/597/539",
+                              "url_for_landing_page":  "https://doi.org/10.33102/jfatwa.vol29no3.597",
+                              "url_for_pdf":  "https://jfatwa.usim.edu.my/index.php/jfatwa/article/download/597/539",
+                              "version":  "publishedVersion"
+                          },
+    "genre":  "journal-article",
+    "has_repository_copy":  false,
+    "is_oa":  true,
+    "is_paratext":  false,
+    "journal_is_in_doaj":  true,
+    "journal_is_oa":  true,
+    "journal_issn_l":  "0127-8886",
+    "journal_issns":  "0127-8886,2232-1047",
+    "journal_name":  "Journal of Fatwa Management and Research",
+    "oa_locations":  [
+                         {
+                             "endpoint_id":  null,
+                             "evidence":  "deprecated",
+                             "host_type":  "publisher",
+                             "is_best":  true,
+                             "license":  "cc-by",
+                             "oa_date":  "2024-09-30",
+                             "pmh_id":  null,
+                             "repository_institution":  null,
+                             "updated":  "deprecated",
+                             "url":  "https://jfatwa.usim.edu.my/index.php/jfatwa/article/download/597/539",
+                             "url_for_landing_page":  "https://doi.org/10.33102/jfatwa.vol29no3.597",
+                             "url_for_pdf":  "https://jfatwa.usim.edu.my/index.php/jfatwa/article/download/597/539",
+                             "version":  "publishedVersion"
+                         }
+                     ],
+    "oa_locations_embargoed":  [
+
+                               ],
+    "oa_status":  "gold",
+    "published_date":  "2024-09-30",
+    "publisher":  "Universiti Sains Islam Malaysia",
+    "title":  "Hadith Preservation: Techniques And Contemporary Efforts",
+    "updated":  "2026-05-22T12:55:29Z",
+    "year":  2024,
+    "z_authors":  [
+                      {
+                          "author_position":  "first",
+                          "is_corresponding":  true,
+                          "raw_affiliation_strings":  [
+                                                          "International Institute for Halal Research and Training (INHART), International Islamic University Malaysia, Jalan Gombak, 53100 Kuala Lumpur, Malaysia"
+                                                      ],
+                          "raw_author_name":  "Haruna Babatunde Jaiyeoba"
+                      },
+                      {
+                          "author_position":  "last",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+                                                          "Department of Quran and Sunnah, Abdulhamid Abusulayman Kulliyyah of Islamic Revealed Knowledge and Human Sciences, International Islamic University Malaysia, Jalan Gombak, 53100 Kuala Lumpur, Malaysia"
+                                                      ],
+                          "raw_author_name":  "Noor Mohammad Osmani"
+                      }
+                  ]
+}

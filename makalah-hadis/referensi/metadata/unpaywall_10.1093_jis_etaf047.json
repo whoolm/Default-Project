@@ -1,0 +1,80 @@
+﻿{
+    "best_oa_location":  {
+                             "endpoint_id":  "3ba687452a47e90aa9f",
+                             "evidence":  "deprecated",
+                             "host_type":  "repository",
+                             "is_best":  true,
+                             "license":  "other-oa",
+                             "oa_date":  "2025-11-20",
+                             "pmh_id":  "oai:pure.rug.nl:openaire/8883fcc3-e1a0-402f-903d-8eb81757c42b",
+                             "repository_institution":  "University of Groningen",
+                             "updated":  "deprecated",
+                             "url":  "https://research.rug.nl/en/publications/8883fcc3-e1a0-402f-903d-8eb81757c42b",
+                             "url_for_landing_page":  "https://research.rug.nl/en/publications/8883fcc3-e1a0-402f-903d-8eb81757c42b",
+                             "url_for_pdf":  null,
+                             "version":  "publishedVersion"
+                         },
+    "data_standard":  2,
+    "doi":  "10.1093/jis/etaf047",
+    "doi_url":  "https://doi.org/10.1093/jis/etaf047",
+    "first_oa_location":  {
+                              "endpoint_id":  "3ba687452a47e90aa9f",
+                              "evidence":  "deprecated",
+                              "host_type":  "repository",
+                              "is_best":  true,
+                              "license":  "other-oa",
+                              "oa_date":  "2025-11-20",
+                              "pmh_id":  "oai:pure.rug.nl:openaire/8883fcc3-e1a0-402f-903d-8eb81757c42b",
+                              "repository_institution":  "University of Groningen",
+                              "updated":  "deprecated",
+                              "url":  "https://research.rug.nl/en/publications/8883fcc3-e1a0-402f-903d-8eb81757c42b",
+                              "url_for_landing_page":  "https://research.rug.nl/en/publications/8883fcc3-e1a0-402f-903d-8eb81757c42b",
+                              "url_for_pdf":  null,
+                              "version":  "publishedVersion"
+                          },
+    "genre":  "journal-article",
+    "has_repository_copy":  true,
+    "is_oa":  true,
+    "is_paratext":  false,
+    "journal_is_in_doaj":  false,
+    "journal_is_oa":  false,
+    "journal_issn_l":  "0955-2340",
+    "journal_issns":  "0955-2340,1471-6917",
+    "journal_name":  "Journal of Islamic Studies",
+    "oa_locations":  [
+                         {
+                             "endpoint_id":  "3ba687452a47e90aa9f",
+                             "evidence":  "deprecated",
+                             "host_type":  "repository",
+                             "is_best":  true,
+                             "license":  "other-oa",
+                             "oa_date":  "2025-11-20",
+                             "pmh_id":  "oai:pure.rug.nl:openaire/8883fcc3-e1a0-402f-903d-8eb81757c42b",
+                             "repository_institution":  "University of Groningen",
+                             "updated":  "deprecated",
+                             "url":  "https://research.rug.nl/en/publications/8883fcc3-e1a0-402f-903d-8eb81757c42b",
+                             "url_for_landing_page":  "https://research.rug.nl/en/publications/8883fcc3-e1a0-402f-903d-8eb81757c42b",
+                             "url_for_pdf":  null,
+                             "version":  "publishedVersion"
+                         }
+                     ],
+    "oa_locations_embargoed":  [
+
+                               ],
+    "oa_status":  "green",
+    "published_date":  "2025-11-20",
+    "publisher":  "Oxford University Press (OUP)",
+    "title":  "Debating the Origins: The Sanctity of Madina in Ḥadīth Narratives",
+    "updated":  "2026-09-01T08:48:08Z",
+    "year":  2025,
+    "z_authors":  [
+                      {
+                          "author_position":  "first",
+                          "is_corresponding":  true,
+                          "raw_affiliation_strings":  [
+                                                          "University of Groningen"
+                                                      ],
+                          "raw_author_name":  "Seyfeddin Kara"
+                      }
+                  ]
+}

@@ -1,0 +1,120 @@
+﻿{
+    "best_oa_location":  {
+                             "endpoint_id":  "7d83c2b9fa41ed05341",
+                             "evidence":  "deprecated",
+                             "host_type":  "repository",
+                             "is_best":  true,
+                             "license":  "cc-by",
+                             "oa_date":  "2020-11-05",
+                             "pmh_id":  "oai:arXiv.org:2102.02009",
+                             "repository_institution":  "Cornell University",
+                             "updated":  "deprecated",
+                             "url":  "https://arxiv.org/pdf/2102.02009",
+                             "url_for_landing_page":  "http://arxiv.org/abs/2102.02009",
+                             "url_for_pdf":  "https://arxiv.org/pdf/2102.02009",
+                             "version":  "submittedVersion"
+                         },
+    "data_standard":  2,
+    "doi":  "10.1109/besc51023.2020.9348299",
+    "doi_url":  "https://doi.org/10.1109/besc51023.2020.9348299",
+    "first_oa_location":  {
+                              "endpoint_id":  "7d83c2b9fa41ed05341",
+                              "evidence":  "deprecated",
+                              "host_type":  "repository",
+                              "is_best":  true,
+                              "license":  "cc-by",
+                              "oa_date":  "2020-11-05",
+                              "pmh_id":  "oai:arXiv.org:2102.02009",
+                              "repository_institution":  "Cornell University",
+                              "updated":  "deprecated",
+                              "url":  "https://arxiv.org/pdf/2102.02009",
+                              "url_for_landing_page":  "http://arxiv.org/abs/2102.02009",
+                              "url_for_pdf":  "https://arxiv.org/pdf/2102.02009",
+                              "version":  "submittedVersion"
+                          },
+    "genre":  "proceedings-article",
+    "has_repository_copy":  true,
+    "is_oa":  true,
+    "is_paratext":  false,
+    "journal_is_in_doaj":  false,
+    "journal_is_oa":  false,
+    "journal_issn_l":  null,
+    "journal_issns":  null,
+    "journal_name":  "2020 7th International Conference on Behavioural and Social Computing (BESC)",
+    "oa_locations":  [
+                         {
+                             "endpoint_id":  "7d83c2b9fa41ed05341",
+                             "evidence":  "deprecated",
+                             "host_type":  "repository",
+                             "is_best":  true,
+                             "license":  "cc-by",
+                             "oa_date":  "2020-11-05",
+                             "pmh_id":  "oai:arXiv.org:2102.02009",
+                             "repository_institution":  "Cornell University",
+                             "updated":  "deprecated",
+                             "url":  "https://arxiv.org/pdf/2102.02009",
+                             "url_for_landing_page":  "http://arxiv.org/abs/2102.02009",
+                             "url_for_pdf":  "https://arxiv.org/pdf/2102.02009",
+                             "version":  "submittedVersion"
+                         },
+                         {
+                             "endpoint_id":  null,
+                             "evidence":  "deprecated",
+                             "host_type":  "repository",
+                             "is_best":  false,
+                             "license":  null,
+                             "oa_date":  "2020-11-05",
+                             "pmh_id":  null,
+                             "repository_institution":  "Cornell University",
+                             "updated":  "deprecated",
+                             "url":  "https://arxiv.org/pdf/2102.02009",
+                             "url_for_landing_page":  "https://arxiv.org/pdf/2102.02009",
+                             "url_for_pdf":  null,
+                             "version":  "submittedVersion"
+                         },
+                         {
+                             "endpoint_id":  null,
+                             "evidence":  "deprecated",
+                             "host_type":  "repository",
+                             "is_best":  false,
+                             "license":  "cc-by",
+                             "oa_date":  "2020-11-05",
+                             "pmh_id":  null,
+                             "repository_institution":  "Cornell University",
+                             "updated":  "deprecated",
+                             "url":  "https://doi.org/10.48550/arxiv.2102.02009",
+                             "url_for_landing_page":  "https://doi.org/10.48550/arxiv.2102.02009",
+                             "url_for_pdf":  null,
+                             "version":  null
+                         }
+                     ],
+    "oa_locations_embargoed":  [
+
+                               ],
+    "oa_status":  "green",
+    "published_date":  "2020-11-05",
+    "publisher":  "IEEE",
+    "title":  "Social Network Analysis of Hadith Narrators from Sahih Bukhari",
+    "updated":  "2026-08-26T18:58:27Z",
+    "year":  2020,
+    "z_authors":  [
+                      {
+                          "author_position":  "first",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+                                                          "College of Science and Engineering, Hamad Bin Khalifa University,Doha,Qatar",
+                                                          "College of Science \u0026 Engineering, Hamad Bin Khalifa University, Doha, Qatar"
+                                                      ],
+                          "raw_author_name":  "Tanvir Alam"
+                      },
+                      {
+                          "author_position":  "last",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+                                                          "College of Science and Engineering, Hamad Bin Khalifa University,Doha,Qatar",
+                                                          "College of Science \u0026 Engineering, Hamad Bin Khalifa University, Doha, Qatar"
+                                                      ],
+                          "raw_author_name":  "Jens Schneider"
+                      }
+                  ]
+}

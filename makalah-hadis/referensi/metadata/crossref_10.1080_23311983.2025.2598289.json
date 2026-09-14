@@ -1,0 +1,815 @@
+﻿{
+    "indexed":  {
+                    "date-parts":  [
+                                       [
+                                           2025,
+                                           12,
+                                           15
+                                       ]
+                                   ],
+                    "date-time":  "2025-12-15T05:14:50Z",
+                    "timestamp":  1765775690653,
+                    "version":  "3.48.0"
+                },
+    "reference-count":  85,
+    "publisher":  "Informa UK Limited",
+    "issue":  "1",
+    "license":  [
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2025 12 14"
+                                                     ],
+                                      "date-time":  "2025-12-14T00:00:00Z",
+                                      "timestamp":  1765670400000
+                                  },
+                        "content-version":  "vor",
+                        "delay-in-days":  0,
+                        "URL":  "http://creativecommons.org/licenses/by/4.0/"
+                    }
+                ],
+    "content-domain":  {
+                           "domain":  [
+                                          "www.tandfonline.com"
+                                      ],
+                           "crossmark-restriction":  true
+                       },
+    "short-container-title":  [
+                                  "Cogent Arts \u0026amp; Humanities"
+                              ],
+    "published-print":  {
+                            "date-parts":  [
+                                               [
+                                                   2026,
+                                                   12,
+                                                   31
+                                               ]
+                                           ]
+                        },
+    "DOI":  "10.1080/23311983.2025.2598289",
+    "type":  "journal-article",
+    "created":  {
+                    "date-parts":  [
+                                       [
+                                           2025,
+                                           12,
+                                           15
+                                       ]
+                                   ],
+                    "date-time":  "2025-12-15T05:10:35Z",
+                    "timestamp":  1765775435000
+                },
+    "update-policy":  "https://doi.org/10.1080/tandf_crossmark_01",
+    "source":  "Crossref",
+    "is-referenced-by-count":  0,
+    "title":  [
+                  "al-Farāʾiḍ is half of knowledge: a critical hadith analysis and its juridical implications in Islamic inheritance discourse"
+              ],
+    "prefix":  "10.1080",
+    "volume":  "13",
+    "author":  [
+                   {
+                       "given":  "Mokhamad Rohma",
+                       "family":  "Rozikin",
+                       "sequence":  "first",
+                       "affiliation":  [
+                                           {
+                                               "name":  "Universitas Brawijaya",
+                                               "place":  "Malang, Indonesia"
+                                           }
+                                       ],
+                       "role":  [
+                                    {
+                                        "role":  "author",
+                                        "vocabulary":  "crossref"
+                                    }
+                                ]
+                   }
+               ],
+    "member":  "301",
+    "published-online":  {
+                             "date-parts":  [
+                                                [
+                                                    2025,
+                                                    12,
+                                                    14
+                                                ]
+                                            ]
+                         },
+    "reference":  [
+                      {
+                          "key":  "e_1_3_4_2_1",
+                          "volume-title":  "Irwāʾ Al-Ghalīl Fī Takhrīj Aḥādīth Manār al-Sabīl",
+                          "author":  "al-Albānī M. N. A.-D.",
+                          "year":  "1985",
+                          "unstructured":  "al-Albānī, M. N. A.-D. (1985). Irwāʾ Al-Ghalīl Fī Takhrīj Aḥādīth Manār al-Sabīl (Z. al-Shāwīsh, Ed., 2nd ed., Vols. 1–9, Vol. 6). Al-Maktab al-Islāmī.",
+                          "edition":  "2"
+                      },
+                      {
+                          "key":  "e_1_3_4_3_1",
+                          "volume-title":  "Al-Sirāj al-Munīr Sharḥ al-Jāmiʿ al-Ṣaghīr Fī Ḥadīth al-Bashīr al-Nadhīr",
+                          "author":  "al-ʿAzīzī ʿA. I. A. I. N. A.-D. I. M. I. I.",
+                          "unstructured":  "al-ʿAzīzī, ʿA. I. A. I. N. A.-D. I. M. I. I. (n.d.). Al-Sirāj al-Munīr Sharḥ al-Jāmiʿ al-Ṣaghīr Fī Ḥadīth al-Bashīr al-Nadhīr (Vol. 3)."
+                      },
+                      {
+                          "key":  "e_1_3_4_4_1",
+                          "volume-title":  "Al-Sunan al-Kubrā",
+                          "author":  "al-Bayhaqī A. I. A.-Ḥ.",
+                          "year":  "2011",
+                          "unstructured":  "al-Bayhaqī, A. I. A.-Ḥ. (2011). Al-Sunan al-Kubrā (A. A. I. A. A.-M. al-Turkī, Ed., 1st ed., Vols. 1–24, Vol. 12). Markaz Hajr li-l-Buḥūth wa-l-Dirāsāt al-ʿArabiyyah wa-l-Islāmiyyah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_5_1",
+                          "volume-title":  "Kashshāf Al-Qināʿ ʿan al-Iqnāʿ",
+                          "author":  "al-Buhūtī M. I. Y.",
+                          "year":  "2000",
+                          "unstructured":  "al-Buhūtī, M. I. Y. (2000). Kashshāf Al-Qināʿ ʿan al-Iqnāʿ (L. M. W. al-ʿAdl, Ed., 1st ed., Vol. 10). Wizārat al-ʿAdl fī al-Mamlakah al-ʿArabiyyah al-Suʿūdiyyah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_6_1",
+                          "volume-title":  "Tuḥfat Al-Ḥabīb ʿalā Sharḥ al-Khaṭīb = Ḥāshiyat al-Bujayrimī ʿalā al-Khaṭīb",
+                          "author":  "al-Bujayrimī S. I. M.",
+                          "year":  "1995",
+                          "unstructured":  "al-Bujayrimī, S. I. M. (1995). Tuḥfat Al-Ḥabīb ʿalā Sharḥ al-Khaṭīb = Ḥāshiyat al-Bujayrimī ʿalā al-Khaṭīb (Vols. 1–4, Vol. 3). Dār al-Fikr."
+                      },
+                      {
+                          "key":  "e_1_3_4_7_1",
+                          "volume-title":  "Miṣbāḥ Al-Zujājah Fī Zawāʾid Ibn Mājah",
+                          "author":  "al-Būṣīrī A. I. A. B.",
+                          "year":  "1983",
+                          "unstructured":  "al-Būṣīrī, A. I. A. B. (1983). Miṣbāḥ Al-Zujājah Fī Zawāʾid Ibn Mājah (M. al-Muntaqā al-Kishnāwī, Ed., 2nd ed., Vols. 1–4, Vol. 3). Dār al-ʿArabiyyah.",
+                          "edition":  "2"
+                      },
+                      {
+                          "key":  "e_1_3_4_8_1",
+                          "volume-title":  "Al-Najm al-Wahhāj Fī Sharḥ al-Minhāj",
+                          "author":  "al-Damīrī M. I. M.",
+                          "year":  "2004",
+                          "unstructured":  "al-Damīrī, M. I. M. (2004). Al-Najm al-Wahhāj Fī Sharḥ al-Minhāj (Vols. 1–10, Vol. 6). Dār al-Minhāj."
+                      },
+                      {
+                          "key":  "e_1_3_4_9_1",
+                          "volume-title":  "Sunan Al-Dāraquṭnī",
+                          "author":  "al-Dāraquṭnī A. I. U.",
+                          "year":  "2004",
+                          "unstructured":  "al-Dāraquṭnī, A. I. U. (2004). Sunan Al-Dāraquṭnī (S. al-Arnaʾūṭ, Ed., 1st ed., Vols. 1–5, Vol. 5). Muʾassasat al-Risālah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_10_1",
+                          "volume-title":  "Al-Mulakhkhaṣ al-Fiqhī",
+                          "author":  "al-Fawzān Ṣ. I. F.",
+                          "year":  "2002",
+                          "unstructured":  "al-Fawzān, Ṣ. I. F. (2002). Al-Mulakhkhaṣ al-Fiqhī (1st ed., Vols. 1–2). Dār al-ʿĀṣimah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_11_1",
+                          "volume-title":  "Al-Mustadrak ʿalā al-Ṣaḥīḥayn",
+                          "author":  "al-Ḥākim al-Nīsābūrī M. I. ʿA. A.",
+                          "year":  "1990",
+                          "unstructured":  "al-Ḥākim al-Nīsābūrī, M. I. ʿA. A. (1990). Al-Mustadrak ʿalā al-Ṣaḥīḥayn (M. ʿA. al-Qādir ʿAṭā, Ed., 1st ed., Vols. 1–4, Vol. 4). Dār al-Kutub al-ʿIlmiyyah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_12_1",
+                          "volume-title":  "Al-Durr al-Mukhtār Sharḥ Tanwīr al-Abṣār Wa-Jāmiʿ al-Biḥār",
+                          "author":  "al-Ḥaṣkafī M. I. A. I. M. I. A. I. A. A.-R.",
+                          "year":  "2002",
+                          "unstructured":  "al-Ḥaṣkafī, M. I. A. I. M. I. A. I. A. A.-R. (2002). Al-Durr al-Mukhtār Sharḥ Tanwīr al-Abṣār Wa-Jāmiʿ al-Biḥār (1st ed.). ʿAbd alMunʿim Khalīl Ibrāhīm Dār al-Kutub al-ʿIlmiyyah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_13_1",
+                          "volume-title":  "Nihāyat Al-Maṭlab Fī Dirāyat al-Madhhab",
+                          "author":  "al-Juwaynī ʿA. A.-M. I. ʿA. A.",
+                          "year":  "2007",
+                          "unstructured":  "al-Juwaynī, ʿA. A.-M. I. ʿA. A. (2007). Nihāyat Al-Maṭlab Fī Dirāyat al-Madhhab (ʿA. al-ʿAẓīm Maḥmūd al-Dīb, Ed., 1st ed., Vol. 9). Dār al-Minhāj.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_14_1",
+                          "volume-title":  "Tārīkh Baghdād",
+                          "author":  "al-Khaṭīb al-Baghdādī A. I. ʿA.",
+                          "year":  "2002",
+                          "unstructured":  "al-Khaṭīb al-Baghdādī, A. I. ʿA. (2002). Tārīkh Baghdād (B. ʿAwwād Maʿrūf, Eds., 1st ed., Vols. 1–16, Vol. 4). Dār al-Gharb al-Islāmī.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_15_1",
+                          "volume-title":  "Al-Ḥāwī al-Kabīr Fī Fiqh Madhhab al-Imām al-Shāfiʿī",
+                          "author":  "al-Māwardī ʿI. M.",
+                          "year":  "1999",
+                          "unstructured":  "al-Māwardī, ʿI. M. (1999). Al-Ḥāwī al-Kabīr Fī Fiqh Madhhab al-Imām al-Shāfiʿī (ʿA. M. Muʿawwaḍ \u0026 ʿĀ. A. ʿA. al-Mawjūd, Eds., 1st ed., Vols. 1–19, Vol. 8). Dār al-Kutub al-ʿIlmiyyah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_16_1",
+                          "volume-title":  "Tahdhīb Al-Kamāl Fī Asmāʾ al-Rijāl",
+                          "author":  "al-Mizzī Y. I. ʿA. A.-R.",
+                          "unstructured":  "al-Mizzī, Y. I. ʿA. A.-R. (n.d.). Tahdhīb Al-Kamāl Fī Asmāʾ al-Rijāl (B. ʿA. Maʿrūf, Ed., 1st ed., Vols. 1–35, Vol. 7). Muʾassasat al-Risālah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_17_1",
+                          "volume-title":  "Al-Taysīr Bi-Sharḥ al-Jāmiʿ al-Ṣaghīr",
+                          "author":  "al-Munāwī ʿA.-R. I.",
+                          "year":  "1988",
+                          "unstructured":  "al-Munāwī, ʿA.-R. I. (1988). Al-Taysīr Bi-Sharḥ al-Jāmiʿ al-Ṣaghīr (Vols. 1–2, Vol. 1). Maktabat al-Imām al-Shāfiʿī."
+                      },
+                      {
+                          "key":  "e_1_3_4_18_1",
+                          "volume-title":  "Fayḍ Al-Qadīr Sharḥ al-Jāmiʿ al-Ṣaghīr",
+                          "author":  "al-Munāwī Z. A.-D. M.",
+                          "year":  "1937",
+                          "unstructured":  "al-Munāwī, Z. A.-D. M. (1937). Fayḍ Al-Qadīr Sharḥ al-Jāmiʿ al-Ṣaghīr (M. al-Ḥamawī, Ed., 1st ed., Vol. 3). Al-Maktabah al-Tijārīyah al-Kubrā.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_19_1",
+                          "volume-title":  "Al-Dhakhīrah",
+                          "author":  "al-Qarāfī A. I. I. I. ʿA. A.-R. A.-M.",
+                          "year":  "1994",
+                          "unstructured":  "al-Qarāfī, A. I. I. I. ʿA. A.-R. A.-M. (1994). Al-Dhakhīrah (M. A. Ḥ. Saʿīd \u0026 B. Khubzah, Eds., 1st ed., Vol. 13). Dār al-Gharb al-Islāmī.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_20_1",
+                          "volume-title":  "Mirqāt Al-Mafātīḥ Sharḥ Mishkāt al-Maṣābīḥ",
+                          "author":  "al-Qārī ʿA. I. S. M.",
+                          "year":  "2002",
+                          "unstructured":  "al-Qārī, ʿA. I. S. M. (2002). Mirqāt Al-Mafātīḥ Sharḥ Mishkāt al-Maṣābīḥ (1st ed., Vol. 1). Dār al-Fikr.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_21_1",
+                          "volume-title":  "Irshād Al-Sārī Li-Sharḥ Ṣaḥīḥ al-Bukhārī",
+                          "year":  "1905",
+                          "unstructured":  "al-Qasṭallānī, Aḥmad, B., Muḥammad, B., Abī Bakr, B., ʿAbd, al-Malik. (1905). Irshād Al-Sārī Li-Sharḥ Ṣaḥīḥ al-Bukhārī. (7th ed., Vol. 9). Miṣr: Al-Maṭbaʿah al-Kubrā al-Amīriyyah.",
+                          "edition":  "7"
+                      },
+                      {
+                          "key":  "e_1_3_4_22_1",
+                          "volume-title":  "Al-Maqāṣid al-Ḥasanah Fī Bayān Kathīr Min al-Aḥādīth al-Mushtaharah ʿalā al-Alsinah",
+                          "author":  "al-Sakhāwī M. I. ʿA. A.-R.",
+                          "year":  "1985",
+                          "unstructured":  "al-Sakhāwī, M. I. ʿA. A.-R. (1985). Al-Maqāṣid al-Ḥasanah Fī Bayān Kathīr Min al-Aḥādīth al-Mushtaharah ʿalā al-Alsinah (M. ʿU. al-Khasht, Ed., 1st ed.). Dār al-Kitāb al-ʿArabī.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_23_1",
+                          "unstructured":  "al-Salmān ʿA. A.-ʿA. I. M. (1991). Al-Asʾilah Wa-l-Ajwibah al-Fiqhiyyah (10th ed. Vol. 7). al-Asʾilah wa-l-Ajwibah al-Fiqhiyyah."
+                      },
+                      {
+                          "key":  "e_1_3_4_24_1",
+                          "volume-title":  "Al-Tanwīr Sharḥ al-Jāmiʿ al-Ṣaghīr",
+                          "author":  "al-Ṣanʿānī M. I. I.",
+                          "year":  "2011",
+                          "unstructured":  "al-Ṣanʿānī, M. I. I. (2011). Al-Tanwīr Sharḥ al-Jāmiʿ al-Ṣaghīr (M. I. M. Ibrāhīm, Ed., 1st ed., Vols. 1–11, Vol. 11). Maktabat Dār al-Salām.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_25_1",
+                          "volume-title":  "Nayl Al-Awṭār",
+                          "author":  "al-Shawkānī M. I. ʿA.",
+                          "year":  "1993",
+                          "unstructured":  "al-Shawkānī, M. I. ʿA. (1993). Nayl Al-Awṭār (ʿI. al-Dīn al-Ṣabbābṭī, Ed., 1st ed., Vols. 1–8, Vol. 6). Dār al-Ḥadīth.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_26_1",
+                          "volume-title":  "Nayl Al-Mārib Bi-Sharḥ Dalīl al-Ṭālib",
+                          "author":  "al-Shaybānī ʿA. A.-Q. I. ʿU.",
+                          "year":  "1983",
+                          "unstructured":  "al-Shaybānī, ʿA. A.-Q. I. ʿU. (1983). Nayl Al-Mārib Bi-Sharḥ Dalīl al-Ṭālib (M. S. ʿA. A. al-Ashqar, Ed. 1st ed., Vols. 1–2, Vol. 2). Maktabat al-Falāḥ.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_27_1",
+                          "volume-title":  "Ḥāshiyat Al-Sindī ʿalā Sunan Ibn Mājah = Kifāyat al-Ḥājah Fī Sharḥ Sunan Ibn Mājah",
+                          "author":  "al-Sindī N. A.-D. A. A.-Ḥ. M. I. ʿA. A.-H. A.-T.",
+                          "year":  "2010",
+                          "unstructured":  "al-Sindī, N. A.-D. A. A.-Ḥ. M. I. ʿA. A.-H. A.-T. (2010). Ḥāshiyat Al-Sindī ʿalā Sunan Ibn Mājah = Kifāyat al-Ḥājah Fī Sharḥ Sunan Ibn Mājah (2nd ed., Vol. 2). Dār al-Jīl.",
+                          "edition":  "2"
+                      },
+                      {
+                          "key":  "e_1_3_4_28_1",
+                          "volume-title":  "Sharḥ Sunan Ibn Mājah (a compilation of 3 Sharḥ: Miṣbāḥ al-Zujājah, Injāḥ al-Ḥājah, and Mā Yalīq min Ḥall al-Lughāt wa-Sharḥ al-Mushkilāt)",
+                          "author":  "al-Suyūṭī J. A.-D. ʿA. A.-R. I. A. B.",
+                          "year":  "2010",
+                          "unstructured":  "al-Suyūṭī, J. A.-D. ʿA. A.-R. I. A. B., al-Mujaddidī al-Ḥanafī, M. ʿA. A.-G., \u0026 al-Kankūhī al-Ḥanafī, F. A.-Ḥ. I. ʿA. A.-R. (2010). Sharḥ Sunan Ibn Mājah (a compilation of 3 Sharḥ: Miṣbāḥ al-Zujājah, Injāḥ al-Ḥājah, and Mā Yalīq min Ḥall al-Lughāt wa-Sharḥ al-Mushkilāt) (1st ed.). Qadīmī Kutub Khānah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_29_1",
+                          "volume-title":  "Al-Muʿjam al-Awsaṭ",
+                          "author":  "al-Ṭabarānī S. I. A.",
+                          "year":  "1995",
+                          "unstructured":  "al-Ṭabarānī, S. I. A. (1995). Al-Muʿjam al-Awsaṭ (A. M. Ṭ. I. ʿA. Allāh \u0026 A. A.-F. ʿA. al-Muḥsin al-Ḥusaynī, Eds., Vols. 1–10, Vol. 5). Dār al-Ḥaramayn."
+                      },
+                      {
+                          "key":  "e_1_3_4_30_1",
+                          "volume-title":  "Uṣūl al-Takhrīj wa-Dirāsat al-Asānīd",
+                          "author":  "al-Ṭaḥḥān M.",
+                          "year":  "1996",
+                          "unstructured":  "al-Ṭaḥḥān, M. (1996). Uṣūl al-Takhrīj wa-Dirāsat al-Asānīd (3rd ed.). Maktabat al-Maʿārif.",
+                          "edition":  "3"
+                      },
+                      {
+                          "key":  "e_1_3_4_31_1",
+                          "volume-title":  "Al-Ḍuʿafāʾ al-Kabīr",
+                          "author":  "al-ʿUqaylī M. I. ʿA.",
+                          "year":  "1984",
+                          "unstructured":  "al-ʿUqaylī, M. I. ʿA. (1984). Al-Ḍuʿafāʾ al-Kabīr (ʿA. A.-M. A. Qalaʿjī, Ed., 1st ed., Vols. 1–4, Vol. 1). Dār al-Maktabah al-ʿIlmiyyah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_32_1",
+                          "volume-title":  "Al-Wasīṭ Fī Tafsīr al-Qurʾān al-Majīd",
+                          "author":  "al-Wāḥidī al-Naysābūrī ʿA. I. A.",
+                          "year":  "1994",
+                          "unstructured":  "al-Wāḥidī al-Naysābūrī, ʿA. I. A. (1994). Al-Wasīṭ Fī Tafsīr al-Qurʾān al-Majīd (ʿĀ. A. ʿA. al-Mawjūd, Ed., 1st ed., Vols. 1–4, Vol. 2). Dār al-Kutub al-ʿIlmiyyah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_33_1",
+                          "volume-title":  "Tabyīn al-Ḥaqāʾiq Sharḥ Kanz al-Daqāʾiq wa-Ḥāshiyat al-Shilbī",
+                          "author":  "al-Zaylaʿī ʿU. I. ʿA.",
+                          "year":  "1896",
+                          "unstructured":  "al-Zaylaʿī, ʿU. I. ʿA. (1896). Tabyīn al-Ḥaqāʾiq Sharḥ Kanz al-Daqāʾiq wa-Ḥāshiyat al-Shilbī (S. A.-D. A. I. M. I. A. I. Y. I. I. I. Y. al-Shilbī, 1st ed., Vol. 6). Al-Maṭbaʿah al-Kubrā al-Amīriyyah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_34_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.22373/sjhk.v8i2.21594"
+                      },
+                      {
+                          "key":  "e_1_3_4_35_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.1093/iclqaj/14.2.349"
+                      },
+                      {
+                          "key":  "e_1_3_4_36_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.22373/sjhk.v8i2.17630"
+                      },
+                      {
+                          "key":  "e_1_3_4_37_1",
+                          "volume-title":  "Studies in early hadīth literature: With a critical edition of some early texts",
+                          "author":  "Aʻẓamī M. M.",
+                          "year":  "1978",
+                          "unstructured":  "Aʻẓamī, M. M. (1978). Studies in early hadīth literature: With a critical edition of some early texts (2nd ed.). American Trust Publications.",
+                          "edition":  "2"
+                      },
+                      {
+                          "key":  "e_1_3_4_38_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.21154/justicia.v21i1.8707"
+                      },
+                      {
+                          "key":  "e_1_3_4_39_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.22373/sjhk.v6i2.13882"
+                      },
+                      {
+                          "key":  "e_1_3_4_40_1",
+                          "volume-title":  "Hadith: Muhammad’s legacy in the medieval and modern world. Foundations of Islam",
+                          "author":  "Brown J. A. C.",
+                          "year":  "2009",
+                          "unstructured":  "Brown, J. A. C. (2009). Hadith: Muhammad’s legacy in the medieval and modern world. Foundations of Islam. Oneworld."
+                      },
+                      {
+                          "key":  "e_1_3_4_41_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.15548/mashdar.v5i2.7475"
+                      },
+                      {
+                          "key":  "e_1_3_4_42_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.1145/3711090"
+                      },
+                      {
+                          "key":  "e_1_3_4_43_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.31332/ai.v0i0.2432"
+                      },
+                      {
+                          "key":  "e_1_3_4_44_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.22373/sjhk.v7i2.8852"
+                      },
+                      {
+                          "key":  "e_1_3_4_45_1",
+                          "volume-title":  "Al-Kāmil Fī Ḍuʿafāʾ al-Rijāl",
+                          "author":  "Ibn ʿAdī A. A.",
+                          "year":  "1997",
+                          "unstructured":  "Ibn ʿAdī, A. A. (1997). Al-Kāmil Fī Ḍuʿafāʾ al-Rijāl (ʿĀ. A. ʿA. al-Mawjūd \u0026 ʿA. M. Muʿawwaḍ, Eds., 1st ed., Vol. 3). Dār al-Kutub al-ʿIlmiyyah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_46_1",
+                          "volume-title":  "Al-ʿIlal al-Mutanāhiyah Fī al-Aḥādīth al-Wāhiyah",
+                          "author":  "Ibn al-Jawzī A. A.-R. I. A.",
+                          "year":  "1981",
+                          "unstructured":  "Ibn al-Jawzī, A. A.-R. I. A. (1981). Al-ʿIlal al-Mutanāhiyah Fī al-Aḥādīth al-Wāhiyah (I. al-Ḥaqq al-Atharī, Ed., 2nd ed., Vols. 1–2, Vol. 1). Idārat al-ʿUlūm al-Athariyyah.",
+                          "edition":  "2"
+                      },
+                      {
+                          "key":  "e_1_3_4_47_1",
+                          "volume-title":  "Al-Tawḍīḥ li-Sharḥ al-Jāmiʻ al-Ṣaḥīḥ",
+                          "author":  "Ibn al-Mulaqqin U. B. A. B. A.",
+                          "year":  "2008",
+                          "unstructured":  "Ibn al-Mulaqqin, U. B. A. B. A. (2008). Al-Tawḍīḥ li-Sharḥ al-Jāmiʻ al-Ṣaḥīḥ (K. al-Ribāṭ \u0026 J. Faṭhī, Eds., 1st ed., Vol. 2). Dār al-Nawādir.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_48_1",
+                          "volume-title":  "Mukhtaṣar Istidrāk Al-Ḥāfiẓ al-Dhahabī ʿalā Mustadrak al-Ḥākim",
+                          "author":  "Ibn al-Mulaqqin U. I. A.",
+                          "year":  "1990",
+                          "unstructured":  "Ibn al-Mulaqqin, U. I. A. (1990). Mukhtaṣar Istidrāk Al-Ḥāfiẓ al-Dhahabī ʿalā Mustadrak al-Ḥākim (A. A. I. Ḥ. al-Laḥaydān \u0026 S. I. A. A. Āl Ḥumayd, Eds., 1st ed., Vols. 1–8. Vol. 6). Dār al-ʿĀṣimah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_49_1",
+                          "volume-title":  "Al-Badr al-Munīr Fī Takhrīj al-Aḥādīth Wa-l-Āthār al-Wāqiʿah Fī al-Sharḥ al-Kabīr",
+                          "author":  "Ibn al-Mulaqqin U. I. A.",
+                          "year":  "2004",
+                          "unstructured":  "Ibn al-Mulaqqin, U. I. A. (2004). Al-Badr al-Munīr Fī Takhrīj al-Aḥādīth Wa-l-Āthār al-Wāqiʿah Fī al-Sharḥ al-Kabīr (M. A. al-Ghayṭ, Ed., 1st ed., Vols. 1–9, Vol. 7). Dār al-Hijrah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_50_1",
+                          "volume-title":  "Maʿūnat Uwlī Al-Nuhā Sharḥ al-Muntahā",
+                          "author":  "Ibn al-Najjār al-Ḥanbalī M. I. A.",
+                          "year":  "2008",
+                          "unstructured":  "Ibn al-Najjār al-Ḥanbalī, M. I. A. (2008). Maʿūnat Uwlī Al-Nuhā Sharḥ al-Muntahā (A. al-Malik ibn ʿAbd Allāh Duhaysh, Ed., 5th ed., Vol. 8). Maktabat al-Asadī.",
+                          "edition":  "5"
+                      },
+                      {
+                          "key":  "e_1_3_4_51_1",
+                          "volume-title":  "Sharḥ Mushkil al-Wasīṭ",
+                          "author":  "Ibn al-Ṣalāḥ U. B. A. A.-R.",
+                          "year":  "2011",
+                          "unstructured":  "Ibn al-Ṣalāḥ, U. B. A. A.-R. (2011). Sharḥ Mushkil al-Wasīṭ (A. al-Munʿim Khalīfah Aḥmad Bilāl, Ed., 1st ed., Vol. 3). Dār Kunūz Ishbīliyā li-al-Nashr wa-al-Tawzīʿ.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_52_1",
+                          "volume-title":  "Al-Jawhar al-Naqī ʿalā Sunan al-Bayhaqī",
+                          "author":  "Ibn al-Turkumānī A. A.-D. A. I. U.",
+                          "unstructured":  "Ibn al-Turkumānī, A. A.-D. A. I. U. (n.d.). Al-Jawhar al-Naqī ʿalā Sunan al-Bayhaqī (Vol. 6). Dār al-Fikr."
+                      },
+                      {
+                          "key":  "e_1_3_4_53_1",
+                          "volume-title":  "Muʿjam Al-Shuyūkh",
+                          "author":  "Ibn ʿAsākir ʿA. I. A.-Ḥ.",
+                          "year":  "2000",
+                          "unstructured":  "Ibn ʿAsākir, ʿA. I. A.-Ḥ. (2000). Muʿjam Al-Shuyūkh (W. T. al-Dīn, Ed., 1st ed. Vols. 1–3). Dār al-Bashāʾir.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_54_1",
+                          "volume-title":  "Kashf Al-Mughaṭṭā Min al-Maʿānī Wa-al-Alfāẓ al-Wāqiʿah Fī al-Muwaṭṭaʾ",
+                          "author":  "Ibn ʿĀshūr M. A.-Ṭ.",
+                          "year":  "2007",
+                          "unstructured":  "Ibn ʿĀshūr, M. A.-Ṭ. (2007). Kashf Al-Mughaṭṭā Min al-Maʿānī Wa-al-Alfāẓ al-Wāqiʿah Fī al-Muwaṭṭaʾ (Ṭ. I. ʿA. Būsarīḥ, Ed., 2nd ed.). Dār Sahnūn li-al-Nashr wa-al-Tawzīʿ; Dār al-Salām li-al-Ṭibāʿah wa-al-Nashr.",
+                          "edition":  "2"
+                      },
+                      {
+                          "key":  "e_1_3_4_55_1",
+                          "volume-title":  "Fatḥ Al-Bārī Bi-Sharḥ Ṣaḥīḥ al-Bukhārī",
+                          "author":  "Ibn Ḥajar al-ʿAsqalānī A. I. A.",
+                          "year":  "1959",
+                          "unstructured":  "Ibn Ḥajar al-ʿAsqalānī, A. I. A. (1959). Fatḥ Al-Bārī Bi-Sharḥ Ṣaḥīḥ al-Bukhārī (M. al-Dīn al-Khaṭīb, Ed., Vols. 1–13, Vol. 12). Dār al-Maʿrifah."
+                      },
+                      {
+                          "key":  "e_1_3_4_56_1",
+                          "volume-title":  "Taqrīb Al-Tahdhīb",
+                          "author":  "Ibn Ḥajar al-ʿAsqalānī A. I. A.",
+                          "year":  "1986",
+                          "unstructured":  "Ibn Ḥajar al-ʿAsqalānī, A. I. A. (1986). Taqrīb Al-Tahdhīb (M. ʿAwwāmah, Ed., 1st ed.). Dār al-Rashīd.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_57_1",
+                          "volume-title":  "Al-Talkhīṣ al-Ḥabīr Fī Takhrīj Aḥādīth al-Rāfiʿī al-Kabīr",
+                          "author":  "Ibn Ḥajar al-ʿAsqalānī A. I. A.",
+                          "year":  "1995",
+                          "unstructured":  "Ibn Ḥajar al-ʿAsqalānī, A. I. A. (1995). Al-Talkhīṣ al-Ḥabīr Fī Takhrīj Aḥādīth al-Rāfiʿī al-Kabīr (Ḥ. I. A. I. Q. Abū ʿĀṣim, Ed., 1st ed., Vols. 1–4, Vol. 4). Muʾassasat Qurṭubah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_58_1",
+                          "volume-title":  "Al-Majrūḥīn Min al-Muḥaddithīn Wa-l-Ḍuʿafāʾ Wa-l-Matrūkīn",
+                          "author":  "Ibn Ḥibbān M. I. Ḥ.",
+                          "year":  "1976",
+                          "unstructured":  "Ibn Ḥibbān, M. I. Ḥ. (1976). Al-Majrūḥīn Min al-Muḥaddithīn Wa-l-Ḍuʿafāʾ Wa-l-Matrūkīn (M. I. Zāyid, Ed., 1st ed., Vols. 1–3, Vol. 1). Dār al-Waʿī.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_59_1",
+                          "volume-title":  "Irshād Al-Faqīh Ilā Maʿrifat Adillat al-Tanbīh",
+                          "author":  "Ibn Kathīr I. ʿU.",
+                          "year":  "1996",
+                          "unstructured":  "Ibn Kathīr, I. ʿU. (1996). Irshād Al-Faqīh Ilā Maʿrifat Adillat al-Tanbīh (B. Y. Ḥ. A. al-Ṭayyib, Ed., 1st ed., Vols. 1–2, Vol. 2). Muʾassasat al-Risālah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_60_1",
+                          "volume-title":  "Sunan Ibn Mājah",
+                          "author":  "Ibn Mājah A. ʿA. A. M. I. Y. A.-Q.",
+                          "year":  "2009",
+                          "unstructured":  "Ibn Mājah, A. ʿA. A. M. I. Y. A.-Q. (2009). Sunan Ibn Mājah (S. al-Arnāʾūṭ, ʿĀ. Murshid, M. K. Q. Billī, and ʿA. al-Laṭīf Ḥaraz Allāh, Eds., 1st ed., Vol. 4). Dār al-Risālah al-ʿĀlamiyyah.",
+                          "edition":  "1"
+                      },
+                      {
+                          "key":  "e_1_3_4_61_1",
+                          "volume-title":  "Sunan Ibn Mājah",
+                          "author":  "Ibn Mājah M. Y.",
+                          "unstructured":  "Ibn Mājah, M. Y. (n.d.). Sunan Ibn Mājah (M. F. ʿA. al-Bāqī, Ed., Vols. 1–2, Vol. 2). Dār Iḥyāʾ al-Kutub al-ʿArabiyyah–Fayṣal ʿĪsā al-Bābī al-Ḥalabī."
+                      },
+                      {
+                          "key":  "e_1_3_4_62_1",
+                          "volume-title":  "Jāmiʿ Al-ʿUlūm Wa-l-Ḥikam Fī Sharḥ Khamsīn Ḥadīthan Min Jawāmiʿ al-Kalim",
+                          "author":  "Ibn Rajab al-Ḥanbalī ʿA. A.-R. I. A.",
+                          "year":  "2004",
+                          "unstructured":  "Ibn Rajab al-Ḥanbalī, ʿA. A.-R. I. A. (2004). Jāmiʿ Al-ʿUlūm Wa-l-Ḥikam Fī Sharḥ Khamsīn Ḥadīthan Min Jawāmiʿ al-Kalim (M. al-Aḥmadī Abū al-Nūr, Ed., 2nd ed., Vols. 1–3, Vol. 2). Dār al-Salām.",
+                          "edition":  "2"
+                      },
+                      {
+                          "key":  "e_1_3_4_63_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.22373/jiif.v23i1.17733"
+                      },
+                      {
+                          "key":  "e_1_3_4_64_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.21315/apjee2024.39.2.10"
+                      },
+                      {
+                          "key":  "e_1_3_4_65_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.1080/23311886.2022.2126615"
+                      },
+                      {
+                          "key":  "e_1_3_4_66_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.22373/sjhk.v6i1.10957"
+                      },
+                      {
+                          "key":  "e_1_3_4_67_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.22373/sjhk.v7i2.17467"
+                      },
+                      {
+                          "key":  "e_1_3_4_68_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.1093/llc/fqab092"
+                      },
+                      {
+                          "key":  "e_1_3_4_69_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.4102/hts.v77i4.6928"
+                      },
+                      {
+                          "key":  "e_1_3_4_70_1",
+                          "volume-title":  "The construction of Islamic inheritance law: A comparative study of the Islamic jurisprudence and the compilation of Islamic law",
+                          "author":  "Mursyid Djawas",
+                          "year":  "2022",
+                          "unstructured":  "Mursyid Djawas. (2022). The construction of Islamic inheritance law: A comparative study of the Islamic jurisprudence and the compilation of Islamic law. Other. Fakultas Syari’ah IAIN Batusangkar. https://ojs.iainbatusangkar.ac.id/ojs/index.php/Juris/article/view/7495"
+                      },
+                      {
+                          "key":  "e_1_3_4_71_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.15642/JIIS.2023.17.1.147-168"
+                      },
+                      {
+                          "key":  "e_1_3_4_72_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.47134/pjpi.v1i3.638"
+                      },
+                      {
+                          "key":  "e_1_3_4_73_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.33853/jiebar.v4i1.531"
+                      },
+                      {
+                          "key":  "e_1_3_4_74_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.22373/sjhk.v6i2.12386"
+                      },
+                      {
+                          "key":  "e_1_3_4_75_1",
+                          "volume-title":  "Al-Fawākih al-Dawānī ʿalā Risālat Ibn Abī Zayd al-Qayrawānī",
+                          "author":  "Nafrawī A. I. G. I. S. I. M. S. A.-D. A.-A. A.-M.",
+                          "year":  "1995",
+                          "unstructured":  "Nafrawī, A. I. G. I. S. I. M. S. A.-D. A.-A. A.-M. (1995). Al-Fawākih al-Dawānī ʿalā Risālat Ibn Abī Zayd al-Qayrawānī (Vol. 2). Dār al-Fikr."
+                      },
+                      {
+                          "key":  "e_1_3_4_76_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.1163/1568519981570249"
+                      },
+                      {
+                          "key":  "e_1_3_4_77_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.1163/157302593X00285"
+                      },
+                      {
+                          "key":  "e_1_3_4_78_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.33102/mjsl.vol12no2.467"
+                      },
+                      {
+                          "key":  "e_1_3_4_79_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.31538/nzh.v8i1.9"
+                      },
+                      {
+                          "key":  "e_1_3_4_80_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.1080/09584935.2021.2021854"
+                      },
+                      {
+                          "key":  "e_1_3_4_81_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.63332/joph.v5i3.964"
+                      },
+                      {
+                          "key":  "e_1_3_4_82_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.31851/jmksp.v10i1.17561"
+                      },
+                      {
+                          "key":  "e_1_3_4_83_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.22373/sjhk.v6i1.12628"
+                      },
+                      {
+                          "key":  "e_1_3_4_84_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.22373/sjhk.v8i3.24918"
+                      },
+                      {
+                          "key":  "e_1_3_4_85_1",
+                          "doi-asserted-by":  "publisher",
+                          "DOI":  "10.62754/joe.v3i7.4508"
+                      },
+                      {
+                          "key":  "e_1_3_4_86_1",
+                          "volume-title":  "Sharḥ Al-Zurqānī ʿalā Mukhtaṣar Khalīl. Maʿahu: Al-Fatḥ al-Rabbānī Fīmā Dhahila ʿanhu al-Zurqānī",
+                          "author":  "Zurqānī ʿA. A.-B. I. Y. I. A.",
+                          "year":  "2002",
+                          "unstructured":  "Zurqānī, ʿA. A.-B. I. Y. I. A. (2002). Sharḥ Al-Zurqānī ʿalā Mukhtaṣar Khalīl. Maʿahu: Al-Fatḥ al-Rabbānī Fīmā Dhahila ʿanhu al-Zurqānī (ʿA. A.-S. M. Amīn, Ed., 1st ed., Vol. 8). Dār al-Kutub al-ʿIlmiyyah.",
+                          "edition":  "1"
+                      }
+                  ],
+    "container-title":  [
+                            "Cogent Arts \u0026amp; Humanities"
+                        ],
+    "original-title":  [
+
+                       ],
+    "language":  "en",
+    "link":  [
+                 {
+                     "URL":  "https://www.tandfonline.com/doi/pdf/10.1080/23311983.2025.2598289",
+                     "content-type":  "unspecified",
+                     "content-version":  "vor",
+                     "intended-application":  "similarity-checking"
+                 }
+             ],
+    "deposited":  {
+                      "date-parts":  [
+                                         [
+                                             2025,
+                                             12,
+                                             15
+                                         ]
+                                     ],
+                      "date-time":  "2025-12-15T05:10:41Z",
+                      "timestamp":  1765775441000
+                  },
+    "score":  1,
+    "resource":  {
+                     "primary":  {
+                                     "URL":  "https://www.tandfonline.com/doi/full/10.1080/23311983.2025.2598289"
+                                 }
+                 },
+    "subtitle":  [
+
+                 ],
+    "short-title":  [
+
+                    ],
+    "issued":  {
+                   "date-parts":  [
+                                      [
+                                          2025,
+                                          12,
+                                          14
+                                      ]
+                                  ]
+               },
+    "references-count":  85,
+    "journal-issue":  {
+                          "issue":  "1",
+                          "published-print":  {
+                                                  "date-parts":  [
+                                                                     [
+                                                                         2026,
+                                                                         12,
+                                                                         31
+                                                                     ]
+                                                                 ]
+                                              }
+                      },
+    "alternative-id":  [
+                           "10.1080/23311983.2025.2598289"
+                       ],
+    "URL":  "https://doi.org/10.1080/23311983.2025.2598289",
+    "relation":  {
+
+                 },
+    "ISSN":  [
+                 "2331-1983"
+             ],
+    "issn-type":  [
+                      {
+                          "value":  "2331-1983",
+                          "type":  "electronic"
+                      }
+                  ],
+    "subject":  [
+
+                ],
+    "published":  {
+                      "date-parts":  [
+                                         [
+                                             2025,
+                                             12,
+                                             14
+                                         ]
+                                     ]
+                  },
+    "assertion":  [
+                      {
+                          "value":  "The publishing and review policy for this title is described in its Aims \u0026 Scope.",
+                          "order":  1,
+                          "name":  "peerreview_statement",
+                          "label":  "Peer Review Statement"
+                      },
+                      {
+                          "value":  "http://www.tandfonline.com/action/journalInformation?show=aimsScope\u0026journalCode=oaah20",
+                          "URL":  "http://www.tandfonline.com/action/journalInformation?show=aimsScope\u0026journalCode=oaah20",
+                          "order":  2,
+                          "name":  "aims_and_scope_url",
+                          "label":  "Aim \u0026 Scope"
+                      },
+                      {
+                          "value":  "2025-10-06",
+                          "order":  0,
+                          "name":  "received",
+                          "label":  "Received",
+                          "group":  {
+                                        "name":  "publication_history",
+                                        "label":  "Publication History"
+                                    }
+                      },
+                      {
+                          "value":  "2025-11-24",
+                          "order":  1,
+                          "name":  "revised",
+                          "label":  "Revised",
+                          "group":  {
+                                        "name":  "publication_history",
+                                        "label":  "Publication History"
+                                    }
+                      },
+                      {
+                          "value":  "2025-11-27",
+                          "order":  2,
+                          "name":  "accepted",
+                          "label":  "Accepted",
+                          "group":  {
+                                        "name":  "publication_history",
+                                        "label":  "Publication History"
+                                    }
+                      },
+                      {
+                          "value":  "2025-12-14",
+                          "order":  3,
+                          "name":  "published",
+                          "label":  "Published",
+                          "group":  {
+                                        "name":  "publication_history",
+                                        "label":  "Publication History"
+                                    }
+                      }
+                  ],
+    "article-number":  "2598289"
+}

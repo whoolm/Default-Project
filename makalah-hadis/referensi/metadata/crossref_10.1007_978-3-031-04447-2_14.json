@@ -1,0 +1,568 @@
+﻿{
+    "indexed":  {
+                    "date-parts":  [
+                                       [
+                                           2026,
+                                           6,
+                                           29
+                                       ]
+                                   ],
+                    "date-time":  "2026-06-29T14:01:28Z",
+                    "timestamp":  1782741688824,
+                    "version":  "3.54.5"
+                },
+    "publisher-location":  "Cham",
+    "reference-count":  19,
+    "publisher":  "Springer International Publishing",
+    "isbn-type":  [
+                      {
+                          "value":  "9783031044465",
+                          "type":  "print"
+                      },
+                      {
+                          "value":  "9783031044472",
+                          "type":  "electronic"
+                      }
+                  ],
+    "license":  [
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2022 1 1"
+                                                     ],
+                                      "date-time":  "2022-01-01T00:00:00Z",
+                                      "timestamp":  1640995200000
+                                  },
+                        "content-version":  "tdm",
+                        "delay-in-days":  0,
+                        "URL":  "https://www.springer.com/tdm"
+                    },
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2022 1 1"
+                                                     ],
+                                      "date-time":  "2022-01-01T00:00:00Z",
+                                      "timestamp":  1640995200000
+                                  },
+                        "content-version":  "vor",
+                        "delay-in-days":  0,
+                        "URL":  "https://www.springer.com/tdm"
+                    }
+                ],
+    "content-domain":  {
+                           "domain":  [
+                                          "link.springer.com"
+                                      ],
+                           "crossmark-restriction":  false
+                       },
+    "short-container-title":  [
+
+                              ],
+    "published-print":  {
+                            "date-parts":  [
+                                               [
+                                                   2022
+                                               ]
+                                           ]
+                        },
+    "DOI":  "10.1007/978-3-031-04447-2_14",
+    "type":  "book-chapter",
+    "created":  {
+                    "date-parts":  [
+                                       [
+                                           2022,
+                                           4,
+                                           21
+                                       ]
+                                   ],
+                    "date-time":  "2022-04-21T16:05:24Z",
+                    "timestamp":  1650557124000
+                },
+    "page":  "206-222",
+    "update-policy":  "https://doi.org/10.1007/springer_crossmark_policy",
+    "source":  "Crossref",
+    "is-referenced-by-count":  6,
+    "title":  [
+                  "Deep Learning vs Compression-Based vs Traditional Machine Learning Classifiers to Detect Hadith Authenticity"
+              ],
+    "prefix":  "10.1007",
+    "author":  [
+                   {
+                       "ORCID":  "https://orcid.org/0000-0002-2834-461X",
+                       "authenticated-orcid":  false,
+                       "given":  "Taghreed",
+                       "family":  "Tarmom",
+                       "sequence":  "first",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   },
+                   {
+                       "ORCID":  "https://orcid.org/0000-0001-9395-3764",
+                       "authenticated-orcid":  false,
+                       "given":  "Eric",
+                       "family":  "Atwell",
+                       "sequence":  "additional",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   },
+                   {
+                       "ORCID":  "https://orcid.org/0000-0003-3335-1918",
+                       "authenticated-orcid":  false,
+                       "given":  "Mohammad",
+                       "family":  "Alsalka",
+                       "sequence":  "additional",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   }
+               ],
+    "member":  "297",
+    "published-online":  {
+                             "date-parts":  [
+                                                [
+                                                    2022,
+                                                    4,
+                                                    20
+                                                ]
+                                            ]
+                         },
+    "reference":  [
+                      {
+                          "issue":  "1",
+                          "key":  "14_CR1",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "72",
+                          "DOI":  "10.1016/j.joi.2008.11.005",
+                          "volume":  "3",
+                          "author":  "L Khreisat",
+                          "year":  "2009",
+                          "unstructured":  "Khreisat, L.: A machine learning approach for Arabic text classification using N-gram frequency statistics. J. Informetr. 3(1), 72–77 (2009). https://doi.org/10.1016/j.joi.2008.11.005",
+                          "journal-title":  "J. Informetr."
+                      },
+                      {
+                          "issue":  "11",
+                          "key":  "14_CR2",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "2347",
+                          "DOI":  "10.1002/asi.21173",
+                          "volume":  "60",
+                          "author":  "R Duwairi",
+                          "year":  "2009",
+                          "unstructured":  "Duwairi, R., Al-Refai, M.N., Khasawneh, N.: Feature reduction techniques for Arabic text categorization. J. Am. Soc. Inf. Sci. Technol. 60(11), 2347–2352 (2009). https://doi.org/10.1002/asi.21173",
+                          "journal-title":  "J. Am. Soc. Inf. Sci. Technol."
+                      },
+                      {
+                          "key":  "14_CR3",
+                          "doi-asserted-by":  "publisher",
+                          "unstructured":  "Alwedyan, J., Hadi, W.M., Salam, M., Mansour, H.Y.: Categorize Arabic data sets using multi-class classification based on association rule approach. In: Proceedings of the 2011 International Conference on Intelligent Semantic Web-Services and Applications, pp. 1–8. Association for Computing Machinery, New York (2011). https://doi.org/10.1145/1980822.1980840",
+                          "DOI":  "10.1145/1980822.1980840"
+                      },
+                      {
+                          "key":  "14_CR4",
+                          "doi-asserted-by":  "publisher",
+                          "unstructured":  "Hakak, S., et al.: Digital Hadith authentication: recent advances, open challenges, and future directions. Trans. Emerg. Telecommun. Technol. (2020). https://doi.org/10.1002/ETT.3977",
+                          "DOI":  "10.1002/ETT.3977"
+                      },
+                      {
+                          "key":  "14_CR5",
+                          "doi-asserted-by":  "publisher",
+                          "unstructured":  "Najeeb, M.M.A.: Towards a deep learning-based approach for Hadith classification. Eur. J. Eng. Technol. Res. 6(3), 9–15 (2021). https://doi.org/10.24018/ejeng.2021.6.3.2378",
+                          "DOI":  "10.24018/ejeng.2021.6.3.2378"
+                      },
+                      {
+                          "key":  "14_CR6",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "354",
+                          "DOI":  "10.1007/978-1-4020-8741-7_64",
+                          "volume-title":  "Advances in Computer and Information Sciences and Engineering",
+                          "author":  "M Ghazizadeh",
+                          "year":  "2008",
+                          "unstructured":  "Ghazizadeh, M., Zahedi, M.H., Kahani, M., Bidgoli, B.M.: Fuzzy expert system in determining Hadith validity. In: Sobh, T. (ed.) Advances in Computer and Information Sciences and Engineering, pp. 354–359. Springer, Dordrecht (2008). https://doi.org/10.1007/978-1-4020-8741-7_64"
+                      },
+                      {
+                          "key":  "14_CR7",
+                          "doi-asserted-by":  "publisher",
+                          "unstructured":  "Bilal, K., Mohsin, S.: Muhadith: A cloud based distributed expert system for classification of Ahadith. In 2012 10th International Conference on Frontiers of Information Technology, pp. 73–78, IEEE, New York (2012). https://doi.org/10.1109/FIT.2012.22",
+                          "DOI":  "10.1109/FIT.2012.22"
+                      },
+                      {
+                          "key":  "14_CR8",
+                          "first-page":  "13",
+                          "volume":  "2",
+                          "author":  "K Aldhaln",
+                          "year":  "2012",
+                          "unstructured":  "Aldhaln, K., Zeki, A., Zeki, A.: Knowledge extraction in Hadith using data mining technique. Int. J. Inf. Technol. Comput. Sci. 2, 13–21 (2012)",
+                          "journal-title":  "Int. J. Inf. Technol. Comput. Sci."
+                      },
+                      {
+                          "key":  "14_CR9",
+                          "doi-asserted-by":  "publisher",
+                          "unstructured":  "Najiyah, I., Susanti, S., Riana, D., Wahyudi, M.: Hadith degree classification for Shahih Hadith identification web based. In: 2017 5th International Conference on Cyber and IT Service Management, pp. 1–6. IEEE, New York (2017). https://doi.org/10.1109/citsm.2017.8089304",
+                          "DOI":  "10.1109/citsm.2017.8089304"
+                      },
+                      {
+                          "key":  "14_CR10",
+                          "volume-title":  "Hadith: Muhammad’s Legacy in the Medieval and Modern World",
+                          "author":  "JAC Brown",
+                          "year":  "2017",
+                          "unstructured":  "Brown, J.A.C.: Hadith: Muhammad’s Legacy in the Medieval and Modern World. One-world Publications, London (2017)"
+                      },
+                      {
+                          "issue":  "3",
+                          "key":  "14_CR11",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "333",
+                          "DOI":  "10.1162/089120103322711569",
+                          "volume":  "29",
+                          "author":  "A Kilgarriff",
+                          "year":  "2003",
+                          "unstructured":  "Kilgarriff, A., Grefenstette, G.: Introduction to the special issue on the web as corpus. Comput. Linguist. 29(3), 333–347 (2003). https://doi.org/10.1162/089120103322711569",
+                          "journal-title":  "Comput. Linguist."
+                      },
+                      {
+                          "issue":  "1",
+                          "key":  "14_CR12",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "37",
+                          "DOI":  "10.1177/001316446002000104",
+                          "volume":  "20",
+                          "author":  "J Cohen",
+                          "year":  "1960",
+                          "unstructured":  "Cohen, J.: A coefficient of agreement for nominal scales. Educ. Psychol. Meas. 20(1), 37–46 (1960). https://doi.org/10.1177/001316446002000104",
+                          "journal-title":  "Educ. Psychol. Meas."
+                      },
+                      {
+                          "issue":  "1",
+                          "key":  "14_CR13",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "159",
+                          "DOI":  "10.2307/2529310",
+                          "volume":  "33",
+                          "author":  "JR Landis",
+                          "year":  "1977",
+                          "unstructured":  "Landis, J.R., Koch, G.G.: The measurement of observer agreement for categorical data. Biometrics 33(1), 159–174 (1977). https://doi.org/10.2307/2529310",
+                          "journal-title":  "Biometrics"
+                      },
+                      {
+                          "key":  "14_CR14",
+                          "unstructured":  "Tarmom, T., Atwell, E., Alsalka, M.: Non-authentic Hadith corpus: design and methodology. In: International Conference on Islamic Applications in Computer Science and Technologies (2019). http://www.sign-ific-ance.co.uk/index.php/IJASAT/article/view/2272"
+                      },
+                      {
+                          "key":  "14_CR15",
+                          "unstructured":  "Altammami, S., Atwell, E., Alsalka M.A.: The Arabic-English parallel corpus of authentic Hadith. In: International Conference on Islamic Applications in Computer Science and Technologies (2019). http://www.sign-ific-ance.co.uk/index.php/IJASAT/article/view/2199"
+                      },
+                      {
+                          "key":  "14_CR16",
+                          "doi-asserted-by":  "publisher",
+                          "unstructured":  "Zhang, J., Li, Y., Tian, J., Li, T.: LSTM-CNN hybrid model for text classification. In: 2018 IEEE 3rd Advanced Information Technology, Electronic and Automation Control Conference (IAEAC), pp. 1675–1680. IEEE, New York (2018). https://doi.org/10.1109/IAEAC.2018.8577620",
+                          "DOI":  "10.1109/IAEAC.2018.8577620"
+                      },
+                      {
+                          "key":  "14_CR17",
+                          "doi-asserted-by":  "publisher",
+                          "unstructured":  "Li, X., Ning, H.: Chinese text classification based on hybrid model of CNN and LSTM. In: Proceedings of the 3rd International Conference on Data Science and Information Technology, pp. 129–134. Association for Computing Machinery, New York (2020). https://doi.org/10.1145/3414274.3414493",
+                          "DOI":  "10.1145/3414274.3414493"
+                      },
+                      {
+                          "issue":  "12",
+                          "key":  "14_CR18",
+                          "doi-asserted-by":  "publisher",
+                          "first-page":  "294",
+                          "DOI":  "10.3390/info9120294",
+                          "volume":  "9",
+                          "author":  "WJ Teahan",
+                          "year":  "2018",
+                          "unstructured":  "Teahan, W.J.: A compression-based toolkit for modelling and processing natural language text. Information 9(12), 294 (2018). https://doi.org/10.3390/info9120294",
+                          "journal-title":  "Information"
+                      },
+                      {
+                          "key":  "14_CR19",
+                          "volume-title":  "Speech and Languages Processing",
+                          "author":  "J Daniel",
+                          "year":  "2000",
+                          "unstructured":  "Daniel, J., Martin, J.H.: Speech and Languages Processing. Prentice-Hall, New Delhi (2000)"
+                      }
+                  ],
+    "container-title":  [
+                            "Communications in Computer and Information Science",
+                            "Information Management and Big Data"
+                        ],
+    "original-title":  [
+
+                       ],
+    "language":  "en",
+    "link":  [
+                 {
+                     "URL":  "https://link.springer.com/content/pdf/10.1007/978-3-031-04447-2_14",
+                     "content-type":  "unspecified",
+                     "content-version":  "vor",
+                     "intended-application":  "similarity-checking"
+                 }
+             ],
+    "deposited":  {
+                      "date-parts":  [
+                                         [
+                                             2022,
+                                             4,
+                                             21
+                                         ]
+                                     ],
+                      "date-time":  "2022-04-21T16:16:13Z",
+                      "timestamp":  1650557773000
+                  },
+    "score":  1,
+    "resource":  {
+                     "primary":  {
+                                     "URL":  "https://link.springer.com/10.1007/978-3-031-04447-2_14"
+                                 }
+                 },
+    "subtitle":  [
+
+                 ],
+    "short-title":  [
+
+                    ],
+    "issued":  {
+                   "date-parts":  [
+                                      [
+                                          2022
+                                      ]
+                                  ]
+               },
+    "ISBN":  [
+                 "9783031044465",
+                 "9783031044472"
+             ],
+    "references-count":  19,
+    "URL":  "https://doi.org/10.1007/978-3-031-04447-2_14",
+    "relation":  {
+
+                 },
+    "ISSN":  [
+                 "1865-0929",
+                 "1865-0937"
+             ],
+    "issn-type":  [
+                      {
+                          "value":  "1865-0929",
+                          "type":  "print"
+                      },
+                      {
+                          "value":  "1865-0937",
+                          "type":  "electronic"
+                      }
+                  ],
+    "subject":  [
+
+                ],
+    "published":  {
+                      "date-parts":  [
+                                         [
+                                             2022
+                                         ]
+                                     ]
+                  },
+    "assertion":  [
+                      {
+                          "value":  "20 April 2022",
+                          "order":  1,
+                          "name":  "first_online",
+                          "label":  "First Online",
+                          "group":  {
+                                        "name":  "ChapterHistory",
+                                        "label":  "Chapter History"
+                                    }
+                      },
+                      {
+                          "value":  "SIMBig",
+                          "order":  1,
+                          "name":  "conference_acronym",
+                          "label":  "Conference Acronym",
+                          "group":  {
+                                        "name":  "ConferenceInfo",
+                                        "label":  "Conference Information"
+                                    }
+                      },
+                      {
+                          "value":  "Annual International Conference on Information Management and Big Data",
+                          "order":  2,
+                          "name":  "conference_name",
+                          "label":  "Conference Name",
+                          "group":  {
+                                        "name":  "ConferenceInfo",
+                                        "label":  "Conference Information"
+                                    }
+                      },
+                      {
+                          "value":  "2021",
+                          "order":  5,
+                          "name":  "conference_year",
+                          "label":  "Conference Year",
+                          "group":  {
+                                        "name":  "ConferenceInfo",
+                                        "label":  "Conference Information"
+                                    }
+                      },
+                      {
+                          "value":  "1 December 2021",
+                          "order":  7,
+                          "name":  "conference_start_date",
+                          "label":  "Conference Start Date",
+                          "group":  {
+                                        "name":  "ConferenceInfo",
+                                        "label":  "Conference Information"
+                                    }
+                      },
+                      {
+                          "value":  "3 December 2021",
+                          "order":  8,
+                          "name":  "conference_end_date",
+                          "label":  "Conference End Date",
+                          "group":  {
+                                        "name":  "ConferenceInfo",
+                                        "label":  "Conference Information"
+                                    }
+                      },
+                      {
+                          "value":  "8",
+                          "order":  9,
+                          "name":  "conference_number",
+                          "label":  "Conference Number",
+                          "group":  {
+                                        "name":  "ConferenceInfo",
+                                        "label":  "Conference Information"
+                                    }
+                      },
+                      {
+                          "value":  "simbig2021",
+                          "order":  10,
+                          "name":  "conference_id",
+                          "label":  "Conference ID",
+                          "group":  {
+                                        "name":  "ConferenceInfo",
+                                        "label":  "Conference Information"
+                                    }
+                      },
+                      {
+                          "value":  "http://simbig.org/SIMBig2021/",
+                          "order":  11,
+                          "name":  "conference_url",
+                          "label":  "Conference URL",
+                          "group":  {
+                                        "name":  "ConferenceInfo",
+                                        "label":  "Conference Information"
+                                    }
+                      },
+                      {
+                          "value":  "Double-blind",
+                          "order":  1,
+                          "name":  "type",
+                          "label":  "Type",
+                          "group":  {
+                                        "name":  "ConfEventPeerReviewInformation",
+                                        "label":  "Peer Review Information (provided by the conference organizers)"
+                                    }
+                      },
+                      {
+                          "value":  "EasyChair",
+                          "order":  2,
+                          "name":  "conference_management_system",
+                          "label":  "Conference Management System",
+                          "group":  {
+                                        "name":  "ConfEventPeerReviewInformation",
+                                        "label":  "Peer Review Information (provided by the conference organizers)"
+                                    }
+                      },
+                      {
+                          "value":  "67",
+                          "order":  3,
+                          "name":  "number_of_submissions_sent_for_review",
+                          "label":  "Number of Submissions Sent for Review",
+                          "group":  {
+                                        "name":  "ConfEventPeerReviewInformation",
+                                        "label":  "Peer Review Information (provided by the conference organizers)"
+                                    }
+                      },
+                      {
+                          "value":  "25",
+                          "order":  4,
+                          "name":  "number_of_full_papers_accepted",
+                          "label":  "Number of Full Papers Accepted",
+                          "group":  {
+                                        "name":  "ConfEventPeerReviewInformation",
+                                        "label":  "Peer Review Information (provided by the conference organizers)"
+                                    }
+                      },
+                      {
+                          "value":  "2",
+                          "order":  5,
+                          "name":  "number_of_short_papers_accepted",
+                          "label":  "Number of Short Papers Accepted",
+                          "group":  {
+                                        "name":  "ConfEventPeerReviewInformation",
+                                        "label":  "Peer Review Information (provided by the conference organizers)"
+                                    }
+                      },
+                      {
+                          "value":  "37% - The value is computed by the equation \"Number of Full Papers Accepted / Number of Submissions Sent for Review * 100\" and then rounded to a whole number.",
+                          "order":  6,
+                          "name":  "acceptance_rate_of_full_papers",
+                          "label":  "Acceptance Rate of Full Papers",
+                          "group":  {
+                                        "name":  "ConfEventPeerReviewInformation",
+                                        "label":  "Peer Review Information (provided by the conference organizers)"
+                                    }
+                      },
+                      {
+                          "value":  "3",
+                          "order":  7,
+                          "name":  "average_number_of_reviews_per_paper",
+                          "label":  "Average Number of Reviews per Paper",
+                          "group":  {
+                                        "name":  "ConfEventPeerReviewInformation",
+                                        "label":  "Peer Review Information (provided by the conference organizers)"
+                                    }
+                      },
+                      {
+                          "value":  "2",
+                          "order":  8,
+                          "name":  "average_number_of_papers_per_reviewer",
+                          "label":  "Average Number of Papers per Reviewer",
+                          "group":  {
+                                        "name":  "ConfEventPeerReviewInformation",
+                                        "label":  "Peer Review Information (provided by the conference organizers)"
+                                    }
+                      },
+                      {
+                          "value":  "No",
+                          "order":  9,
+                          "name":  "external_reviewers_involved",
+                          "label":  "External Reviewers Involved",
+                          "group":  {
+                                        "name":  "ConfEventPeerReviewInformation",
+                                        "label":  "Peer Review Information (provided by the conference organizers)"
+                                    }
+                      }
+                  ]
+}

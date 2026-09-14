@@ -1,0 +1,197 @@
+﻿{
+    "indexed":  {
+                    "date-parts":  [
+                                       [
+                                           2026,
+                                           5,
+                                           23
+                                       ]
+                                   ],
+                    "date-time":  "2026-05-23T02:05:55Z",
+                    "timestamp":  1779501955206,
+                    "version":  "3.53.1"
+                },
+    "reference-count":  0,
+    "publisher":  "Darul Yasin Al Sys",
+    "issue":  "3",
+    "content-domain":  {
+                           "domain":  [
+
+                                      ],
+                           "crossmark-restriction":  false
+                       },
+    "short-container-title":  [
+                                  "Asian. J. of. Islamic. Studies. Da\u0027wah"
+                              ],
+    "abstract":  "\u003cjats:p\u003eAlthough artificial intelligence (AI) has increasingly shaped the academic lives of Muslim students, the use of ChatGPT as a source for studying hadith remains insufficiently examined. This study aims to analyze the patterns and motivations underlying students’ use of ChatGPT in hadith learning, the shift in scholarly authority resulting from AI-mediated access to hadith knowledge, and the implications of this phenomenon for the concept of living hadith in digital culture. Employing a qualitative phenomenological design, the study collected data through documentation, digital observation, and in-depth interviews with 18 students from Hadith Studies programs at two Islamic universities selected through purposive sampling. Data were analyzed using the Miles, Huberman, and Saldaña model, supported by technique and source triangulation. The findings indicate that students use ChatGPT as an initial access point for hadith learning because of its speed and ease of use; however, perceptions of its accuracy vary among critical believers, naive believers, and pragmatic skeptics. The findings further show a shift in scholarly authority from the teacher–sanad tradition to an impersonal algorithmic system, thereby weakening the traditions of talaqqi and halaqah. In addition, the use of ChatGPT represents a new form of digital living hadith, characterized by the technology-mediated internalization of hadith values. The novelty of this study lies in its integration of living hadith, digital religion, and digital scholarly authority into a single empirical analysis. This study contributes to modern hadith studies by clarifying how AI reshapes religious learning practices, epistemic authority, and the transmission of hadith knowledge, while also offering implications for artificial intelligence literacy policies in Islamic educational institutions.\u003c/jats:p\u003e",
+    "DOI":  "10.58578/ajisd.v4i3.10228",
+    "type":  "journal-article",
+    "created":  {
+                    "date-parts":  [
+                                       [
+                                           2026,
+                                           5,
+                                           23
+                                       ]
+                                   ],
+                    "date-time":  "2026-05-23T01:24:04Z",
+                    "timestamp":  1779499444000
+                },
+    "page":  "189-204",
+    "source":  "Crossref",
+    "is-referenced-by-count":  0,
+    "title":  [
+                  "Living Hadith in the Age of Artificial Intelligence: A Phenomenological Study of the Use of ChatGPT as a Source for Studying Hadith among College Students"
+              ],
+    "prefix":  "10.58578",
+    "volume":  "4",
+    "author":  [
+                   {
+                       "given":  "Hasan",
+                       "family":  "Syukur",
+                       "sequence":  "first",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Nasrulloh",
+                       "family":  "Nasrulloh",
+                       "sequence":  "first",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Ilham",
+                       "family":  "Fachmuroji",
+                       "sequence":  "first",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   }
+               ],
+    "member":  "37490",
+    "published-online":  {
+                             "date-parts":  [
+                                                [
+                                                    2026,
+                                                    5,
+                                                    23
+                                                ]
+                                            ]
+                         },
+    "container-title":  [
+                            "Asian Journal of Islamic Studies and Da\u0027wah"
+                        ],
+    "original-title":  [
+
+                       ],
+    "link":  [
+                 {
+                     "URL":  "https://ejournal.yasin-alsys.org/AJISD/article/download/10228/7450",
+                     "content-type":  "application/pdf",
+                     "content-version":  "vor",
+                     "intended-application":  "text-mining"
+                 },
+                 {
+                     "URL":  "https://ejournal.yasin-alsys.org/AJISD/article/download/10228/7450",
+                     "content-type":  "unspecified",
+                     "content-version":  "vor",
+                     "intended-application":  "similarity-checking"
+                 }
+             ],
+    "deposited":  {
+                      "date-parts":  [
+                                         [
+                                             2026,
+                                             5,
+                                             23
+                                         ]
+                                     ],
+                      "date-time":  "2026-05-23T01:24:04Z",
+                      "timestamp":  1779499444000
+                  },
+    "score":  1,
+    "resource":  {
+                     "primary":  {
+                                     "URL":  "https://ejournal.yasin-alsys.org/AJISD/article/view/10228"
+                                 }
+                 },
+    "subtitle":  [
+
+                 ],
+    "short-title":  [
+
+                    ],
+    "issued":  {
+                   "date-parts":  [
+                                      [
+                                          2026,
+                                          5,
+                                          23
+                                      ]
+                                  ]
+               },
+    "references-count":  0,
+    "journal-issue":  {
+                          "issue":  "3",
+                          "published-online":  {
+                                                   "date-parts":  [
+                                                                      [
+                                                                          2026,
+                                                                          5,
+                                                                          31
+                                                                      ]
+                                                                  ]
+                                               }
+                      },
+    "URL":  "https://doi.org/10.58578/ajisd.v4i3.10228",
+    "relation":  {
+
+                 },
+    "ISSN":  [
+                 "3025-4493",
+                 "3025-5252"
+             ],
+    "issn-type":  [
+                      {
+                          "value":  "3025-4493",
+                          "type":  "electronic"
+                      },
+                      {
+                          "value":  "3025-5252",
+                          "type":  "print"
+                      }
+                  ],
+    "subject":  [
+
+                ],
+    "published":  {
+                      "date-parts":  [
+                                         [
+                                             2026,
+                                             5,
+                                             23
+                                         ]
+                                     ]
+                  }
+}

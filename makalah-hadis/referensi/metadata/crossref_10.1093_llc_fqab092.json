@@ -1,0 +1,598 @@
+﻿{
+    "indexed":  {
+                    "date-parts":  [
+                                       [
+                                           2026,
+                                           7,
+                                           21
+                                       ]
+                                   ],
+                    "date-time":  "2026-07-21T06:18:58Z",
+                    "timestamp":  1784614738094,
+                    "version":  "3.55.0"
+                },
+    "reference-count":  40,
+    "publisher":  "Oxford University Press (OUP)",
+    "issue":  "3",
+    "license":  [
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2021 11 13"
+                                                     ],
+                                      "date-time":  "2021-11-13T00:00:00Z",
+                                      "timestamp":  1636761600000
+                                  },
+                        "content-version":  "vor",
+                        "delay-in-days":  0,
+                        "URL":  "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+                    }
+                ],
+    "content-domain":  {
+                           "domain":  [
+
+                                      ],
+                           "crossmark-restriction":  false
+                       },
+    "short-container-title":  [
+
+                              ],
+    "published-print":  {
+                            "date-parts":  [
+                                               [
+                                                   2022,
+                                                   8,
+                                                   23
+                                               ]
+                                           ]
+                        },
+    "abstract":  "\u003cjats:title\u003eAbstract\u003c/jats:title\u003e\n               \u003cjats:p\u003eThere has not been any research that provides an evaluation of the linguistic features extracted from the matn (text) of a Hadith. Moreover, none of the fairly large corpora are publicly available as a benchmark corpus for Hadith authenticity, and there is a need to build a ‘gold standard’ corpus for good practices in Hadith authentication. We write a scraper in Python programming language and collect a corpus of 3,651 authentic prophetic traditions and 3,593 fake ones. We process the corpora with morphological segmentation and perform extensive experimental studies using a variety of machine learning algorithms, mainly through automatic machine learning, to distinguish between these two categories. With a feature set including words, morphological segments, characters, top N words, top N segments, function words, and several vocabulary richness features, we analyze the results in terms of both prediction and interpretability to explain which features are more characteristic of each class. Many experiments have produced good results and the highest accuracy (i.e. 78.28%) is achieved using word n-grams as features using the Multinomial Naive Bayes classifier. Our extensive experimental studies conclude that, at least for Digital Humanities, feature engineering may still be desirable due to the high interpretability of the features. The corpus and software (scripts) will be made publicly available to other researchers in an effort to promote progress and replicability.\u003c/jats:p\u003e",
+    "DOI":  "10.1093/llc/fqab092",
+    "type":  "journal-article",
+    "created":  {
+                    "date-parts":  [
+                                       [
+                                           2021,
+                                           9,
+                                           14
+                                       ]
+                                   ],
+                    "date-time":  "2021-09-14T19:53:43Z",
+                    "timestamp":  1631649223000
+                },
+    "page":  "830-843",
+    "source":  "Crossref",
+    "is-referenced-by-count":  13,
+    "title":  [
+                  "Linguistic features evaluation for hadith authenticity through automatic machine learning"
+              ],
+    "prefix":  "10.1093",
+    "volume":  "37",
+    "author":  [
+                   {
+                       "given":  "Emad",
+                       "family":  "Mohamed",
+                       "sequence":  "first",
+                       "affiliation":  [
+                                           {
+                                               "name":  "Research Group in Computational Linguistics, University of Wolverhampton , UK"
+                                           }
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Raheem",
+                       "family":  "Sarwar",
+                       "sequence":  "additional",
+                       "affiliation":  [
+                                           {
+                                               "name":  "Research Group in Computational Linguistics, University of Wolverhampton , UK"
+                                           }
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   }
+               ],
+    "member":  "286",
+    "published-online":  {
+                             "date-parts":  [
+                                                [
+                                                    2021,
+                                                    11,
+                                                    13
+                                                ]
+                                            ]
+                         },
+    "reference":  [
+                      {
+                          "issue":  "3–4",
+                          "key":  "2022082315161311200_fqab092-B1",
+                          "first-page":  "259",
+                          "article-title":  "Hadith classification using machine learning techniques according to its reliability",
+                          "volume":  "22",
+                          "author":  "Abdelaal",
+                          "year":  "2019",
+                          "journal-title":  "Science and Technology"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B2",
+                          "volume-title":  "The Book of Weak and Inauthentic Ḥadīth",
+                          "author":  "Al-Albani",
+                          "year":  "1992"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B3",
+                          "first-page":  "512",
+                          "author":  "Aldhlan",
+                          "year":  "2012"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B4",
+                          "first-page":  "26",
+                          "author":  "Azmi",
+                          "year":  "2014"
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "2022082315161311200_fqab092-B5",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "384",
+                          "DOI":  "10.2307/414678",
+                          "article-title":  "Spoken and written textual dimensions in English: resolving the contradictory findings",
+                          "volume":  "62",
+                          "author":  "Biber",
+                          "year":  "1986",
+                          "journal-title":  "Language"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B6",
+                          "volume-title":  "10th International Conference on Frontiers of Information Technology",
+                          "author":  "Bilal",
+                          "year":  "2012"
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "2022082315161311200_fqab092-B7",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "1",
+                          "DOI":  "10.1145/3434236",
+                          "article-title":  "A systematic review on hadith authentication and classification methods",
+                          "volume":  "20",
+                          "author":  "Binbeshr",
+                          "year":  "2021",
+                          "journal-title":  "Transactions on Asian and Low-Resource Language Information Processing"
+                      },
+                      {
+                          "issue":  "2)",
+                          "key":  "2022082315161311200_fqab092-B8",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "143",
+                          "DOI":  "10.1163/156851908X290574",
+                          "article-title":  "How we know early hadīth critics did matn criticism and why it’s so hard to find",
+                          "volume":  "15",
+                          "author":  "Brown",
+                          "year":  "2008",
+                          "journal-title":  "Islamic Law and Society"
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "2022082315161311200_fqab092-B9",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "167",
+                          "DOI":  "10.1093/llc/fqt066",
+                          "article-title":  "Does size matter? Authorship attribution, small samples, big problem",
+                          "volume":  "30",
+                          "author":  "Eder",
+                          "year":  "2015",
+                          "journal-title":  "Digital Scholarship in the Humanity"
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "2022082315161311200_fqab092-B10",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "261",
+                          "DOI":  "10.1093/llc/fqy036",
+                          "article-title":  "Authorship verification of disputed hadiths in Sahih al-Bukhari and Muslim",
+                          "volume":  "34",
+                          "author":  "Elewa",
+                          "year":  "2018",
+                          "journal-title":  "Digital Scholarship in the Humanities"
+                      },
+                      {
+                          "issue":  "4",
+                          "key":  "2022082315161311200_fqab092-B11",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "25",
+                          "DOI":  "10.5120/ijca2016911077",
+                          "article-title":  "Classification of hadiths using LVQ based on VSM considering words order",
+                          "volume":  "148",
+                          "author":  "Ghanem",
+                          "year":  "2016",
+                          "journal-title":  "International Journal of Computer Applications"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B12",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "354",
+                          "DOI":  "10.1007/978-1-4020-8741-7_64",
+                          "volume-title":  "Advances in Computer and Information Sciences and Engineering",
+                          "author":  "Ghazizadeh",
+                          "year":  "2008"
+                      },
+                      {
+                          "issue":  "3",
+                          "key":  "2022082315161311200_fqab092-B13",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "251",
+                          "DOI":  "10.1093/llc/fqm020",
+                          "article-title":  "Quantitative authorship attribution: An evaluation of techniques",
+                          "volume":  "22",
+                          "author":  "Grieve",
+                          "year":  "2007",
+                          "journal-title":  "Literary and Linguistic Computing"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B14",
+                          "first-page":  "369",
+                          "author":  "Hadjadj",
+                          "year":  "2016"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B15",
+                          "first-page":  "1",
+                          "author":  "Hassaine",
+                          "year":  "2016"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B16",
+                          "doi-asserted-by":  "crossref",
+                          "DOI":  "10.1163/ej.9789004156746.i-804",
+                          "volume-title":  "Encyclopedia of Canonical Ḥadīth",
+                          "author":  "Juynboll",
+                          "year":  "2007"
+                      },
+                      {
+                          "issue":  "2.5",
+                          "key":  "2022082315161311200_fqab092-B17",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "19",
+                          "DOI":  "10.14419/ijet.v7i2.5.10047",
+                          "article-title":  "Development of a web-extension for authentication of online Hadith texts",
+                          "volume":  "7",
+                          "author":  "Kabir",
+                          "year":  "2018",
+                          "journal-title":  "International Journal of Engineering \u0026 Technology"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B18",
+                          "first-page":  "1",
+                          "author":  "Kabir",
+                          "year":  "2019"
+                      },
+                      {
+                          "issue":  "1",
+                          "key":  "2022082315161311200_fqab092-B19",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "250",
+                          "DOI":  "10.1093/bioinformatics/btz470",
+                          "article-title":  "Scaling tree-based automated machine learning to biomedical big data with a feature set selector",
+                          "volume":  "36",
+                          "author":  "Le",
+                          "year":  "2020",
+                          "journal-title":  "Bioinformatics"
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "2022082315161311200_fqab092-B20",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "226",
+                          "DOI":  "10.1111/j.1749-8171.2007.00058.x",
+                          "article-title":  "Major topics of the Hadith",
+                          "volume":  "2",
+                          "author":  "Lucas",
+                          "year":  "2008",
+                          "journal-title":  "Religion Compass"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B21",
+                          "author":  "Mohamed",
+                          "year":  "2019"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B22",
+                          "first-page":  "1125",
+                          "author":  "Nutanong",
+                          "year":  "2016"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B23",
+                          "first-page":  "2825",
+                          "article-title":  "Scikit-learn: machine learning in Python",
+                          "volume":  "12",
+                          "year":  "2011",
+                          "journal-title":  "Journal of Machine Learning Research"
+                      },
+                      {
+                          "issue":  "3",
+                          "key":  "2022082315161311200_fqab092-B24",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "582",
+                          "DOI":  "10.1093/llc/fqy055",
+                          "article-title":  "Robert Musil, a war journal, and stylometry: Tackling the issue of short texts in authorship attribution",
+                          "volume":  "34",
+                          "author":  "Rebora",
+                          "year":  "2019",
+                          "journal-title":  "Digital Scholarship Humanity"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B25",
+                          "volume-title":  "Historical Dictionary of Sufism",
+                          "author":  "Renard",
+                          "year":  "2015"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B26",
+                          "author":  "Richards",
+                          "year":  "1987"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B27",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "323",
+                          "DOI":  "10.1016/j.ins.2018.07.009",
+                          "article-title":  "A scalable framework for cross-lingual authorship identification",
+                          "volume":  "465",
+                          "author":  "Sarwar",
+                          "year":  "2018",
+                          "journal-title":  "Information Sciences"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B28",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "139",
+                          "DOI":  "10.13053/rcs-110-1-12",
+                          "article-title":  "The key factors and their influence in authorship attribution",
+                          "volume":  "110",
+                          "author":  "Sarwar",
+                          "year":  "2016",
+                          "journal-title":  "Research in Computing Science"
+                      },
+                      {
+                          "issue":  "3",
+                          "key":  "2022082315161311200_fqab092-B29",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "1",
+                          "DOI":  "10.1145/3365832",
+                          "article-title":  "StyloThai: A scalable framework for stylometric authorship identification of thai documents",
+                          "volume":  "19",
+                          "author":  "Sarwar",
+                          "year":  "2020",
+                          "journal-title":  "ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B30",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "18374",
+                          "DOI":  "10.1109/ACCESS.2020.2967449",
+                          "article-title":  "CAG: stylometric authorship attribution of multi-author documents using a co-authorship graph",
+                          "volume":  "8",
+                          "author":  "Sarwar",
+                          "year":  "2020",
+                          "journal-title":  "IEEE Access"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B31",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "50030",
+                          "DOI":  "10.1109/ACCESS.2018.2869198",
+                          "article-title":  "An effective and scalable framework for authorship attribution query processing",
+                          "volume":  "6",
+                          "author":  "Sarwar",
+                          "year":  "2018",
+                          "journal-title":  "IEEE Access"
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "2022082315161311200_fqab092-B32",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "246",
+                          "DOI":  "10.1093/llc/fqt047",
+                          "article-title":  "Comparative evaluation of term selection functions for authorship attribution",
+                          "volume":  "30",
+                          "author":  "Savoy",
+                          "year":  "2015",
+                          "journal-title":  "Digital Scholarship Humanit"
+                      },
+                      {
+                          "issue":  "4",
+                          "key":  "2022082315161311200_fqab092-B33",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "427",
+                          "DOI":  "10.1093/llc/fqs014",
+                          "article-title":  "Author discrimination between the Holy Quran and Prophet’s statements",
+                          "volume":  "27",
+                          "author":  "Sayoud",
+                          "year":  "2012",
+                          "journal-title":  "Literary and Linguistic Computing"
+                      },
+                      {
+                          "issue":  "1)",
+                          "key":  "2022082315161311200_fqab092-B34",
+                          "article-title":  "Segmental analysis-based authorship discrimination between the holy quran and prophet’s statements",
+                          "volume":  "6",
+                          "author":  "Sayoud",
+                          "year":  "2015",
+                          "journal-title":  "Digital Studies/Le Champ Numérique"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B35",
+                          "first-page":  "158",
+                          "author":  "Sayoud",
+                          "year":  "2018"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B36",
+                          "first-page":  "191",
+                          "volume-title":  "International Conference on Arabic Language Processing",
+                          "author":  "Sayoud",
+                          "year":  "2017"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B37",
+                          "first-page":  "1",
+                          "author":  "Shaker",
+                          "year":  "2010"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B38",
+                          "first-page":  "164",
+                          "author":  "Shatnawi",
+                          "year":  "2011"
+                      },
+                      {
+                          "key":  "2022082315161311200_fqab092-B39",
+                          "doi-asserted-by":  "crossref",
+                          "DOI":  "10.33011/lilt.v8i.1305",
+                          "article-title":  "Learning to classify documents according to formal and informal style",
+                          "volume":  "8",
+                          "author":  "Sheikha",
+                          "year":  "2012",
+                          "journal-title":  "Linguistic Issues in Language Technology"
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "2022082315161311200_fqab092-B40",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "241",
+                          "DOI":  "10.1016/S0893-6080(05)80023-1",
+                          "article-title":  "Stacked generalization",
+                          "volume":  "5",
+                          "author":  "Wolpert",
+                          "year":  "1992",
+                          "journal-title":  "Neural Networks"
+                      }
+                  ],
+    "container-title":  [
+                            "Digital Scholarship in the Humanities"
+                        ],
+    "original-title":  [
+
+                       ],
+    "language":  "en",
+    "link":  [
+                 {
+                     "URL":  "https://academic.oup.com/dsh/article-pdf/37/3/830/45501902/fqab092.pdf",
+                     "content-type":  "application/pdf",
+                     "content-version":  "vor",
+                     "intended-application":  "syndication"
+                 },
+                 {
+                     "URL":  "https://academic.oup.com/dsh/article-pdf/37/3/830/45501902/fqab092.pdf",
+                     "content-type":  "unspecified",
+                     "content-version":  "vor",
+                     "intended-application":  "similarity-checking"
+                 }
+             ],
+    "deposited":  {
+                      "date-parts":  [
+                                         [
+                                             2022,
+                                             8,
+                                             23
+                                         ]
+                                     ],
+                      "date-time":  "2022-08-23T15:33:29Z",
+                      "timestamp":  1661268809000
+                  },
+    "score":  1,
+    "resource":  {
+                     "primary":  {
+                                     "URL":  "https://academic.oup.com/dsh/article/37/3/830/6427308"
+                                 }
+                 },
+    "subtitle":  [
+
+                 ],
+    "short-title":  [
+
+                    ],
+    "issued":  {
+                   "date-parts":  [
+                                      [
+                                          2021,
+                                          11,
+                                          13
+                                      ]
+                                  ]
+               },
+    "references-count":  40,
+    "journal-issue":  {
+                          "issue":  "3",
+                          "published-online":  {
+                                                   "date-parts":  [
+                                                                      [
+                                                                          2021,
+                                                                          11,
+                                                                          13
+                                                                      ]
+                                                                  ]
+                                               },
+                          "published-print":  {
+                                                  "date-parts":  [
+                                                                     [
+                                                                         2022,
+                                                                         8,
+                                                                         23
+                                                                     ]
+                                                                 ]
+                                              }
+                      },
+    "URL":  "https://doi.org/10.1093/llc/fqab092",
+    "relation":  {
+
+                 },
+    "ISSN":  [
+                 "2055-7671",
+                 "2055-768X"
+             ],
+    "issn-type":  [
+                      {
+                          "value":  "2055-7671",
+                          "type":  "print"
+                      },
+                      {
+                          "value":  "2055-768X",
+                          "type":  "electronic"
+                      }
+                  ],
+    "subject":  [
+
+                ],
+    "published-other":  {
+                            "date-parts":  [
+                                               [
+                                                   2022,
+                                                   9,
+                                                   1
+                                               ]
+                                           ]
+                        },
+    "published":  {
+                      "date-parts":  [
+                                         [
+                                             2021,
+                                             11,
+                                             13
+                                         ]
+                                     ]
+                  }
+}

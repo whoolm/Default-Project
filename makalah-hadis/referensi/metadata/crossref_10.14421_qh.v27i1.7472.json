@@ -1,0 +1,186 @@
+﻿{
+    "indexed":  {
+                    "date-parts":  [
+                                       [
+                                           2026,
+                                           7,
+                                           30
+                                       ]
+                                   ],
+                    "date-time":  "2026-07-30T09:01:47Z",
+                    "timestamp":  1785402107884,
+                    "version":  "3.56.0"
+                },
+    "reference-count":  0,
+    "publisher":  "Al-Jamiah Research Centre",
+    "issue":  "1",
+    "license":  [
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2026 1 31"
+                                                     ],
+                                      "date-time":  "2026-01-31T00:00:00Z",
+                                      "timestamp":  1769817600000
+                                  },
+                        "content-version":  "unspecified",
+                        "delay-in-days":  0,
+                        "URL":  "http://creativecommons.org/licenses/by-nc-nd/4.0"
+                    }
+                ],
+    "content-domain":  {
+                           "domain":  [
+
+                                      ],
+                           "crossmark-restriction":  false
+                       },
+    "short-container-title":  [
+                                  "J Qurdis"
+                              ],
+    "abstract":  "\u003cjats:p\u003eThis article investigates the early articulation of material that would later be established as hadīth, focusing on Mālik b. Anas’ (d. 179/795) al‑Muwattaʾ in the recension of Yahyā al‑Laythī (d. 234/848), ʿAbd al‑Razzāq al‑Sanʿānī’s al‑Musannaf (d. 211/827), and Ibn Abī Syaibah’sal‑Musannaf (d. 235/849). Through an intellectual‑historical approach, it explores how each text articulates its material, the assumptions it makes about prophetic authority, and the salient features of each work. The analysis of these works confirms the well-known pattern that the term hadīthin early usage often denotes non‑prophetic reports and is hermeneutically distinguished from related categories such as sunnah and ʿamal (in the case of al-Muwatta). However, it is also notable that embryonic uses of hadīth to signify prophetic reports are present albeit in limited cases. The works differ in how they frame prophetic authority. The Muwatta privileges embodied practice rooted in the inherited tradition of Madinah rather than narrative transmission. A subsequent reorientation toward prophetic authority emerges as the activity of recording the tradition becomes increasingly text-centered, exemplified by ʿAbd al‑Razzāq’s early trans‑regional efforts to record reports during the intensifying codification movement. Ibn Abī Syaibah represents a further development, in which the authority of post‑successor jurists becomes increasingly constrained in favor of privileging the first three generations of Muslims. In the later phase, hadīth acquires more epistemic significance, increasingly equated with religious knowledge itself, reflecting a trajectory associated with figures such as Ibn Sīrīn and Ibn al‑Mubārak alongside the growing emphasis on isnād authentication. This study is expected to further contribute and further complicate existing scholarship on early hadith literature, particularly regarding its formative period.\u003c/jats:p\u003e",
+    "DOI":  "10.14421/qh.v27i1.7472",
+    "type":  "journal-article",
+    "created":  {
+                    "date-parts":  [
+                                       [
+                                           2026,
+                                           3,
+                                           17
+                                       ]
+                                   ],
+                    "date-time":  "2026-03-17T01:55:46Z",
+                    "timestamp":  1773712546000
+                },
+    "page":  "351-373",
+    "source":  "Crossref",
+    "is-referenced-by-count":  0,
+    "title":  [
+                  "Articulating the Prophetic Authority: Some Notes on the Nature of Hadīth Collection in al-Muwatta and Musannaf Literature"
+              ],
+    "prefix":  "10.14421",
+    "volume":  "27",
+    "author":  [
+                   {
+                       "given":  "Asep Nahrul",
+                       "family":  "Musadad",
+                       "sequence":  "first",
+                       "affiliation":  [
+                                           {
+                                               "id":  "",
+                                               "name":  "Sunan Kalijaga State Islamic University Yogyakarta"
+                                           }
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   }
+               ],
+    "member":  "5548",
+    "published-online":  {
+                             "date-parts":  [
+                                                [
+                                                    2026,
+                                                    1,
+                                                    31
+                                                ]
+                                            ]
+                         },
+    "container-title":  [
+                            "Jurnal Studi Ilmu-ilmu Al-Qur\u0027an dan Hadis"
+                        ],
+    "original-title":  [
+
+                       ],
+    "link":  [
+                 {
+                     "URL":  "https://ejournal.uin-suka.ac.id/ushuluddin/alquran/article/download/7472/2725",
+                     "content-type":  "application/pdf",
+                     "content-version":  "vor",
+                     "intended-application":  "text-mining"
+                 },
+                 {
+                     "URL":  "https://ejournal.uin-suka.ac.id/ushuluddin/alquran/article/download/7472/2725",
+                     "content-type":  "unspecified",
+                     "content-version":  "vor",
+                     "intended-application":  "similarity-checking"
+                 }
+             ],
+    "deposited":  {
+                      "date-parts":  [
+                                         [
+                                             2026,
+                                             6,
+                                             24
+                                         ]
+                                     ],
+                      "date-time":  "2026-06-24T01:50:38Z",
+                      "timestamp":  1782265838000
+                  },
+    "score":  1,
+    "resource":  {
+                     "primary":  {
+                                     "URL":  "https://ejournal.uin-suka.ac.id/ushuluddin/alquran/article/view/7472"
+                                 }
+                 },
+    "subtitle":  [
+
+                 ],
+    "short-title":  [
+
+                    ],
+    "issued":  {
+                   "date-parts":  [
+                                      [
+                                          2026,
+                                          1,
+                                          31
+                                      ]
+                                  ]
+               },
+    "references-count":  0,
+    "journal-issue":  {
+                          "issue":  "1",
+                          "published-online":  {
+                                                   "date-parts":  [
+                                                                      [
+                                                                          2026,
+                                                                          1,
+                                                                          31
+                                                                      ]
+                                                                  ]
+                                               }
+                      },
+    "URL":  "https://doi.org/10.14421/qh.v27i1.7472",
+    "relation":  {
+
+                 },
+    "ISSN":  [
+                 "2548-4737",
+                 "1411-6855"
+             ],
+    "issn-type":  [
+                      {
+                          "value":  "2548-4737",
+                          "type":  "electronic"
+                      },
+                      {
+                          "value":  "1411-6855",
+                          "type":  "print"
+                      }
+                  ],
+    "subject":  [
+
+                ],
+    "published":  {
+                      "date-parts":  [
+                                         [
+                                             2026,
+                                             1,
+                                             31
+                                         ]
+                                     ]
+                  }
+}

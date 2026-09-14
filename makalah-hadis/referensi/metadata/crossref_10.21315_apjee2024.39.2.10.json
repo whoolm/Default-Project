@@ -1,0 +1,168 @@
+﻿{
+    "indexed":  {
+                    "date-parts":  [
+                                       [
+                                           2026,
+                                           7,
+                                           8
+                                       ]
+                                   ],
+                    "date-time":  "2026-07-08T18:53:07Z",
+                    "timestamp":  1783536787057,
+                    "version":  "3.55.0"
+                },
+    "reference-count":  0,
+    "publisher":  "Universiti Sains Malaysia",
+    "issue":  "2",
+    "content-domain":  {
+                           "domain":  [
+
+                                      ],
+                           "crossmark-restriction":  false
+                       },
+    "short-container-title":  [
+                                  "APJEE"
+                              ],
+    "abstract":  "\u003cjats:p\u003eThere are two major points of contention in modern hadith studies. The first concerns the phenomenon of re-authenticating hadith by scholars, both traditionalists and rationalist modernists. The former seeks to maintain originality and utilise authentic sources for religious purposes. The latter’s ethos is primarily — though arguably—one of objectivity, with occasional goals of replacing outdated traditional legal positions. Nonetheless, both approaches have revived practises related to authentication, such as studying the ruwāt (transmitters), refining the principles of al-jarh wa al-ta’dīl (discreditation and accreditation of traditionists), and examining the ‘ilal (hidden flaws) in hadith, among others. Modernists, however, place greater emphasis on rational criticism. Academic departments in Muslim societies have been established to study hadith for both critical and practical purposes. The cumulative result is what can be termed “traditionalising.” The second major point of discussion relates to the exploration of the space-time dimension in interpreting religious commandments. This stems from the modern era’s emphasis on change. The theme of change, along with technological advancement, has gradually led to the concept of “futuring.” A key question arises: if “futuring” has introduced new methods and technology for verification, particularly through the use of artificial intelligence, what does this mean for the current practice of “traditionalising” in religious education? Should hadith scholars and students engage in continuous re-verification of hadith, or could this responsibility be delegated to technology? This paper attempts to define both “traditionalising” and “futuring” within the context of Islamic religious education, particularly in hadith studies. It also analyses potential tensions between these two approaches in the near future. The paper argues that the broader maqasid (objectives of sharia) framework could help conceptualise and reconcile these two goals. The research draws on existing literature about traditional learning and the future of hadith studies, and addresses the critical role this issue plays in shaping the agendas of Islamic religious education in the future.\u003c/jats:p\u003e",
+    "DOI":  "10.21315/apjee2024.39.2.10",
+    "type":  "journal-article",
+    "created":  {
+                    "date-parts":  [
+                                       [
+                                           2025,
+                                           7,
+                                           28
+                                       ]
+                                   ],
+                    "date-time":  "2025-07-28T05:49:18Z",
+                    "timestamp":  1753681758000
+                },
+    "page":  "183-196",
+    "source":  "Crossref",
+    "is-referenced-by-count":  5,
+    "title":  [
+                  "Between Traditionalising and Futuring: Applying The Broader Maqasid  Paradigm to Hadith Studies"
+              ],
+    "prefix":  "10.21315",
+    "volume":  "39",
+    "author":  [
+                   {
+                       "name":  "AbdulHamid AbuSulayman Kulliyyah of Islamic Revealed Knowledge and Human Sciences, International Islamic University Malaysia, P.O. Box 10, 53100 Kuala Lumpur, Malaysia",
+                       "sequence":  "first",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Khairil Husaini Bin",
+                       "family":  "Jamil",
+                       "sequence":  "first",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   }
+               ],
+    "member":  "8963",
+    "published-online":  {
+                             "date-parts":  [
+                                                [
+                                                    2024,
+                                                    12,
+                                                    31
+                                                ]
+                                            ]
+                         },
+    "container-title":  [
+                            "Asia Pacific Journal of Educators and Education"
+                        ],
+    "original-title":  [
+
+                       ],
+    "deposited":  {
+                      "date-parts":  [
+                                         [
+                                             2025,
+                                             7,
+                                             28
+                                         ]
+                                     ],
+                      "date-time":  "2025-07-28T05:49:20Z",
+                      "timestamp":  1753681760000
+                  },
+    "score":  1,
+    "resource":  {
+                     "primary":  {
+                                     "URL":  "http://apjee.usm.my/APJEE_39_2_2024/apjee3922024_10.pdf"
+                                 }
+                 },
+    "subtitle":  [
+
+                 ],
+    "short-title":  [
+
+                    ],
+    "issued":  {
+                   "date-parts":  [
+                                      [
+                                          2024,
+                                          12,
+                                          31
+                                      ]
+                                  ]
+               },
+    "references-count":  0,
+    "journal-issue":  {
+                          "issue":  "2",
+                          "published-online":  {
+                                                   "date-parts":  [
+                                                                      [
+                                                                          2024,
+                                                                          12,
+                                                                          31
+                                                                      ]
+                                                                  ]
+                                               }
+                      },
+    "URL":  "https://doi.org/10.21315/apjee2024.39.2.10",
+    "relation":  {
+
+                 },
+    "ISSN":  [
+                 "2180-3463",
+                 "2289-9057"
+             ],
+    "issn-type":  [
+                      {
+                          "value":  "2180-3463",
+                          "type":  "print"
+                      },
+                      {
+                          "value":  "2289-9057",
+                          "type":  "electronic"
+                      }
+                  ],
+    "subject":  [
+
+                ],
+    "published":  {
+                      "date-parts":  [
+                                         [
+                                             2024,
+                                             12,
+                                             31
+                                         ]
+                                     ]
+                  }
+}

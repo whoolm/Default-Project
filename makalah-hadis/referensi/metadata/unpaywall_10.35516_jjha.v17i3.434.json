@@ -1,0 +1,80 @@
+﻿{
+    "best_oa_location":  {
+                             "endpoint_id":  null,
+                             "evidence":  "deprecated",
+                             "host_type":  "publisher",
+                             "is_best":  true,
+                             "license":  null,
+                             "oa_date":  "2023-10-18",
+                             "pmh_id":  null,
+                             "repository_institution":  null,
+                             "updated":  "deprecated",
+                             "url":  "https://jjournals.ju.edu.jo/index.php/jjha/article/download/434/533",
+                             "url_for_landing_page":  "http://dx.doi.org/10.35516/jjha.v17i3.434",
+                             "url_for_pdf":  "https://jjournals.ju.edu.jo/index.php/jjha/article/download/434/533",
+                             "version":  "publishedVersion"
+                         },
+    "data_standard":  2,
+    "doi":  "10.35516/jjha.v17i3.434",
+    "doi_url":  "https://doi.org/10.35516/jjha.v17i3.434",
+    "first_oa_location":  {
+                              "endpoint_id":  null,
+                              "evidence":  "deprecated",
+                              "host_type":  "publisher",
+                              "is_best":  true,
+                              "license":  null,
+                              "oa_date":  "2023-10-18",
+                              "pmh_id":  null,
+                              "repository_institution":  null,
+                              "updated":  "deprecated",
+                              "url":  "https://jjournals.ju.edu.jo/index.php/jjha/article/download/434/533",
+                              "url_for_landing_page":  "http://dx.doi.org/10.35516/jjha.v17i3.434",
+                              "url_for_pdf":  "https://jjournals.ju.edu.jo/index.php/jjha/article/download/434/533",
+                              "version":  "publishedVersion"
+                          },
+    "genre":  "journal-article",
+    "has_repository_copy":  false,
+    "is_oa":  true,
+    "is_paratext":  false,
+    "journal_is_in_doaj":  false,
+    "journal_is_oa":  true,
+    "journal_issn_l":  "1996-9546",
+    "journal_issns":  "1996-9546",
+    "journal_name":  "Jordan Journal for History and Archaeology",
+    "oa_locations":  [
+                         {
+                             "endpoint_id":  null,
+                             "evidence":  "deprecated",
+                             "host_type":  "publisher",
+                             "is_best":  true,
+                             "license":  null,
+                             "oa_date":  "2023-10-18",
+                             "pmh_id":  null,
+                             "repository_institution":  null,
+                             "updated":  "deprecated",
+                             "url":  "https://jjournals.ju.edu.jo/index.php/jjha/article/download/434/533",
+                             "url_for_landing_page":  "http://dx.doi.org/10.35516/jjha.v17i3.434",
+                             "url_for_pdf":  "https://jjournals.ju.edu.jo/index.php/jjha/article/download/434/533",
+                             "version":  "publishedVersion"
+                         }
+                     ],
+    "oa_locations_embargoed":  [
+
+                               ],
+    "oa_status":  "gold",
+    "published_date":  "2023-10-18",
+    "publisher":  "The University of Jordan",
+    "title":  "مصادر البخاري",
+    "updated":  "2025-12-26T00:49:41Z",
+    "year":  2023,
+    "z_authors":  [
+                      {
+                          "author_position":  "first",
+                          "is_corresponding":  true,
+                          "raw_affiliation_strings":  [
+                                                          "قسم التاريخ، كلية الآداب، الجامعة الأردنية"
+                                                      ],
+                          "raw_author_name":  "Shahrazad ‘Moh’d Saleh’ Obeid"
+                      }
+                  ]
+}

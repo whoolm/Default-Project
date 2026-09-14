@@ -1,0 +1,112 @@
+﻿{
+    "best_oa_location":  {
+                             "endpoint_id":  null,
+                             "evidence":  "deprecated",
+                             "host_type":  "publisher",
+                             "is_best":  true,
+                             "license":  "cc-by",
+                             "oa_date":  "2025-12-31",
+                             "pmh_id":  null,
+                             "repository_institution":  null,
+                             "updated":  "deprecated",
+                             "url":  "https://jurnal.usas.edu.my/gjat/index.php/journal/article/download/1400/688",
+                             "url_for_landing_page":  "https://doi.org/10.7187/gjatsi122025-2",
+                             "url_for_pdf":  "https://jurnal.usas.edu.my/gjat/index.php/journal/article/download/1400/688",
+                             "version":  "publishedVersion"
+                         },
+    "data_standard":  2,
+    "doi":  "10.7187/gjatsi122025-2",
+    "doi_url":  "https://doi.org/10.7187/gjatsi122025-2",
+    "first_oa_location":  {
+                              "endpoint_id":  null,
+                              "evidence":  "deprecated",
+                              "host_type":  "publisher",
+                              "is_best":  true,
+                              "license":  "cc-by",
+                              "oa_date":  "2025-12-31",
+                              "pmh_id":  null,
+                              "repository_institution":  null,
+                              "updated":  "deprecated",
+                              "url":  "https://jurnal.usas.edu.my/gjat/index.php/journal/article/download/1400/688",
+                              "url_for_landing_page":  "https://doi.org/10.7187/gjatsi122025-2",
+                              "url_for_pdf":  "https://jurnal.usas.edu.my/gjat/index.php/journal/article/download/1400/688",
+                              "version":  "publishedVersion"
+                          },
+    "genre":  "journal-article",
+    "has_repository_copy":  false,
+    "is_oa":  true,
+    "is_paratext":  false,
+    "journal_is_in_doaj":  true,
+    "journal_is_oa":  true,
+    "journal_issn_l":  "2232-0474",
+    "journal_issns":  "2232-0474,2232-0482",
+    "journal_name":  "Global Journal Al-Thaqafah",
+    "oa_locations":  [
+                         {
+                             "endpoint_id":  null,
+                             "evidence":  "deprecated",
+                             "host_type":  "publisher",
+                             "is_best":  true,
+                             "license":  "cc-by",
+                             "oa_date":  "2025-12-31",
+                             "pmh_id":  null,
+                             "repository_institution":  null,
+                             "updated":  "deprecated",
+                             "url":  "https://jurnal.usas.edu.my/gjat/index.php/journal/article/download/1400/688",
+                             "url_for_landing_page":  "https://doi.org/10.7187/gjatsi122025-2",
+                             "url_for_pdf":  "https://jurnal.usas.edu.my/gjat/index.php/journal/article/download/1400/688",
+                             "version":  "publishedVersion"
+                         }
+                     ],
+    "oa_locations_embargoed":  [
+
+                               ],
+    "oa_status":  "gold",
+    "published_date":  "2025-12-31",
+    "publisher":  "Universiti Sultan Azlan Shah",
+    "title":  "Evolution of Hadith Textual Criticism: From Classical to Contemporary Approaches",
+    "updated":  "2026-01-13T16:36:47Z",
+    "year":  2025,
+    "z_authors":  [
+                      {
+                          "author_position":  "first",
+                          "is_corresponding":  true,
+                          "raw_affiliation_strings":  [
+                                                          "Research Centre for al-Quran and al-Sunnah, Faculty of Islamic Studies, Universiti Kebangsaan Malaysia, 43600 UKM Bangi, Selangor, Malaysia"
+                                                      ],
+                          "raw_author_name":  "Nur Muhammad Anas Mohd Razak"
+                      },
+                      {
+                          "author_position":  "middle",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+                                                          "Research Centre for al-Quran and al-Sunnah, Faculty of Islamic Studies, Universiti Kebangsaan Malaysia, 43600 UKM Bangi, Selangor, Malaysia"
+                                                      ],
+                          "raw_author_name":  "Mohd Arif Nazri"
+                      },
+                      {
+                          "author_position":  "middle",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+                                                          "Research Centre for al-Quran and al-Sunnah, Faculty of Islamic Studies, Universiti Kebangsaan Malaysia, 43600 UKM Bangi, Selangor, Malaysia"
+                                                      ],
+                          "raw_author_name":  "Latifah Abdul Majid"
+                      },
+                      {
+                          "author_position":  "middle",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+                                                          "Research Centre for al-Quran and al-Sunnah, Faculty of Islamic Studies, Universiti Kebangsaan Malaysia, 43600 UKM Bangi, Selangor, Malaysia"
+                                                      ],
+                          "raw_author_name":  "Najah Nadiah Amran"
+                      },
+                      {
+                          "author_position":  "last",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+                                                          "Research Centre for al-Quran and al-Sunnah, Faculty of Islamic Studies, Universiti Kebangsaan Malaysia, 43600 UKM Bangi, Selangor, Malaysia"
+                                                      ],
+                          "raw_author_name":  "Nurul Suhaida Ibrahim"
+                      }
+                  ]
+}

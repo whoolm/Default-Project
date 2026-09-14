@@ -1,0 +1,983 @@
+﻿{
+    "indexed":  {
+                    "date-parts":  [
+                                       [
+                                           2026,
+                                           8,
+                                           28
+                                       ]
+                                   ],
+                    "date-time":  "2026-08-28T07:14:16Z",
+                    "timestamp":  1787901256653,
+                    "version":  "build-2784847793"
+                },
+    "reference-count":  88,
+    "publisher":  "Elsevier BV",
+    "license":  [
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2023 10 1"
+                                                     ],
+                                      "date-time":  "2023-10-01T00:00:00Z",
+                                      "timestamp":  1696118400000
+                                  },
+                        "content-version":  "tdm",
+                        "delay-in-days":  0,
+                        "URL":  "https://www.elsevier.com/tdm/userlicense/1.0/"
+                    },
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2023 10 1"
+                                                     ],
+                                      "date-time":  "2023-10-01T00:00:00Z",
+                                      "timestamp":  1696118400000
+                                  },
+                        "content-version":  "tdm",
+                        "delay-in-days":  0,
+                        "URL":  "https://www.elsevier.com/legal/tdmrep-license"
+                    },
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2023 10 1"
+                                                     ],
+                                      "date-time":  "2023-10-01T00:00:00Z",
+                                      "timestamp":  1696118400000
+                                  },
+                        "content-version":  "stm-asf",
+                        "delay-in-days":  0,
+                        "URL":  "https://doi.org/10.15223/policy-017"
+                    },
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2023 10 1"
+                                                     ],
+                                      "date-time":  "2023-10-01T00:00:00Z",
+                                      "timestamp":  1696118400000
+                                  },
+                        "content-version":  "stm-asf",
+                        "delay-in-days":  0,
+                        "URL":  "https://doi.org/10.15223/policy-037"
+                    },
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2023 10 1"
+                                                     ],
+                                      "date-time":  "2023-10-01T00:00:00Z",
+                                      "timestamp":  1696118400000
+                                  },
+                        "content-version":  "stm-asf",
+                        "delay-in-days":  0,
+                        "URL":  "https://doi.org/10.15223/policy-012"
+                    },
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2023 10 1"
+                                                     ],
+                                      "date-time":  "2023-10-01T00:00:00Z",
+                                      "timestamp":  1696118400000
+                                  },
+                        "content-version":  "stm-asf",
+                        "delay-in-days":  0,
+                        "URL":  "https://doi.org/10.15223/policy-029"
+                    },
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2023 10 1"
+                                                     ],
+                                      "date-time":  "2023-10-01T00:00:00Z",
+                                      "timestamp":  1696118400000
+                                  },
+                        "content-version":  "stm-asf",
+                        "delay-in-days":  0,
+                        "URL":  "https://doi.org/10.15223/policy-004"
+                    }
+                ],
+    "content-domain":  {
+                           "domain":  [
+                                          "elsevier.com",
+                                          "sciencedirect.com"
+                                      ],
+                           "crossmark-restriction":  true
+                       },
+    "short-container-title":  [
+                                  "Journal of Web Semantics"
+                              ],
+    "published-print":  {
+                            "date-parts":  [
+                                               [
+                                                   2023,
+                                                   10
+                                               ]
+                                           ]
+                        },
+    "DOI":  "10.1016/j.websem.2023.100797",
+    "type":  "journal-article",
+    "created":  {
+                    "date-parts":  [
+                                       [
+                                           2023,
+                                           6,
+                                           28
+                                       ]
+                                   ],
+                    "date-time":  "2023-06-28T21:18:26Z",
+                    "timestamp":  1687987106000
+                },
+    "page":  "100797",
+    "update-policy":  "https://doi.org/10.1016/elsevier_cm_policy",
+    "source":  "Crossref",
+    "is-referenced-by-count":  9,
+    "special_numbering":  "C",
+    "title":  [
+                  "SemanticHadith: An ontology-driven knowledge graph for the hadith corpus"
+              ],
+    "prefix":  "10.1016",
+    "volume":  "78",
+    "author":  [
+                   {
+                       "given":  "Amna Binte",
+                       "family":  "Kamran",
+                       "sequence":  "first",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Bushra",
+                       "family":  "Abro",
+                       "sequence":  "additional",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   },
+                   {
+                       "ORCID":  "https://orcid.org/0000-0002-5744-6498",
+                       "authenticated-orcid":  false,
+                       "given":  "Amna",
+                       "family":  "Basharat",
+                       "sequence":  "additional",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   }
+               ],
+    "member":  "78",
+    "reference":  [
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b1",
+                          "first-page":  "205",
+                          "article-title":  "Linked data-the story so far",
+                          "author":  "Bizer",
+                          "year":  "2009",
+                          "journal-title":  "Semant. Serv. Interoperability Web Appl. Emerg. Concepts"
+                      },
+                      {
+                          "issue":  "1",
+                          "key":  "10.1016/j.websem.2023.100797_b2",
+                          "first-page":  "1",
+                          "article-title":  "Linked data: Evolving the web into a global data space",
+                          "volume":  "1",
+                          "author":  "Heath",
+                          "year":  "2011",
+                          "journal-title":  "Synth. Lect. Semant. Web: Theory Technol."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b3",
+                          "doi-asserted-by":  "crossref",
+                          "DOI":  "10.1108/00330331211296312",
+                          "article-title":  "Interlinking educational resources and the web of data: A survey of challenges and approaches",
+                          "author":  "Dietze",
+                          "year":  "2013",
+                          "journal-title":  "Program"
+                      },
+                      {
+                          "issue":  "1",
+                          "key":  "10.1016/j.websem.2023.100797_b4",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "16",
+                          "DOI":  "10.1108/PROG-07-2012-0045",
+                          "article-title":  "Consuming and producing linked open data: the case of opencourseware",
+                          "volume":  "48",
+                          "author":  "Piedra",
+                          "year":  "2014",
+                          "journal-title":  "Program"
+                      },
+                      {
+                          "issue":  "18",
+                          "key":  "10.1016/j.websem.2023.100797_b5",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "i568",
+                          "DOI":  "10.1093/bioinformatics/btq383",
+                          "article-title":  "Utopia documents: linking scholarly literature with research data",
+                          "volume":  "26",
+                          "author":  "Attwood",
+                          "year":  "2010",
+                          "journal-title":  "Bioinformatics"
+                      },
+                      {
+                          "issue":  "1–4",
+                          "key":  "10.1016/j.websem.2023.100797_b6",
+                          "first-page":  "17",
+                          "article-title":  "Linked data and libraries",
+                          "volume":  "60",
+                          "author":  "Miller",
+                          "year":  "2011",
+                          "journal-title":  "Ser. Libr."
+                      },
+                      {
+                          "issue":  "5–7",
+                          "key":  "10.1016/j.websem.2023.100797_b7",
+                          "first-page":  "763",
+                          "article-title":  "FRBR and linked data: connecting FRBR and linked data",
+                          "volume":  "50",
+                          "author":  "Howarth",
+                          "year":  "2012",
+                          "journal-title":  "Cat. Classif. Q."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b8",
+                          "series-title":  "Proceedings of the Thirteenth ACM International Conference on Information and Knowledge Management",
+                          "first-page":  "652",
+                          "article-title":  "Swoogle: a search and metadata engine for the semantic web",
+                          "author":  "Ding",
+                          "year":  "2004"
+                      },
+                      {
+                          "issue":  "03",
+                          "key":  "10.1016/j.websem.2023.100797_b9",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "25",
+                          "DOI":  "10.1109/MIS.2012.27",
+                          "article-title":  "US government linked open data: semantic. data. gov",
+                          "volume":  "27",
+                          "author":  "Hendler",
+                          "year":  "2012",
+                          "journal-title":  "IEEE Intell. Syst."
+                      },
+                      {
+                          "issue":  "3",
+                          "key":  "10.1016/j.websem.2023.100797_b10",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "16",
+                          "DOI":  "10.1109/MIS.2012.23",
+                          "article-title":  "Linked open government data: Lessons from data. gov. uk",
+                          "volume":  "27",
+                          "author":  "Shadbolt",
+                          "year":  "2012",
+                          "journal-title":  "IEEE Intell. Syst."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b11",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Julia Marden, Carolyn Li-Madeo, Noreen Whysel, Jeffrey Edelstein, Linked open data for cultural heritage: evolution of an information technology, in: Proceedings of the 31st ACM International Conference on Design of Communication, 2013, pp. 107–112.",
+                          "DOI":  "10.1145/2507065.2507103"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b12",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Michael Schuhmacher, Simone Paolo Ponzetto, Knowledge-based graph document modeling, in: Proceedings of the 7th ACM International Conference on Web Search and Data Mining, 2014, pp. 543–552.",
+                          "DOI":  "10.1145/2556195.2556250"
+                      },
+                      {
+                          "issue":  "12",
+                          "key":  "10.1016/j.websem.2023.100797_b13",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "2724",
+                          "DOI":  "10.1109/TKDE.2017.2754499",
+                          "article-title":  "Knowledge graph embedding: A survey of approaches and applications",
+                          "volume":  "29",
+                          "author":  "Wang",
+                          "year":  "2017",
+                          "journal-title":  "IEEE Trans. Knowl. Data Eng."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b14",
+                          "doi-asserted-by":  "crossref",
+                          "DOI":  "10.1016/j.eswa.2019.112948",
+                          "article-title":  "A review: Knowledge reasoning over knowledge graph",
+                          "volume":  "141",
+                          "author":  "Chen",
+                          "year":  "2020",
+                          "journal-title":  "Expert Syst. Appl."
+                      },
+                      {
+                          "issue":  "7",
+                          "key":  "10.1016/j.websem.2023.100797_b15",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "2463",
+                          "DOI":  "10.1109/JBHI.2021.3085003",
+                          "article-title":  "EHR-oriented knowledge graph system: Toward efficient utilization of non-used information buried in routine clinical practice",
+                          "volume":  "25",
+                          "author":  "Shang",
+                          "year":  "2021",
+                          "journal-title":  "IEEE J. Biomed. Health Inf."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b16",
+                          "series-title":  "An Introduction to the Science of Hadith",
+                          "author":  "Hasan",
+                          "year":  "1994"
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "10.1016/j.websem.2023.100797_b17",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "143",
+                          "DOI":  "10.1163/156851908X290574",
+                          "article-title":  "How we know early hadı̄th critics did matn criticism and why it’s so hard to find",
+                          "volume":  "15",
+                          "author":  "Brown",
+                          "year":  "2008",
+                          "journal-title":  "Islam. Law Soc."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b18",
+                          "unstructured":  "Kais Dukes, Eric Atwell, Abdul-Baquee M. Sharaf, Syntactic Annotation Guidelines for the Quranic Arabic Dependency Treebank, in: LREC, 2010."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b19",
+                          "unstructured":  "Kais Dukes, Nizar Habash, Morphological Annotation of Quranic Arabic, in: LREC, 2010."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b20",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Hend S. Al-Khalifa, Maha Al-Yahya, Alia Bahanshal, Iman Al-Odah, Nawal Al-Helwah, An approach to compare two ontological models for representing quranic words, in: Proceedings of the 12th International Conference on Information Integration and Web-Based Applications \u0026 Services, 2010, pp. 674–678.",
+                          "DOI":  "10.1145/1967486.1967593"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b21",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Sumayya Baqai, Amna Basharat, Hira Khalid, Amna Hassan, Shehneela Zafar, Leveraging semantic web technologies for standardized knowledge modeling and retrieval from the Holy Qur’an and religious texts, in: Proceedings of the 7th International Conference on Frontiers of Information Technology, 2009, pp. 1–6.",
+                          "DOI":  "10.1145/1838002.1838050"
+                      },
+                      {
+                          "issue":  "4",
+                          "key":  "10.1016/j.websem.2023.100797_b22",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "1",
+                          "DOI":  "10.1145/1644879.1644881",
+                          "article-title":  "Arabic natural language processing: Challenges and solutions",
+                          "volume":  "8",
+                          "author":  "Farghaly",
+                          "year":  "2009",
+                          "journal-title":  "ACM Trans. Asian Lang. Inf. Process. (TALIP)"
+                      },
+                      {
+                          "issue":  "23",
+                          "key":  "10.1016/j.websem.2023.100797_b23",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "4492",
+                          "DOI":  "10.19026/rjaset.6.3457",
+                          "article-title":  "Quranic verse extraction base on concepts using OWL-DL ontology",
+                          "volume":  "6",
+                          "author":  "Yauri",
+                          "year":  "2013",
+                          "journal-title":  "Res. J. Appl. Sci. Eng. Technol."
+                      },
+                      {
+                          "issue":  "4",
+                          "key":  "10.1016/j.websem.2023.100797_b24",
+                          "first-page":  "339",
+                          "article-title":  "Semantic Quran",
+                          "volume":  "6",
+                          "author":  "Sherif",
+                          "year":  "2015",
+                          "journal-title":  "Semant. Web"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b25",
+                          "series-title":  "2012 International Conference on Information Retrieval \u0026 Knowledge Management",
+                          "first-page":  "317",
+                          "article-title":  "Quranic-based concepts: verse relations extraction using manchester owl syntax",
+                          "author":  "Yauri",
+                          "year":  "2012"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b26",
+                          "unstructured":  "Aimad Hakkoum, Said Raghay, Ontological approach for semantic modeling and querying the Qur’an, in: Proceedings of the International Conference on Islamic Applications in Computer Science and Technology, 2015."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b27",
+                          "series-title":  "2009 International Conference on the Current Trends in Information Technology",
+                          "first-page":  "1",
+                          "article-title":  "SemQ: A proposed framework for representing semantic opposition in the Holy Quran using semantic web technologies",
+                          "author":  "Al-Khalifa",
+                          "year":  "2009"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b28",
+                          "series-title":  "2009 International Conference for Internet Technology and Secured Transactions",
+                          "first-page":  "1",
+                          "article-title":  "Islamic knowledge ontology creation",
+                          "author":  "Saad",
+                          "year":  "2009"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b29",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Saidah Saad, Naomie Salim, Hakim Zainal, Zurina Muda, A process for building domain ontology: An experience in developing Solat ontology, in: Proceedings of the 2011 International Conference on Electrical Engineering and Informatics, Bandung, Indonesia, 2011, pp. 1–5.",
+                          "DOI":  "10.1109/ICEEI.2011.6021572"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b30",
+                          "series-title":  "Proceedings of the 6th International Conference on Natural Language Processing and Knowledge Engineering",
+                          "first-page":  "1",
+                          "article-title":  "iTree-automating the construction of the narration tree of Hadiths (Prophetic Traditions)",
+                          "author":  "Azmi",
+                          "year":  "2010"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b31",
+                          "series-title":  "Building hadith ontology to support the authenticity of Isnad, 2(1)",
+                          "author":  "Baraka",
+                          "year":  "2014"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b32",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "138",
+                          "DOI":  "10.1016/j.procs.2016.04.021",
+                          "article-title":  "TibbOnto: Knowledge representation of prophet medicine (Tibb Al-Nabawi)",
+                          "volume":  "82",
+                          "author":  "Al-Rumkhani",
+                          "year":  "2016",
+                          "journal-title":  "Procedia Comput. Sci."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b33",
+                          "series-title":  "The 1st International Sysmposium on Computers and Arabic Language and Exhibition, KACST \u0026 SCS",
+                          "first-page":  "11",
+                          "article-title":  "UML modeling of text mining in Arabic language and application to the prophetic traditions “Hadiths”",
+                          "author":  "Harrag",
+                          "year":  "2007"
+                      },
+                      {
+                          "issue":  "6",
+                          "key":  "10.1016/j.websem.2023.100797_b34",
+                          "article-title":  "Information retrieval architecture for” Hadith” text mining",
+                          "volume":  "6",
+                          "author":  "Harrag",
+                          "year":  "2008",
+                          "journal-title":  "J. Digit. Inf. Manag."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b35",
+                          "series-title":  "2008 First International Conference on the Applications of Digital Information and Web Technologies",
+                          "first-page":  "107",
+                          "article-title":  "Vector space model for arabic information retrieval—application to “Hadith” indexing",
+                          "author":  "Harrag",
+                          "year":  "2008"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b36",
+                          "series-title":  "International Conference on Software Engineering and Computer Systems",
+                          "first-page":  "289",
+                          "article-title":  "Extracting named entities from prophetic narration texts (Hadith)",
+                          "author":  "Harrag",
+                          "year":  "2011"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b37",
+                          "series-title":  "King Fahd Glorious Qur’an Printing Complex",
+                          "year":  "2022"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b38",
+                          "series-title":  "The Noble Quran - Quran.com. Quran",
+                          "year":  "2022"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b39",
+                          "series-title":  "Sunnah.com - Sayings and Teachings of Prophet Muhammad (xn–0gb4ap xn–mgb2dam xn–4gbwjl xn–khb xn–ygb8ad)",
+                          "year":  "2022"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b40",
+                          "series-title":  "Alim the World’s Most Useful Islamic Software",
+                          "author":  "Jafri",
+                          "year":  "1999"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b41",
+                          "unstructured":  "Amna Basharat, Khaled Rasheed, I. Budak Arpinar, Towards linked open islamic knowledge using human computation and crowdsourcing, in: Proceedings of the International Conference on Islamic Applications in Computer Science and Technology, 2015."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b42",
+                          "unstructured":  "Amna Basharat, Bushra Abro, Ismailcem Budak Arpinar, Khaled Rasheed, Semantic Hadith: Leveraging Linked Data Opportunities for Islamic Knowledge, in: LDOW@ WWW, 2016."
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "10.1016/j.websem.2023.100797_b43",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "1369",
+                          "DOI":  "10.1007/s10462-019-09692-w",
+                          "article-title":  "Computational and natural language processing based studies of hadith literature: a survey",
+                          "volume":  "52",
+                          "author":  "Azmi",
+                          "year":  "2019",
+                          "journal-title":  "Artif. Intell. Rev."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b44",
+                          "series-title":  "Usool At-Tafseer: The Methodology of Qur’Anic Interpretation",
+                          "author":  "Philips",
+                          "year":  "2002"
+                      },
+                      {
+                          "issue":  "3",
+                          "key":  "10.1016/j.websem.2023.100797_b45",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "1",
+                          "DOI":  "10.1145/3277591",
+                          "article-title":  "On the usage of a classical Arabic corpus as a language resource: related research and key challenges",
+                          "volume":  "18",
+                          "author":  "Bounhas",
+                          "year":  "2019",
+                          "journal-title":  "ACM Trans. Asian Low Resour. Inf. Process. Lang. (TALLIP)"
+                      },
+                      {
+                          "issue":  "4",
+                          "key":  "10.1016/j.websem.2023.100797_b46",
+                          "article-title":  "An ontological model of hadith texts",
+                          "volume":  "11",
+                          "author":  "Fairouz",
+                          "year":  "2020",
+                          "journal-title":  "Int. J. Adv. Comput. Sci. Appl."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b47",
+                          "unstructured":  "Amir Hamzah Jaafar, Noraini Che Pa, Hadith commentary repository: An ontological approach, in: Proceedings of the 6th International Conference on Computing and Informatics, ICOCI 2017, 2016."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b48",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "101",
+                          "DOI":  "10.1016/j.procs.2017.10.098",
+                          "article-title":  "A rich Arabic WordNet resource for Al-Hadith Al-Shareef",
+                          "volume":  "117",
+                          "author":  "Alkhatib",
+                          "year":  "2017",
+                          "journal-title":  "Procedia Comput. Sci."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b49",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "558",
+                          "DOI":  "10.1016/j.chb.2013.06.035",
+                          "article-title":  "Text mining approach for knowledge extraction in Sahîh Al-Bukhari",
+                          "volume":  "30",
+                          "author":  "Harrag",
+                          "year":  "2014",
+                          "journal-title":  "Comput. Hum. Behav."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b50",
+                          "series-title":  "2014 IEEE International Conference on Computer and Information Technology",
+                          "first-page":  "737",
+                          "article-title":  "Towards ontology construction from Arabic texts-a proposed framework",
+                          "author":  "Al-Arfaj",
+                          "year":  "2014"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b51",
+                          "series-title":  "Proceeding of the 3rd International Conference on Information and Communication Technology for the Moslem World",
+                          "article-title":  "Datamining and Islamic knowledge extraction: alhadith as a knowledge resource",
+                          "author":  "Aldhlan",
+                          "year":  "2010"
+                      },
+                      {
+                          "issue":  "3",
+                          "key":  "10.1016/j.websem.2023.100797_b52",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "584",
+                          "DOI":  "10.3923/jas.2005.584.587",
+                          "article-title":  "Al-hadith text classifier",
+                          "volume":  "5",
+                          "author":  "Naji Al-Kabi",
+                          "year":  "2005",
+                          "journal-title":  "J. Appl. Sci."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b53",
+                          "article-title":  "Social network analysis of hadith narrators",
+                          "author":  "Saeed",
+                          "year":  "2021",
+                          "journal-title":  "J. King Saud Univ. Comput. Inf. Sci.",
+                          "ISSN":  "https://id.crossref.org/issn/1319-1578",
+                          "issn-type":  "print"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b54",
+                          "unstructured":  "Shatha Altammami, Eric Atwell, Ammar Alsalka, Text segmentation using n-grams to annotate Hadith corpus, in: Proceedings of the 3rd Workshop on Arabic Corpus Linguistics, 2019, pp. 31–39."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b55",
+                          "unstructured":  "Shatha Altammami, Eric Atwell, Ammar Alsalka, The Arabic–English Parallel Corpus of Authentic Hadith, in: International Conference on Islamic Applications in Computer Science and Technologies, IMAN 2019, 2019."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b56",
+                          "article-title":  "Towards a joint ontology of Quran and Hadith",
+                          "author":  "Altammami",
+                          "year":  "2020",
+                          "journal-title":  "Int. J. Islam. Appl. Comput. Sci. Technol."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b57",
+                          "unstructured":  "Natalya F. Noy, Deborah L. McGuinness, et al., Ontology Development 101: A Guide to Creating Your First Ontology, Stanford knowledge systems laboratory technical report KSL-01-05 and …, 2001."
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "10.1016/j.websem.2023.100797_b58",
+                          "first-page":  "018",
+                          "article-title":  "Comparison some of ontology",
+                          "volume":  "8",
+                          "author":  "Alatrish",
+                          "year":  "2013",
+                          "journal-title":  "J. Manage. Inf. Syst."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b59",
+                          "unstructured":  "Stanford University, PROTÉGÉ, http://protege.stanford.edu/."
+                      },
+                      {
+                          "issue":  "2",
+                          "key":  "10.1016/j.websem.2023.100797_b60",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "44",
+                          "DOI":  "10.1145/2844544",
+                          "article-title":  "Schema. org: evolution of structured data on the web",
+                          "volume":  "59",
+                          "author":  "Guha",
+                          "year":  "2016",
+                          "journal-title":  "Commun. ACM"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b61",
+                          "series-title":  "Dublin core metadata element set, version 1.1",
+                          "author":  "Dublin Core Metadata Initiative",
+                          "year":  "2012"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b62",
+                          "unstructured":  "Christian Becker, Christian Bizer, DBpedia mobile-a location-aware semantic web client, in: Proceedings of the Semantic Web Challenge, 2008, pp. 13–16."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b63",
+                          "doi-asserted-by":  "crossref",
+                          "unstructured":  "Bojana Dimić Surla, Milan Segedinac, Dragan Ivanović, A BIBO ontology extension for evaluation of scientific research results, in: Proceedings of the Fifth Balkan Conference in Informatics, 2012, pp. 275–278.",
+                          "DOI":  "10.1145/2371316.2371376"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b64",
+                          "series-title":  "A Survey of Top-Level Ontologies-to Inform the Ontological Choices for a Foundation Data Model",
+                          "author":  "Partridge",
+                          "year":  "2020"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b65",
+                          "series-title":  "European Semantic Web Conference",
+                          "first-page":  "752",
+                          "article-title":  "Towards competency question-driven ontology authoring",
+                          "author":  "Ren",
+                          "year":  "2014"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b66",
+                          "series-title":  "2013 5th International Conference on Computer Science and Information Technology",
+                          "first-page":  "1",
+                          "article-title":  "Ontology semantic approach to extraction of knowledge from Holy Quran",
+                          "author":  "Yauri",
+                          "year":  "2013"
+                      },
+                      {
+                          "issue":  "2C",
+                          "key":  "10.1016/j.websem.2023.100797_b67",
+                          "article-title":  "An application for creating an ontology of hadiths narration tree semantically and graphically",
+                          "volume":  "35",
+                          "author":  "Azmi",
+                          "year":  "2010",
+                          "journal-title":  "Arab. J. Sci. Eng."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b68",
+                          "unstructured":  "Mohamed Sherif, The Quran Schema vocabulary http://mlode.nlp2rdf.org/datasets/qvoc.owl.ttl."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b69",
+                          "unstructured":  "Aimad Hakkoum, The Quran Schema vocabulary. http://www.quranontology.com/."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b70",
+                          "unstructured":  "DCMI Usage Board, DCMI Metadata Terms, http://dublincore.org/documents/dcmi-terms/."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b71",
+                          "series-title":  "FAQ",
+                          "year":  "2019"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b72",
+                          "series-title":  "Handbook on Ontologies",
+                          "first-page":  "221",
+                          "article-title":  "Ontology design patterns",
+                          "author":  "Gangemi",
+                          "year":  "2009"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b73",
+                          "series-title":  "Simple part-whole relations in OWL ontologies",
+                          "year":  "2005"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b74",
+                          "series-title":  "Representing specified values in OWL: ”value partitions” and ”value sets”",
+                          "year":  "2017"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b75",
+                          "series-title":  "Defining N-ary relations on the semantic web",
+                          "year":  "2017"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b76",
+                          "unstructured":  "Michael K. Smith, Chris Welty, Deborah L. McGuinness, OWL Web Ontology Language Guide. https://www.w3.org/TR/2004/REC-owl-guide-20040210/."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b77",
+                          "unstructured":  "University Of Manchester, Parsia L.L.C. Clark, University Of Ulm, The OWL API. http://owlapi.sourceforge.net/."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b78",
+                          "first-page":  "1",
+                          "article-title":  "LIMES: a framework for link discovery on the semantic web",
+                          "author":  "Ngonga Ngomo",
+                          "year":  "2021",
+                          "journal-title":  "KI-Künstliche Intelligenz"
+                      },
+                      {
+                          "issue":  "3",
+                          "key":  "10.1016/j.websem.2023.100797_b79",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "233",
+                          "DOI":  "10.3163/1536-5050.101.3.020",
+                          "article-title":  "OpenRefine (version 2.5). org. Free, open-source tool for cleaning and transforming data",
+                          "volume":  "101",
+                          "author":  "Ham",
+                          "year":  "2013",
+                          "journal-title":  "J. Med. Libr. Assoc. JMLA"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b80",
+                          "unstructured":  "OpenLink Software, Virtuoso Open-Source Edition. http://virtuoso.openlinksw.com/dataspace/doc/dav/wiki/Main/."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b81",
+                          "series-title":  "International Conference on Knowledge Engineering and Knowledge Management",
+                          "first-page":  "154",
+                          "article-title":  "WebVOWL: Web-based visualization of ontologies",
+                          "author":  "Lohmann",
+                          "year":  "2014"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b82",
+                          "series-title":  "Owled",
+                          "first-page":  "91",
+                          "article-title":  "Hermit: A highly-efficient OWL reasoner",
+                          "volume":  "432",
+                          "author":  "Shearer",
+                          "year":  "2008"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b83",
+                          "series-title":  "Third International Semantic Web Conference-Poster, Vol. 18",
+                          "first-page":  "13",
+                          "article-title":  "Pellet: An owl dl reasoner",
+                          "author":  "Parsia",
+                          "year":  "2004"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b84",
+                          "series-title":  "International Joint Conference on Automated Reasoning",
+                          "first-page":  "292",
+                          "article-title":  "Fact++ description logic reasoner: System description",
+                          "author":  "Tsarkov",
+                          "year":  "2006"
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b85",
+                          "series-title":  "International Conference on Knowledge Engineering and Knowledge Management",
+                          "first-page":  "267",
+                          "article-title":  "Validating ontologies with oops!",
+                          "author":  "Poveda-Villalón",
+                          "year":  "2012"
+                      },
+                      {
+                          "issue":  "1",
+                          "key":  "10.1016/j.websem.2023.100797_b86",
+                          "doi-asserted-by":  "crossref",
+                          "first-page":  "1",
+                          "DOI":  "10.1186/s13326-017-0172-7",
+                          "article-title":  "MIRO: guidelines for minimum information for the reporting of an ontology",
+                          "volume":  "9",
+                          "author":  "Matentzoglu",
+                          "year":  "2018",
+                          "journal-title":  "J. Biomed. Semant."
+                      },
+                      {
+                          "key":  "10.1016/j.websem.2023.100797_b87",
+                          "series-title":  "International Visual Informatics Conference",
+                          "first-page":  "340",
+                          "article-title":  "Visualization of the hadith chain of narrators",
+                          "author":  "Shukur",
+                          "year":  "2011"
+                      },
+                      {
+                          "issue":  "1",
+                          "key":  "10.1016/j.websem.2023.100797_b88",
+                          "first-page":  "14",
+                          "article-title":  "Extraction and visualization of the chain of narrators from hadiths using named entity recognition and classification",
+                          "volume":  "5",
+                          "author":  "Siddiqui",
+                          "year":  "2014",
+                          "journal-title":  "Int. J. Comput. Linguist. Res."
+                      }
+                  ],
+    "container-title":  [
+                            "Journal of Web Semantics"
+                        ],
+    "original-title":  [
+
+                       ],
+    "language":  "en",
+    "link":  [
+                 {
+                     "URL":  "https://api.elsevier.com/content/article/PII:S1570826823000264?httpAccept=text/xml",
+                     "content-type":  "text/xml",
+                     "content-version":  "vor",
+                     "intended-application":  "text-mining"
+                 },
+                 {
+                     "URL":  "https://api.elsevier.com/content/article/PII:S1570826823000264?httpAccept=text/plain",
+                     "content-type":  "text/plain",
+                     "content-version":  "vor",
+                     "intended-application":  "text-mining"
+                 }
+             ],
+    "deposited":  {
+                      "date-parts":  [
+                                         [
+                                             2025,
+                                             10,
+                                             27
+                                         ]
+                                     ],
+                      "date-time":  "2025-10-27T23:27:18Z",
+                      "timestamp":  1761607638000
+                  },
+    "score":  1,
+    "resource":  {
+                     "primary":  {
+                                     "URL":  "https://linkinghub.elsevier.com/retrieve/pii/S1570826823000264"
+                                 }
+                 },
+    "subtitle":  [
+
+                 ],
+    "short-title":  [
+
+                    ],
+    "issued":  {
+                   "date-parts":  [
+                                      [
+                                          2023,
+                                          10
+                                      ]
+                                  ]
+               },
+    "references-count":  88,
+    "alternative-id":  [
+                           "S1570826823000264"
+                       ],
+    "URL":  "https://doi.org/10.1016/j.websem.2023.100797",
+    "relation":  {
+
+                 },
+    "ISSN":  [
+                 "1570-8268"
+             ],
+    "issn-type":  [
+                      {
+                          "value":  "1570-8268",
+                          "type":  "print"
+                      }
+                  ],
+    "subject":  [
+
+                ],
+    "published":  {
+                      "date-parts":  [
+                                         [
+                                             2023,
+                                             10
+                                         ]
+                                     ]
+                  },
+    "assertion":  [
+                      {
+                          "value":  "Elsevier",
+                          "name":  "publisher",
+                          "label":  "This article is maintained by"
+                      },
+                      {
+                          "value":  "SemanticHadith: An ontology-driven knowledge graph for the hadith corpus",
+                          "name":  "articletitle",
+                          "label":  "Article Title"
+                      },
+                      {
+                          "value":  "Journal of Web Semantics",
+                          "name":  "journaltitle",
+                          "label":  "Journal Title"
+                      },
+                      {
+                          "value":  "https://doi.org/10.1016/j.websem.2023.100797",
+                          "name":  "articlelink",
+                          "label":  "CrossRef DOI link to publisher maintained version"
+                      },
+                      {
+                          "value":  "article",
+                          "name":  "content_type",
+                          "label":  "Content Type"
+                      },
+                      {
+                          "value":  "© 2023 Elsevier B.V. All rights reserved.",
+                          "name":  "copyright",
+                          "label":  "Copyright"
+                      }
+                  ],
+    "article-number":  "100797"
+}

@@ -1,0 +1,211 @@
+﻿{
+    "indexed":  {
+                    "date-parts":  [
+                                       [
+                                           2026,
+                                           7,
+                                           18
+                                       ]
+                                   ],
+                    "date-time":  "2026-07-18T22:52:27Z",
+                    "timestamp":  1784415147918,
+                    "version":  "3.55.0"
+                },
+    "reference-count":  0,
+    "publisher":  "Al-Jamiah Research Centre",
+    "issue":  "1",
+    "license":  [
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2023 6 30"
+                                                     ],
+                                      "date-time":  "2023-06-30T00:00:00Z",
+                                      "timestamp":  1688083200000
+                                  },
+                        "content-version":  "unspecified",
+                        "delay-in-days":  0,
+                        "URL":  "https://creativecommons.org/licenses/by-nc/4.0"
+                    }
+                ],
+    "content-domain":  {
+                           "domain":  [
+
+                                      ],
+                           "crossmark-restriction":  false
+                       },
+    "short-container-title":  [
+                                  "Al-Jami\u0027ah J. Islam Stud."
+                              ],
+    "abstract":  "\u003cjats:p\u003eHadith scholars have developed a rigorous discipline for studying and examining the validity of writings attributed to the Prophet Muhammad. Significant research has been published on hadith with respect to its narration (sanad) and text or content (matn). What remains underdeveloped is the role of substantive criticism of the validity of hadith. This article examines the discourse of hadith criticism and provide analytical description and a critical approach for how the validity of a hadith can be determined. It argues that substantive criticism is necessary for proper and acceptable understanding of hadith and in turn for determining the validity of hadith. In addition to a methodology for hadith criticism, the article examines how the meaning of hadith is important in the hadith studies. The article’s main argument concerns the significance of contextual understanding of hadith in any critical study of hadith.[Sarjana hadis telah mengembangkan disiplin yang ketat untuk mempelajari dan memeriksa keabsahan tulisan-tulisan yang dikaitkan dengan Nabi Muhammad. Banyak tulisan yang membahas narasi (sanad) dan teks serta konten (matn) telah dupublikasi. Dari banyaknya karya tersebut pembahasan yang lebih lanjut untuk dituliskan adalah peran kritik substantif terhadap validitas hadits. Artikel ini mengkaji wacana kritik hadis dan memberikan gambaran analitis dan pendekatan kritis tentang keabsahan sebuah hadis. Paper ini berpendapat tentang kritik substantif diperlukan untuk pemahaman hadits yang tepat dan dapat diterima untuk menentukan validitas hadits. Selain metodologi kritik hadis, artikel ini mengkaji makna hadis dalam kajian hadis. Argumen artikel ini menyangkut pemahaman kontekstual hadits dalam setiap studi kritis pada hadits]\u003c/jats:p\u003e",
+    "DOI":  "10.14421/ajis.2023.611.1-17",
+    "type":  "journal-article",
+    "created":  {
+                    "date-parts":  [
+                                       [
+                                           2023,
+                                           6,
+                                           30
+                                       ]
+                                   ],
+                    "date-time":  "2023-06-30T05:59:43Z",
+                    "timestamp":  1688104783000
+                },
+    "page":  "1-17",
+    "source":  "Crossref",
+    "is-referenced-by-count":  5,
+    "title":  [
+                  "A Critical Approach to Prophetic Traditions: Contextual Criticism in Understanding Hadith"
+              ],
+    "prefix":  "10.14421",
+    "volume":  "61",
+    "author":  [
+                   {
+                       "given":  "Wasman",
+                       "family":  "Wasman",
+                       "sequence":  "first",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Mesraini",
+                       "family":  "Mesraini",
+                       "sequence":  "additional",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Suwendi",
+                       "family":  "Suwendi",
+                       "sequence":  "additional",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   }
+               ],
+    "member":  "5548",
+    "published-online":  {
+                             "date-parts":  [
+                                                [
+                                                    2023,
+                                                    6,
+                                                    30
+                                                ]
+                                            ]
+                         },
+    "container-title":  [
+                            "Al-Jami\u0027ah: Journal of Islamic Studies"
+                        ],
+    "original-title":  [
+
+                       ],
+    "link":  [
+                 {
+                     "URL":  "https://aljamiah.or.id/index.php/AJIS/article/viewFile/2711/770",
+                     "content-type":  "application/pdf",
+                     "content-version":  "vor",
+                     "intended-application":  "text-mining"
+                 },
+                 {
+                     "URL":  "https://aljamiah.or.id/index.php/AJIS/article/viewFile/2711/770",
+                     "content-type":  "unspecified",
+                     "content-version":  "vor",
+                     "intended-application":  "similarity-checking"
+                 }
+             ],
+    "deposited":  {
+                      "date-parts":  [
+                                         [
+                                             2023,
+                                             6,
+                                             30
+                                         ]
+                                     ],
+                      "date-time":  "2023-06-30T05:59:49Z",
+                      "timestamp":  1688104789000
+                  },
+    "score":  1,
+    "resource":  {
+                     "primary":  {
+                                     "URL":  "https://aljamiah.or.id/index.php/AJIS/article/view/61101"
+                                 }
+                 },
+    "subtitle":  [
+
+                 ],
+    "short-title":  [
+
+                    ],
+    "issued":  {
+                   "date-parts":  [
+                                      [
+                                          2023,
+                                          6,
+                                          30
+                                      ]
+                                  ]
+               },
+    "references-count":  0,
+    "journal-issue":  {
+                          "issue":  "1",
+                          "published-online":  {
+                                                   "date-parts":  [
+                                                                      [
+                                                                          2023,
+                                                                          6,
+                                                                          30
+                                                                      ]
+                                                                  ]
+                                               }
+                      },
+    "URL":  "https://doi.org/10.14421/ajis.2023.611.1-17",
+    "relation":  {
+
+                 },
+    "ISSN":  [
+                 "2338-557X",
+                 "0126-012X"
+             ],
+    "issn-type":  [
+                      {
+                          "value":  "2338-557X",
+                          "type":  "electronic"
+                      },
+                      {
+                          "value":  "0126-012X",
+                          "type":  "print"
+                      }
+                  ],
+    "subject":  [
+
+                ],
+    "published":  {
+                      "date-parts":  [
+                                         [
+                                             2023,
+                                             6,
+                                             30
+                                         ]
+                                     ]
+                  }
+}

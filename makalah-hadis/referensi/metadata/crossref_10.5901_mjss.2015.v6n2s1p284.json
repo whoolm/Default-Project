@@ -1,0 +1,211 @@
+﻿{
+    "indexed":  {
+                    "date-parts":  [
+                                       [
+                                           2022,
+                                           4,
+                                           2
+                                       ]
+                                   ],
+                    "date-time":  "2022-04-02T16:58:09Z",
+                    "timestamp":  1648918689172
+                },
+    "reference-count":  0,
+    "publisher":  "Richtmann Publishing",
+    "content-domain":  {
+                           "domain":  [
+
+                                      ],
+                           "crossmark-restriction":  false
+                       },
+    "short-container-title":  [
+                                  "MJSS"
+                              ],
+    "published-print":  {
+                            "date-parts":  [
+                                               [
+                                                   2015,
+                                                   3,
+                                                   1
+                                               ]
+                                           ]
+                        },
+    "DOI":  "10.5901/mjss.2015.v6n2s1p284",
+    "type":  "journal-article",
+    "created":  {
+                    "date-parts":  [
+                                       [
+                                           2015,
+                                           3,
+                                           11
+                                       ]
+                                   ],
+                    "date-time":  "2015-03-11T15:58:17Z",
+                    "timestamp":  1426089497000
+                },
+    "source":  "Crossref",
+    "is-referenced-by-count":  0,
+    "title":  [
+                  "Al-Jarh Wa Al-Ta’dil (Criticism and Praise): It’s Significant in the Science of Hadith"
+              ],
+    "prefix":  "10.36941",
+    "author":  [
+                   {
+                       "given":  "Mohd Akil Muhamed",
+                       "family":  "Ali",
+                       "sequence":  "first",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "role":  "author",
+                                        "vocabulary":  "crossref"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Mohamad Norazan",
+                       "family":  "Ibrahim",
+                       "sequence":  "additional",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "role":  "author",
+                                        "vocabulary":  "crossref"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Abur Hamdi",
+                       "family":  "Usman",
+                       "sequence":  "additional",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "role":  "author",
+                                        "vocabulary":  "crossref"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Mohd Arif",
+                       "family":  "Nazri",
+                       "sequence":  "additional",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "role":  "author",
+                                        "vocabulary":  "crossref"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Muhd Najib",
+                       "family":  "Abdul Kadir",
+                       "sequence":  "additional",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "role":  "author",
+                                        "vocabulary":  "crossref"
+                                    }
+                                ]
+                   }
+               ],
+    "member":  "22976",
+    "published-online":  {
+                             "date-parts":  [
+                                                [
+                                                    2015,
+                                                    3,
+                                                    1
+                                                ]
+                                            ]
+                         },
+    "container-title":  [
+                            "Mediterranean Journal of Social Sciences"
+                        ],
+    "original-title":  [
+
+                       ],
+    "link":  [
+                 {
+                     "URL":  "https://www.richtmann.org/journal/index.php/mjss/article/download/5895/5675/22875",
+                     "content-type":  "unspecified",
+                     "content-version":  "vor",
+                     "intended-application":  "similarity-checking"
+                 }
+             ],
+    "deposited":  {
+                      "date-parts":  [
+                                         [
+                                             2021,
+                                             2,
+                                             26
+                                         ]
+                                     ],
+                      "date-time":  "2021-02-26T21:26:43Z",
+                      "timestamp":  1614374803000
+                  },
+    "score":  1,
+    "resource":  {
+                     "primary":  {
+                                     "URL":  "https://www.richtmann.org/journal/index.php/mjss/article/view/5895"
+                                 }
+                 },
+    "subtitle":  [
+
+                 ],
+    "short-title":  [
+
+                    ],
+    "issued":  {
+                   "date-parts":  [
+                                      [
+                                          2015,
+                                          3,
+                                          1
+                                      ]
+                                  ]
+               },
+    "references-count":  0,
+    "URL":  "https://doi.org/10.5901/mjss.2015.v6n2s1p284",
+    "relation":  {
+
+                 },
+    "ISSN":  [
+                 "2039-9340",
+                 "2039-2117"
+             ],
+    "issn-type":  [
+                      {
+                          "value":  "2039-9340",
+                          "type":  "print"
+                      },
+                      {
+                          "value":  "2039-2117",
+                          "type":  "electronic"
+                      }
+                  ],
+    "subject":  [
+
+                ],
+    "published":  {
+                      "date-parts":  [
+                                         [
+                                             2015,
+                                             3,
+                                             1
+                                         ]
+                                     ]
+                  }
+}

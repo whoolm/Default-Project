@@ -1,0 +1,168 @@
+﻿{
+    "indexed":  {
+                    "date-parts":  [
+                                       [
+                                           2026,
+                                           7,
+                                           14
+                                       ]
+                                   ],
+                    "date-time":  "2026-07-14T19:04:45Z",
+                    "timestamp":  1784055885847,
+                    "version":  "3.55.0"
+                },
+    "reference-count":  0,
+    "publisher":  "Walter de Gruyter GmbH",
+    "issue":  "1",
+    "content-domain":  {
+                           "domain":  [
+
+                                      ],
+                           "crossmark-restriction":  false
+                       },
+    "short-container-title":  [
+                                  "Studia Islam."
+                              ],
+    "published-print":  {
+                            "date-parts":  [
+                                               [
+                                                   2024,
+                                                   4,
+                                                   3
+                                               ]
+                                           ]
+                        },
+    "abstract":  "\u003cjats:title\u003eAbstract\u003c/jats:title\u003e\n\u003cjats:p\u003eAlthough the study of ḥadīth (the Prophet’s speech) has advanced significantly in recent decades, several of its literary aspects remain unexplored within Euro-American scholarship. The epistemological status of ḥadīth within balāghah, the premodern Islamic theory of literary analysis, has received little scholarly attention. Drawing on \u003cjats:italic\u003eInimitability and Conciseness\u003c/jats:italic\u003e (\u003cjats:italic\u003eKitāb al-Iʿjāz wa al-Ījāz\u003c/jats:italic\u003e), written by the literary critic, Abū Manṣūr al-Thaʿālibī (d. 1038 \u003cjats:sc\u003eCE\u003c/jats:sc\u003e), I show how during the oral stages of its development, ḥadīth was a living tradition that was highly flexible in terms of its wording and content. I empirically explore the interface and interactions between oral and written media in the employment of individual ḥadīths as literary texts, showing how an in-depth exploration of the oral nature of ḥadīth illuminates the approaches of modern literary criticism to appreciate literary texts of oral origin. In conclusion, I suggest that the early Arabic discourse of literary criticism offers an emic (culture-specific) perspective that fosters recognition of the literary reception of ḥadīth and its profound integration into the Islamic literary culture.\u003c/jats:p\u003e",
+    "DOI":  "10.1163/19585705-12341481",
+    "type":  "journal-article",
+    "created":  {
+                    "date-parts":  [
+                                       [
+                                           2024,
+                                           4,
+                                           22
+                                       ]
+                                   ],
+                    "date-time":  "2024-04-22T14:21:04Z",
+                    "timestamp":  1713795664000
+                },
+    "page":  "34-69",
+    "source":  "Crossref",
+    "is-referenced-by-count":  6,
+    "title":  [
+                  "Hadith as Oral Literature through Early Islamic Literary Criticism"
+              ],
+    "prefix":  "10.1163",
+    "volume":  "119",
+    "author":  [
+                   {
+                       "given":  "Hany",
+                       "family":  "Rashwan",
+                       "sequence":  "first",
+                       "affiliation":  [
+                                           {
+                                               "name":  "Department of Arabic Language and Literature, United Arab Emirates University Al Ain, Abu Dhabi United Arab Emirates"
+                                           }
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   }
+               ],
+    "member":  "374",
+    "container-title":  [
+                            "Studia Islamica"
+                        ],
+    "original-title":  [
+
+                       ],
+    "link":  [
+                 {
+                     "URL":  "https://brill.com/view/journals/si/119/1/article-p34_2.xml",
+                     "content-type":  "text/html",
+                     "content-version":  "vor",
+                     "intended-application":  "text-mining"
+                 },
+                 {
+                     "URL":  "https://brill.com/downloadpdf/journals/si/119/1/article-p34_2.xml",
+                     "content-type":  "text/html",
+                     "content-version":  "vor",
+                     "intended-application":  "syndication"
+                 },
+                 {
+                     "URL":  "https://brill.com/downloadpdf/journals/si/119/1/article-p34_2.xml",
+                     "content-type":  "unspecified",
+                     "content-version":  "vor",
+                     "intended-application":  "similarity-checking"
+                 }
+             ],
+    "deposited":  {
+                      "date-parts":  [
+                                         [
+                                             2024,
+                                             4,
+                                             22
+                                         ]
+                                     ],
+                      "date-time":  "2024-04-22T14:21:04Z",
+                      "timestamp":  1713795664000
+                  },
+    "score":  1,
+    "resource":  {
+                     "primary":  {
+                                     "URL":  "https://brill.com/view/journals/si/119/1/article-p34_2.xml"
+                                 }
+                 },
+    "subtitle":  [
+
+                 ],
+    "short-title":  [
+
+                    ],
+    "issued":  {
+                   "date-parts":  [
+                                      [
+                                          2024,
+                                          4,
+                                          3
+                                      ]
+                                  ]
+               },
+    "references-count":  0,
+    "journal-issue":  {
+                          "issue":  "1"
+                      },
+    "URL":  "https://doi.org/10.1163/19585705-12341481",
+    "relation":  {
+
+                 },
+    "ISSN":  [
+                 "0585-5292",
+                 "1958-5705"
+             ],
+    "issn-type":  [
+                      {
+                          "value":  "0585-5292",
+                          "type":  "print"
+                      },
+                      {
+                          "value":  "1958-5705",
+                          "type":  "electronic"
+                      }
+                  ],
+    "subject":  [
+
+                ],
+    "published":  {
+                      "date-parts":  [
+                                         [
+                                             2024,
+                                             4,
+                                             3
+                                         ]
+                                     ]
+                  }
+}

@@ -1,0 +1,96 @@
+﻿{
+    "best_oa_location":  {
+                             "endpoint_id":  null,
+                             "evidence":  "deprecated",
+                             "host_type":  "publisher",
+                             "is_best":  true,
+                             "license":  null,
+                             "oa_date":  "2026-05-23",
+                             "pmh_id":  null,
+                             "repository_institution":  null,
+                             "updated":  "deprecated",
+                             "url":  "https://doi.org/10.58578/ajisd.v4i3.10228",
+                             "url_for_landing_page":  "https://doi.org/10.58578/ajisd.v4i3.10228",
+                             "url_for_pdf":  null,
+                             "version":  "publishedVersion"
+                         },
+    "data_standard":  2,
+    "doi":  "10.58578/ajisd.v4i3.10228",
+    "doi_url":  "https://doi.org/10.58578/ajisd.v4i3.10228",
+    "first_oa_location":  {
+                              "endpoint_id":  null,
+                              "evidence":  "deprecated",
+                              "host_type":  "publisher",
+                              "is_best":  true,
+                              "license":  null,
+                              "oa_date":  "2026-05-23",
+                              "pmh_id":  null,
+                              "repository_institution":  null,
+                              "updated":  "deprecated",
+                              "url":  "https://doi.org/10.58578/ajisd.v4i3.10228",
+                              "url_for_landing_page":  "https://doi.org/10.58578/ajisd.v4i3.10228",
+                              "url_for_pdf":  null,
+                              "version":  "publishedVersion"
+                          },
+    "genre":  "journal-article",
+    "has_repository_copy":  false,
+    "is_oa":  true,
+    "is_paratext":  false,
+    "journal_is_in_doaj":  false,
+    "journal_is_oa":  true,
+    "journal_issn_l":  "3025-4493",
+    "journal_issns":  "3025-4493,3025-5252",
+    "journal_name":  "Asian Journal of Islamic Studies and Da wah",
+    "oa_locations":  [
+                         {
+                             "endpoint_id":  null,
+                             "evidence":  "deprecated",
+                             "host_type":  "publisher",
+                             "is_best":  true,
+                             "license":  null,
+                             "oa_date":  "2026-05-23",
+                             "pmh_id":  null,
+                             "repository_institution":  null,
+                             "updated":  "deprecated",
+                             "url":  "https://doi.org/10.58578/ajisd.v4i3.10228",
+                             "url_for_landing_page":  "https://doi.org/10.58578/ajisd.v4i3.10228",
+                             "url_for_pdf":  null,
+                             "version":  "publishedVersion"
+                         }
+                     ],
+    "oa_locations_embargoed":  [
+
+                               ],
+    "oa_status":  "gold",
+    "published_date":  "2026-05-23",
+    "publisher":  "Darul Yasin Al Sys",
+    "title":  "Living Hadith in the Age of Artificial Intelligence: A Phenomenological Study of the Use of ChatGPT as a Source for Studying Hadith among College Students",
+    "updated":  "2026-07-07T15:25:23Z",
+    "year":  2026,
+    "z_authors":  [
+                      {
+                          "author_position":  "first",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+
+                                                      ],
+                          "raw_author_name":  "Hasan Syukur"
+                      },
+                      {
+                          "author_position":  "middle",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+
+                                                      ],
+                          "raw_author_name":  "Nasrulloh Nasrulloh"
+                      },
+                      {
+                          "author_position":  "last",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+
+                                                      ],
+                          "raw_author_name":  "Ilham Fachmuroji"
+                      }
+                  ]
+}

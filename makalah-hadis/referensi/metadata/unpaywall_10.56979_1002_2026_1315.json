@@ -1,0 +1,96 @@
+﻿{
+    "best_oa_location":  {
+                             "endpoint_id":  null,
+                             "evidence":  "deprecated",
+                             "host_type":  "publisher",
+                             "is_best":  true,
+                             "license":  "cc-by",
+                             "oa_date":  "2026-03-01",
+                             "pmh_id":  null,
+                             "repository_institution":  null,
+                             "updated":  "deprecated",
+                             "url":  "https://jcbi.org/index.php/Main/article/download/1315/835",
+                             "url_for_landing_page":  "https://doi.org/10.56979/1002/2026/1315",
+                             "url_for_pdf":  "https://jcbi.org/index.php/Main/article/download/1315/835",
+                             "version":  "publishedVersion"
+                         },
+    "data_standard":  2,
+    "doi":  "10.56979/1002/2026/1315",
+    "doi_url":  "https://doi.org/10.56979/1002/2026/1315",
+    "first_oa_location":  {
+                              "endpoint_id":  null,
+                              "evidence":  "deprecated",
+                              "host_type":  "publisher",
+                              "is_best":  true,
+                              "license":  "cc-by",
+                              "oa_date":  "2026-03-01",
+                              "pmh_id":  null,
+                              "repository_institution":  null,
+                              "updated":  "deprecated",
+                              "url":  "https://jcbi.org/index.php/Main/article/download/1315/835",
+                              "url_for_landing_page":  "https://doi.org/10.56979/1002/2026/1315",
+                              "url_for_pdf":  "https://jcbi.org/index.php/Main/article/download/1315/835",
+                              "version":  "publishedVersion"
+                          },
+    "genre":  "journal-article",
+    "has_repository_copy":  false,
+    "is_oa":  true,
+    "is_paratext":  false,
+    "journal_is_in_doaj":  false,
+    "journal_is_oa":  true,
+    "journal_issn_l":  "2710-1606",
+    "journal_issns":  "2710-1606,2710-1614",
+    "journal_name":  "Journal of Computing \u0026 Biomedical Informatics",
+    "oa_locations":  [
+                         {
+                             "endpoint_id":  null,
+                             "evidence":  "deprecated",
+                             "host_type":  "publisher",
+                             "is_best":  true,
+                             "license":  "cc-by",
+                             "oa_date":  "2026-03-01",
+                             "pmh_id":  null,
+                             "repository_institution":  null,
+                             "updated":  "deprecated",
+                             "url":  "https://jcbi.org/index.php/Main/article/download/1315/835",
+                             "url_for_landing_page":  "https://doi.org/10.56979/1002/2026/1315",
+                             "url_for_pdf":  "https://jcbi.org/index.php/Main/article/download/1315/835",
+                             "version":  "publishedVersion"
+                         }
+                     ],
+    "oa_locations_embargoed":  [
+
+                               ],
+    "oa_status":  "gold",
+    "published_date":  "2026-03-01",
+    "publisher":  "Research Center of Computing and Biomedical Informatics",
+    "title":  "Prophetic Authorial Style Modeling for Detecting Fabricated Hadiths Using AraBERT",
+    "updated":  "2026-04-09T13:00:59Z",
+    "year":  2026,
+    "z_authors":  [
+                      {
+                          "author_position":  "first",
+                          "is_corresponding":  true,
+                          "raw_affiliation_strings":  [
+                                                          "Systems and Computer Engineering Department, Faculty of Engineering, Al-Azhar University, Cairo, 11884, Egypt"
+                                                      ],
+                          "raw_author_name":  "Mohammed Shaaban"
+                      },
+                      {
+                          "author_position":  "middle",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+                                                          "Systems and Computer Engineering Department, Faculty of Engineering, Al-Azhar University, Cairo, 11884, Egypt. \u0026 Networks and Cyber Security Department, Faculty of Information Technology, Al-Ahliyya Amman University, Amman, 19328, Jordan"
+                                                      ],
+                          "raw_author_name":  "Ayman Elshenawy"
+                      },
+                      {
+                          "author_position":  "last",
+                          "is_corresponding":  false,
+                          "raw_affiliation_strings":  [
+                                                          "Systems and Computer Engineering Department, Faculty of Engineering, Al-Azhar University, Cairo, 11884, Egypt"
+                                                      ],
+                          "raw_author_name":  "Shehab Gamal el-Din"
+                      }
+                  ]
+}

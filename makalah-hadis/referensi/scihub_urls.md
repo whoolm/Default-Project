@@ -1,7 +1,9 @@
 ﻿# SCI-HUB URLs — Klik Manual + Solve Captcha
 
-> OpenCode tidak bisa bypass Cloudflare.
+> OpenCode tidak bisa bypass Cloudflare. 
 > User klik link di browser, solve captcha, download PDF, simpan ke `referensi/pdf_manual/`.
+
+> Update: 2026-09-14 08:38 — 18/35 auto-valid, sisa 17.
 
 | # | DOI | Sci-Hub URL (klik) | Status |
 |---|---|---|---|

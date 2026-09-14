@@ -1,0 +1,212 @@
+﻿{
+    "indexed":  {
+                    "date-parts":  [
+                                       [
+                                           2024,
+                                           4,
+                                           17
+                                       ]
+                                   ],
+                    "date-time":  "2024-04-17T18:00:25Z",
+                    "timestamp":  1713376825123
+                },
+    "reference-count":  0,
+    "publisher":  "Oxford University Press (OUP)",
+    "issue":  "1",
+    "license":  [
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2021 10 31"
+                                                     ],
+                                      "date-time":  "2021-10-31T00:00:00Z",
+                                      "timestamp":  1635638400000
+                                  },
+                        "content-version":  "vor",
+                        "delay-in-days":  0,
+                        "URL":  "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+                    }
+                ],
+    "content-domain":  {
+                           "domain":  [
+
+                                      ],
+                           "crossmark-restriction":  false
+                       },
+    "short-container-title":  [
+
+                              ],
+    "published-print":  {
+                            "date-parts":  [
+                                               [
+                                                   2021,
+                                                   12,
+                                                   21
+                                               ]
+                                           ]
+                        },
+    "abstract":  "\u003cjats:title\u003eAbstract\u003c/jats:title\u003e\n               \u003cjats:p\u003eConsidered precursors of ḥadīth criticism, the opinions of ʿAlī b. ʿAbdallāh b. Jaʿfar al-Madīnī (161–234/778–849), extensively cited by later ḥadīth scholars, have given considerable weight to the credibility of a ḥadīth and its transmitters. Despite his centrality to the science of ḥadīth, there is not a single monograph dedicated to him and his intellectual output in the scholarly literature in English. This article presents a critical reconstruction of his life. Although the biographical sources on ʿAlī b. al-Madīnī are copious, the earliest details, especially on evaluation of his scholarly accomplishment, are often tendentious and contradictory. There is also a controversy related to his submission to the miḥna. Analysis of these biographical reports intimates that the questioning voices mainly came from the early Ḥanbalī circle, while other scholars, comprising Yaḥyā b. Maʿīn’s disciples and non-Baghdadis, especially of Basran and Khurasani origins, tended to defend ʿAlī b. al-Madīnī. This paper argues that ʿAlī b. al-Madīnī’s unfaltering status as a leading ḥadīth critic can be attributed to the geographical outreach of his supporters, whose overall attitude towards the createdness of the Qurʾān is more tolerant compared with that of the Ḥanbalīs. More importantly, ʿAlī b. al-Madīnī’s contribution to the formation of ḥadīth criticism as a discipline was realized from early on, which is manifest in his knowledge of ʿilm al-rijāl and mastery of ʿilal al-ḥadīth. His theorization of ḥadīth transmission through the framework of the madār al-isnād also laid the epistemological foundation for the following ḥadīth critics in their formulation of the disciplinary history.\u003c/jats:p\u003e",
+    "DOI":  "10.1093/jis/etab049",
+    "type":  "journal-article",
+    "created":  {
+                    "date-parts":  [
+                                       [
+                                           2021,
+                                           8,
+                                           9
+                                       ]
+                                   ],
+                    "date-time":  "2021-08-09T11:31:43Z",
+                    "timestamp":  1628508703000
+                },
+    "page":  "1-34",
+    "source":  "Crossref",
+    "is-referenced-by-count":  1,
+    "title":  [
+                  "ʿAlī b. al-Madīnī (161–234/778–849): A Critical Reconstruction of His Biography and Evaluation of His Contribution to ḤadĪth Criticism"
+              ],
+    "prefix":  "10.1093",
+    "volume":  "33",
+    "author":  [
+                   {
+                       "given":  "I-Wen",
+                       "family":  "Su",
+                       "sequence":  "first",
+                       "affiliation":  [
+                                           {
+                                               "name":  "National Chengchi University"
+                                           }
+                                       ],
+                       "role":  [
+                                    {
+                                        "role":  "author",
+                                        "vocabulary":  "crossref"
+                                    }
+                                ]
+                   }
+               ],
+    "member":  "286",
+    "published-online":  {
+                             "date-parts":  [
+                                                [
+                                                    2021,
+                                                    10,
+                                                    31
+                                                ]
+                                            ]
+                         },
+    "container-title":  [
+                            "Journal of Islamic Studies"
+                        ],
+    "original-title":  [
+
+                       ],
+    "language":  "en",
+    "link":  [
+                 {
+                     "URL":  "https://academic.oup.com/jis/article-pdf/33/1/1/43935704/etab049.pdf",
+                     "content-type":  "application/pdf",
+                     "content-version":  "vor",
+                     "intended-application":  "syndication"
+                 },
+                 {
+                     "URL":  "https://academic.oup.com/jis/article-pdf/33/1/1/43935704/etab049.pdf",
+                     "content-type":  "unspecified",
+                     "content-version":  "vor",
+                     "intended-application":  "similarity-checking"
+                 }
+             ],
+    "deposited":  {
+                      "date-parts":  [
+                                         [
+                                             2022,
+                                             6,
+                                             3
+                                         ]
+                                     ],
+                      "date-time":  "2022-06-03T07:35:05Z",
+                      "timestamp":  1654241705000
+                  },
+    "score":  1,
+    "resource":  {
+                     "primary":  {
+                                     "URL":  "https://academic.oup.com/jis/article/33/1/1/6414873"
+                                 }
+                 },
+    "subtitle":  [
+
+                 ],
+    "short-title":  [
+
+                    ],
+    "issued":  {
+                   "date-parts":  [
+                                      [
+                                          2021,
+                                          10,
+                                          31
+                                      ]
+                                  ]
+               },
+    "references-count":  0,
+    "journal-issue":  {
+                          "issue":  "1",
+                          "published-online":  {
+                                                   "date-parts":  [
+                                                                      [
+                                                                          2021,
+                                                                          10,
+                                                                          31
+                                                                      ]
+                                                                  ]
+                                               },
+                          "published-print":  {
+                                                  "date-parts":  [
+                                                                     [
+                                                                         2021,
+                                                                         12,
+                                                                         21
+                                                                     ]
+                                                                 ]
+                                              }
+                      },
+    "URL":  "https://doi.org/10.1093/jis/etab049",
+    "relation":  {
+
+                 },
+    "ISSN":  [
+                 "0955-2340",
+                 "1471-6917"
+             ],
+    "issn-type":  [
+                      {
+                          "value":  "0955-2340",
+                          "type":  "print"
+                      },
+                      {
+                          "value":  "1471-6917",
+                          "type":  "electronic"
+                      }
+                  ],
+    "subject":  [
+
+                ],
+    "published-other":  {
+                            "date-parts":  [
+                                               [
+                                                   2022,
+                                                   1,
+                                                   1
+                                               ]
+                                           ]
+                        },
+    "published":  {
+                      "date-parts":  [
+                                         [
+                                             2021,
+                                             10,
+                                             31
+                                         ]
+                                     ]
+                  }
+}

@@ -1,0 +1,285 @@
+﻿{
+    "indexed":  {
+                    "date-parts":  [
+                                       [
+                                           2026,
+                                           1,
+                                           6
+                                       ]
+                                   ],
+                    "date-time":  "2026-01-06T02:05:34Z",
+                    "timestamp":  1767665134351,
+                    "version":  "3.40.5"
+                },
+    "reference-count":  30,
+    "publisher":  "Cumhuriyet University",
+    "issue":  "1",
+    "content-domain":  {
+                           "domain":  [
+
+                                      ],
+                           "crossmark-restriction":  false
+                       },
+    "short-container-title":  [
+
+                              ],
+    "accepted":  {
+                     "date-parts":  [
+                                        [
+                                            2024,
+                                            5,
+                                            9
+                                        ]
+                                    ]
+                 },
+    "abstract":  "\u003cjats:p xml:lang=\"tr\"\u003eBu çalışmanın amacı İbn Kesîr’in (öl. 774/1373) el-Bidâye ve’n-nihâye isimli tarih çalışmasının siyer bölümünde Sahîhayn hadislerini muhteva açısından tenkidinin araştırılması ve tahlilidir. Çalışmamızın konusu ise İbn Kesîr’in mezkûr eserinde yirmi Sahihayn hadisini Kur’ân-ı Kerîm (3 hadis), akıl (1 hadis), icmâ (1 hadis), sahih hadisler (7 hadis) ve sağlam târihî bilgilere (8 hadis) uygunluk/aykırılık kıstaslarını kullanarak tenkidi ve on dört hadiste izah getiremediği yanlışların birer hata olduğunu kaydetmesidir. İbn Kesîr’in incelenen hadislerin muhteva tenkidine müsait bir hâle gelmesine yol açan râvi tasarruflarına dair verdiği bilgiler ayrıca kıymetlidir. Bu çalışmanın kapsamını oluşturan hadislerden yedi tanesi hem Sahîh-i Buhârî hem Sahîh-i Müslim, altı tanesi sadece Sahîh-i Buhârî, yedi tanesi de sadece Sahîh-i Müslim’de yer almaktadır. Hem Sahîh-i Buhârî hem Sahîh-i Müslim’de yer alan hadisler Hayber’de müt‘a nikahının yasaklanışı, Rasulullah’ın (s.a.v.) umre ve hacca niyeti, Hz. Peygamber’in gümüş yüzüğü atması, kıblenin değişimi haberinin Kubâ’ya ertesi sabah ulaşması, namazda konuşma yasağının zamanı, ye’cûc ve me’cûc’un seddinin delinmesi ve Hz. Peygamber’in (s.a.v.) miras bırakmaması konulu hadislerdir. Sadece Sahîh-i Buhârî’de geçen hadisler isranın vahiy gelmesinden önce vukuu, Hamrâülesed seferine katılanların sayısı, Sa‘d b. Ebî Vakkas’ın İslam’a girişi, Hz. Ali’nin Hz. Ebû Bekir’e biatı, Recî‘ vak‘asıyla ilgili bazı bilgiler ve mirac hadisinde Beyt-i Makdis’e yolculuğun zikredilmemesi konulu hadislerdir. Son olarak, sadece Sahîh-i Müslim’de yer alan hadisler ise Huneyn savaşında müslümanların sayısı ve Taif kuşatmasının müddeti, yeryüzünün yedi günde yaratılışı, Amr b. Abese’nin İslam’a girişi, Bedir için Sa‘d b. Ubâde ile istişâre, sahâbînin sıcak kumlardan şikâyeti, Ümmü Habîbe ile evlilik ve kurban bayramında öğle namazının yeri konulu hadislerdir. Araştırmamızın yöntemi kaynak taraması ve sonuçların diğer şarihlerinkiyle mukayeseli tahlilidir. Araştırmamızın sonucunda eleştirilen hadislerin büyük bir kısmında İbn Kesîr’in değerlendirmelerinin İbn Hacer ve Nevevî gibi muhaddislerinkinden farklı olduğu görülmüştür. Çalışmamızın önemi İbn Kesîr’in tenkitlerinin muhaddislerin senedin sıhhatinin metnin sıhhatini temin etmeyeceğine dair tespitlerinin uygulamadaki somut delillerini oluşturmasıdır. Kısaca İbn Kesîr’in, eserine güçlü tenkit zihniyetini, özgün görüşlerini ve geniş ilmî birikimini başarıyla yansıttığı görülmektedir.\u003c/jats:p\u003e",
+    "DOI":  "10.18505/cuid.1430992",
+    "type":  "journal-article",
+    "created":  {
+                    "date-parts":  [
+                                       [
+                                           2024,
+                                           5,
+                                           23
+                                       ]
+                                   ],
+                    "date-time":  "2024-05-23T08:59:09Z",
+                    "timestamp":  1716454749000
+                },
+    "page":  "303-324",
+    "source":  "Crossref",
+    "is-referenced-by-count":  3,
+    "title":  [
+                  "İbn Kesîr’in el-Bidâye ve’n-nihâye’sinin Siyer Kısmında Bazı Sahîhayn Hadislerini Muhteva Tenkidinin Tahlili"
+              ],
+    "prefix":  "10.18505",
+    "volume":  "28",
+    "author":  [
+                   {
+                       "ORCID":  "https://orcid.org/0000-0002-5780-5067",
+                       "authenticated-orcid":  true,
+                       "given":  "Mehmet Ali",
+                       "family":  "Çalgan",
+                       "sequence":  "first",
+                       "affiliation":  [
+                                           {
+                                               "name":  "ADIYAMAN ÜNİVERSİTESİ"
+                                           }
+                                       ],
+                       "role":  [
+                                    {
+                                        "role":  "author",
+                                        "vocabulary":  "crossref"
+                                    }
+                                ]
+                   }
+               ],
+    "member":  "4129",
+    "published-online":  {
+                             "date-parts":  [
+                                                [
+                                                    2024,
+                                                    6,
+                                                    15
+                                                ]
+                                            ]
+                         },
+    "reference":  [
+                      {
+                          "key":  "ref1",
+                          "unstructured":  "Algül, Hüseyin. “Kubâ”. Türkiye Diyanet Vakfı İslâm Ansiklopedisi. Erişim 29 Ocak 2024. https://islamansiklopedisi.org.tr/kuba--medine"
+                      },
+                      {
+                          "key":  "ref2",
+                          "unstructured":  "Aynî, Bedrüddîn Mahmûd b. Ahmed b. Mûsâ b. Ahmed. ʿUmdetü’l-kârî fî şerhi Sahîhi’l-Buhârî. thk. Abdullah \r\nMuhammed Ömer. 25 Cilt. Beyrut: Dâru’l-Kütübi’l-İlmiyye, 1421/2001."
+                      },
+                      {
+                          "key":  "ref3",
+                          "unstructured":  "Başnefer, Sa‘îd b. Abdulkâdir b. Sâlim. Menhecü’l-İmâmi’l-Buhârî fî arzi’l-hadîsi’l-ma‘lûl fi’l-Câmi‘i’s-Sahîh. \r\nBeyrut: Dâru İbn Hazm, 1437/2016."
+                      },
+                      {
+                          "key":  "ref4",
+                          "unstructured":  "Buhârî, Ebû Abdillâh Muhammed b. İsmâʿîl. el-Câmiʿu’s-sahîh. thk. Muhammed Züheyr b. Nâsır. 8 Cilt. b.y.: \r\nDârü Tavki’n-Necât, 1422."
+                      },
+                      {
+                          "key":  "ref5",
+                          "unstructured":  "Hâkim, Muhammed b. Abdillâh en-Nîsâbûrî. el-Müstedrek ʿale’s-Sahîhayn. thk. Mustafa Abdülkadir Ata. 4 Cilt. \r\nBeyrut: Dârü’l-Kütübi’l-İlmiyye, 1990/1411."
+                      },
+                      {
+                          "key":  "ref6",
+                          "unstructured":  "Hufeyzî, Hakîme – Umâre, Sihâm. “Cuhûdu’l-hâfız İbn Kesîr fi nakd merviyyâti’s-sîreti’n-nebeviyye”. Mecelletu \r\nVahdeti’l-Umme, 7/14 (2020), 14-51."
+                      },
+                      {
+                          "key":  "ref7",
+                          "unstructured":  "İbn Hacer el-ʿAskalânî, Ahmed b. ʿAli. Fethu’l-bârî bi şerhi Sahîhi’l-Buhârî. thk. Abdulaziz b. Abdullah b. Bâz. 13 \r\nCilt. Beyrut: Dâru’l-Mâʿrife, 1379."
+                      },
+                      {
+                          "key":  "ref8",
+                          "unstructured":  "İbn Hacer el-ʿAskalânî, Ahmed b. ʿAli. Fethu’l-bârî bi şerhi Sahîhi’l-Buhârî. thk. Nazar Muhammed el-Faryâbî. 17 \r\nCilt. Riyâd: Dâru Taybe, 2005."
+                      },
+                      {
+                          "key":  "ref9",
+                          "unstructured":  "İbn Hişâm, Ebû Muhammed Cemâleddin. es-Sîretü\u0027n-nebeviyye. thk. Mustafa es-Sekka vd. 2 Cilt. Kâhire: \r\nMustafa el-Bâbî el-Halebî, 1375/1955."
+                      },
+                      {
+                          "key":  "ref10",
+                          "unstructured":  "İbnü’l-Esîr, İzzüddîn Alî b. Muhammed b. Muhammed eş-Şeybânî. Üsdü’l-gâbe. thk. Adil Ahmed Abdulmevcûd. \r\n8 Cilt. Beyrût: Dâru’l-Kütübi’l-İlmiyye, 1415/1994."
+                      },
+                      {
+                          "key":  "ref11",
+                          "unstructured":  "İbn Kesîr, Ebu’l-Fidâ İmâduddîn İsmâil ed-Dımaşkî. el-Bidâye ve’n-nihâye. thk. Mecmûa mine’l-muhakkikîn. 20 \r\nCilt. Beyrût: Dâru İbn Kesîr, 2015."
+                      },
+                      {
+                          "key":  "ref12",
+                          "unstructured":  "İbn Sa‘d, Muhammed b. Menî‘el-Basrî.  et-Tabakâtü’l-kübrâ. thk. Süheyl Keyyâlî. Beyrut: Dâru’l-Fikr, 2012."
+                      },
+                      {
+                          "key":  "ref13",
+                          "unstructured":  "Müslim, Ebü’l-Hüseyn b. el-Haccâc. el-Câmi‘u\u0027s-sahîh. thk. Muhammed Fuâd Abdülbâkî. 5 Cilt. Beyrût: Dârü \r\nİhyâi’t-Türâsi’l- ʿArabî, ts."
+                      },
+                      {
+                          "key":  "ref14",
+                          "unstructured":  "Nevevî, Ebu Zekeriyya Yahya b. Şeref. el-Minhâc şerhu Sahîhi Muslim b. el-Haccâc. 20 Cilt. b.y.: Müessese \r\nKurtuba, 1414/1994."
+                      },
+                      {
+                          "key":  "ref15",
+                          "unstructured":  "Osmânî, Ahmed Şebbîr . Fethü’l-mülhim bi şerhi Sahîhi’l-İmâm Müslim. Dimeşk: Dâru’l-Kalem, 2006."
+                      },
+                      {
+                          "key":  "ref16",
+                          "unstructured":  "Osmânî, Muhammed Takî. Tekmiletü Fethi’l-mülhim bi şerhi Sahîhi’l-İmâm Müslim. 6 Cilt. Dimeşk: Dâru’l-\r\nKalem, 2006."
+                      },
+                      {
+                          "key":  "ref17",
+                          "unstructured":  "Özaydın, Abdulkerim. “İbn Kesîr”. Türkiye Diyanet Vakfı İslâm Ansiklopedisi. Erişim 31 Ocak 2024. \r\nhttps://islamansiklopedisi.org.tr/ibn-Kesîr-ebul-fida"
+                      },
+                      {
+                          "key":  "ref18",
+                          "unstructured":  "Paksoy, Kadir. İbn Kesîr’in Hayatı, Eserleri ve Hadis İlmindeki Yeri. Şanlıurfa: Harran Üniversitesi, Sosyal Bilimler \r\nEnstitüsü, Doktora Tezi, 1999."
+                      },
+                      {
+                          "key":  "ref19",
+                          "unstructured":  "Sifil, Ebubekir. “Bir İdracla Tarih Tahrif Olur mu?”. Hadis ve Siyer Araştırmaları 8/2 (2022), 171-221."
+                      },
+                      {
+                          "key":  "ref20",
+                          "unstructured":  "Sifil, Ebubekir. “Rivâyetler Işığında Hz. Ali’nin Hz. Ebû Bekr’e Bey’atı”. Hadis Tetkikleri Dergisi 20/2 (2022), 219-243."
+                      },
+                      {
+                          "key":  "ref21",
+                          "unstructured":  "Sofuoğlu, Mehmet. Sahîh-i Buhârî ve Tercemesi. 16 Cilt. İstanbul: Ötüken Yayınları, 2013."
+                      },
+                      {
+                          "key":  "ref22",
+                          "unstructured":  "Subkî, Hattâb. el-Menhelü’l-azbü’l-mevrûd şerhu süneni’l-imâm Ebî Dâvûd. Kâhire: Matbaatu’l-İstikâme, 1351."
+                      },
+                      {
+                          "key":  "ref23",
+                          "unstructured":  "Süheylî, Abdurrahman b. Abdullah. er-Ravzü’l-ünüf. thk. Ömer Abdusselam Selâmi. 7 Cilt. Beyrût: Dâru İhyâi’t-\r\nTurâsi’l- ʿArabî, 1421/2000."
+                      },
+                      {
+                          "key":  "ref24",
+                          "unstructured":  "Süneydî, Abdurrahman b. Ali. “Murâcaât İbn Kesîr ve nakduhû lî-mutûn merviyyâti’s-sîreti’n-nebeviyye”. \r\nMecelle Âlemi’l-Kutub, 5/24 (2003), 383-405."
+                      },
+                      {
+                          "key":  "ref25",
+                          "unstructured":  "Süneydî, Abdurrahman b. Ali. Menheciyyetu’t-te’lif fi’s-sîre inde İbn Kesîr (el-mektebetu’ş-şâmile nüshası). \r\nMedine: Mucemmaʿu’l-Melik Fahd li-Tıbâʿati’l-Mushafi’ş-Şerîf, 1431."
+                      },
+                      {
+                          "key":  "ref26",
+                          "unstructured":  "Şâmî, Ebû Abdillâh Şemsüddîn Muhammed b. Yûsuf es-Sâlihî. Sübülü’l-hüdâ ve’r-reşâd. thk. Âdil Ahmed \r\nAbdulmevcûd. 12 Cilt. Beyrût: Dâru’l-Kütübi’l-İlmiyye, 1414/1993."
+                      },
+                      {
+                          "key":  "ref27",
+                          "unstructured":  "Şehrî, Gırmân b. Abdullah. Menhec İbn Kesîr en-nakdî li-merviyyâti’s-sîreti’n-nebeviyye fi’l-Bidâye ve’n-\r\nnihâye. Kasîm: Kasîm Üniversitesi, Doktora Tezi, 2017."
+                      },
+                      {
+                          "key":  "ref28",
+                          "unstructured":  "Taberî, Muhammed b. Cerîr. Târîhu’l-ümem ve’l-mülûk. thk. Abdulemîr Ali Mehnâ. Beyrut: Şeriketü’l-‘Alemî li’l-\r\nMatbûat, 2012."
+                      },
+                      {
+                          "key":  "ref29",
+                          "unstructured":  "Vâkıdî, Muhammed b. Ömer. Kitâbü’l-Megâzî. thk. Marsden Jones. Beyrut: Âlemu’l-Kütüb, 2006."
+                      },
+                      {
+                          "key":  "ref30",
+                          "unstructured":  "Umerî, Eymen Mahmud Selîm. el-Menhecu’n-nakdî’l-hadîsî inde İbn Kesîr fî kitabihî el-Bidâye ve’n-nihâye. \r\nAmmân: Ürdün Üniversitesi, Yüksek Lisans Tezi, 1998."
+                      }
+                  ],
+    "container-title":  [
+                            "Cumhuriyet İlahiyat Dergisi"
+                        ],
+    "original-title":  [
+
+                       ],
+    "deposited":  {
+                      "date-parts":  [
+                                         [
+                                             2024,
+                                             6,
+                                             20
+                                         ]
+                                     ],
+                      "date-time":  "2024-06-20T21:51:53Z",
+                      "timestamp":  1718920313000
+                  },
+    "score":  1,
+    "resource":  {
+                     "primary":  {
+                                     "URL":  "http://dergipark.org.tr/tr/doi/10.18505/cuid.1430992"
+                                 }
+                 },
+    "subtitle":  [
+
+                 ],
+    "short-title":  [
+
+                    ],
+    "issued":  {
+                   "date-parts":  [
+                                      [
+                                          2024,
+                                          6,
+                                          15
+                                      ]
+                                  ]
+               },
+    "references-count":  30,
+    "journal-issue":  {
+                          "issue":  "1",
+                          "published-online":  {
+                                                   "date-parts":  [
+                                                                      [
+                                                                          2024,
+                                                                          6,
+                                                                          15
+                                                                      ]
+                                                                  ]
+                                               }
+                      },
+    "URL":  "https://doi.org/10.18505/cuid.1430992",
+    "relation":  {
+
+                 },
+    "ISSN":  [
+                 "2528-9861"
+             ],
+    "issn-type":  [
+                      {
+                          "type":  "print",
+                          "value":  "2528-9861"
+                      }
+                  ],
+    "subject":  [
+
+                ],
+    "published":  {
+                      "date-parts":  [
+                                         [
+                                             2024,
+                                             6,
+                                             15
+                                         ]
+                                     ]
+                  }
+}

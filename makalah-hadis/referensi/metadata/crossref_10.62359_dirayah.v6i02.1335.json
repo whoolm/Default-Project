@@ -1,0 +1,225 @@
+﻿{
+    "indexed":  {
+                    "date-parts":  [
+                                       [
+                                           2026,
+                                           7,
+                                           20
+                                       ]
+                                   ],
+                    "date-time":  "2026-07-20T09:09:53Z",
+                    "timestamp":  1784538593171,
+                    "version":  "3.55.0"
+                },
+    "reference-count":  0,
+    "publisher":  "Sekolah Tinggi Ilmu Al-Qur\u0027an Ar-Rahman",
+    "issue":  "02",
+    "license":  [
+                    {
+                        "start":  {
+                                      "date-parts":  [
+                                                         "2026 6 25"
+                                                     ],
+                                      "date-time":  "2026-06-25T00:00:00Z",
+                                      "timestamp":  1782345600000
+                                  },
+                        "content-version":  "unspecified",
+                        "delay-in-days":  0,
+                        "URL":  "https://creativecommons.org/licenses/by-sa/4.0"
+                    }
+                ],
+    "content-domain":  {
+                           "domain":  [
+
+                                      ],
+                           "crossmark-restriction":  false
+                       },
+    "short-container-title":  [
+                                  "Dir."
+                              ],
+    "abstract":  "\u003cjats:p\u003eThis research aims to study the digitalization of hadith verification, the consequences it has on the validity of hadith, and the challenges that arise for hadith authentication in the social media era. This research uses qualitative content analysis techniques to identify and analyze 120 hadith texts disseminated on instagram, twitter/x, and Whatsapp in Indonesia from 2022 to 2024. These texts were then verified using the digital takhrij tools maktabah syamilah and gawāmi\u0027 al-kalīm. The research examines the content of viral hadith uploads and the accuracy level of digital takhrij tools in identifying the sources of hadith. The results show that 68.3% of viral hadith posts do not contain adequate sanad information, and 24.2% contain text distortions that can affect the validity of the hadith. Additionally, digital takhrij tools are very accurate in identifying sources, but barriers to accessibility for social media users hinder their full utilization. The rapid development of digital hadith applications has transformed traditional islamic scholarly methods, posing new challenges that require serious methodological consideration. Therefore, to preserve the tradition of islamic texts in the computer era, the integration of digital literacy with classical hadith science is very important.\u003c/jats:p\u003e",
+    "DOI":  "10.62359/dirayah.v6i02.1335",
+    "type":  "journal-article",
+    "created":  {
+                    "date-parts":  [
+                                       [
+                                           2026,
+                                           7,
+                                           20
+                                       ]
+                                   ],
+                    "date-time":  "2026-07-20T08:59:02Z",
+                    "timestamp":  1784537942000
+                },
+    "page":  "381-390",
+    "source":  "Crossref",
+    "is-referenced-by-count":  0,
+    "title":  [
+                  "VIRALITAS DAN VALIDITAS: DIGITALISASI TAKHRIJ HADIS   DI ERA MEDIA SOSIAL"
+              ],
+    "prefix":  "10.62359",
+    "volume":  "6",
+    "author":  [
+                   {
+                       "given":  "Zaenab",
+                       "family":  "Abdullah",
+                       "sequence":  "first",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Nurul",
+                       "family":  "Shafira",
+                       "sequence":  "additional",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Ibrahim",
+                       "family":  "Ibrahim",
+                       "sequence":  "additional",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   },
+                   {
+                       "given":  "Rosdiana",
+                       "family":  "Rosdiana",
+                       "sequence":  "additional",
+                       "affiliation":  [
+
+                                       ],
+                       "role":  [
+                                    {
+                                        "vocabulary":  "crossref",
+                                        "role":  "author"
+                                    }
+                                ]
+                   }
+               ],
+    "member":  "48864",
+    "published-online":  {
+                             "date-parts":  [
+                                                [
+                                                    2026,
+                                                    6,
+                                                    25
+                                                ]
+                                            ]
+                         },
+    "container-title":  [
+                            "DIRAYAH : Jurnal Ilmu Hadis"
+                        ],
+    "original-title":  [
+
+                       ],
+    "link":  [
+                 {
+                     "URL":  "https://e-jurnal.stiqarrahman.ac.id/index.php/dirayah/article/download/1335/200",
+                     "content-type":  "application/pdf",
+                     "content-version":  "vor",
+                     "intended-application":  "text-mining"
+                 },
+                 {
+                     "URL":  "https://e-jurnal.stiqarrahman.ac.id/index.php/dirayah/article/download/1335/200",
+                     "content-type":  "unspecified",
+                     "content-version":  "vor",
+                     "intended-application":  "similarity-checking"
+                 }
+             ],
+    "deposited":  {
+                      "date-parts":  [
+                                         [
+                                             2026,
+                                             7,
+                                             20
+                                         ]
+                                     ],
+                      "date-time":  "2026-07-20T08:59:05Z",
+                      "timestamp":  1784537945000
+                  },
+    "score":  1,
+    "resource":  {
+                     "primary":  {
+                                     "URL":  "https://e-jurnal.stiqarrahman.ac.id/index.php/dirayah/article/view/1335"
+                                 }
+                 },
+    "subtitle":  [
+
+                 ],
+    "short-title":  [
+
+                    ],
+    "issued":  {
+                   "date-parts":  [
+                                      [
+                                          2026,
+                                          6,
+                                          25
+                                      ]
+                                  ]
+               },
+    "references-count":  0,
+    "journal-issue":  {
+                          "issue":  "02",
+                          "published-online":  {
+                                                   "date-parts":  [
+                                                                      [
+                                                                          2026,
+                                                                          6,
+                                                                          8
+                                                                      ]
+                                                                  ]
+                                               }
+                      },
+    "URL":  "https://doi.org/10.62359/dirayah.v6i02.1335",
+    "relation":  {
+
+                 },
+    "ISSN":  [
+                 "2746-119X",
+                 "2746-1203"
+             ],
+    "issn-type":  [
+                      {
+                          "value":  "2746-119X",
+                          "type":  "electronic"
+                      },
+                      {
+                          "value":  "2746-1203",
+                          "type":  "print"
+                      }
+                  ],
+    "subject":  [
+
+                ],
+    "published":  {
+                      "date-parts":  [
+                                         [
+                                             2026,
+                                             6,
+                                             25
+                                         ]
+                                     ]
+                  }
+}
