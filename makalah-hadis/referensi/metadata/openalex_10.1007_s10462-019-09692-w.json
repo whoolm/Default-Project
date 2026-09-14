@@ -460,8 +460,8 @@
     "best_oa_location":  null,
     "sustainable_development_goals":  [
                                           {
-                                              "score":  0.8100000023841858,
                                               "id":  "https://metadata.un.org/sdg/4",
+                                              "score":  0.8100000023841858,
                                               "display_name":  "Quality Education"
                                           }
                                       ],
