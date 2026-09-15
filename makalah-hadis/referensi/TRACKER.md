@@ -2,6 +2,48 @@
 
 > Dibangkitkan otomatis 2026-09-13 dari `referensi/raw/*.txt` (392 entri unik). Status awal = ⚠️ Belum verif, kecuali yang sudah dicek di `VERIFIKASI_DOI.md`.
 
+## Status PDF — 35 DOI (update 2026-09-15)
+
+> Ringkasan: **32/35 punya PDF** (18 auto di `pdf/` + 14 manual di `pdf_manual/`), **3 ⏳ pending**, **1 ⚠️ partial**. Detail 4 file: `metadata/PENDING_DOWNLOAD.md`.
+
+| # | DOI | Status PDF | File |
+|---|---|---|---|
+| 1 | 10.1007/978-3-031-04447-2_14 | ✅ Ada | pdf/10.1007_978-3-031-04447-2_14.pdf |
+| 2 | 10.1007/s10462-019-09692-w | ✅ Ada | pdf_manual/10.1007_s10462-019-09692-w.pdf |
+| 3 | 10.1016/j.websem.2023.100797 | ⏳ Belum | pdf_manual/10.1016_j.websem.2023.100797.pdf |
+| 4 | 10.1080/23311983.2025.2598289 | ✅ Ada | pdf_manual/10.1080_23311983.2025.2598289.pdf |
+| 5 | 10.1093/jis/etab049 | ✅ Ada | pdf_manual/10.1093_jis_etab049.pdf |
+| 6 | 10.1093/jis/etae049 | ✅ Ada | pdf_manual/10.1093_jis_etae049.pdf |
+| 7 | 10.1093/jis/etae068 | ⚠️ Partial (1 hal, 42 KB) | pdf_manual/10.1093_jis_etae068.pdf |
+| 8 | 10.1093/jis/etaf047 | ✅ Ada | pdf_manual/10.1093_jis_etaf047.pdf |
+| 9 | 10.1093/llc/fqaf088 | ✅ Ada | pdf_manual/10.1093_llc_fqaf088.pdf |
+| 10 | 10.1093/llc/fqab092 | ✅ Ada | pdf_manual/10.1093_llc_fqab092.pdf |
+| 11 | 10.1109/aict50176.2020.9368569 | ✅ Ada | pdf_manual/10.1109_aict50176.2020.9368569.pdf |
+| 12 | 10.1109/BESC51023.2020.9348299 | ✅ Ada | pdf/10.1109_BESC51023.2020.9348299.pdf |
+| 13 | 10.1163/19585705-12341481 | ✅ Ada | pdf_manual/10.1163_19585705-12341481.pdf |
+| 14 | 10.1163/22321969-20230135 | ✅ Ada | pdf_manual/10.1163_22321969-20230135.pdf |
+| 15 | 10.14395/hid.1417152 | ✅ Ada | pdf/10.14395_hid.1417152.pdf |
+| 16 | 10.14421/ajis.2023.611.1-17 | ✅ Ada | pdf_manual/10.14421_ajis.2023.611.1-17.pdf |
+| 17 | 10.14421/qh.v26i2.6267 | ✅ Ada | pdf/10.14421_qh.v26i2.6267.pdf |
+| 18 | 10.14421/qh.v27i1.7472 | ✅ Ada | pdf/10.14421_qh.v27i1.7472.pdf |
+| 19 | 10.18505/cuid.1430992 | ✅ Ada | pdf/10.18505_cuid.1430992.pdf |
+| 20 | 10.21315/apjee2024.39.2.10 | ⏳ Belum | pdf_manual/10.21315_apjee2024.39.2.10.pdf |
+| 21 | 10.26803/ijlter.19.5.6 | ✅ Ada | pdf/10.26803_ijlter.19.5.6.pdf |
+| 22 | 10.32350/jitc.161.01 | ✅ Ada | pdf_manual/10.32350_jitc.161.01.pdf |
+| 23 | 10.33102/jfatwa.vol29no3.597 | ✅ Ada | pdf/10.33102_jfatwa.vol29no3.597.pdf |
+| 24 | 10.3390/electronics14173484 | ✅ Ada | pdf/10.3390_electronics14173484.pdf |
+| 25 | 10.35516/jjha.v17i3.434 | ✅ Ada | pdf/10.35516_jjha.v17i3.434.pdf |
+| 26 | 10.56594/althiqah.v7i2.263 | ⏳ Belum | pdf_manual/10.56594_althiqah.v7i2.263.pdf |
+| 27 | 10.56979/1002/2026/1315 | ✅ Ada | pdf/10.56979_1002_2026_1315.pdf |
+| 28 | 10.58578/ajisd.v4i3.10228 | ✅ Ada | pdf/10.58578_ajisd.v4i3.10228.pdf |
+| 29 | 10.5901/mjss.2015.v6n2s1p284 | ✅ Ada | pdf_manual/10.5901_mjss.2015.v6n2s1p284.pdf |
+| 30 | 10.62359/dirayah.v6i02.1335 | ✅ Ada | pdf/10.62359_dirayah.v6i02.1335.pdf |
+| 31 | 10.62754/joe.v3i8.4927 | ✅ Ada | pdf/10.62754_joe.v3i8.4927.pdf |
+| 32 | 10.62754/joe.v4i1.4084 | ✅ Ada | pdf/10.62754_joe.v4i1.4084.pdf |
+| 33 | 10.63424/amsal.v1i3.126 | ✅ Ada | pdf/10.63424_amsal.v1i3.126.pdf |
+| 34 | 10.71039/istifham.v3i3.123 | ✅ Ada | pdf/10.71039_istifham.v3i3.123.pdf |
+| 35 | 10.7187/GJATSI122025-2 | ✅ Ada | pdf/10.7187_GJATSI122025-2.pdf |
+
 | # | ID | Penulis | Tahun | Judul | DOI/URL | Sub-tema | Tool Asal | Status |
 |---|---|---|---|---|---|---|---|---|
 | 1 | M001 | TIDAK_TERSEDIA | TIDAK_TERSEDIA | Integration And Interconnection Of Islamic Knowledge | https://e-journal.citakonsultindo.or.id/index.php/IJEVSS/article/download/3722/310 | 1-Periodisasi | Gemini | ⚠️ Belum verif |
@@ -310,7 +352,7 @@
 | 304 | M304 | Karimov, N., Khasanova, S., Djurayeva, Y., (...), Davidova,  | 2025 | The Impact of Islamic Libraries on the Compilation and Dissemination of Hadith | https://doi.org/10.51983/ijiss-2025.1JISS.15.1.23 | 1-Periodisasi | LeapSpace | ⚠️ Belum verif |
 | 305 | M305 | Liew, H.H | 2025 | ‘THE CALIPHATE WILL LAST FOR THIRTY YEARS’: POLEMIC AND POLITICAL THOUGHT IN THE AFTERLIFE OF A PROPHETIC HADI | https://doi.org/10.1093/jis/etae049 | 1-Periodisasi, 2-Penghimpunan, 3-Pemalsuan | LeapSpace | ⚠️ Belum verif |
 | 306 | M306 | Matin Bin Salman, A.M.B | 2025 | Reconstructing Hadith Discourse in the Digital Age: From Text to Discourse | https://doi.org/10.62754/joe.v4i1.4084 | 1-Periodisasi, 4-Digital | LeapSpace | ⚠️ Belum verif |
-| 307 | M307 | Mosa, Mohamed Atef | 2025 | Synergizing structure and semantics: a knowledge graph-transformer framework for narrator disambiguation in ha | https://doi.org/10.1093/llc/fgaf088 | 1-Periodisasi, 2-Penghimpunan, 4-Digital | LeapSpace | ⚠️ Belum verif |
+| 307 | M307 | Mosa, Mohamed Atef | 2025 | Synergizing structure and semantics: a knowledge graph-transformer framework for narrator disambiguation in ha | https://doi.org/10.1093/llc/fqaf088 | 1-Periodisasi, 2-Penghimpunan, 4-Digital | LeapSpace | ⚠️ Belum verif |
 | 308 | M308 | R, R. N., & Ali, M | 2025 | METODE KRITIK SANAD DAN MATAN HADIS | https://doi.org/10.63398/pj6gjx91 | 3-Pemalsuan | Consensus | ⚠️ Belum verif |
 | 309 | M309 | Rachmah, N., Setyaningsih, C., Imawan, D. H., Hadis, K., Isl | 2025 | Kodifikasi Hadis Sebagai Fondasi Hukum Islam Pada Era Umar Bin Abdul Aziz Daulah Umayyah di Damaskus 717-720 M | https://doi.org/10.38073/batuthah.v4i2.3331 | 1-Periodisasi, 2-Penghimpunan | Consensus | ⚠️ Belum verif |
 | 310 | M310 | Rahman, D | 2025 | The Importance of Al-Isnad in Hadith: An Overview | https://doi.org/10.64487/fjaru.v39a10 | 3-Pemalsuan | Consensus | ⚠️ Belum verif |

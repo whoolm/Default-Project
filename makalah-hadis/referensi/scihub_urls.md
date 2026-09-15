@@ -14,7 +14,7 @@
 | 5 | 10.1093/jis/etae049 | [https://sci-hub.st/10.1093/jis/etae049](https://sci-hub.st/10.1093/jis/etae049) | Belum |
 | 6 | 10.1093/jis/etae068 | [https://sci-hub.ru/10.1093/jis/etae068](https://sci-hub.ru/10.1093/jis/etae068) | Belum |
 | 7 | 10.1093/jis/etaf047 | [https://sci-hub.se/10.1093/jis/etaf047](https://sci-hub.se/10.1093/jis/etaf047) | Belum |
-| 8 | 10.1093/llc/fgaf088 | [https://sci-hub.st/10.1093/llc/fgaf088](https://sci-hub.st/10.1093/llc/fgaf088) | Belum |
+| 8 | 10.1093/llc/fqaf088 | [https://sci-hub.st/10.1093/llc/fqaf088](https://sci-hub.st/10.1093/llc/fqaf088) | ✅ Sudah ada (title-match 2026-09-15) |
 | 9 | 10.1093/llc/fqab092 | [https://sci-hub.ru/10.1093/llc/fqab092](https://sci-hub.ru/10.1093/llc/fqab092) | Belum |
 | 10 | 10.1109/aict50176.2020.9368569 | [https://sci-hub.se/10.1109/aict50176.2020.9368569](https://sci-hub.se/10.1109/aict50176.2020.9368569) | Belum |
 | 11 | 10.1163/19585705-12341481 | [https://sci-hub.st/10.1163/19585705-12341481](https://sci-hub.st/10.1163/19585705-12341481) | Belum |
